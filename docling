@@ -1,0 +1,3 @@
+#!/bin/sh
+
+uvx docling --image-export-mode=placeholder "$1"
