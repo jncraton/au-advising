@@ -23,7 +23,7 @@ def main():
         if not has_md(pdf):
             print("Generating markdown for", pdf)
             try:
-                subprocess.run([docling_path, pdf], check=True)
+                subprocess.run([docling_path, os.path.basename(pdf)], check=True, cwd=os.path.dirname(pdf))
             except subprocess.CalledProcessError as e:
                 print(f"docling failed for {pdf}: {e}", file=sys.stderr)
             except FileNotFoundError:
