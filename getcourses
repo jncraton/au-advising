@@ -29,10 +29,14 @@ def scrape_table_to_markdown(url, drop_cols):
 
 if __name__ == "__main__":
     drop_cols = ['class nbr', 'sectn req', 'topic', 'instr', 'grd', 'department']
+    term_names = ["", "fall", "", "spring", "summer"]
     for term in ["2261", "2263"]:
         target_url = (
             f"https://basilisk.anderson.edu:4500/under_graduates.aspx?ListBox3={term}"
         )
 
-        with open(f"terms/{term}.md", "w") as f:
+        year = int(term[1:3])
+        filename = f"20{year}-{year+1}-{term_names[int(term[-1])]}"
+
+        with open(f"references/terms/{filename}.md", "w") as f:
             f.write(scrape_table_to_markdown(target_url, drop_cols))
