@@ -25,7 +25,7 @@ def count_tokens(text, tokenizer):
         print(f"Warning: Could not count tokens: {e}")
         return 0
 
-remove = [
+drop_sections = [
   'table of contents',
   'Letter from the President',
   'HISTORICAL PERSPECTIVE',
@@ -48,7 +48,7 @@ for file in sys.argv[1:]:
   initial_size = len(text)
   initial_tokens = count_tokens(text, tokenizer)
 
-  for heading in remove:
+  for heading in drop_sections:
     text = re.sub(r"(#{1,6})\s*(" + heading + r")\s*\n(.*?)(?=(?:\n^#{1,6}\s)|\Z)", "", text, flags=re.I|re.M|re.DOTALL)
 
   text = re.sub(r"## UNIVERSITY TRUSTEES.*", "", text, flags=re.I|re.DOTALL)
