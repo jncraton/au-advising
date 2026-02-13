@@ -1,4 +1,12 @@
 #!/bin/sh
 
-uvx --with easyocr docling -vv --ocr-lang eng,en,english --image-export-mode=placeholder "$1"
+# https://docling-project.github.io/docling/reference/cli/
+
+uvx docling \
+    -vv \
+    --no-ocr \
+    --no-force-ocr \
+    --pdf-backend=pypdfium2 \
+    --image-export-mode=placeholder \
+    "$1"
 
