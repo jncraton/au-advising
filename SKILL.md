@@ -57,7 +57,7 @@ Catalogs are saved as `references/{yyyy-yy}/catalog-undergraduate.md` within a y
 
 Use `references/{yyyy-yy}/schedule-fall.tsv` or `references/{yyyy-yy}/schedule-spring.tsv` for the appropriate year to view a live list of courses with current enrollment information.
 
-Most other files are advising sheets for particular majors in a catalog year. Always reference the appropriate advising sheet for a student's major(s). Advising sheets are provided for some double majors. Reference these in place of the individual majors as appropriate.
+Most other files are advising sheets for particular majors in a catalog year. Always reference the appropriate advising sheet for a student's major(s). Advising sheets are provided for some double majors. Reference these in addition to the individual majors as appropriate.
 
 You have access to the following reference files in the skill directory (`find . -type f \( -name '*.tsv' -o -name '*.md' \) -printf '%P\n'`):
 
