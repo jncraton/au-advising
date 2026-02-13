@@ -62,10 +62,10 @@ def normalize_filename(filename: str) -> str:
     if p.suffix.lower() != ".md":
         return filename
     stem = p.stem
-    stem = re.sub(r"[\s\_\.\,\&\(\)]+", "-", stem)
+    stem = re.sub(r"[\s\_\.\,\&\(\)\+]+", "-", stem)
     stem = strip_extra_extensions(stem)
     stem = strip_version_noise(stem)
-    stem = re.sub(r"[\s\_\.\,\-]+", "-", stem)
+    stem = re.sub(r"[\s\_\.\,\-\+]+", "-", stem)
     stem = re.sub(r"\-$", "", stem)
     stem = stem.lower()
     if not stem:
