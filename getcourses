@@ -36,7 +36,7 @@ if __name__ == "__main__":
         )
 
         year = int(term[1:3])
-        filename = f"20{year}-{year+1}-{term_names[int(term[-1])]}"
+        filename = f"references/20{year}-{year+1}/schedule-{term_names[int(term[-1])]}.md"
 
-        with open(f"references/term-schedules/{filename}.md", "w") as f:
+        with open(filename, "w") as f:
             f.write(scrape_table_to_markdown(target_url, drop_cols))
