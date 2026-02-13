@@ -28,7 +28,7 @@ def scrape_table_to_markdown(url, drop_cols):
 
 
 if __name__ == "__main__":
-    drop_cols = ['class nbr', 'sectn req', 'topic', 'instr']
+    drop_cols = ['class nbr', 'sectn req', 'topic', 'instr', 'grd', 'department']
     for term in ["2261", "2263"]:
         target_url = (
             f"https://basilisk.anderson.edu:4500/under_graduates.aspx?ListBox3={term}"
