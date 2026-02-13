@@ -363,8 +363,6 @@ The following charges are the basic budget costs per semester for the 2025-26 ac
 |Fees|650|
 |Total|$26,110|
 
-
-
 Anderson University Undergraduate Catalog 2025-26 
 
 15 
@@ -395,7 +393,7 @@ Federal regulations mandate that colleges and universities establish standards o
 
 Students on a Warning status must increase their cumulative GPA to meet SAP eligibility requirements by the end of the following semester. If SAP eligibility requirements are not met at the end of the following semester, the student will be denied their eligibility for financial aid. (See Financial Aid Appeals below).  Withdrawn classes and transfer credits are not used in the determination of the student’s grade point average. Repeated classes will be used in the determination of the grade point average. Any Incomplete (I) that is changed to another grade will be reviewed at the next semester review. 
 
-## Hours Earned Minimum Cumulative GPA: 
+## Hours Earned Minimum Cumulative GPA 
 
 - 1-29 completed credit hours = 1.60 minimum GPA 30-59 hours completed credit hours = 1.80 minimum GPA 
 
@@ -591,8 +589,6 @@ To remain in good academic standing, students must maintain the following standa
 |30-59|1.8|
 |60 or more|2.0|
 
-
-
 ## ADVANCED PLACEMENT 
 
 Advanced placement and/or credit may be earned through placement examination for a maximum of 30 credits. The four examinations Anderson University recognizes, subject to approval by the academic departments, are: 
@@ -713,7 +709,7 @@ Anderson University Undergraduate Catalog 2025-26
 
 - Online (Asynchronous): Courses where “instructors and students do not meet in the same space”. Regardless of mode of instruction, courses should be consistent in terms of quality, assessment, learning outcomes, requirements, etc. as courses offered face-to-face with the same department prefix, number, and course title. Faculty must demonstrate active academic engagement through interactive methods, including but not limited to, interactive tutorials, group discussions, virtual study/project groups, discussion boards, chat rooms, etc. Simply logging on, either by faculty or students, does not constitute active student learning. Credit hours assigned to a course delivered online must equal the number of credit hours for the same course delivered face-to-face. 
 
-_Revised Expanded Policy: March 18, 2019_ 
+_Revised Expanded Policy: March 18,2019_ 
 
 ## DEAN’S LIST 
 
@@ -721,7 +717,7 @@ Full-time students (enrolled in 12 or more _graded_ hours) who earn a semester G
 
 ## GRADING 
 
-## Grades, Hours, and Credit Points: 
+## Grades, Hours, and Credit Points 
 
 An “hour” is coursework equivalent to one class hour per week for a semester. A “credit point” is a measure of the quality of work performed. Credit points are figured only on work completed at Anderson University. 
 
@@ -750,8 +746,6 @@ Anderson University Undergraduate Catalog 2025-26
 |CR|Work completed at a satisfactory level|
 |NC|Work completed at an unsatisfactory level|
 
-
-
 Students may withdraw from courses during the first five weeks without having a notation on their transcripts; they may withdraw with a recorded W after the fifth week but no later than the end of the 10th week. Students may change their registration to or from S/U during the first five weeks of the semester. No withdrawals or changes in registration are permitted after the 10th week. 
 
 |Creditpoints per hour:|A|=|4.0|
@@ -766,13 +760,11 @@ Students may withdraw from courses during the first five weeks without having a 
 |D+||=|1.33|
 |D||=|1.0|
 
-
-
 No credit points are given for courses bearing grades of CR, NC, S, U, F, I, W, WF, or AW. The credit point index is the ratio of the number of credit points earned to the number of hours attempted (excluding CR, NC, S, U, and W). No credit points are issued for transfer courses. 
 
 Mid-semester grades are available to all students online. Final semester grades are based on the work of the entire semester, which includes examinations and evaluations throughout the course. 
 
-## Grade Point Average: 
+## Grade Point Average 
 
 Grade point average (GPA) is computed by dividing the total number of credit points accumulated in courses for which a grade of A, A-, B+, B, B-, C+, C, C-, D+, D, F, or WF was assigned by the total number of hours attempted in those courses. Courses for which a grade of IP, S, U, CR, NC, W, AW, or NR was assigned are not included in computing the GPA. 
 
@@ -787,8 +779,6 @@ When the course is repeated, only the hours and credit points for the latest gra
 |HIST 2030|3|F|0.0|
 |Semester Total|16|32.68||
 
-
-
 Anderson University Undergraduate Catalog 2025-26 
 
 23 
@@ -800,11 +790,9 @@ Anderson University Undergraduate Catalog 2025-26
 |÷  Hours Attempted:|16<br> ÷  Hours Attempted:||43|
 |<br>=  Semester GPA:|2.04|=  Cumulative GPA:|2.48|
 
-
-
 _The GPA is truncated (not rounded). For example, a 2.999 GPA is still a 2.99, NOT a 3.0._ 
 
-## Grade Appeal: 
+## Grade Appeal 
 
 At times, students might believe there is adequate reason for grade reconsideration. Students with such grievances have the right to make an appeal and receive a fair hearing. The following are the only grounds for which a course grade may be appealed: 
 
@@ -828,11 +816,11 @@ The following procedure outlines the steps in the grade-appeal process:
 
 - STEP 5 :  When the Academic Policies & Appeals Committee has made a thorough review of the case and has reached a decision about the appeal presented, it shall make its decision and recommendations known, in writing, to the student, to the instructor of the course, to the college dean, and to the department chair or program director. The committee may make appropriate recommendations regarding procedures to the instructor. If a semester grade is in question, the committee may recommend to the instructor that a change of grade be considered. In unusual circumstances, the provost and college dean may initiate such a change if the instructor will not do so and there appears to be compelling reasons for such action. The decision of the committee is final. 
 
-## Credit/Non-Credit Grading: 
+## Credit/Non-Credit Grading 
 
 Some courses are offered only as credit or non-credit. As such, they appear in the master schedule of classes with a CR/NC registration. The hours taken are credited toward graduation but will not be considered in determining the grade point average (or included in considering eligibility for the Dean’s List). 
 
-## Satisfactory/Unsatisfactory Grading: 
+## Satisfactory/Unsatisfactory Grading 
 
 In addition to registering for courses on a regular-grade basis, students also have the option of registering on a satisfactory/unsatisfactory (S/U) basis. 
 
@@ -904,7 +892,7 @@ Students earning a cumulative GPA of 3.7 or above will graduate cum laude; 3.8 a
 
 The schedule of classes for each academic year is published the preceding February. Both the master class schedule and this catalog are regarded as official statements of anticipated course offerings. The university reserves the right to change or cancel any course for which enrollment is less than six students or for which satisfactory arrangements cannot be made. 
 
-In addition to courses listed in the catalog, departments may offer special seminars or other courses, as the need arises, under the numbers 1600, 2600, 3600, and 4600. 
+In addition to courses listed in the catalog, departments may offer special seminars or other courses, as the need arises, under the numbers 1600,2600,3600, and 4600. 
 
 ## RESIDENCY REQUIREMENT 
 
@@ -932,7 +920,7 @@ Anderson University Undergraduate Catalog 2025-26
 
 Any student transferring to Anderson University from a regionally-accredited or CHEA-recognized college/ university with an Associate of Arts or Associate of Science degree and has completed at least 24 credits in the Liberal Arts will have satisfied the Anderson University Liberal Arts Core requirements with the noted exceptions of the religion requirements (Biblical Literacy and Christian Ways of Knowing) and the liberal arts requirements that are embedded in the majors (Writing-Intensive, Speaking-Intensive, and Experiential requirements). Associate degree transfer students must complete at least 60 hours at Anderson University and reach 120 credits to graduate. This policy only applies to students who hold an Associate Degree prior to matriculating to Anderson University. For more information, contact the _Offce of the Registrar_ . 
 
-## Transfer of Credit – Current Students: 
+## Transfer of Credit – Current Students 
 
 Students currently enrolled at AU should obtain permission from the _University Registrar_ to take courses elsewhere if they intend to transfer that coursework to AU. Courses need to be taken at a regionally accredited college or university. 
 
@@ -942,13 +930,13 @@ A final grade of C- or above must be earned in order for transfer credit to be r
 
 ## WITHDRAWAL FROM COURSES 
 
-## Student-Initiated Withdrawal: 
+## Student-Initiated Withdrawal 
 
 Official withdrawal from all courses must be completed by submission of the appropriate form. The official withdrawal date will be the date that the form is submitted. In extenuating circumstances, a student may initiate complete withdrawal from all courses by phone or by letter to the _Offce of the Registrar_ . Questions about the policy for complete withdrawal should be directed to the _Offce of the Registrar_ . 
 
 Students desiring to drop an individual course may do so by filling out the appropriate Etrieve form. Deadlines and drop fees should be noted. Questions regarding dropping a course should be directed to the student’s academic advisor or may be directed to the registrar’s office. 
 
-## University-Initiated Withdrawal: 
+## University-Initiated Withdrawal 
 
 The university has the authority to withdraw a student from the university and to revoke the student’s registration at any time during the academic year. There are two types of university-initiated withdrawals: 
 
@@ -1095,8 +1083,6 @@ Majors are defined as a concentration of at least 30 hours of related courses, d
 |●|Electrical Engineering (BS)|Musical Theatre (BMus)||
 |●|Engineering Management|||
 
-
-
 ## TEACHING MAJORS 
 
 A teaching major is a grouping of 87-102 hours, typically involving more than one department, for purposes of specialization and teacher certification. _Unless otherwise noted, all teaching majors lead to the Bachelor of Arts (BA) degree._ Teaching majors include: 
@@ -1104,8 +1090,6 @@ A teaching major is a grouping of 87-102 hours, typically involving more than on
 |●|Elementary Education|● Mathematics|● Social Studies|
 |---|---|---|---|
 |●|English Language Arts|● Music Education (BMus)||
-
-
 
 ## THREE-YEAR MAJORS 
 
@@ -1121,8 +1105,6 @@ The following majors can be completed in three years of full-time, year-round wo
 |●|Data Science (BA)|● Mathematics (BA)or|● Youth Ministries|
 |●|Elementary Education|Mathematics (BS)||
 
-
-
 ## COMPLEMENTARY MAJORS 
 
 A complementary major is a group of related courses (26-54 hours) that must be taken along with one of the majors listed in the preceding Majors section. It is intended to enhance the primary major and may not stand alone, nor coupled with another complementary major, to fulfill graduation requirements. Complementary majors include the following: 
@@ -1132,8 +1114,6 @@ A complementary major is a group of related courses (26-54 hours) that must be t
 |●|Christian Ministries|● Financial Planning|● Public Relations|
 |●|Christian Spiritual Formation|● Humanitarian Engineering|● Youth Leadership|
 |●|Computer Science|● Multimedia Journalism||
-
-
 
 Anderson University Undergraduate Catalog 2025-26 
 
@@ -1166,8 +1146,6 @@ A minor is defined as a clustering of related courses intended to provide indivi
 |●|English Studies|● Nutrition|● Women’s Studies|
 |●|Entrepreneurship|● Peace & Confict Transformation|● Writing|
 |●|Ethics|● Philosophy||
-
-
 
 ## ASSOCIATE DEGREES 
 
@@ -1271,8 +1249,6 @@ Each course in the catalog is listed under a particular caption, a four-characte
 |INCS|Intercultural Studies|SPRL|Sport & Recreation Leadership|
 |LART|Liberal Arts|THEA|Theatre|
 
-
-
 ## LEVEL 
 
 Lower Division (1000/2000-Level) Courses : In general, courses in the 1000 or 2000 series count toward the liberal arts requirements and are to be taken during the freshman or sophomore years. Some courses in the 2000 series are first-level courses applicable to a given major or specialization. 
@@ -1295,21 +1271,21 @@ Indicates the number of credit hours that may be earned by taking the course. Wi
 
 The course description , listed directly beneath the course title, provides details about themes, topics, and issues covered by the course, as well as additional information: 
 
-- EXPECTATION: Indicates skills or experiences which students are expected to have achieved or demonstrated before taking the course. Also indicates restrictions regarding who may take the course (i.e. departmental exams, minimum grade in a prerequisite course, etc.). 
+- Expectation: Indicates skills or experiences which students are expected to have achieved or demonstrated before taking the course. Also indicates restrictions regarding who may take the course (i.e. departmental exams, minimum grade in a prerequisite course, etc.). 
 
-- CONSENT: Indicates whether students must obtain consent to take the course. If no designation is listed, no special consent is required. 
+- Consent: Indicates whether students must obtain consent to take the course. If no designation is listed, no special consent is required. 
 
-- PREREQUISITE :  Indicates required class standing, required major, or course(s) which must be completed before the course may be taken. 
+- Prerequisite :  Indicates required class standing, required major, or course(s) which must be completed before the course may be taken. 
 
-- COREQUISITE :  Indicates required class standing, required major, or other course(s) which must be taken in the same semester as the course. 
+- Corequisite :  Indicates required class standing, required major, or other course(s) which must be taken in the same semester as the course. 
 
-- REPEAT: Indicates when a course may be repeated for credit. May also include limitations on the number of times the course may be repeated or maximum total credits that may be counted. 
+- Repeat: Indicates when a course may be repeated for credit. May also include limitations on the number of times the course may be repeated or maximum total credits that may be counted. 
 
-- GRADE: Indicates when CR/NC grading is in effect. No listing indicates standard A-F grading. 
+- Grade: Indicates when CR/NC grading is in effect. No listing indicates standard A-F grading. 
 
 - SAME AS: Indicates when the course shares the same description and requirements as another course in the catalog. 
 
-- OFFERED: Indicates the semester and/or year in which the course will be offered, or other terms by which the course will be offered (i.e. with sufficient demand). If no designation is listed, the course is typically offered every year. 
+- Offered: Indicates the semester and/or year in which the course will be offered, or other terms by which the course will be offered (i.e. with sufficient demand). If no designation is listed, the course is typically offered every year. 
 
 ## Liberal Arts Framework 
 
@@ -1327,63 +1303,63 @@ Anderson University Undergraduate Catalog 2025-26
 
 33 
 
-## RAVEN CORE (30 hrs.) 
+## RAVEN CORE (30 hours) 
 
 _Those who have completed the Indiana College Core (ICC) are exempt from the Raven Core requirements, but still must satisfy the AU Experience requirements._ 
 
-## Foundational Skills: 
+## Foundational Skills 
 
-## ●​ Written Communication (Maximum 6 hrs.) 
+## ●​ Written Communication (Maximum 6 hours) 
 
 Courses designed for students to develop their writing and research skills. _At least one required course in this category_ 
 
-## ●​ Speaking & Listening (Maximum 6 hrs.) 
+## ●​ Speaking & Listening (Maximum 6 hours) 
 
 Courses designed to develop oral communication skills. _At least one required course in this category_ 
 
-## ●​ Quantitative Reasoning (Maximum 8 hrs.) 
+## ●​ Quantitative Reasoning (Maximum 8 hours) 
 
 Courses that pertain to the art of problem-solving by means of critical thinking, logic, and quantitative methods. _At least one required course in this category_ 
 
-## Ways of Knowing: 
+## Ways of Knowing 
 
-## ●​ Scientific Ways of Knowing (Maximum 8 hrs.) 
+## ●​ Scientific Ways of Knowing (Maximum 8 hours) 
 
 These courses present students with a way of understanding the natural laws that govern the behavior of the material world, focusing on knowledge that is quantifiable and accessible through human senses and human reason. _At least one required course in this category_ 
 
-## ●​ Social & Behavioral Ways of Knowing (Maximum 12 hrs.) 
+## ●​ Social & Behavioral Ways of Knowing (Maximum 12 hours) 
 
 These courses present students with ways of understanding human behavior in either individual or social contexts. Emphasis is placed on the application of a scientific perspective to explain human conduct, including related theoretical views and the development of empirical knowledge through research. _At least one required course in this category_ 
 
-## ●​ Humanistic & Artistic Ways of Knowing (Maximum 12 hrs.) 
+## ●​ Humanistic & Artistic Ways of Knowing (Maximum 12 hours) 
 
 - These courses present students with a way of understanding the deepest levels of human experience as expressed in history, language, literature, and music, _At least one required course in this category_ 
 
-## AU EXPERIENCE (14-17 hrs.) 
+## AU EXPERIENCE (14-17 hours) 
 
-## ●​ The First-Year-Experience (1 hr.) 
+## ●​ The First-Year-Experience (1 hour) 
 
 Designed to help students adjust to the campus community. Students work both independently and with their classmates to “Reflect, Connect, and Grow” intellectually, socially, and spiritually as whole people in the Anderson University community, while also obtaining the necessary practical knowledge to meet their college goals. _LART 1050_ 
 
-## ●​ Biblical Literacy (3 hrs.) 
+## ●​ Biblical Literacy (3 hours) 
 
 Designed to accomplish two goals: (1) to foster the student’s development of a critically based knowledge of the content of the Bible and (2) to assist students in becoming fluent in the interpretation of Scripture. _BIBL 2000_ 
 
-## ●​ Christian Ways of Knowing (3 hrs.) 
+## ●​ Christian Ways of Knowing (3 hours) 
 
-Included in the Anderson University community is a faith perspective that is prepared to raise questions of truth, value, meaning, and morality. Therefore, we foster an atmosphere of free inquiry, consistent with the sponsoring church’s tradition that prizes hospitality as a Christian virtue. These courses explore the role of religion in human experience. _One required course in this category_ Personal Wellness (2-3 hrs.) Examine the relationships of physical activity, leisure, diet, and health and fitness to total personal development of wellness. _One required course in this category_ 
+Included in the Anderson University community is a faith perspective that is prepared to raise questions of truth, value, meaning, and morality. Therefore, we foster an atmosphere of free inquiry, consistent with the sponsoring church’s tradition that prizes hospitality as a Christian virtue. These courses explore the role of religion in human experience. _One required course in this category_ Personal Wellness (2-3 hours) Examine the relationships of physical activity, leisure, diet, and health and fitness to total personal development of wellness. _One required course in this category_ 
 
-## ●​ Personal Wellness (2-3 hrs.) 
+## ●​ Personal Wellness (2-3 hours) 
 
-## ●​ Civil Discourse & Conflict Transformation (2-3 hrs.) 
+## ●​ Civil Discourse & Conflict Transformation (2-3 hours) 
 
 - Courses designed for students to develop their civil discourse and conflict transformation skills. _One required course in this category_ 
 
-## ●​ Global Ways of Knowing (3-4 hrs.) 
+## ●​ Global Ways of Knowing (3-4 hours) 
 
 - The combination of these courses presents students with ways of understanding human diversity through the development of intercultural perspectives. 
 
-## Also, embedded within each major are the following competencies: 
+## Also, embedded within each major are the following competencies 
 
 Anderson University Undergraduate Catalog 2025-26 
 
@@ -1399,7 +1375,7 @@ Anderson University values experiential learning and requires every major to pro
 
 _One experiential competency fulfilled by a course, internship, practicum, capstone, clinical, or approved activity._ 
 
-## Please note: 
+## Please note 
 
 Because of the immediate usefulness of writing, oral communication, and mathematics, students should endeavor to complete the written communication (ENGL 1110 and 1120), speaking and listening (COMM 1000), and quantitative reasoning requirements during the first college year. Students should enroll in the appropriate writing skills courses every consecutive semester until they have met the writing-skills requirement. 
 
@@ -1459,13 +1435,13 @@ Adult students pay a flat rate per semester hour for tuition (with the exception
 
 ## Associate Degrees 
 
-## ASSOCIATE OF ARTS: CRIMINAL JUSTICE (60 hrs.) 
+## ASSOCIATE OF ARTS CRIMINAL JUSTICE (60 hours) 
 
 This two-year Associate of Arts degree program is designed for students pursuing careers in criminal justice, as well as for individuals already employed in the criminal justice field. The curriculum provides foundational courses in criminal justice and approximately one-half of the hours required for the four-year _Bachelor of Arts degree_ program. The curriculum assumes proficiency in writing at the ENGL 1110 level. 
 
 - BIBL 2000; SOCI 2010 or SOCI 2020; SOCI 2450 
 
-- CRIM 2510, 2520, 3110 
+- CRIM 2510,2520,3110 
 
 - 9 hours from additional CRIM courses 
 
@@ -1475,7 +1451,7 @@ This two-year Associate of Arts degree program is designed for students pursuing
 
 - Students must complete 60 hours and also meet other graduation requirements as listed in this catalog. 
 
-## ASSOCIATE OF SCIENCE (60 hrs.) 
+## ASSOCIATE OF SCIENCE (60 hours) 
 
 This two-year Associate of Science degree provides foundational courses for the university’s bachelor’s degrees. 
 
@@ -1489,8 +1465,6 @@ This two-year Associate of Science degree provides foundational courses for the 
 |o|COMM 1000|o Humanistic & Artistic Ways of Knowing|
 |o|Quantitative Reasoning|o Social & Behavioral Ways of Knowing|
 |o|BIBL 2000||
-
-
 
 - Completion of 60 hours as well as other graduation requirements listed in this catalog. 
 
@@ -1518,13 +1492,13 @@ Students intending to become music majors, musical theatre majors, or theatre ma
 
 ## FRESHMAN CURRICULUM FOR MUSIC 
 
-The freshman curriculum in music consists of the following courses (12 hrs.): 
+The freshman curriculum in music consists of the following courses (12 hours): 
 
-- 6 hours from MUSC 1010, 1020 (theory) 
+- 6 hours from MUSC 1010,1020 (theory) 
 
-- 2 hours from MUSC 1030, 1040 (aural comprehension) 
+- 2 hours from MUSC 1030,1040 (aural comprehension) 
 
-- 4 hours from MUPF 1050, 1060 (keyboard class) 
+- 4 hours from MUPF 1050,1060 (keyboard class) 
 
 The freshman curriculum for music may be attempted only twice. Withdrawal from a freshman course counts as one attempt to pass the course. Transfer students must take examinations to determine class placement in freshman courses and must pass the freshman curriculum with grades of C- or better by the end of their fourth semester of college study, or second semester at AU, in order to continue in the major. Students who wish to begin a major in music after completing their fourth semester of college study must complete the freshman curriculum with grades of C- or better on the first attempt. Students who wish to retake a course in the music freshman curriculum after their fourth semester of college study must petition the chair  of the School of Music & Performing Arts in writing for permission to do so. 
 
@@ -1546,57 +1520,57 @@ Music majors earn 1-3 hours of credit by taking weekly one-hour private lessons.
 
 ## BACHELOR OF MUSIC DEGREE 
 
-## VOICE PERFORMANCE MAJOR  (80 hrs.) 
+## VOICE PERFORMANCE MAJOR  (80 hours) 
 
-- MUSC 1010, 1020, 1030, 1040, 2010, 2020, 2030, 2040, 2110, 2330, 3120, 3130 
+- MUSC 1010,1020,1030,1040,2010,2020,2030,2040,2110,2330,3120,3130 
 
 - MUED 2470 
 
 - MUBS 3470 
 
-- 4 hours from MUPF 1050, 1060, 1710, 2030, 2040, 2710 
+- 4 hours from MUPF 1050,1060,1710,2030,2040,2710 
 
 - MUPF 4910 
 
-## Pedagogy and Literature: 
+## Pedagogy and Literature 
 
-- MUED 2510, 2520, 3350 
+- MUED 2510,2520,3350 
 
 - MUSC 3390 
 
-## Applied Study: 
+## Applied Study 
 
 - 18 hours of private study in the primary performance area, including a half recital in the junior year and a full recital in the senior year 
 
-## Related Skills: 
+## Related Skills 
 
-- THEA 2110, 2120, 2210 
+- THEA 2110,2120,2210 
 
-- 4 hours from MUPF 1150, 1160, 1170 
+- 4 hours from MUPF 1150,1160,1170 
 
 - 3 hours from DANC technique courses 
 
 _Majors are required to take French or German to fulfill modern language requirements._ 
 
-## INSTRUMENTAL PERFORMANCE MAJOR  (80 hrs.) 
+## INSTRUMENTAL PERFORMANCE MAJOR  (80 hours) 
 
-- MUSC 1010, 1020, 1030, 1040, 2010, 2020, 2030, 2040, 2110, 2330, 3040, 3120, 3130 
+- MUSC 1010,1020,1030,1040,2010,2020,2030,2040,2110,2330,3040,3120,3130 
 
-- MUED 2470, 3480 
+- MUED 2470,3480 
 
 - MUBS 3470 
 
-- 2 hours from MUSC 3030, 3100, 4900; MUBS 2050 
+- 2 hours from MUSC 3030,3100,4900; MUBS 2050 
 
-- 6 hours from MUPF 1050, 1060, 1710, 2030, 2040 
+- 6 hours from MUPF 1050,1060,1710,2030,2040 
 
-## Pedagogy and Literature (select one track) : 
+## Pedagogy and Literature (select one track)  
 
 - Piano Track:  MUED 3370; MUSC 3380; MUPF 2060 
 
 - Instrumental Track:  MUSC 3650 (2 hours in literature study); MUED 3330; MUPF 2060 
 
-## Applied Study: 
+## Applied Study 
 
 - 22 hours of private study in the primary performance area, including a half recital in the junior year and a full recital in the senior year 
 
@@ -1604,37 +1578,37 @@ _Majors are required to take French or German to fulfill modern language require
 
 - 2 hours of chamber ensembles 
 
-## MUSIC EDUCATION MAJOR, GRADES P-12, ALL AREAS  (101 hrs.) 
+## MUSIC EDUCATION MAJOR, GRADES P-12, ALL AREAS  (101 hours) 
 
-- MUSC 1010, 1020, 1030, 1040, 2010, 2020, 2030, 2040, 2110, 2330, 3030, 3040 
+- MUSC 1010,1020,1030,1040,2010,2020,2030,2040,2110,2330,3030,3040 
 
-- 6 hours from MUSC 3110, 3120, 3130 
+- 6 hours from MUSC 3110,3120,3130 
 
-- MUPF 1050, 1060 
+- MUPF 1050,1060 
 
-- 2 hours from MUPF 1710, 2030, 2040 
+- 2 hours from MUPF 1710,2030,2040 
 
-- MUED 1000, 1100, 1200, 1300, 1400, 2470, 3100, 3110, 3120, 3130, 3470, 3480, 4700 
+- MUED 1000,1100,1200,1300,1400,2470,3100,3110,3120,3130,3470,3480,4700 
 
-- 2 hours from MUED 3330, 3350, 3370 
+- 2 hours from MUED 3330,3350,3370 
 
-- 2 hours from MUED 2510, 2520, 3460 
+- 2 hours from MUED 2510,2520,3460 
 
 - 8 hours of applied music lessons, including a half recital 
 
-- EDUC 2100, 2110, 3120, 4010; EDUC 4710, 4715; SPED 2400 
+- EDUC 2100,2110,3120,4010; EDUC 4710,4715; SPED 2400 
 
 Anderson University Undergraduate Catalog 2025-26 
 
 38 
 
-MUSICAL THEATRE MAJOR  (80 hrs.) 
+MUSICAL THEATRE MAJOR  (80 hours) 
 
-- MUSC 1010, 1020, 1030, 1040, 2010, 2030, 2110, 2330, 3180 
+- MUSC 1010,1020,1030,1040,2010,2030,2110,2330,3180 
 
-- 3 hours from MUSC 3120, 3130 
+- 3 hours from MUSC 3120,3130 
 
-- 2 hours from MUPF 1050, 1060, 1710, 2710, 2030 
+- 2 hours from MUPF 1050,1060,1710,2710,2030 
 
 - 10 hours of applied music lessons in voice, including 2 hours of MUPF 4540 
 
@@ -1644,17 +1618,17 @@ MUSICAL THEATRE MAJOR  (80 hrs.)
 
 - Major Ensemble (8 semesters) 
 
-- MUTR 2410, 2420, 3210, 3220, 3410, 4500, 4910 
+- MUTR 2410,2420,3210,3220,3410,4500,4910 
 
-- THEA 2110, 2120, 2210, 2220, 3110, 3120 
+- THEA 2110,2120,2210,2220,3110,3120 
 
 - 6 hours in the following dance technique areas: 
 
-   - At least 2 hours from DANC 1120, 2120, 3120 (Tap) 
+   - At least 2 hours from DANC 1120,2120,3120 (Tap) 
 
-   - At least 2 hours from DANC 1320, 2320, 3320 (Jazz) 
+   - At least 2 hours from DANC 1320,2320,3320 (Jazz) 
 
-   - At least 2 hours from DANC 1420, 2420, 3420 (Ballet) 
+   - At least 2 hours from DANC 1420,2420,3420 (Ballet) 
 
 - DANC 2110 
 
@@ -1662,23 +1636,23 @@ MUSICAL THEATRE MAJOR  (80 hrs.)
 
 ## BACHELOR OF ARTS DEGREE IN MUSIC 
 
-MUSIC (50 hrs.) 
+MUSIC (50 hours) 
 
 Select one of the following options: 
 
 ## Performance Option 
 
-- MUSC 1010, 1020, 1030, 1040, 2010, 2110, 2330, 3120, 3130 
+- MUSC 1010,1020,1030,1040,2010,2110,2330,3120,3130 
 
 - MUSC 4950 or 4955 
 
-- MUPF 1050, 1060 
+- MUPF 1050,1060 
 
 - 4 hours of applied music lessons 
 
 - 8 hours of music ensembles 
 
-- 2 hours from MUED 3330, 3350, 3370 
+- 2 hours from MUED 3330,3350,3370 
 
 - 4 additional hours of applied music lessons 
 
@@ -1686,23 +1660,23 @@ Select one of the following options:
 
 ## Theory and History Option 
 
-- MUSC 1010, 1020, 1030, 1040, 2010, 2110, 2330, 3120, 3130 
+- MUSC 1010,1020,1030,1040,2010,2110,2330,3120,3130 
 
 - MUSC 4950 or 4955 
 
-- MUPF 1050, 1060 
+- MUPF 1050,1060 
 
 - 4 hours of applied music lessons 
 
 - 8 hours of music ensembles 
 
-- MUSC 2020, 2030, 2040, 3110 
+- MUSC 2020,2030,2040,3110 
 
 - 7 hours of electives from: 
 
    - MUPF 1900-4900 
 
-   - MUSC 3030, 3040, 3100, 3650, 4650, 4900 
+   - MUSC 3030,3040,3100,3650,4650,4900 
 
    - MUED 2470 
 
@@ -1714,35 +1688,35 @@ Anderson University Undergraduate Catalog 2025-26
 
 ## Composition Option 
 
-- MUSC 1010, 1020, 1030, 1040, 2010, 2110, 2330, 3120, 3130 
+- MUSC 1010,1020,1030,1040,2010,2110,2330,3120,3130 
 
 - MUSC 4950 or 4955 
 
-- MUPF 1050, 1060 
+- MUPF 1050,1060 
 
 - 4 hours of applied music lessons 
 
 - 8 hours of music ensembles 
 
-- MUSC 2020, 3040 
+- MUSC 2020,3040 
 
 - 4 hours from MUPF 1900-4900 
 
 - 6 hours of electives from: 
 
-o MUSC 2030, 2040, 3030, 3100, 3110, 3650, 4650, 4900 
+o MUSC 2030,2040,3030,3100,3110,3650,4650,4900 
 
 o MUED 2470 
 
 - Applied music lessons 
 
-## MUSICAL THEATRE  (45 hrs.) 
+## MUSICAL THEATRE  (45 hours) 
 
-- MUSC 1010, 1020, 1030, 1040 
+- MUSC 1010,1020,1030,1040 
 
-- MUTR 2410, 2420, 3210, 3220 
+- MUTR 2410,2420,3210,3220 
 
-- THEA 2110, 2120, 2210, 3110 
+- THEA 2110,2120,2210,3110 
 
 - MUPF 4910 
 
@@ -1750,81 +1724,81 @@ o MUED 2470
 
 - 6 hours of voice study from MUPF 2700 or 4700 
 
-- 2 hours of piano study from MUPF 1050, 1060, 1710, 1720, 2030 
+- 2 hours of piano study from MUPF 1050,1060,1710,1720,2030 
 
 - 2 hours of ballet study from DANC 1420-3420 
 
 - 1 hour of jazz dance study from DANC 1320-3320 
 
-- 2 hours of dance study from DANC 2110, 1120-3120 
+- 2 hours of dance study from DANC 2110,1120-3120 
 
-## WORSHIP ARTS  (53 hrs.) 
+## WORSHIP ARTS  (53 hours) 
 
-- MUSC 1010, 1030, 3150, 3160, 3800 
+- MUSC 1010,1030,3150,3160,3800 
 
 - MUED 2470 
 
-- MUPF 1050, 1410 
+- MUPF 1050,1410 
 
 - 4 hours of applied music lessons 
 
 - 4 hours of music ensembles 
 
-- MUBS 2020, 3450 
+- MUBS 2020,3450 
 
 - THEA 2350 
 
-- DANC 1580, 1590 
+- DANC 1580,1590 
 
-- COMM 2140, 2200 
+- COMM 2140,2200 
 
 - 12 hours from: 
 
-o CMIN 2000, 2270, 3050 o RLGN/HIST 3060, 3420 
+o CMIN 2000,2270,3050 o RLGN/HIST 3060,3420 
 
 o RLGN 3040 
 
-## BACHELOR OF ARTS DEGREE IN MUSIC BUSINESS (53 hrs.) 
+## BACHELOR OF ARTS DEGREE IN MUSIC BUSINESS (53 hours) 
 
-Music Core Courses (23 hrs.) 
+Music Core Courses (23 hours) 
 
-- MUSC 1010, 1020, 1030, 1040, 2210 
+- MUSC 1010,1020,1030,1040,2210 
 
-- MUPF 1050, 1060 
+- MUPF 1050,1060 
 
 - 4 hours of applied music lessons (MUPF) 
 
 - 4 hours of ensembles (MUPF) 
 
-Music Business Core (18 hrs.) 
+Music Business Core (18 hours) 
 
-- MUBS 2010, 2020, 3310, 3350, 4800, 4900 
+- MUBS 2010,2020,3310,3350,4800,4900 
 
 Anderson University Undergraduate Catalog 2025-26 
 
 40 
 
-Music Business Electives (12 hrs. from the following) 
+Music Business Electives (12 hours from the following) 
 
-- MUBS 2070, 2450,  3100, 3210, 3220, 3370, 3380, 3450, 3470, 4500, 4850, 4870, 4950 
+- MUBS 2070,2450,3100,3210,3220,3370,3380,3450,3470,4500,4850,4870,4950 
 
-- MUPF 2905, 4905 
+- MUPF 2905,4905 
 
 - BSNS 4400 
 
 - CRIM 2520 
 
-## BACHELOR OF ARTS DEGREE IN THEATRE (42 hrs.) 
+## BACHELOR OF ARTS DEGREE IN THEATRE (42 hours) 
 
-## Required Courses (34 hrs.) 
+## Required Courses (34 hours) 
 
-- THEA 2110, 2210, 2220, 2410, 3010, 3020, 3400, 3500, 3550, 4800 
+- THEA 2110,2210,2220,2410,3010,3020,3400,3500,3550,4800 
 
 - 8 hours of THEA 2890 
 
-Elective Courses (8 hrs. from the following) 
+Elective Courses (8 hours from the following) 
 
-- THEA 2120, 2420, 3110, 3120 
+- THEA 2120,2420,3110,3120 
 
 - MUPF 1070-1390 (up to 2 credit hours) 
 
@@ -1836,13 +1810,13 @@ Elective Courses (8 hrs. from the following)
 
 ## MINORS 
 
-DANCE MINOR (18 hrs.) 
+DANCE MINOR (18 hours) 
 
 - 1 hour of DANC 1150 
 
 - 1 hour of DANC 1160 
 
-- DANC 1580, 1590 
+- DANC 1580,1590 
 
 - DANC 3010 or 3020 
 
@@ -1852,11 +1826,11 @@ DANCE MINOR (18 hrs.)
 
 - 2 hours from DANC 1320-4320 (jazz technique) 
 
-## MUSIC MINOR (18 hrs.) 
+## MUSIC MINOR (18 hours) 
 
-- MUSC 1010, 1020, 1030, 1040, 2110 
+- MUSC 1010,1020,1030,1040,2110 
 
-- 4 hours from MUPF 1050, 1060, and/or private piano 
+- 4 hours from MUPF 1050,1060, and/or private piano 
 
 - 2 hours of applied study (private and/or class) 
 
@@ -1868,7 +1842,7 @@ _Admission by audition on the primary instrument to ensure adequate performance 
 
 Select one of the following two tracks: 
 
-Track for Music Majors (15-16 hrs.) 
+Track for Music Majors (15-16 hours) 
 
 - 6-8 hours of additional applied study, including a half recital 
 
@@ -1876,15 +1850,15 @@ Track for Music Majors (15-16 hrs.)
 
 - Additional hours from one of the following sequences: 
 
-   - Singers: MUED 2510, 2520, 3350; 2 hours from MUPF 1150, 1160, 1170 
+   - Singers: MUED 2510,2520,3350; 2 hours from MUPF 1150,1160,1170 
 
-   - Pianists: MUED 3370; MUSC 3380; 3 hours from MUPF 1190, 1210, 1520, 1530 
+   - Pianists: MUED 3370; MUSC 3380; 3 hours from MUPF 1190,1210,1520,1530 
 
-   - Instrumentalists: 5 hours from MUPF 1190, 1230, 1250, 1360, 1370, 1380, 1390 
+   - Instrumentalists: 5 hours from MUPF 1190,1230,1250,1360,1370,1380,1390 
 
-Track for Non-Music Majors (18 hrs.) 
+Track for Non-Music Majors (18 hours) 
 
-- MUSC 1010, 1020, 1030, 1040 
+- MUSC 1010,1020,1030,1040 
 
 - MUPF 1050 or 1060 or 2 hours of private piano 
 
@@ -1896,13 +1870,13 @@ Anderson University Undergraduate Catalog 2025-26
 
 41 
 
-## THEATRE MINOR (17 hrs.) 
+## THEATRE MINOR (17 hours) 
 
-- THEA 2110, 2210, 3400 
+- THEA 2110,2210,3400 
 
-- One course from THEA 3010, 3020, 4900 
+- One course from THEA 3010,3020,4900 
 
-- One course from THEA 3500, 3550 
+- One course from THEA 3500,3550 
 
 - At least 2 hours from THEA 2890 
 
@@ -1910,48 +1884,46 @@ Anderson University Undergraduate Catalog 2025-26
 
 ## _Theory of Music Courses_ 
 
-|1000 |MusicLiteracy|2 hrs. (2, 0)|
+|1000 |MusicLiteracy|2 hours (2,0)|
 |---|---|---|
 ||Development of basic skills and concepts in reading and writing music notation with emphasis on||
 ||meter, rhythm, scales, keys, chords, and intervals.||
-|1010|Theory I|3 hrs. (3, 0)|
+|1010|Theory I|3 hours (3,0)|
 ||Introduction to the study of diatonic harmony and voice-leading and review of fundamental musical||
-||concepts. Emphasis on formal analysis of baroque music.OFFERED: Sem. I.||
-|1020 |Theory II|3 hrs. (3, 0)|
+||concepts. Emphasis on formal analysis of baroque music.Offered: Semester I.||
+|1020 |Theory II|3 hours (3,0)|
 ||Continuing study of diatonic harmony and voice-leading with an introduction to chromatic harmony.||
-||Emphasis on formal analysis of classical music.PREREQUISITE: MUSC 1010.OFFERED: Sem. II.||
-|1030 |Aural Comprehension I|1 hr. (2, 0)|
+||Emphasis on formal analysis of classical music.Prerequisite: MUSC 1010.Offered: Semester II.||
+|1030 |Aural Comprehension I|1 hour (2,0)|
 ||Development of skills in sight-reading and ear-training for diatonic materials of tonal music. Emphasis||
-||on melodic, harmonic, and rhythmic dimensions.COREQUISITE: MUSC 1010.OFFERED: Sem. I.||
-|1040 |Aural Comprehension II|1 hr. (2, 0)|
+||on melodic, harmonic, and rhythmic dimensions.Corequisite: MUSC 1010.Offered: Semester I.||
+|1040 |Aural Comprehension II|1 hour (2,0)|
 ||Continuing development of skills in sight-reading and ear-training for diatonic tonal music with||
 ||introduction of basic chromatic materials. Emphasis on melodic, harmonic, and rhythmic dimensions||
-||with consideration of textural and timbral aspects.COREQUISITE: MUSC 1020.OFFERED: Sem. II.||
-|2010 |Theory III|3 hrs. (3, 0)|
+||with consideration of textural and timbral aspects.Corequisite: MUSC 1020.Offered: Semester II.||
+|2010 |Theory III|3 hours (3,0)|
 ||In-depth study of chromatic harmony and voice-leading. Emphasis on formal analysis of 19th-century||
-||music.PREREQUISITE: MUSC 1020.OFFERED: Sem. I.||
-|2020 |Theory IV|3 hrs. (3, 0)|
+||music.Prerequisite: MUSC 1020.Offered: Semester I.||
+|2020 |Theory IV|3 hours (3,0)|
 ||Survey of compositional techniques in 20th-century music. Emphasis on learning and applying new||
-||analytic strategies developed for contemporary music.PREREQUISITE: MUSC 2010.OFFERED: Sem. II.||
-|2030 |Aural Comprehension III|1 hr. (2, 0)|
+||analytic strategies developed for contemporary music.Prerequisite: MUSC 2010.Offered: Semester II.||
+|2030 |Aural Comprehension III|1 hour (2,0)|
 ||Continued development of ear-training in melodic, rhythmic, and harmonic structures. Emphasis on||
-||chromatic materials.COREQUISITE: MUSC 2010.OFFERED: Sem. I.||
-|2040 |Aural Comprehension IV|1 hr. (2, 0)|
+||chromatic materials.Corequisite: MUSC 2010.Offered: Semester I.||
+|2040 |Aural Comprehension IV|1 hour (2,0)|
 ||Continued development of ear-training in melodic, rhythmic, and harmonic structures. Emphasis on||
-||20th-century materials.COREQUISITE: MUSC 2020.OFFERED: Sem. II.||
-|3030 |Choral Arranging|2 hrs. (2, 0)|
+||20th-century materials.Corequisite: MUSC 2020.Offered: Semester II.||
+|3030 |Choral Arranging|2 hours (2,0)|
 ||Methods and techniques of arranging and scoring for choral ensembles of various sizes and voicings.||
-||Includes use of computer notation software.PREREQUISITE: MUSC 1020, 1040.OFFERED: Sem. I.||
-|3040 |Orchestration|2 hrs. (2, 0)|
+||Includes use of computer notation software.Prerequisite: MUSC 1020,1040.Offered: Semester I.||
+|3040 |Orchestration|2 hours (2,0)|
 ||Study of characteristics of orchestral instruments. Introduction to band, symphonic, and jazz scoring.||
 ||Practical experience in arranging for small combinations and full instrumental groups. Includes use of||
-||computer notation software.PREREQUISITE: MUSC 1020, 1040.OFFERED: Sem. II.||
-|3100 |Counterpoint|2 hrs. (2, 0)|
+||computer notation software.Prerequisite: MUSC 1020,1040.Offered: Semester II.||
+|3100 |Counterpoint|2 hours (2,0)|
 ||A survey of melodic and voice-leading procedures for music of the late 16th and 18th centuries.||
-||Focuses on solving contrapuntal problems and composing pieces in historical styles.PREREQUISITE:||
-||MUSC 1020, 1040.||
-
-
+||Focuses on solving contrapuntal problems and composing pieces in historical styles.Prerequisite:||
+||MUSC 1020,1040.||
 
 Anderson University Undergraduate Catalog 2025-26 
 
@@ -1961,56 +1933,54 @@ Anderson University Undergraduate Catalog 2025-26
 
 _Music History and Literature Courses_ 
 
-|2110|Introduction to Music Literature|2 hrs. (2, 0)|
+|2110|Introduction to Music Literature|2 hours (2,0)|
 |---|---|---|
 ||Introductory study of music literature._Applies to the Humanistic & Artistic Ways of Knowing [Raven_||
-||_Core] component of the Liberal Arts Core Curriculum._Required for music majors.EXPECTATION: Ability||
-||to read standard music notation.OFFERED: Sem. II (even years).||
-|2200 |Art as Experience|3 hrs. (3, 0)|
+||_Core] component of the Liberal Arts Core Curriculum._Required for music majors.Expectation: Ability||
+||to read standard music notation.Offered: Semester II (even years).||
+|2200 |Art as Experience|3 hours (3,0)|
 ||An interdisciplinary introduction to performing and visual arts through frst-hand experiences||
 ||attending live performances and, when possible, participating in the activity and talking with the||
-||artists. Includes study of aesthetics, history, and craft.OFFERED: With suffcient demand.||
-|2210 |Music, the Arts, and Culture|3 hrs. (3, 0)|
+||artists. Includes study of aesthetics, history, and craft.Offered: With suffcient demand.||
+|2210 |Music, the Arts, and Culture|3 hours (3,0)|
 ||An examination of major works of Western art music that employ elements of art, literature, flm,||
 ||drama, and dance, with emphasis on opera, oratorio, choral symphony, program symphony, ballet,||
 ||and flm music genres. A study of the processes by which selected works were conceived, composed,||
 ||prepared, performed, received, and understood as expressions of the human experience. Does not||
-||count toward a music major.OFFERED: Sem. I, II.||
-|2220 |Music in Society|2 hrs. (2, 0)|
+||count toward a music major.Offered: Semester I, II.||
+|2220 |Music in Society|2 hours (2,0)|
 ||Provides a basis for understanding and appreciating artistic musical expression. Does not count||
-||toward a music major.OFFERED: Sem. I, II.||
-|2330 |Introduction to World Music|3 hrs. (3, 0)|
+||toward a music major.Offered: Semester I, II.||
+|2330 |Introduction to World Music|3 hours (3,0)|
 ||Provides a framework for experiencing and understanding music from a variety of cultures, Western||
 ||and non-Western. Focus on belief systems, social organization, cultural contexts, and musical||
 ||materials for the purpose of identifying similarities and differences between cultures._Applies to the_||
 ||_Global Ways of Knowing [AU Experience] component of theLiberal Arts Core Curriculum._||
-||EXPECTATION: Ability to read standard music notation.OFFERED: Sem. I (odd years).||
-|3110|History of Music: Medieval/Renaissance|3 hrs. (3, 0)|
+||Expectation: Ability to read standard music notation.Offered: Semester I (odd years).||
+|3110|History of Music: Medieval/Renaissance|3 hours (3,0)|
 ||General historical survey of music from classical antiquity through the Renaissance.||
-||PREREQUISITE: MUSC 2110.OFFERED: Sem. I.||
-|3120 |History of Music: Baroque/Classic|3 hrs. (3, 0)|
+||Prerequisite: MUSC 2110.Offered: Semester I.||
+|3120 |History of Music: Baroque/Classic|3 hours (3,0)|
 ||General historical survey of music from 1650 to 1800._Applies to the Humanistic & Artistic Ways of_||
-||_Knowing [Raven Core] component of the Liberal Arts Core Curriculum._ PREREQUISITE: MUSC 2110.||
-||OFFERED: Sem. I (odd years).||
-|3130 |History of Music: 19th and 20th Centuries|3 hrs. (3, 0)|
+||_Knowing [Raven Core] component of the Liberal Arts Core Curriculum._ Prerequisite: MUSC 2110.||
+||Offered: Semester I (odd years).||
+|3130 |History of Music: 19th and 20th Centuries|3 hours (3,0)|
 ||General historical survey of Western Art music from the 19th century to the present._Applies to the_||
 ||_Humanistic & Artistic Ways of Knowing [Raven Core] component of theLiberal Arts Core Curriculum._||
-||PREREQUISITE: MUSC 2110.OFFERED: Sem. I (even years).||
-|3170 |History of Music: Popular Music in the 20th Century|3 hrs. (3, 0)|
+||Prerequisite: MUSC 2110.Offered: Semester I (even years).||
+|3170 |History of Music: Popular Music in the 20th Century|3 hours (3,0)|
 ||General historical survey of popular music from the late 19th century to the present, with emphasis||
-||on Western popular music.PREREQUISITE: MUSC 2110.OFFERED: Sem. II.||
-|3180 |History of Music: Musical Theatre|3 hrs. (3, 0)|
+||on Western popular music.Prerequisite: MUSC 2110.Offered: Semester II.||
+|3180 |History of Music: Musical Theatre|3 hours (3,0)|
 ||General historical survey of lyric theatre— opera, operetta, revue, musical theatre — from the 17th||
-||century to the present.PREREQUISITE: MUSC 2110.OFFERED: Sem. II.||
-|3380 |Piano Literature|2 hrs. (2, 0)|
-||Introduction to piano literature by historical style periods.PREREQUISITE: MUPF 1710, 2710.||
-||OFFERED: Sem. II.||
-|3390 |Song Literature|3 hrs. (3, 0)|
+||century to the present.Prerequisite: MUSC 2110.Offered: Semester II.||
+|3380 |Piano Literature|2 hours (2,0)|
+||Introduction to piano literature by historical style periods.Prerequisite: MUPF 1710,2710.||
+||Offered: Semester II.||
+|3390 |Song Literature|3 hours (3,0)|
 ||A study of English, Italian, German, French, and American song literature since the late Renaissance.||
 ||Emphasis on stylistic interpretation and vocal appropriateness. Music performed by class participants.||
-||Recordings are also utilized.PREREQUISITE: Four semesters of voice study.OFFERED: Sem. I.||
-
-
+||Recordings are also utilized.Prerequisite: Four semesters of voice study.Offered: Semester I.||
 
 Anderson University Undergraduate Catalog 2025-26 
 
@@ -2025,45 +1995,42 @@ Anderson University Undergraduate Catalog 2025-26
 ----- Start of picture text -----<br>
 ||||
 |---|---|---|
-|3150|Art, Faith, and Culture|3 hrs. (3, 0)|
+|3150|Art, Faith, and Culture|3 hours (3,0)|
 
 ----- End of picture text -----<br>
 
-
-Philosophical, sociological, historical, and theological perspectives on music and worship in the church with emphasis on understanding the role of music in expressions of faith. OFFERED : Sem. I. 3160 Sacred Music: Past and Current Uses 3 hrs. (3, 0) Survey of how sacred song has been and is currently used in worship settings in a variety of times and cultures. Emphasis on the administration, selection, rehearsal, and use of sacred music in the 21st century church. OFFERED : Sem. II. 3800 Internship in Church Music 3 hrs. (arranged) In-depth experience in a local church with an experienced minister involved full time in church music. PREREQUISITE : MUSC 1010, 1030. GRADE : CR/NC. REPEAT : May be repeated (total credit not to exceed 3 hours). OFFERED : Each semester. 
+Philosophical, sociological, historical, and theological perspectives on music and worship in the church with emphasis on understanding the role of music in expressions of faith. Offered : Semester I. 3160 Sacred Music: Past and Current Uses 3 hours (3,0) Survey of how sacred song has been and is currently used in worship settings in a variety of times and cultures. Emphasis on the administration, selection, rehearsal, and use of sacred music in the 21st century church. Offered : Semester II. 3800 Internship in Church Music 3 hours (arranged) In-depth experience in a local church with an experienced minister involved full time in church music. Prerequisite : MUSC 1010,1030. Grade : CR/NC. Repeat : May be repeated (total credit not to exceed 3 hours). Offered : Each semester. 
 
 ## MUSC 
 
 ## _Additional Music Courses_ 
 
-|1650 |Independent Study|1-4 hrs. (arranged)|
+|1650 |Independent Study|1-4 hours (arranged)|
 |---|---|---|
 ||Opportunities for individualized study as agreed upon by student and faculty member.||
-||REPEAT: May be repeated for credit.||
-|2650 |Independent Study|1-4 hrs. (arranged)|
+||Repeat: May be repeated for credit.||
+|2650 |Independent Study|1-4 hours (arranged)|
 ||Opportunities for individualized study as agreed upon by student and faculty member.||
-||REPEAT: May be repeated for credit.||
-|3650 |Independent Study|1-4 hrs. (arranged)|
+||Repeat: May be repeated for credit.||
+|3650 |Independent Study|1-4 hours (arranged)|
 ||Opportunities for individualized study as agreed upon by student and faculty member.||
-||REPEAT: May be repeated for credit.||
-|4650 |Independent Study|1-4 hrs. (arranged)|
+||Repeat: May be repeated for credit.||
+|4650 |Independent Study|1-4 hours (arranged)|
 ||Opportunities for individualized study as agreed upon by student and faculty member.||
-||REPEAT: May be repeated for credit.||
-|4660 |International Experience in the Arts|1-4 hrs. (arranged)|
+||Repeat: May be repeated for credit.||
+|4660 |International Experience in the Arts|1-4 hours (arranged)|
 ||Designed to provide academic credit for coursework and assignments completed in conjunction|with|
-||an international experience offered through the TRI-S program.REPEAT: May be repeated for credit.||
-|4900 |Seminar in Selected Topics|1-4 hrs. (arranged)|
-||Special music course offerings as determined by faculty.REPEAT: May be repeated for credit.||
-|4950 |Senior Project|3 hrs. (3, 0)|
+||an international experience offered through the TRI-S program.Repeat: May be repeated for credit.||
+|4900 |Seminar in Selected Topics|1-4 hours (arranged)|
+||Special music course offerings as determined by faculty.Repeat: May be repeated for credit.||
+|4950 |Senior Project|3 hours (3,0)|
 ||Senior capstone performance or creative project for the Bachelor of Arts in Music. A proposal for||
 ||the senior project must be submitted for approval. Refer to the School of Music & Performing Arts||
-||Handbook for guidelines and deadlines.CONSENT: Department.OFFERED: Each semester.||
-|4955 |Senior Presentation|3 hrs. (3, 0)|
+||Handbook for guidelines and deadlines.Consent: Department.Offered: Each semester.||
+|4955 |Senior Presentation|3 hours (3,0)|
 ||Senior capstone presentation for the Bachelor of Arts in Music. A proposal for the senior presentation||
 ||must be submitted for approval. Refer to the School of Music & Performing Arts Handbook for||
-||guidelines and deadlines.CONSENT: Department.OFFERED: Each semester.||
-
-
+||guidelines and deadlines.Consent: Department.Offered: Each semester.||
 
 Anderson University Undergraduate Catalog 2025-26 
 
@@ -2073,130 +2040,122 @@ Anderson University Undergraduate Catalog 2025-26
 
 _Music Business Courses_ 
 
-|2010 |Introduction to the Music Business|3 hrs. (3, 0)|
+|2010 |Introduction to the Music Business|3 hours (3,0)|
 |---|---|---|
 ||Overview of major players in the recording industry: record labels, Billboard charts, music distribution,||
 ||and professional trade organizations. Also explores types of producers, artist management, booking,||
-||and concert promotion.OFFERED: Sem. I.||
-|2020 |Introduction to Music Publishing|3 hrs. (3, 0)|
+||and concert promotion.Offered: Semester I.||
+|2020 |Introduction to Music Publishing|3 hours (3,0)|
 ||Overview of major players in the publishing industry. Copyright basics and revenue streams, including||
-||licensing music for recordings, performances, ringtones, television, flm, video games, etc.OFFERED:||
-||Sem. II.||
-|2050 |Jazz and Commercial Arranging|2 hrs. (2, 0)|
-||Techniques of arranging for large and small studio/jazz ensembles.PREREQUISITE: MUSC 1020, 1040.||
-||OFFERED: With suffcient demand.||
-|2070 |Songwriting|2 hrs. (2, 0)|
+||licensing music for recordings, performances, ringtones, television, flm, video games, etc.Offered:||
+||Semester II.||
+|2050 |Jazz and Commercial Arranging|2 hours (2,0)|
+||Techniques of arranging for large and small studio/jazz ensembles.Prerequisite: MUSC 1020,1040.||
+||Offered: With suffcient demand.||
+|2070 |Songwriting|2 hours (2,0)|
 ||Techniques, philosophy, and principles of composing songs for various markets with emphasis on||
 ||communication through effective lyrics. Also discusses related aspects of publishing, marketing,||
-||promotion, and copyright law.PREREQUISITE: MUSC 1010, 1030.OFFERED: Sem. I.||
-|3100 |Artist Development|2 hrs. (2, 0)|
+||promotion, and copyright law.Prerequisite: MUSC 1010,1030.Offered: Semester I.||
+|3100 |Artist Development|2 hours (2,0)|
 ||Explores the development of the musical artist within the context of the music industry. Investigates||
 ||the many forces of the music business that infuence and shape the artist and the artistic product.||
-||PREREQUISITE: MUBS 2010, 2020.OFFERED: Sem. II.||
-|3210 |Recording Techniques<br>3 hrs. (3, 1)||
+||Prerequisite: MUBS 2010,2020.Offered: Semester II.||
+|3210 |Recording Techniques<br>3 hours (3,1)||
 ||Introduction to audio technology, studio recording equipment, signal fow, studio session procedures,||
-||and recording production.OFFERED: Sem. I.||
-|3220 |Advanced Recording Techniques<br>2 hrs. (2, 1)||
+||and recording production.Offered: Semester I.||
+|3220 |Advanced Recording Techniques<br>2 hours (2,1)||
 ||Guided experiences in audio recording techniques. Emphasis on recording projects using digital multi-||
 ||track recording; MIDI sequencing; digital signal processing; and computer- based editing, mixing, and||
-||mastering.OFFERED: Sem. II.||
-|3310 |Legal Aspects of the Music Business|2 hrs. (2, 0)|
-||Selected topics in copyright management, music licensing, and publishing contracts.PREREQUISITE:||
-||MUBS 2010, 2020.SAME AS:BSNS 3320.||
-|3350 |Music Marketing|3 hrs. (3, 0)|
+||mastering.Offered: Semester II.||
+|3310 |Legal Aspects of the Music Business|2 hours (2,0)|
+||Selected topics in copyright management, music licensing, and publishing contracts.Prerequisite:||
+||MUBS 2010,2020.SAME AS:BSNS 3320.||
+|3350 |Music Marketing|3 hours (3,0)|
 ||Students will identify the mix tools that are available for a music marketer to use when developing a||
 ||music brand and affliate marketing plan. Students will learn the theoretical and practical mechanisms||
 ||involved in understanding the needs, wants and classifcations of music consumption and will gain an||
 ||appreciation of how internal competencies and the external environment impact the execution of||
-||music marketing plans.PREREQUISITE: MUBS 2010, 2020.SAME AS:BSNS 3330.OFFERED: Sem. I.||
-|3370 |Record Production|2 hrs. (2, 0)|
+||music marketing plans.Prerequisite: MUBS 2010,2020.SAME AS:BSNS 3330.Offered: Semester I.||
+|3370 |Record Production|2 hours (2,0)|
 ||Examines the role of the producer and music production techniques required to create a successful||
-||recording.PREREQUISITEOR COREQUISITE:MUBS 3220.OFFERED: Sem. II.||
-|3380 |Concert Booking and Promotion|2 hrs. (2, 0)|
+||recording.PREREQUISITEOR Corequisite:MUBS 3220.Offered: Semester II.||
+|3380 |Concert Booking and Promotion|2 hours (2,0)|
 ||Examines the role of the concert promoter, booking agents, and support organizations.||
-||PREREQUISITE: MUBS 2010, 2020.OFFERED: Sem. II.||
-|3450 |Live Sound Production|2 hrs. (2, 0)|
+||Prerequisite: MUBS 2010,2020.Offered: Semester II.||
+|3450 |Live Sound Production|2 hours (2,0)|
 ||Students explore the acoustical, musical, and technical aspects of live performance to learn how to||
 ||present the best possible sound to an audience. Emphasizes instrumental and vocal sound production,||
 ||microphones, equalization, and dynamics processing, enabling students to build their own mixes that||
-||conform to a high standard for sonic quality, blend, and authenticity.OFFERED: With suffcient demand.||
-|3470 |DIY for Musicians|2 hrs. (2, 0)|
+||conform to a high standard for sonic quality, blend, and authenticity.Offered: With suffcient demand.||
+|3470 |DIY for Musicians|2 hours (2,0)|
 ||Practical application of skills necessary for a successful career as a musician, songwriter, or producer.||
 ||Explores developing a career plan, fnding employment opportunities, networking, and the creation of||
-||professional quality promotional materials.PREREQUISITE:Upper-division standing; music major or||
-||minor.OFFERED: Every year.||
-|3500 |Current Topics in Music Business|1 hr. (1, 0)|
+||professional quality promotional materials.Prerequisite:Upper-division standing; music major or||
+||minor.Offered: Every year.||
+|3500 |Current Topics in Music Business|1 hour (1,0)|
 ||Guided writing assignments and class presentations focusing on current topics of interest to students||
 ||of the music business. The writing process will involve developing a topic proposal, an abstract, an||
 ||annotated list of sources, and a project outline, as well as composing a moderate-length term paper to||
-||be presented to the class.PREREQUISITE: MUBS 2010, 2020.OFFERED: With suffcient demand.||
-
-
+||be presented to the class.Prerequisite: MUBS 2010,2020.Offered: With suffcient demand.||
 
 Anderson University Undergraduate Catalog 2025-26 
 
 45 
 
-## MUBS (cont.) 
-
 |MUBS(cont.)||
 |---|---|
-|3550 Audio Enhancement and Authentication|3 hrs. (3, 0)|
+|3550 Audio Enhancement and Authentication|3 hours (3,0)|
 |Students explore digital evidence tools, including Electric Frequency Analysis (ENF) for validating||
 |audio recordings, adaptive flters for noise reduction, and discrete Fourier transforms to aid in the||
 |recovery of digital audio. Emphasizes authenticity of audio evidence and enhancement to improve||
-|speech intelligibility, audibility of low-level sounds, and identifcation of sonic evidence.OFFERED:||
+|speech intelligibility, audibility of low-level sounds, and identifcation of sonic evidence.Offered:||
 |With suffcient demand.||
-|4500Songwriter Showcase|1 hr. (arranged)|
-|Senior songwriters present a showcase of original works.CONSENT: Instructor.||
-|4800Internship in Music Business<br>1-3|hrs. (arranged)|
+|4500Songwriter Showcase|1 hour (arranged)|
+|Senior songwriters present a showcase of original works.Consent: Instructor.||
+|4800Internship in Music Business<br>1-3|hours (arranged)|
 |In-depth experience in the selected music industry tailored to the ability and needs of the student.||
-|PREREQUISITE: MUBS 2010, 2020.REPEAT: May be repeated.GRADE: CR/NC.OFFERED: Sem. I, II;||
+|Prerequisite: MUBS 2010,2020.Repeat: May be repeated.Grade: CR/NC.Offered: Semester I, II;||
 |Summer.||
-|4850Practicum in Audio Forensics|3 hrs. (3, 0)|
+|4850Practicum in Audio Forensics|3 hours (3,0)|
 |Capstone audio forensics project for Music Business majors focusing on audio forensics. A project||
 |proposal must be submitted to the department for approval and should include the collection,||
-|interpretation, and presentation of audio evidence from a sound recording.OFFERED: Sem. I, II;||
+|interpretation, and presentation of audio evidence from a sound recording.Offered: Semester I, II;||
 |Summer.||
-|4870 Practicum in Record Production|3 hrs. (3, 0)|
+|4870 Practicum in Record Production|3 hours (3,0)|
 |Capstone recording project for Music Business majors focusing on record production. A project||
 |proposal must be submitted to the department for approval and should include tracking, editing,||
-|mixing, and mastering of a recording to be commercially released.OFFERED: Sem. I, II; Summer.||
-|4900Recording Label Seminar|1-2 hrs. (1-2, 0)|
+|mixing, and mastering of a recording to be commercially released.Offered: Semester I, II; Summer.||
+|4900Recording Label Seminar|1-2 hours (1-2,0)|
 |Senior capstone course for music business majors. Focuses on selection, recording, management,||
-|and promotion of record label artists and projects. EXPECTATION: Typically taken for two semesters||
-|in the senior year.REPEAT: May be repeated (total credit toward the music business major not to||
-|exceed 4 hours).PREREQUISITE: MUBS 2010, 2020.OFFERED: Sem. I, II.||
-|4950Recording Project|3 hrs. (3, 0)|
+|and promotion of record label artists and projects. Expectation: Typically taken for two semesters||
+|in the senior year.Repeat: May be repeated (total credit toward the music business major not to||
+|exceed 4 hours).Prerequisite: MUBS 2010,2020.Offered: Semester I, II.||
+|4950Recording Project|3 hours (3,0)|
 |Senior capstone recording project for students focusing on audio forensics / record production in the||
 |Music Business major. The recording project must be specifc to the track, and a proposal must be||
-|submitted to the department for approval.PREREQUISITE: MUBS 3210, 3220.OFFERED: Sem. I, II.||
-
-
+|submitted to the department for approval.Prerequisite: MUBS 3210,3220.Offered: Semester I, II.||
 
 ## MUBS 
 
 _Additional Music Business Courses_ 
 
-|1650 Independent Study|1-4 hrs. (arranged)|
+|1650 Independent Study|1-4 hours (arranged)|
 |---|---|
 |Opportunities for individualized study as agreed upon by student and faculty member.||
-|REPEAT: May be repeated (total credit not to exceed 4 hours).||
-|2650Independent Study|1-4 hrs. (arranged)|
+|Repeat: May be repeated (total credit not to exceed 4 hours).||
+|2650Independent Study|1-4 hours (arranged)|
 |Opportunities for individualized study as agreed upon by student and faculty member.||
-|REPEAT: May be repeated (total credit not to exceed 4 hours).||
-|3650Independent Study|1-4 hrs. (arranged)|
+|Repeat: May be repeated (total credit not to exceed 4 hours).||
+|3650Independent Study|1-4 hours (arranged)|
 |Opportunities for individualized study as agreed upon by student and faculty member.||
-|REPEAT: May be repeated (total credit not to exceed 4 hours).||
-|4650Independent Study|1-4 hrs. (arranged)|
+|Repeat: May be repeated (total credit not to exceed 4 hours).||
+|4650Independent Study|1-4 hours (arranged)|
 |Opportunities for individualized study as agreed upon by student and faculty member.||
-|REPEAT: May be repeated (total credit not to exceed 4 hours).||
-|4660International Experience in the Arts|1-4 hrs. (arranged)|
+|Repeat: May be repeated (total credit not to exceed 4 hours).||
+|4660International Experience in the Arts|1-4 hours (arranged)|
 |Designed to provide academic credit for coursework and assignments completed in conjunction||
-|with an international experience offered through the TRI-S program.REPEAT: May be repeated||
+|with an international experience offered through the TRI-S program.Repeat: May be repeated||
 |(total credit not to exceed 4 hours).||
-
-
 
 Anderson University Undergraduate Catalog 2025-26 
 
@@ -2206,122 +2165,114 @@ Anderson University Undergraduate Catalog 2025-26
 
 _Music Education Courses_ 
 
-|1000 Introduction to Music Education|2 hrs. (2, 0)|
+|1000 Introduction to Music Education|2 hours (2,0)|
 |---|---|
 |Overview of the professional opportunities and challenges of teaching music in public and private||
-|schools. Includes feld experiences. Grade of C or better required.OFFERED: Sem. II.||
-|1100 String Techniques|1 hr. (2, 0)|
-|OFFERED: Sem. I.||
-|1200 Woodwind Techniques|1 hr. (2, 0)|
-|OFFERED: Sem. I.||
-|1300 Brass Techniques|1 hr. (2, 0)|
-|OFFERED: Sem. II.||
-|1400 Percussion Techniques|1 hr. (2, 0)|
-|OFFERED: Sem. II.||
-|2110 Music for the Elementary Classroom|2 hrs. (2, 0)|
+|schools. Includes feld experiences. Grade of C or better required.Offered: Semester II.||
+|1100 String Techniques|1 hour (2,0)|
+|Offered: Semester I.||
+|1200 Woodwind Techniques|1 hour (2,0)|
+|Offered: Semester I.||
+|1300 Brass Techniques|1 hour (2,0)|
+|Offered: Semester II.||
+|1400 Percussion Techniques|1 hour (2,0)|
+|Offered: Semester II.||
+|2110 Music for the Elementary Classroom|2 hours (2,0)|
 |Basic skills, materials, and methods for using music to aid child development, enhance learning, and||
-|encourage creativity in the elementary classroom.PREREQUISITE: Elementary education major.||
-|OFFERED: Each semester.||
-|2470 Introduction to Conducting|2 hrs. (3, 0)|
+|encourage creativity in the elementary classroom.Prerequisite: Elementary education major.||
+|Offered: Each semester.||
+|2470 Introduction to Conducting|2 hours (3,0)|
 |Fundamentals of conducting, including beat patterns and styles, baton technique, starts, stops, cues,||
 |symmetric and asymmetric meters, dynamic shaping, use of left hand, and score reading.||
-|PREREQUISITE: MUSC 1010.OFFERED: Sem. I.||
-|2510 Singer’s Diction I|2 hrs. (2, 0)|
+|Prerequisite: MUSC 1010.Offered: Semester I.||
+|2510 Singer’s Diction I|2 hours (2,0)|
 |Fundamentals and usage of the International Phonetic Alphabet as applied to Italian and German.||
-|OFFERED: Sem. II.||
-|2520Singer’s Diction II|2 hrs. (2, 0)|
+|Offered: Semester II.||
+|2520Singer’s Diction II|2 hours (2,0)|
 |Fundamentals and usage of the International Phonetic Alphabet as applied to French and English.||
-|OFFERED: Sem. I.||
-|3100 Music in the Middle School|3 hrs. (3, 0)|
+|Offered: Semester I.||
+|3100 Music in the Middle School|3 hours (3,0)|
 |Materials and methods used for middle school general music and beginning choral and instrumental||
 |instruction. Includes study of early adolescent student development as it relates to music. Grade of C||
-|or better required.EXPECTATION: Successful completion of _UDPE_. OFFERED: Sem. I.||
-|3110 Music in the Elementary School|3 hrs. (3, 0)|
+|or better required.Expectation: Successful completion of _UDPE_. Offered: Semester I.||
+|3110 Music in the Elementary School|3 hours (3,0)|
 |Materials and methods of teaching music in the elementary school. Observation opportunities for||
-|music majors.EXPECTATION: Successful completion of_UDPE_.OFFERED: Sem. I.||
-|3120 Vocal Music in the Secondary School|3 hrs. (3, 0)|
+|music majors.Expectation: Successful completion of_UDPE_.Offered: Semester I.||
+|3120 Vocal Music in the Secondary School|3 hours (3,0)|
 |Materials and methods of teaching choral music in the secondary school. Observation opportunities||
-|for music majors.EXPECTATION: Successful completion of _UDPE_. OFFERED: Sem. II.||
-|3130 Instrumental Music Education|3 hrs. (3, 0)|
+|for music majors.Expectation: Successful completion of _UDPE_. Offered: Semester II.||
+|3130 Instrumental Music Education|3 hours (3,0)|
 |Materials and methods available for instrumental groups at elementary and secondary levels.||
-|Observation opportunities for music majors.EXPECTATION: Successful completion of _UDPE_.||
-|COREQUISITE: EDUC 4710.OFFERED: Sem. I.||
-|3330Instrumental Pedagogy|2 hrs. (2, 0)|
+|Observation opportunities for music majors.Expectation: Successful completion of _UDPE_.||
+|Corequisite: EDUC 4710.Offered: Semester I.||
+|3330Instrumental Pedagogy|2 hours (2,0)|
 |Basic principles of instrumental playing, materials, and methods for teaching various instruments||
-|from elementary to advanced students.EXPECTATION: Successful completion of _UDPE_.||
-|PREREQUISITE: MUED 1100, 1200, 1300.OFFERED: Sem. II.||
-|3350Voice Pedagogy|2 hrs. (2, 0)|
+|from elementary to advanced students.Expectation: Successful completion of _UDPE_.||
+|Prerequisite: MUED 1100,1200,1300.Offered: Semester II.||
+|3350Voice Pedagogy|2 hours (2,0)|
 |Preparation in methods used in the art of singing through the organization of vocal terminology and||
-|techniques. Includes teaching experience.EXPECTATION: Successful completion of _UDPE_. OFFERED:||
-|Sem. I.||
-|3360Issues in Voice Pedagogy|1 hr. (1, 0)|
+|techniques. Includes teaching experience.Expectation: Successful completion of _UDPE_. Offered:||
+|Semester I.||
+|3360Issues in Voice Pedagogy|1 hour (1,0)|
 |Seminar focuses on special problems and topics in voice pedagogy from MUED 3350. Includes class||
 |voice instruction, mentored voice teaching experiences, master-class techniques, and studio||
-|management.COREQUISITE: MUED 3350.OFFERED: Sem. I.||
-|3370 Piano Pedagogy|2 hrs. (2, 0)|
+|management.Corequisite: MUED 3350.Offered: Semester I.||
+|3370 Piano Pedagogy|2 hours (2,0)|
 |Representative methods and materials for early years of keyboard study. Includes teaching||
-|experience.EXPECTATION: Successful completion of_UDPE_.OFFERED: Sem. I.||
-
-
+|experience.Expectation: Successful completion of_UDPE_.Offered: Semester I.||
 
 Anderson University Undergraduate Catalog 2025-26 
 
 47 
 
-## MUED (cont.) 
-
 |MUED (cont.)||
 |---|---|
-|3460Advanced Instrumental Techniques|2 hrs. (2, 0)|
+|3460Advanced Instrumental Techniques|2 hours (2,0)|
 |Focuses on performance techniques and pedagogy related to technically demanding instruments.||
 |Designed to give students an in-depth understanding of highly specialized instruments.||
-|EXPECTATION: Successful completion of_UDPE_.PREREQUISITE: MUED 1200, 1300.OFFERED: Sem. I.||
-|3470Advanced Choral Conducting|2 hrs. (3, 0)|
+|Expectation: Successful completion of_UDPE_.Prerequisite: MUED 1200,1300.Offered: Semester I.||
+|3470Advanced Choral Conducting|2 hours (3,0)|
 |Advanced conducting technique, choral diction, choral tone, body alignment, breathing technique,||
-|interpretation, rehearsal technique, and stylistic elements.PREREQUISITE: MUSC 2020, MUED 2470.||
-|OFFERED: Sem. II.||
-|3480Advanced Instrumental Conducting|2 hrs. (3, 0)|
+|interpretation, rehearsal technique, and stylistic elements.Prerequisite: MUSC 2020, MUED 2470.||
+|Offered: Semester II.||
+|3480Advanced Instrumental Conducting|2 hours (3,0)|
 |Baton technique, score reading, performance, rehearsal techniques, psychology of conducting.||
-|EXPECTATION: Ability to play an orchestral instrument.PREREQUISITE: MUED 2470.OFFERED: Sem.||
+|Expectation: Ability to play an orchestral instrument.Prerequisite: MUED 2470.Offered: Semester||
 |I.||
-|3930Seminar in German Diction|1 hr. (1, 0)|
+|3930Seminar in German Diction|1 hour (1,0)|
 |Seminar focuses on special problems and topics in German lyric diction. Conducted in a master-class||
-|format, the seminar includes both oral and written participation.PREREQUISITE: MUED 2510, 2520.||
-|OFFERED: With suffcient demand.||
-|3940Seminar in French Diction|1 hr. (1, 0)|
+|format, the seminar includes both oral and written participation.Prerequisite: MUED 2510,2520.||
+|Offered: With suffcient demand.||
+|3940Seminar in French Diction|1 hour (1,0)|
 |Seminar focuses on special problems and topics in French lyric diction. Conducted in a master-class||
-|format, the seminar includes both oral and written participation.PREREQUISITE: MUED 2510, 2520.||
-|OFFERED: With suffcient demand.||
-|4700 Methods of Teaching Music in the Public Schools|2 hrs. (2, 0)|
+|format, the seminar includes both oral and written participation.Prerequisite: MUED 2510,2520.||
+|Offered: With suffcient demand.||
+|4700 Methods of Teaching Music in the Public Schools|2 hours (2,0)|
 |Taught in conjunction with the professional semester. Materials and methods adapted to the specifc||
-|areas and levels in which students are involved in student teaching.PREREQUISITE: MUED 3110, 3120,||
-|3130.OFFERED: Each semester.||
-
-
+|areas and levels in which students are involved in student teaching.Prerequisite: MUED 3110,3120,||
+|3130.Offered: Each semester.||
 
 ## MUED 
 
 _Additional Music Education Courses_ 
 
-|1650 Independent Study|1-4 hrs. (arranged)|
+|1650 Independent Study|1-4 hours (arranged)|
 |---|---|
 |Opportunities for individualized study as agreed upon by student and faculty member.||
-|REPEAT: May be repeated (total credit not to exceed 4 hours).||
-|2650Independent Study|1-4 hrs. (arranged)|
+|Repeat: May be repeated (total credit not to exceed 4 hours).||
+|2650Independent Study|1-4 hours (arranged)|
 |Opportunities for individualized study as agreed upon by student and faculty member.||
-|REPEAT: May be repeated (total credit not to exceed 4 hours).||
-|3650Independent Study|1-4 hrs. (arranged)|
+|Repeat: May be repeated (total credit not to exceed 4 hours).||
+|3650Independent Study|1-4 hours (arranged)|
 |Opportunities for individualized study as agreed upon by student and faculty member.||
-|REPEAT: May be repeated (total credit not to exceed 4 hours).||
-|4650Independent Study|1-4 hrs. (arranged)|
+|Repeat: May be repeated (total credit not to exceed 4 hours).||
+|4650Independent Study|1-4 hours (arranged)|
 |Opportunities for individualized study as agreed upon by student and faculty member.||
-|REPEAT: May be repeated (total credit not to exceed 4 hours).||
-|4660International Experience in the Arts|1-4 hrs. (arranged)|
+|Repeat: May be repeated (total credit not to exceed 4 hours).||
+|4660International Experience in the Arts|1-4 hours (arranged)|
 |Designed to provide academic credit for coursework and assignments completed in conjunction||
-|with an international experience offered through the TRI-S program.REPEAT: May be repeated||
+|with an international experience offered through the TRI-S program.Repeat: May be repeated||
 |(total credit not to exceed 4 hours).||
-
-
 
 Anderson University Undergraduate Catalog 2025-26 
 
@@ -2331,16 +2282,14 @@ Anderson University Undergraduate Catalog 2025-26
 
 _Music Performance Courses_ 
 
-|Private Study|— Half Recitals (25-30 minutes)<br>REPEAT: May be repeated.|— Half Recitals (25-30 minutes)<br>REPEAT: May be repeated.|
+|Private Study|— Half Recitals (25-30 minutes)<br>Repeat: May be repeated.|— Half Recitals (25-30 minutes)<br>Repeat: May be repeated.|
 |---|---|---|
-|3540|Voice Recital|1 hr. (1, 1)|
-|3550|Keyboard Recital|1 hr. (1, 1)|
-|3560|String/Guitar/Harp Recital|1 hr. (1, 1)|
-|3570|Woodwind Recital|1 hr. (1, 1)|
-|3580|Brass Recital|1 hr. (1, 1)|
-|3590|Percussion Recital|1 hr. (1, 1)|
-
-
+|3540|Voice Recital|1 hour (1,1)|
+|3550|Keyboard Recital|1 hour (1,1)|
+|3560|String/Guitar/Harp Recital|1 hour (1,1)|
+|3570|Woodwind Recital|1 hour (1,1)|
+|3580|Brass Recital|1 hour (1,1)|
+|3590|Percussion Recital|1 hour (1,1)|
 
 |Private Study|— Full Recitals (50-60 minutes)|
 |---|---|
@@ -2351,103 +2300,95 @@ _Music Performance Courses_
 |4580|Brass Recital|
 |4590|Percussion Recital|
 
-
-
-REPEAT: May be repeated. 2 hrs. (2, 1) 2 hrs. (2, 1) 2 hrs. (2, 1) 2 hrs. (2, 1) 2 hrs. (2, 1) 2 hrs. (2, 1) 
+Repeat: May be repeated. 2 hours (2,1) 2 hours (2,1) 2 hours (2,1) 2 hours (2,1) 2 hours (2,1) 2 hours (2,1) 
 
 ## Applied Lessons — Half-Hour, Lower-Division Study 
 
-REPEAT: May be repeated. 
+Repeat: May be repeated. 
 
-|Lesso|ns — Half-Hour, Lower-Division Study|REPEAT: May be re|
+|Lesso|ns — Half-Hour, Lower-Division Study|Repeat: May be re|
 |---|---|---|
-|1700|Voice|1 hr. (1, 1)|
-|1710|Piano|1 hr. (1, 1)|
-|1720|Harpsichord|1 hr. (1, 1)|
-|1730|Organ|1 hr. (1, 1)|
-|1740|Violin|1 hr. (1, 1)|
-|1750|Viola|1 hr. (1, 1)|
-|1760|Cello|1 hr. (1, 1)|
-|1770|Bass|1 hr. (1, 1)|
-|1780|Flute/Piccolo|1 hr. (1, 1)|
-|1790|Clarinet|1 hr. (1, 1)|
-|1800|Oboe/English Horn|1 hr. (1, 1)|
-|1810|Bassoon|1 hr. (1, 1)|
-|1820|Saxophone|1 hr. (1, 1)|
-|1830|Trumpet/Cornet|1 hr. (1, 1)|
-|1840|French Horn|1 hr. (1, 1)|
-|1850|Trombone|1 hr. (1, 1)|
-|1860|Baritone/Euphonium|1 hr. (1, 1)|
-|1870|Tuba|1 hr. (1, 1)|
-|1880|Percussion|1 hr. (1, 1)|
-|1885|Harp|1 hr. (1, 1)|
-|1890|Guitar|1 hr. (1, 1)|
-|1900|Composition|1 hr. (1, 1)|
-|1905|Songwriting|1 hr. (1, 1)|
-
-
+|1700|Voice|1 hour (1,1)|
+|1710|Piano|1 hour (1,1)|
+|1720|Harpsichord|1 hour (1,1)|
+|1730|Organ|1 hour (1,1)|
+|1740|Violin|1 hour (1,1)|
+|1750|Viola|1 hour (1,1)|
+|1760|Cello|1 hour (1,1)|
+|1770|Bass|1 hour (1,1)|
+|1780|Flute/Piccolo|1 hour (1,1)|
+|1790|Clarinet|1 hour (1,1)|
+|1800|Oboe/English Horn|1 hour (1,1)|
+|1810|Bassoon|1 hour (1,1)|
+|1820|Saxophone|1 hour (1,1)|
+|1830|Trumpet/Cornet|1 hour (1,1)|
+|1840|French Horn|1 hour (1,1)|
+|1850|Trombone|1 hour (1,1)|
+|1860|Baritone/Euphonium|1 hour (1,1)|
+|1870|Tuba|1 hour (1,1)|
+|1880|Percussion|1 hour (1,1)|
+|1885|Harp|1 hour (1,1)|
+|1890|Guitar|1 hour (1,1)|
+|1900|Composition|1 hour (1,1)|
+|1905|Songwriting|1 hour (1,1)|
 
 Anderson University Undergraduate Catalog 2025-26 
 
 49 
 
-## MUPF (cont.) 
-
 Applied Lessons — Half-Hour, Upper-Division Study 
 
-## REPEAT: May be repeated. 
+## Repeat May be repeated. 
 
-|Lesso|ns — Half-Hour, Upper-Division Study|REPEAT: May be repeated.|
+|Lesso|ns — Half-Hour, Upper-Division Study|Repeat: May be repeated.|
 |---|---|---|
-|3700|Voice|1 hr. (1, 1)|
-|3710|Piano|1 hr. (1, 1)|
-|3720|Harpsichord|1 hr. (1, 1)|
-|3730|Organ|1 hr. (1, 1)|
-|3740|Violin|1 hr. (1, 1)|
-|3750|Viola|1 hr. (1, 1)|
-|3760|Cello|1 hr. (1, 1)|
-|3770|Bass|1 hr. (1, 1)|
-|3780|Flute/Piccolo|1 hr. (1, 1)|
-|3790|Clarinet|1 hr. (1, 1)|
-|3800|Oboe/English Horn|1 hr. (1, 1)|
-|3810|Bassoon|1 hr. (1, 1)|
-|3820|Saxophone|1 hr. (1, 1)|
-|3830|Trumpet/Cornet|1 hr. (1, 1)|
-|3840|French Horn|1 hr. (1, 1)|
-|3850|Trombone|1 hr. (1, 1)|
-|3860|Baritone/Euphonium|1 hr. (1, 1)|
-|3870|Tuba|1 hr. (1, 1)|
-|3880|Percussion|1 hr. (1, 1)|
-|3885|Harp|1 hr. (1, 1)|
-|3890|Guitar|1 hr. (1, 1)|
-|3900|Composition|1 hr. (1, 1)|
-|3905|Songwriting|1 hr. (1, 1)|
-|Lessons — One Hour, Lower-Division Study<br>REPEAT: May be repeated.|||
-|2700|Voice|1-3 hrs. (1-3, 0)|
-|2710|Piano|1-3 hrs. (1-3, 0)|
-|2720|Harpsichord|1-3 hrs. (1-3, 0)|
-|2730|Organ|1-3 hrs. (1-3, 0)|
-|2740|Violin|1-3 hrs. (1-3, 0)|
-|2750|Viola|1-3 hrs. (1-3, 0)|
-|2760|Cello|1-3 hrs. (1-3, 0)|
-|2770|Bass|1-3 hrs. (1-3, 0)|
-|2780|Flute/Piccolo|1-3 hrs. (1-3, 0)|
-|2790|Clarinet|1-3 hrs. (1-3, 0)|
-|2800|Oboe/English Horn|1-3 hrs. (1-3, 0)|
-|2810|Bassoon|1-3 hrs. (1-3, 0)|
-|2820|Saxophone|1-3 hrs. (1-3, 0)|
-|2830|Trumpet/Cornet|1-3 hrs. (1-3, 0)|
-|2840|French Horn|1-3 hrs. (1-3, 0)|
-|2850|Trombone|1-3 hrs. (1-3, 0)|
-|2860|Baritone/Euphonium|1-3 hrs. (1-3, 0)|
-|2870|Tuba|1-3 hrs. (1-3, 0)|
-|2880|Percussion|1-3 hrs. (1-3, 0)|
-|2885|Harp|1-3 hrs. (1-3, 0)|
-|2890|Guitar|1-3 hrs. (1-3, 0)|
-|2900|Composition|1-3 hrs. (1-3, 0)|
-|2905|Songwriting|1-3 hrs. (1-3, 0)|
-
-
+|3700|Voice|1 hour (1,1)|
+|3710|Piano|1 hour (1,1)|
+|3720|Harpsichord|1 hour (1,1)|
+|3730|Organ|1 hour (1,1)|
+|3740|Violin|1 hour (1,1)|
+|3750|Viola|1 hour (1,1)|
+|3760|Cello|1 hour (1,1)|
+|3770|Bass|1 hour (1,1)|
+|3780|Flute/Piccolo|1 hour (1,1)|
+|3790|Clarinet|1 hour (1,1)|
+|3800|Oboe/English Horn|1 hour (1,1)|
+|3810|Bassoon|1 hour (1,1)|
+|3820|Saxophone|1 hour (1,1)|
+|3830|Trumpet/Cornet|1 hour (1,1)|
+|3840|French Horn|1 hour (1,1)|
+|3850|Trombone|1 hour (1,1)|
+|3860|Baritone/Euphonium|1 hour (1,1)|
+|3870|Tuba|1 hour (1,1)|
+|3880|Percussion|1 hour (1,1)|
+|3885|Harp|1 hour (1,1)|
+|3890|Guitar|1 hour (1,1)|
+|3900|Composition|1 hour (1,1)|
+|3905|Songwriting|1 hour (1,1)|
+|Lessons — One Hour, Lower-Division Study<br>Repeat: May be repeated.|||
+|2700|Voice|1-3 hours (1-3,0)|
+|2710|Piano|1-3 hours (1-3,0)|
+|2720|Harpsichord|1-3 hours (1-3,0)|
+|2730|Organ|1-3 hours (1-3,0)|
+|2740|Violin|1-3 hours (1-3,0)|
+|2750|Viola|1-3 hours (1-3,0)|
+|2760|Cello|1-3 hours (1-3,0)|
+|2770|Bass|1-3 hours (1-3,0)|
+|2780|Flute/Piccolo|1-3 hours (1-3,0)|
+|2790|Clarinet|1-3 hours (1-3,0)|
+|2800|Oboe/English Horn|1-3 hours (1-3,0)|
+|2810|Bassoon|1-3 hours (1-3,0)|
+|2820|Saxophone|1-3 hours (1-3,0)|
+|2830|Trumpet/Cornet|1-3 hours (1-3,0)|
+|2840|French Horn|1-3 hours (1-3,0)|
+|2850|Trombone|1-3 hours (1-3,0)|
+|2860|Baritone/Euphonium|1-3 hours (1-3,0)|
+|2870|Tuba|1-3 hours (1-3,0)|
+|2880|Percussion|1-3 hours (1-3,0)|
+|2885|Harp|1-3 hours (1-3,0)|
+|2890|Guitar|1-3 hours (1-3,0)|
+|2900|Composition|1-3 hours (1-3,0)|
+|2905|Songwriting|1-3 hours (1-3,0)|
 
 Applied Lessons — One Hour, Lower-Division Study 
 
@@ -2455,141 +2396,128 @@ Anderson University Undergraduate Catalog 2025-26
 
 50 
 
-## MUPF (cont.) 
-
 ## Applied Lessons — One Hour, Upper-Division Study 
 
-|Lessons — One Hour, Upper-Division Study<br>REPEAT: May be repeated.|Lessons — One Hour, Upper-Division Study<br>REPEAT: May be repeated.|Lessons — One Hour, Upper-Division Study<br>REPEAT: May be repeated.|
+|Lessons — One Hour, Upper-Division Study<br>Repeat: May be repeated.|Lessons — One Hour, Upper-Division Study<br>Repeat: May be repeated.|Lessons — One Hour, Upper-Division Study<br>Repeat: May be repeated.|
 |---|---|---|
-|4700|Voice|1-3 hrs. (1-3, 0)|
-|4710|Piano|1-3 hrs. (1-3, 0)|
-|4720|Harpsichord|1-3 hrs. (1-3, 0)|
-|4730|Organ|1-3 hrs. (1-3, 0)|
-|4740|Violin|1-3 hrs. (1-3, 0)|
-|4750|Viola|1-3 hrs. (1-3, 0)|
-|4760|Cello|1-3 hrs. (1-3, 0)|
-|4770|Bass|1-3 hrs. (1-3, 0)|
-|4780|Flute/Piccolo|1-3 hrs. (1-3, 0)|
-|4790|Clarinet|1-3 hrs. (1-3, 0)|
-|4800|Oboe/English Horn|1-3 hrs. (1-3, 0)|
-|4810|Bassoon|1-3 hrs. (1-3, 0)|
-|4820|Saxophone|1-3 hrs. (1-3, 0)|
-|4830|Trumpet/Cornet|1-3 hrs. (1-3, 0)|
-|4840|French Horn|1-3 hrs. (1-3, 0)|
-|4850|Trombone|1-3 hrs. (1-3, 0)|
-|4860|Baritone/Euphonium|1-3 hrs. (1-3, 0)|
-|4870|Tuba|1-3 hrs. (1-3, 0)|
-|4880|Percussion|1-3 hrs. (1-3, 0)|
-|4885|Harp|1-3 hrs. (1-3, 0)|
-|4890|Guitar|1-3 hrs. (1-3, 0)|
-|4900|Composition|1-3 hrs. (1-3, 0)|
-|4905|Songwriting|1-3 hrs. (1-3, 0)|
-
-
+|4700|Voice|1-3 hours (1-3,0)|
+|4710|Piano|1-3 hours (1-3,0)|
+|4720|Harpsichord|1-3 hours (1-3,0)|
+|4730|Organ|1-3 hours (1-3,0)|
+|4740|Violin|1-3 hours (1-3,0)|
+|4750|Viola|1-3 hours (1-3,0)|
+|4760|Cello|1-3 hours (1-3,0)|
+|4770|Bass|1-3 hours (1-3,0)|
+|4780|Flute/Piccolo|1-3 hours (1-3,0)|
+|4790|Clarinet|1-3 hours (1-3,0)|
+|4800|Oboe/English Horn|1-3 hours (1-3,0)|
+|4810|Bassoon|1-3 hours (1-3,0)|
+|4820|Saxophone|1-3 hours (1-3,0)|
+|4830|Trumpet/Cornet|1-3 hours (1-3,0)|
+|4840|French Horn|1-3 hours (1-3,0)|
+|4850|Trombone|1-3 hours (1-3,0)|
+|4860|Baritone/Euphonium|1-3 hours (1-3,0)|
+|4870|Tuba|1-3 hours (1-3,0)|
+|4880|Percussion|1-3 hours (1-3,0)|
+|4885|Harp|1-3 hours (1-3,0)|
+|4890|Guitar|1-3 hours (1-3,0)|
+|4900|Composition|1-3 hours (1-3,0)|
+|4905|Songwriting|1-3 hours (1-3,0)|
 
 ## _Class Study_ 
 
-|1010 |Class Lessons in Voice I|1 hr. (1, 0)|
+|1010 |Class Lessons in Voice I|1 hour (1,0)|
 |---|---|---|
-||OFFERED: Sem. I.||
-|1020 |Class Lessons in Voice II|1 hr. (1, 0)|
-||OFFERED: Sem. II.||
-|1030 |Class Lessons in Piano I|1 hr. (1, 0)|
+||Offered: Semester I.||
+|1020 |Class Lessons in Voice II|1 hour (1,0)|
+||Offered: Semester II.||
+|1030 |Class Lessons in Piano I|1 hour (1,0)|
 ||Beginning piano for students not majoring or minoring in music. Enrollment limited to the number of||
-||available keyboards.OFFERED: Sem. I, II.||
-|1040 |Class Lessons in Piano II|1 hr. (1, 0)|
+||available keyboards.Offered: Semester I, II.||
+|1040 |Class Lessons in Piano II|1 hour (1,0)|
 ||Beginning piano for students not majoring or minoring in music. Enrollment limited to the number of||
-||available keyboards.OFFERED: With suffcient demand.||
-|1050 |Keyboard Class I|2 hrs. (2, 0)|
-||For majors and minors with limited piano background.OFFERED: Sem. I, II.||
-|1060 |Keyboard Class II|2 hrs. (2, 0)|
+||available keyboards.Offered: With suffcient demand.||
+|1050 |Keyboard Class I|2 hours (2,0)|
+||For majors and minors with limited piano background.Offered: Semester I, II.||
+|1060 |Keyboard Class II|2 hours (2,0)|
 ||For majors and minors who have completed MUPF 1050 with a grade of C- or better, are enrolled in||
-||private piano, or have exempted MUPF 1050 by examination.EXPECTATION: Grade of C- or better in||
-||MUPF 1050 or exempted by examination.OFFERED: Each semester.||
-|1410 |Class Lessons in Guitar I|1 hr. (1, 0)|
-||REPEAT: May be repeated.OFFERED: Each semester.||
-|1420 |Class Lessons in Guitar II|1 hr. (1, 0)|
-||REPEAT: May be repeated.OFFERED: Each semester.||
-|1500 |World Drumming|1 hr. (1, 0)|
+||private piano, or have exempted MUPF 1050 by examination.Expectation: Grade of C- or better in||
+||MUPF 1050 or exempted by examination.Offered: Each semester.||
+|1410 |Class Lessons in Guitar I|1 hour (1,0)|
+||Repeat: May be repeated.Offered: Each semester.||
+|1420 |Class Lessons in Guitar II|1 hour (1,0)|
+||Repeat: May be repeated.Offered: Each semester.||
+|1500 |World Drumming|1 hour (1,0)|
 ||Experiences in learning history and performance techniques of world percussion. Areas of study will||
 ||include Latin-American, Afro-Cuban, African, and Brazilian drumming, along with cultural and folkloric||
 ||history. No previous percussion experience or instrument required.||
-
-
 
 Anderson University Undergraduate Catalog 2025-26 
 
 51 
 
-## MUPF (cont.) 
-
 |MUPF (cont.)||
 |---|---|
-|1520 Accompanying I|0-1 hrs. (1, 0)|
+|1520 Accompanying I|0-1 hours (1,0)|
 |Study in the art of keyboard accompaniment for voice or instrumental solos and small ensembles.||
-|REPEAT: May be repeated.OFFERED: Sem. I.||
-|1530 Accompanying II|0-1 hrs. (1, 0)|
+|Repeat: May be repeated.Offered: Semester I.||
+|1530 Accompanying II|0-1 hours (1,0)|
 |Study the art of keyboard accompaniment for voice or instrumental solos and small ensembles.||
-|REPEAT: May be repeated. OFFERED: Sem. II.||
-|2030Advanced Small-Group Piano I|1 hr. (1, 0)|
-|OFFERED: With suffcient demand.||
-|2040Advanced Small-Group Piano II|1 hr. (1, 0)|
-|OFFERED: With suffcient demand.||
-|2060Improvisation|2 hrs. (2, 0)|
+|Repeat: May be repeated. Offered: Semester II.||
+|2030Advanced Small-Group Piano I|1 hour (1,0)|
+|Offered: With suffcient demand.||
+|2040Advanced Small-Group Piano II|1 hour (1,0)|
+|Offered: With suffcient demand.||
+|2060Improvisation|2 hours (2,0)|
 |Study of techniques and materials for improvisation through performance.||
-|OFFERED: With suffcient demand.||
-|2140 Embodied Performing: Introduction to the Alexander Technique|2 hrs. (2, 0)|
+|Offered: With suffcient demand.||
+|2140 Embodied Performing: Introduction to the Alexander Technique|2 hours (2,0)|
 |Covers the principles, history, practical and performance-related application of the Alexander||
 |Technique. Body mapping, performance practice, and self-care explored through the lens of the||
-|Alexander Technique.SAME AS:MUTR 2140, THEA 2140, DANC 2140.OFFERED: Sem. I.||
-|4910 Seminar in Audition Techniques|2 hrs. (2, 0)|
+|Alexander Technique.SAME AS:MUTR 2140, THEA 2140, DANC 2140.Offered: Semester I.||
+|4910 Seminar in Audition Techniques|2 hours (2,0)|
 |Seminar on the techniques of the audition process. Auditions covered include graduate school, opera,||
 |concert/oratorio, and musical theatre. Conducted in a master-class format, the seminar includes both||
-|oral and written participation.REPEAT: May be repeated.SAME AS:MUTR 4910.OFFERED: Sem. I.||
-
-
+|oral and written participation.Repeat: May be repeated.SAME AS:MUTR 4910.Offered: Semester I.||
 
 ## _Ensembles_ 
 
-|CONSENT: By|audition|REPEAT: May be repeate|
+|Consent: By|audition|Repeat: May be repeate|
 |---|---|---|
-|1070 |Vola Voce (SSAA Choir)<br>0-1 hrs. (arranged)||
-|1080 |Chorale (SATB Choir)|0-1 hrs. (arranged)|
-|1090 |University Choir|0-1 hrs. (arranged)|
-|1110|Gospel Choir|0-1 hrs. (arranged)|
-|1150 |Opera Production|0-1 hrs. (arranged)|
-|1160 |Musical Theatre Production|0-1 hrs. (arranged)|
-|1170|Intro to Musical Theatre Performance(SAME AS: MUTR 1170) 0-1 hrs. (arranged)||
-|1180 |Vox Corvi (TTBB Choir)|0-1 hrs. (arranged)|
-|1190 |Instrumental Ensemble|0-1 hrs. (arranged)|
-|1210|Duo Piano|0-1 hrs. (arranged)|
-|1220 |Athletic Bands|0-1 hrs. (arranged)|
-|1230 |Jazz Combo|0-1 hrs. (arranged)|
-|1250 |Chamber Winds|0-1 hrs. (arranged)|
-|1260 |Concert Band|0-1 hrs. (arranged)|
-|1270 |Symphonic Wind Ensemble|0-1 hrs. (arranged)|
-|1280 |Jazz Ensemble|0-1 hrs. (arranged)|
-|1290 |Anderson Symphony Orchestra|0-1 hrs. (arranged)|
-|1310 |Anderson Symphonic Choir|0-1 hrs. (arranged)|
-|1330 |Orchestra|0-1 hrs. (arranged)|
-|1350 |Guitar Ensemble|0-1 hrs. (arranged)|
-|1360 |Brass Ensemble|0-1 hrs. (arranged)|
-|1370 |Woodwind Ensemble|0-1 hrs. (arranged)|
-|1380 |String Ensemble|0-1 hrs. (arranged)|
-|1390 |Percussion Ensemble|0-1 hrs. (arranged)|
-|1430 |Handbell Ensemble|0-1 hrs. (arranged)|
-
-
+|1070 |Vola Voce (SSAA Choir)<br>0-1 hours (arranged)||
+|1080 |Chorale (SATB Choir)|0-1 hours (arranged)|
+|1090 |University Choir|0-1 hours (arranged)|
+|1110|Gospel Choir|0-1 hours (arranged)|
+|1150 |Opera Production|0-1 hours (arranged)|
+|1160 |Musical Theatre Production|0-1 hours (arranged)|
+|1170|Intro to Musical Theatre Performance(SAME AS: MUTR 1170) 0-1 hours (arranged)||
+|1180 |Vox Corvi (TTBB Choir)|0-1 hours (arranged)|
+|1190 |Instrumental Ensemble|0-1 hours (arranged)|
+|1210|Duo Piano|0-1 hours (arranged)|
+|1220 |Athletic Bands|0-1 hours (arranged)|
+|1230 |Jazz Combo|0-1 hours (arranged)|
+|1250 |Chamber Winds|0-1 hours (arranged)|
+|1260 |Concert Band|0-1 hours (arranged)|
+|1270 |Symphonic Wind Ensemble|0-1 hours (arranged)|
+|1280 |Jazz Ensemble|0-1 hours (arranged)|
+|1290 |Anderson Symphony Orchestra|0-1 hours (arranged)|
+|1310 |Anderson Symphonic Choir|0-1 hours (arranged)|
+|1330 |Orchestra|0-1 hours (arranged)|
+|1350 |Guitar Ensemble|0-1 hours (arranged)|
+|1360 |Brass Ensemble|0-1 hours (arranged)|
+|1370 |Woodwind Ensemble|0-1 hours (arranged)|
+|1380 |String Ensemble|0-1 hours (arranged)|
+|1390 |Percussion Ensemble|0-1 hours (arranged)|
+|1430 |Handbell Ensemble|0-1 hours (arranged)|
 
 ==> picture [116 x 8] intentionally omitted <==
 
 ----- Start of picture text -----<br>
 ||
 |---|
-|REPEAT: May be repeated.|
+|Repeat: May be repeated.|
 
 ----- End of picture text -----<br>
-
 
 Anderson University Undergraduate Catalog 2025-26 
 
@@ -2599,24 +2527,22 @@ Anderson University Undergraduate Catalog 2025-26
 
 _Additional Music Performance Courses_ 
 
-|1650 Independent Study|1-4 hrs. (arranged)|
+|1650 Independent Study|1-4 hours (arranged)|
 |---|---|
 |Opportunities for individualized study as agreed upon by student and faculty member.||
-|REPEAT: May be repeated (total credit not to exceed 4 hours).||
-|2650Independent Study|1-4 hrs. (arranged)|
+|Repeat: May be repeated (total credit not to exceed 4 hours).||
+|2650Independent Study|1-4 hours (arranged)|
 |Opportunities for individualized study as agreed upon by student and faculty member.||
-|REPEAT: May be repeated (total credit not to exceed 4 hours).||
-|3650Independent Study|1-4 hrs. (arranged)|
+|Repeat: May be repeated (total credit not to exceed 4 hours).||
+|3650Independent Study|1-4 hours (arranged)|
 |Opportunities for individualized study as agreed upon by student and faculty member.||
-|REPEAT: May be repeated (total credit not to exceed 4 hours).||
-|4650Independent Study|1-4 hrs. (arranged)|
+|Repeat: May be repeated (total credit not to exceed 4 hours).||
+|4650Independent Study|1-4 hours (arranged)|
 |Opportunities for individualized study as agreed upon by student and faculty member.||
-|REPEAT: May be repeated (total credit not to exceed  4 hours).||
-|4660International Experience in the Arts|1-4 hrs. (arranged)|
+|Repeat: May be repeated (total credit not to exceed  4 hours).||
+|4660International Experience in the Arts|1-4 hours (arranged)|
 |Designed to provide academic credit for coursework and assignments completed in conjunction||
-|with an international experience offered through the TRI-S program.REPEAT: May be repeated.||
-
-
+|with an international experience offered through the TRI-S program.Repeat: May be repeated.||
 
 ## MUTR 
 
@@ -2624,191 +2550,176 @@ _Additional Music Performance Courses_
 
 |_usical Theatre Courses_|_usical Theatre Courses_|
 |---|---|
-|1170 Intro to Musical Theatre Performance<br>2 hrs. (2,0)||
+|1170 Intro to Musical Theatre Performance<br>2 hours (2,0)||
 |This course prepares students for the artistic demands of the musical stage by developing their||
 |singing, musicality, performance, and professional skills with an emphasis on disciplinary standards||
 |and industry expectations. Students engage in diverse performance opportunities while focusing on||
-|self-discovery, authenticity, and collaboration.OFFERED: Sem. I, II.||
-|1650 Independent Study<br>1-4|hrs. (arranged)|
+|self-discovery, authenticity, and collaboration.Offered: Semester I, II.||
+|1650 Independent Study<br>1-4|hours (arranged)|
 |Opportunities for individualized study as agreed upon by student and faculty member.||
-|REPEAT: May be repeated (total credit not to exceed 4 hours).||
-|2140 Embodied Performing: Introduction to the Alexander Technique|2 hrs. (2, 0)|
+|Repeat: May be repeated (total credit not to exceed 4 hours).||
+|2140 Embodied Performing: Introduction to the Alexander Technique|2 hours (2,0)|
 |Covers the principles, history, practical and performance-related application of the Alexander||
 |Technique. Body mapping, performance practice, and self-care explored through the lens of the||
-|Alexander Technique.SAME AS:MUPF 2140, THEA 2140, DANC 2140.OFFERED: Sem. I.||
-|2250Stage Diction I — Fundamentals|2 hrs. (2, 0)|
+|Alexander Technique.SAME AS:MUPF 2140, THEA 2140, DANC 2140.Offered: Semester I.||
+|2250Stage Diction I — Fundamentals|2 hours (2,0)|
 |Introduces and develops speech techniques for the actor, specifcally in the areas of relaxation, posture||
 |and alignment, respiration, phonation, registration, resonance, and articulation.SAME AS:THEA 2250.||
-|OFFERED: Sem. II.||
-|2410 Movement for the Actor<br>2 hrs. (2, 0)||
+|Offered: Semester II.||
+|2410 Movement for the Actor<br>2 hours (2,0)||
 |Introduction to movement techniques for the actor. This course is designed for a student to enhance||
 |their abilities as a performing artist, actor, public speaker, educator, and more. Areas of focus include||
 |freeing the body, developing a connection to the student’s own body, kinesthetic awareness, relaxation,||
-|and alignment.OFFERED: Sem. I.||
-|2420 Voice Production for the Actor|2 hrs. (2, 0)|
+|and alignment.Offered: Semester I.||
+|2420 Voice Production for the Actor|2 hours (2,0)|
 |Introduction to voice and speech for the actor. Techniques are used to introduce the actor to their||
-|instrument and build effective communication skills without extraneous effort.OFFERED: Sem. II.||
-|2650Independent Study<br>1-4|hrs. (arranged)|
+|instrument and build effective communication skills without extraneous effort.Offered: Semester II.||
+|2650Independent Study<br>1-4|hours (arranged)|
 |Opportunities for individualized study as agreed upon by student and faculty member.||
-|REPEAT: May be repeated (total credit not to exceed 4 hours).||
-|3210 Musical Theatre I|3 hrs. (3, 0)|
+|Repeat: May be repeated (total credit not to exceed 4 hours).||
+|3210 Musical Theatre I|3 hours (3,0)|
 |In depth work on solos chosen from the musical theatre canon in order to guide each individual student||
-|build a process for singing and acting simultaneously. The techniques learned and tools gained will help<br>students deliver a more active, truthful, and specifc performance.OFFERED: Sem. I.||
-
-
+|build a process for singing and acting simultaneously. The techniques learned and tools gained will help<br>students deliver a more active, truthful, and specifc performance.Offered: Semester I.||
 
 Anderson University Undergraduate Catalog 2025-26 
 
 53 
 
-## MUTR (cont.) 
-
-|3220Musical Theatre II<br>3 hrs. (3, 0)|
+|3220Musical Theatre II<br>3 hours (3,0)|
 |---|
 |Building on the foundations of Musical Theatre 1, this course moves from solo work to musical theatre|
 |scenes with duets, focusing on the analysis of each scene pushing the text forward toward the song.|
-|PREREQUISITE: MUTR/THEA 3210.OFFERED: Sem. II.|
-|3410 Voice and Movement for the Actor III<br>2 hrs. (2, 0)|
+|Prerequisite: MUTR/THEA 3210.Offered: Semester II.|
+|3410 Voice and Movement for the Actor III<br>2 hours (2,0)|
 |Advanced speech techniques for the actor. Continued exploration of connecting text to breath in context|
 |with awareness of the whole body. Areas of focus include the Alexander Technique, International|
-|Phonetic Alphabet (IPA), and beginning dialects.SAME AS:THEA 3410.OFFERED: Sem. II.|
-|3650Independent Study<br>1-4 hrs. (arranged)|
+|Phonetic Alphabet (IPA), and beginning dialects.SAME AS:THEA 3410.Offered: Semester II.|
+|3650Independent Study<br>1-4 hours (arranged)|
 |Opportunities for individualized study as agreed upon by student and faculty member.|
-|REPEAT: May be repeated (total credit not to exceed 4 hours).|
-|4500Musical Theatre Showcase<br>2 hrs. (2, 0)|
+|Repeat: May be repeated (total credit not to exceed 4 hours).|
+|4500Musical Theatre Showcase<br>2 hours (2,0)|
 |Overview studio course for graduating musical theatre majors. Coursework involves repertoire from|
 |genres of musical theatre appropriate for each individual. Culminates in a showcase performance|
-|presented at the end of the semester.SAME AS:THEA 4500.OFFERED: Sem. II.|
-|4650Independent Study<br>1-4 hrs. (arranged)|
+|presented at the end of the semester.SAME AS:THEA 4500.Offered: Semester II.|
+|4650Independent Study<br>1-4 hours (arranged)|
 |Opportunities for individualized study as agreed upon by student and faculty member.|
-|REPEAT: May be repeated (total credit not to exceed 4 hours).|
-|4660International Experience in the Arts<br>1-4 hrs. (arranged)|
+|Repeat: May be repeated (total credit not to exceed 4 hours).|
+|4660International Experience in the Arts<br>1-4 hours (arranged)|
 |Designed to provide academic credit for coursework and assignments completed in conjunction with|
-|an international experience offered through the TRI-S program.REPEAT: May be repeated for credit.|
-|4910 Seminar in Audition Techniques<br>2 hrs. (2, 0)|
+|an international experience offered through the TRI-S program.Repeat: May be repeated for credit.|
+|4910 Seminar in Audition Techniques<br>2 hours (2,0)|
 |Covers the techniques of the audition process, including graduate school, theatre/musical theatre|
 |summer stock, Shakespeare, television, and flm. Conducted in a master-class format, requiring both|
-|oral and written participation.REPEAT: May be repeated for credit.SAME AS:MUPF 4910.OFFERED:|
-|Sem. I.|
-
-
+|oral and written participation.Repeat: May be repeated for credit.SAME AS:MUPF 4910.Offered:|
+|Semester I.|
 
 |THEA|
 |---|
 |_Theatre Courses_|
-|1650 Independent Study<br>1-4 hrs. (arranged)|
+|1650 Independent Study<br>1-4 hours (arranged)|
 |Opportunities for individualized study as agreed upon by student and faculty member.|
-|REPEAT: May be repeated (total credit not to exceed 4 hours).|
-|2110 Acting I<br>3 hrs. (3, 0)|
-|Introduces fundamentals of the acting process through exercises and scene study.OFFERED: Sem. I.|
-|2120 Acting II<br>3 hrs. (3, 0)|
+|Repeat: May be repeated (total credit not to exceed 4 hours).|
+|2110 Acting I<br>3 hours (3,0)|
+|Introduces fundamentals of the acting process through exercises and scene study.Offered: Semester I.|
+|2120 Acting II<br>3 hours (3,0)|
 |Using a combination of contemporary and classical plays, students will continue developing their skills|
 |and techniques as actors; while exploring processes that work for each individual, students will work on:|
 |specifcity in applying actions, experimenting with genres and styles, spontaneity within scene work, and|
-|continuing the work of performing truthfully on stage.PREREQUISITE: THEA 2110.OFFERED: Sem. II.|
-|2140 Embodied Performing: Introduction to the Alexander Technique<br>2 hrs. (2, 0)|
+|continuing the work of performing truthfully on stage.Prerequisite: THEA 2110.Offered: Semester II.|
+|2140 Embodied Performing: Introduction to the Alexander Technique<br>2 hours (2,0)|
 |Covers the principles, history, practical and performance-related application of the Alexander|
 |Technique. Body mapping, performance practice, and self-care explored through the lens of the|
-|Alexander Technique.SAME AS:MUPF 2140, MUTR 2140, DANC 2140.OFFERED: Sem. I.|
-|2210 Stagecraft<br>3 hrs. (3, 0)|
+|Alexander Technique.SAME AS:MUPF 2140, MUTR 2140, DANC 2140.Offered: Semester I.|
+|2210 Stagecraft<br>3 hours (3,0)|
 |Introduces basic stagecraft practices through lectures, labs, and practical experience, including safe|
 |and proper use of power and hand tools, scenery building, scene painting, theatrical lighting, basic stage|
-|management, properties, and sound.OFFERED: Sem. I.|
-|2220 Theatre Genres and Analysis<br>2 hrs. (2, 0)|
+|management, properties, and sound.Offered: Semester I.|
+|2220 Theatre Genres and Analysis<br>2 hours (2,0)|
 |Introduction to the concepts and techniques of script analysis through the study of the historical genres|
-|of theatre.OFFERED: Sem. I.|
-|2230Special Topics in Theatre<br>3 hrs. (3,0)|
+|of theatre.Offered: Semester I.|
+|2230Special Topics in Theatre<br>3 hours (3,0)|
 |This rotating course offers students an expansive exploration of theatre, encompassing a wide array of|
 |topics that refect the diversity and richness of the arts. Special Topics in Theatre is designed for both|
 |majors and non-majors, offering a comprehensive overview that cultivates an appreciation for the world|
-|of theatre.OFFERED: Sem. II.|
-
-
+|of theatre.Offered: Semester II.|
 
 Anderson University Undergraduate Catalog 2025-26 
 
 54 
 
-## THEA (cont.) 
-
 |HEA (cont.)||
 |---|---|
-|2250Stage Diction I — Fundamentals|2 hrs. (2, 0)|
+|2250Stage Diction I — Fundamentals|2 hours (2,0)|
 |Introduces and develops speech techniques for the actor, especially in the areas of relaxation, posture||
 |and alignment, respiration, phonation, registration, resonance, and articulation.SAME AS:MUTR 2250.||
-|OFFERED: Sem. II.||
-|2350Introduction to Acting|2 hrs. (2, 0)|
+|Offered: Semester II.||
+|2350Introduction to Acting|2 hours (2,0)|
 |Introduces fundamental principles of performance, with emphasis on Spolin-styled theatre games and||
-|developing competent improvisational skills. Open to all students.OFFERED: Sem. I, II.||
-|2410 Movement for the Actor|2 hrs. (2, 0)|
+|developing competent improvisational skills. Open to all students.Offered: Semester I, II.||
+|2410 Movement for the Actor|2 hours (2,0)|
 |Introduction to movement techniques for the actor. This course is designed for a student to enhance||
 |their abilities as a performing artist, actor, public speaker, educator, and more. Areas of focus include||
 |freeing the body, developing a connection to the student’s own body, kinesthetic awareness, relaxation,||
-|and alignment.OFFERED: Sem. I.||
-|2420 Voice Production for the Actor|2 hrs. (2, 0)|
+|and alignment.Offered: Semester I.||
+|2420 Voice Production for the Actor|2 hours (2,0)|
 |Introduction to voice and speech for the actor. Techniques are used to introduce the actor to their||
-|instrument and build effective communication skills without extraneous effort.OFFERED: Sem. II.||
-|2500Appreciation of Theatre|2 hrs. (2, 0)|
+|instrument and build effective communication skills without extraneous effort.Offered: Semester II.||
+|2500Appreciation of Theatre|2 hours (2,0)|
 |Development of dramatic literacy through examination of a wide variety of dramatic themes and forms.||
-|Study and participation in dramatic criticism and theory.OFFERED: With suffcient demand.||
-|2650Independent Study<br>1-4|hrs. (arranged)|
+|Study and participation in dramatic criticism and theory.Offered: With suffcient demand.||
+|2650Independent Study<br>1-4|hours (arranged)|
 |Opportunities for individualized study as agreed upon by student and faculty member.||
-|REPEAT: May be repeated (total credit not to exceed 4 hours).||
-|2890Acting/Production Practicum|1 hr. (arranged)|
+|Repeat: May be repeated (total credit not to exceed 4 hours).||
+|2890Acting/Production Practicum|1 hour (arranged)|
 |Practical experience in theatre, particularly related to productions in the university’s theatrical season.||
-|Open to all students.REPEAT: May be repeated (total credit not to exceed 8 hours).OFFERED: Sem.|I, II.|
-|3010 History of Theatre I: Beginnings to Romantics|3 hrs. (3, 0)|
+|Open to all students.Repeat: May be repeated (total credit not to exceed 8 hours).Offered: Semester|I, II.|
+|3010 History of Theatre I: Beginnings to Romantics|3 hours (3,0)|
 |Chronological survey of the various arts, crafts, theory/criticism, and literature of Western theatre from||
 |its earliest origins to the mid-1500s. Open to all students.||
-|3020History of Theatre II: Romantics to Present|3 hrs. (3, 0)|
+|3020History of Theatre II: Romantics to Present|3 hours (3,0)|
 |Chronological survey of the various arts, crafts, theory/criticism, and literature of Western theatre from||
 |the mid-1500s to the present. Attention also given to flm and performance art. Open to all students.||
-|3110 Acting III|3 hrs. (3, 0)|
+|3110 Acting III|3 hours (3,0)|
 |This course is designed to broaden and enhance the skills students have previously learned, through a||
 |deeper understanding of scene analysis, physicalization, and improvisation. This class continues to focus||
 |on the doing through both contemporary and classical works, while strengthening student’s acting skills||
 |in listening, imagination, impulse driven responses, and the connection they have to their body.||
-|PREREQUISITE: THEA 2120.OFFERED: Sem. I.||
-|3120 Acting IV|3 hrs. (3, 0)|
+|Prerequisite: THEA 2120.Offered: Semester I.||
+|3120 Acting IV|3 hours (3,0)|
 |Advanced studies in acting focusing on classical texts and heightened language, including Shakespeare,||
-|Restoration, Shaw, Ibsen, and Chekhov.OFFERED: Sem. II.||
-|3300Acting Methods|3 hrs. (3, 3)|
+|Restoration, Shaw, Ibsen, and Chekhov.Offered: Semester II.||
+|3300Acting Methods|3 hours (3,3)|
 |Designed for majors who have demonstrated superior performance skills. Focus will be on the American||
-|method school of acting, utilizing extensive scene study.OFFERED: With suffcient demand.||
-|3400Directing|3 hrs. (3, 0)|
+|method school of acting, utilizing extensive scene study.Offered: With suffcient demand.||
+|3400Directing|3 hours (3,0)|
 |Covers directing techniques and theories for the theatre, including selecting, analyzing, casting, and||
-|rehearsing plays for production.OFFERED: With suffcient demand.||
-|3410 Voice and Movement for the Actor III|2 hrs. (2, 0)|
+|rehearsing plays for production.Offered: With suffcient demand.||
+|3410 Voice and Movement for the Actor III|2 hours (2,0)|
 |Advanced speech techniques for the actor. Continued exploration of connecting text to breath in context||
 |with awareness of the whole body. Areas of focus include the Alexander Technique, International||
-|Phonetic Alphabet (IPA), and beginning dialects.SAME AS:MUTR 3410.OFFERED: Sem. II.||
-|3500Scene Design|3 hrs. (3, 2)|
+|Phonetic Alphabet (IPA), and beginning dialects.SAME AS:MUTR 3410.Offered: Semester II.||
+|3500Scene Design|3 hours (3,2)|
 |Study of theories and practices of set design for the stage, including modern construction practices.||
-|Open to all students.OFFERED: Sem. II.||
-|3550Lighting Design|3 hrs. (3, 2)|
-|Study of theories and practices of theatrical lighting. Open to all students.OFFERED: Sem. II.||
-
-
+|Open to all students.Offered: Semester II.||
+|3550Lighting Design|3 hours (3,2)|
+|Study of theories and practices of theatrical lighting. Open to all students.Offered: Semester II.||
 
 Anderson University Undergraduate Catalog 2025-26 
 
 55 
 
-## THEA (cont.) 
+3650 Independent Study 1-4 hours (arranged) Opportunities for individualized study as agreed upon by student and faculty member. Repeat : May be repeated (total credit not to exceed 4 hours). 4500 Musical Theatre Showcase 2 hours (2,0) Overview studio course for graduating musical theatre majors. Coursework involves repertoire from genres of musical theatre appropriate for each individual. Culminates in a showcase performance presented at the end of the semester. SAME AS: MUTR 4500. Offered : Semester II. 4650 Independent Study 1-4 hours (arranged) Opportunities for individualized study as agreed upon by student and faculty member. Repeat : May be repeated (total credit not to exceed 4 hours). 4660 International Experience in the Arts 1-4 hours (arranged) 
 
-3650 Independent Study 1-4 hrs. (arranged) Opportunities for individualized study as agreed upon by student and faculty member. REPEAT : May be repeated (total credit not to exceed 4 hours). 4500 Musical Theatre Showcase 2 hrs. (2, 0) Overview studio course for graduating musical theatre majors. Coursework involves repertoire from genres of musical theatre appropriate for each individual. Culminates in a showcase performance presented at the end of the semester. SAME AS: MUTR 4500. OFFERED : Sem. II. 4650 Independent Study 1-4 hrs. (arranged) Opportunities for individualized study as agreed upon by student and faculty member. REPEAT : May be repeated (total credit not to exceed 4 hours). 4660 International Experience in the Arts 1-4 hrs. (arranged) 
-
-Opportunities for individualized study as agreed upon by student and faculty member. REPEAT : May be repeated (total credit not to exceed 4 hours). International Experience in the Arts Designed to provide academic credit for coursework and assignments completed in conjunction with an international experience offered through the TRI-S program. REPEAT : May be repeated. Senior Project Students complete a portfolio and present a final performance/production. The latter requirement also may be filled through an approved internship with a professional theatre company. Students wishing to advance to a Master of Arts program may also complete a paper for presentation at an approved conference. EXPECTATION : All required coursework. OFFERED : With sufficient demand. 
+Opportunities for individualized study as agreed upon by student and faculty member. Repeat : May be repeated (total credit not to exceed 4 hours). International Experience in the Arts Designed to provide academic credit for coursework and assignments completed in conjunction with an international experience offered through the TRI-S program. Repeat : May be repeated. Senior Project Students complete a portfolio and present a final performance/production. The latter requirement also may be filled through an approved internship with a professional theatre company. Students wishing to advance to a Master of Arts program may also complete a paper for presentation at an approved conference. Expectation : All required coursework. Offered : With sufficient demand. 
 
 ==> picture [80 x 10] intentionally omitted <==
 
 ----- Start of picture text -----<br>
 ||
 |---|
-|1-4 hrs. (arranged)|
+|1-4 hours (arranged)|
 
 ----- End of picture text -----<br>
-
 
 ## 4800 Senior Project 
 
@@ -2819,254 +2730,234 @@ Opportunities for individualized study as agreed upon by student and faculty mem
 ----- Start of picture text -----<br>
 ||
 |---|
-|3 hrs. (3, 0)|
+|3 hours (3,0)|
 
 ----- End of picture text -----<br>
 
-
-Specialized focus on various periods of theatrical history, performance genres, and/or theory. Topics vary. CONSENT : Instructor consent required for non-departmental majors. REPEAT : May be repeated. OFFERED : With sufficient demand. 
+Specialized focus on various periods of theatrical history, performance genres, and/or theory. Topics vary. Consent : Instructor consent required for non-departmental majors. Repeat : May be repeated. Offered : With sufficient demand. 
 
 ==> picture [48 x 9] intentionally omitted <==
 
 ----- Start of picture text -----<br>
 ||
 |---|
-|3 hrs. (3, 1)|
+|3 hours (3,1)|
 
 ----- End of picture text -----<br>
 
-
 ## 4910 Seminar in Performance Practices 
 
-Specialized focus on both the study and practice of various performance skills/arts. Topics vary. CONSENT : Instructor consent required for non-departmental majors. REPEAT : May be repeated. OFFERED : With sufficient demand. 
+Specialized focus on both the study and practice of various performance skills/arts. Topics vary. Consent : Instructor consent required for non-departmental majors. Repeat : May be repeated. Offered : With sufficient demand. 
 
 ## DANC 
 
 _Dance Courses_ 
 
-|1120 |Tap I|1 hr. (2, 0)|
+|1120 |Tap I|1 hour (2,0)|
 |---|---|---|
 ||Introduces students to a wide variety of movement and a foundation for developing basic skills and||
-||tap technique. Tap shoes required.REPEAT: May be repeated.OFFERED: Sem. I, II.||
-|1150 |Dance Repertory|0-1 hrs. (arranged)|
+||tap technique. Tap shoes required.Repeat: May be repeated.Offered: Semester I, II.||
+|1150 |Dance Repertory|0-1 hours (arranged)|
 ||Performance ensemble and practical technical training for participation in annual staged dance||
 ||productions, a department holiday concert, and touring. Auditions for performances are open to|all|
-||students.COREQUISITE: Concurrent enrollment in a technique course required.GRADE: CR/NC.||
-||REPEAT: May be repeated.OFFERED: Sem. I, II.||
-|1160 |Dance Production|0-1 hrs. (arranged)|
-
-
+||students.Corequisite: Concurrent enrollment in a technique course required.Grade: CR/NC.||
+||Repeat: May be repeated.Offered: Semester I, II.||
+|1160 |Dance Production|0-1 hours (arranged)|
 
 ||Students provide technical, organizational, and practical assistance with mainstage productions.||
 |---|---|---|
-||Open to all students.GRADE: CR/NC.REPEAT: May be repeated.OFFERED: Sem. I, II.||
-|1220 |Modern I|2 hrs. (2, 0)|
+||Open to all students.Grade: CR/NC.Repeat: May be repeated.Offered: Semester I, II.||
+|1220 |Modern I|2 hours (2,0)|
 ||Introduces students to a wide variety of movement and creates a foundation for development of basic||
-||skills and technique. REPEAT: May be repeated.OFFERED: Sem. I, II.||
-|1320 |Jazz I|1 hr. (3, 0)|
+||skills and technique. Repeat: May be repeated.Offered: Semester I, II.||
+|1320 |Jazz I|1 hour (3,0)|
 ||Introduces a wide variety of movement and creates a foundation for development of basic skills and||
-||jazz technique.REPEAT: May be repeated.OFFERED: Sem. I, II.||
-|1420 |Ballet I|2 hrs. (2, 0)|
-||Introduces a foundation for the development of basic skills and ballet technique.REPEAT: May be||
-||repeated.OFFERED: Sem. I, II.||
+||jazz technique.Repeat: May be repeated.Offered: Semester I, II.||
+|1420 |Ballet I|2 hours (2,0)|
+||Introduces a foundation for the development of basic skills and ballet technique.Repeat: May be||
+||repeated.Offered: Semester I, II.||
 
+1580 Dance Improvisation I 1 hour (2,0) 
 
-
-1580 Dance Improvisation I 1 hr. (2, 0) 
-
-Introduces spontaneous creation through words, sketches, sounds, and movement. Explores the topics of “body in space” and use of “negative space.” Focuses on individual improvisation, body awareness, and the student’s ability to work within a given structure, time, and space. Group improvisation introduced at the end of the course. Open to all students; no dance experience necessary. OFFERED : Sem. I. 
+Introduces spontaneous creation through words, sketches, sounds, and movement. Explores the topics of “body in space” and use of “negative space.” Focuses on individual improvisation, body awareness, and the student’s ability to work within a given structure, time, and space. Group improvisation introduced at the end of the course. Open to all students; no dance experience necessary. Offered : Semester I. 
 
 Anderson University Undergraduate Catalog 2025-26 
 
 56 
 
-## DANC (cont.) 
+1590 Dance Composition I 2 hours (2,0) 
 
-1590 Dance Composition I 2 hrs. (2, 0) 
+Introduces the basics of composition and choreography for solo work, including Laban’s space, time and effort/ energy principles. Evolving use of compositional tools including symmetry, asymmetry, unison, counterpoint, canon, round, retrograde, chaos, tempo, and syncopation. Includes basics of musical phrase work, theatrical staging, and directing. Offered : Semester II. 
 
-Introduces the basics of composition and choreography for solo work, including Laban’s space, time and effort/ energy principles. Evolving use of compositional tools including symmetry, asymmetry, unison, counterpoint, canon, round, retrograde, chaos, tempo, and syncopation. Includes basics of musical phrase work, theatrical staging, and directing. OFFERED : Sem. II. 
-
-|1650 Independent Study|1-4 hrs. (arranged)|
+|1650 Independent Study|1-4 hours (arranged)|
 |---|---|
 |Expanded experience in a topic area of student choice with approval from the dance area coordinator.||
-|REPEAT: May be repeated (total credit not to exceed 4 hours).||
-|2110 Musical Theatre Dance Forms|1 hr. (2, 0)|
+|Repeat: May be repeated (total credit not to exceed 4 hours).||
+|2110 Musical Theatre Dance Forms|1 hour (2,0)|
 |Designed for the singing actor. Focuses on development of a repertoire of fundamental “singer-mover”||
 |dance steps while learning the historical range of styles from vaudeville to contemporary music|theatre.|
-|REPEAT: May be repeated.OFFERED: Sem. II.||
-|2120 Tap II|1 hr. (2, 0)|
+|Repeat: May be repeated.Offered: Semester II.||
+|2120 Tap II|1 hour (2,0)|
 |Continuation of Tap I, designed for the intermediate to advanced student with at least one semester of||
 |tap. Introduce students to more in-depth exercises designed to promote vocabulary and skill level, as||
-|well as the development of performance technique.REPEAT: May be repeated.OFFERED: Sem.|I, II.|
-|2140 Embodied Performing: Introduction to the Alexander Technique|2 hrs. (2, 0)|
+|well as the development of performance technique.Repeat: May be repeated.Offered: Semester|I, II.|
+|2140 Embodied Performing: Introduction to the Alexander Technique|2 hours (2,0)|
 |Covers the principles, history, practical and performance-related application of the Alexander||
 |Technique. Body mapping, performance practice, and self-care explored through the lens of the||
-|Alexander Technique.SAME AS:MUPF 2140, MUTR 2140, THEA 2140.OFFERED: Sem. I.||
-|2220 Modern II|2 hrs. (2, 0)|
+|Alexander Technique.SAME AS:MUPF 2140, MUTR 2140, THEA 2140.Offered: Semester I.||
+|2220 Modern II|2 hours (2,0)|
 |A continuation of Modern I designed for the intermediate-level dancer. Advances techniques and basic||
 |principles of modern dance.||
-|2320Jazz II|1 hr. (3, 0)|
+|2320Jazz II|1 hour (3,0)|
 |A continuation of Jazz Dance I designed for the intermediate dancer. Introduces more complex styles,||
 |skills, and principles of jazz technique.||
-|2420 Ballet II|2 hrs. (2, 0)|
+|2420 Ballet II|2 hours (2,0)|
 |A continuation of Ballet I designed for the intermediate dancer. Develops advancing technique, fne||
 |motor control, style, and skills.||
-|2580Dance Improvisation II|1 hr. (2, 0)|
+|2580Dance Improvisation II|1 hour (2,0)|
 |Focuses on the concept of “bodies in space” and develops the ability to sense the relative position of||
 |neighboring parts and bodies. Students sharpen their ability to improvise within a group setting|while|
 |remaining aware of motif, structure, and cohesiveness. Introduces use of contact improvisation.||
-|PREREQUISITE: DANC 1580.OFFERED: Sem. I.||
-|2590Dance Composition II|2 hrs. (2, 0)|
+|Prerequisite: DANC 1580.Offered: Semester I.||
+|2590Dance Composition II|2 hours (2,0)|
 |Further exploration of choreographic concepts of Laban’s time, space, shape, energy, and dynamics.||
-|Focus on small group composition.PREREQUISITE: DANC 1590.OFFERED: Sem. II.||
-|2650Independent Study|1-4 hrs. (arranged)|
+|Focus on small group composition.Prerequisite: DANC 1590.Offered: Semester II.||
+|2650Independent Study|1-4 hours (arranged)|
 |Expanded experience in a topic area of student choice with approval from the dance area coordinator.||
-|REPEAT: May be repeated (total credit not to exceed 4 hours).||
-|2850Practice in Teaching|1 hr. (1, 0)|
+|Repeat: May be repeated (total credit not to exceed 4 hours).||
+|2850Practice in Teaching|1 hour (1,0)|
 |Students gain experience with teaching students in a laboratory setting, developing and using rubrics||
 |and syllabi. Students are evaluated by instructors and peers, and engage in self-evaluation and||
 |refection. Students will develop the means to guide students in experiential, analytical, and creative||
-|exercises.REPEAT: May be repeated (total credit not to exceed 4 hours).OFFERED: Sem. II.||
-|3000Global Dance Forms|3 hrs. (3, 0)|
+|exercises.Repeat: May be repeated (total credit not to exceed 4 hours).Offered: Semester II.||
+|3000Global Dance Forms|3 hours (3,0)|
 |Dance, symbolism, and the mind-body-spirit triad are used to explore diverse cultures and the||
 |inseparable nature of art, life, and sacred and secular practices. No previous dance experience required.||
 |_Applies to the Global Ways of Knowing [AU Experience] component of theLiberal Arts Core Curriculum._||
-|OFFERED: Sem. I.||
-|3010 Dance History I<br>3 hrs. (3, 0)||
+|Offered: Semester I.||
+|3010 Dance History I<br>3 hours (3,0)||
 |The history of Western dance from Biblical and Grecian dance to the early 20th century, including the||
 |rise of ballet, Baroque dance, Romantic and Classical ballet, and the artistic diaspora following the||
-|Bolshevik Revolution in Russia.OFFERED: Sem. II.||
-
-
+|Bolshevik Revolution in Russia.Offered: Semester II.||
 
 Anderson University Undergraduate Catalog 2025-26 
 
 57 
 
-## DANC (cont.) 
-
-|3020Dance History II|3|hrs. (3, 0)|
+|3020Dance History II|3|hours (3,0)|
 |---|---|---|
 |The history of Western theatrical dance from 1900 to the present day, exploring the major artistic|||
 |movements and philosophies that gave rise to forms such as Neoclassical Ballet, Modern Dance, Tap,|||
-|Jazz, Musical Theater, Postmodernism, and Hip Hop, among others.OFFERED: Sem. II, 2025-26.|||
-|3050Dance Pedagogy I|3|hrs. (3, 0)|
+|Jazz, Musical Theater, Postmodernism, and Hip Hop, among others.Offered: Semester II, 2025-26.|||
+|3050Dance Pedagogy I|3|hours (3,0)|
 |Explores the basic structures and theories of teaching beginning and intermediate modern and ballet|||
 |techniques, responsible fexibility/strength training, communicating with related constituencies, and|||
-|issues of gender, diversity, and cultural sensitivity in the dance class.OFFERED: Sem. I, 2025-26.|||
-|3055Dance Pedagogy II|3|hrs. (3, 0)|
+|issues of gender, diversity, and cultural sensitivity in the dance class.Offered: Semester I, 2025-26.|||
+|3055Dance Pedagogy II|3|hours (3,0)|
 |Explores pedagogical approaches for teaching intermediate and advanced modern and ballet|||
 |techniques, physical/social adolescent development, classroom management/assessment strategies,|||
 |mindful awareness of the specifc needs of male and female dancers, and non-European dance form|||
-|appreciation and application.PREREQUISITE: DANC 3050.OFFERED: Sem. II, 2025-26.|||
-|3060Movement Analysis|3|hrs. (3, 0)|
+|appreciation and application.Prerequisite: DANC 3050.Offered: Semester II, 2025-26.|||
+|3060Movement Analysis|3|hours (3,0)|
 |Uses a system of observation and notation to aid students in understanding dance, health, and the|||
 |science of movement. Also explores the neural control mechanisms by which humans plan and execute|||
-|movement through the integration of the nervous, sensory, and muscular systems.PREREQUISITE:|||
-|DANC 4500 OR BIOL 2410.OFFERED: Sem. II.|||
-|3120 Tap III||1 hr. (2, 0)|
+|movement through the integration of the nervous, sensory, and muscular systems.Prerequisite:|||
+|DANC 4500 OR BIOL 2410.Offered: Semester II.|||
+|3120 Tap III||1 hour (2,0)|
 |A continuation of Tap II, this advanced course includes syncopated rhythms, progressive step|||
-|combinations and “hoofers” and “tapper” stylistic expression.REPEAT: May be repeated.OFFERED:|||
-|Sem. I.|||
-|3220Modern III|2|hrs. (2, 0)|
+|combinations and “hoofers” and “tapper” stylistic expression.Repeat: May be repeated.Offered:|||
+|Semester I.|||
+|3220Modern III|2|hours (2,0)|
 |A continuation of Modern II, this intermediate course includes the application of more complex|||
 |technique principles, with a focus on select techniques including Graham, Horton, and Humphrey/Limón.|||
-|REPEAT: May be repeated.OFFERED: Sem. I, II.|||
-|3320Jazz Dance III||1 hr. (3, 0)|
+|Repeat: May be repeated.Offered: Semester I, II.|||
+|3320Jazz Dance III||1 hour (3,0)|
 |A continuation of Jazz II, this advanced course covers syncopated rhythms, progressive step|||
 |combinations, regional stylistic differences and prepares students for jazz improvisation and commercial|||
-|dance practices.REPEAT: May be repeated.OFFERED: With suffcient demand.|||
-|3420Ballet III<br>|2|hrs. (2, 0)|
+|dance practices.Repeat: May be repeated.Offered: With suffcient demand.|||
+|3420Ballet III<br>|2|hours (2,0)|
 |A continuation of Ballet II, this advanced course presents a deeper kinesthetic understanding of ballet|||
 |fundamentals and sharpens physical technique through extension of line, upper body coordination,|||
-|complex rhythm forms of movement, and advanced petite, grand allegro and variations.REPEAT: May be|||
-|repeated.OFFERED: Sem. I, II.|||
-|3510 Period Dance|2|hrs. (2, 0)|
+|complex rhythm forms of movement, and advanced petite, grand allegro and variations.Repeat: May be|||
+|repeated.Offered: Semester I, II.|||
+|3510 Period Dance|2|hours (2,0)|
 |Explores European and American social dance forms.  Participation and studio execution of movement|||
-|from representative historical periods up to the present day. No dance experience necessary. REPEAT:|||
-|May be repeated.OFFERED: Sem. II, 2025-26.|||
-|3520Pointe||1 hr. (2, 0)|
+|from representative historical periods up to the present day. No dance experience necessary. Repeat:|||
+|May be repeated.Offered: Semester II, 2025-26.|||
+|3520Pointe||1 hour (2,0)|
 |Study of basic and advanced technique of pointe work. Designed for the student with several years of|||
-|ballet training. Includes pointe exercises at the barre, center work, and variations.COREQUISITE: DANC|||
-|2420, 3420, or 4420.REPEAT: May be repeated. OFFERED: Sem. I, II.|||
-|3530Partnering for Ballet and Modern Dance||1 hr. (2, 0)|
+|ballet training. Includes pointe exercises at the barre, center work, and variations.Corequisite: DANC|||
+|2420,3420, or 4420.Repeat: May be repeated. Offered: Semester I, II.|||
+|3530Partnering for Ballet and Modern Dance||1 hour (2,0)|
 |Study of the basic technique of partnering work, including pas de deux in ballet and effort/energy|||
-|lifts/weight sharing in modern dance.EXPECTATION: For students at intermediate- or advanced-level in|||
-|ballet and modern dance technique.REPEAT: May be repeated.OFFERED: Sem. I, 2025-26.|||
-|3580Dance Improvisation III||1 hr. (2, 0)|
+|lifts/weight sharing in modern dance.Expectation: For students at intermediate- or advanced-level in|||
+|ballet and modern dance technique.Repeat: May be repeated.Offered: Semester I, 2025-26.|||
+|3580Dance Improvisation III||1 hour (2,0)|
 |Explores the technique of contact improvisation. Students continue to develop their sense of space,|||
 |time, and proprioception while exploring the levels of physical relationships, communication and the|||
 |physical laws that govern gravity, momentum and inertia to form a continuous motion conversation.|||
-|PREREQUISITE: DANC 2580.REPEAT: May be repeated.OFFERED: Sem. I, 2025-26.|||
-|3590Dance Composition III|2|hrs. (2, 0)|
+|Prerequisite: DANC 2580.Repeat: May be repeated.Offered: Semester I, 2025-26.|||
+|3590Dance Composition III|2|hours (2,0)|
 |Explores the ideas of rise and fall, arching themes, storylines, abstraction, choreography for hire, and|||
 |site-specifc works. Includes character development, relationships between dancers, music selection.|||
-|PREREQUISITE: DANC 2590.OFFERED: Sem. II, 2025-26.|||
-
-
+|Prerequisite: DANC 2590.Offered: Semester II, 2025-26.|||
 
 Anderson University Undergraduate Catalog 2025-26 
 
 58 
 
-## DANC (cont.) 
-
 |ANC (cont.)||
 |---|---|
-|3650Independent Study|1-4 hrs. (arranged)|
+|3650Independent Study|1-4 hours (arranged)|
 |Expanded experience in a topic area of student choice with approval from the dance area||
-|coordinator.REPEAT: May be repeated (total credit not to exceed 4 hours).||
-|4060Motor Control|3 hrs. (3, 0)|
+|coordinator.Repeat: May be repeated (total credit not to exceed 4 hours).||
+|4060Motor Control|3 hours (3,0)|
 
-
-
-|4060Motor Control|3 hrs. (3, 0)|
+|4060Motor Control|3 hours (3,0)|
 |---|---|
 |Explores the neural control mechanisms by which humans plan and execute movement through|the|
 |integration of the nervous, sensory, and muscular systems. Students study how the brain organizes,||
-|stores, and accesses information to create and coordinate a range of motor skills.OFFERED: Sem. II,||
+|stores, and accesses information to create and coordinate a range of motor skills.Offered: Semester II,||
 |2025-26.||
-|4220 Modern IV|2 hrs. (2, 0)|
+|4220 Modern IV|2 hours (2,0)|
 |A continuation of Modern III, this advanced course emphasizes speed, retention, variation, and||
-|advanced study in the techniques of Graham, Horton, and Humphrey/Limón.PREREQUISITE: DANC||
-|3220.REPEAT: May be repeated.OFFERED: With suffcient demand.||
-|4320Jazz Dance IV|1 hr. (3, 0)|
+|advanced study in the techniques of Graham, Horton, and Humphrey/Limón.Prerequisite: DANC||
+|3220.Repeat: May be repeated.Offered: With suffcient demand.||
+|4320Jazz Dance IV|1 hour (3,0)|
 |A continuation of Jazz III, this advanced course emphasizes technique and improvement of dance||
 |rhythms, dynamics, special awareness, and projection as a means of creating style, aesthetic, and||
-|performance quality.REPEAT: May be repeated for credit.PREREQUISITE: DANC 3320.OFFERED:||
+|performance quality.Repeat: May be repeated for credit.Prerequisite: DANC 3320.Offered:||
 |With suffcient demand.||
-|4420Ballet IV|2 hrs. (2, 0)|
+|4420Ballet IV|2 hours (2,0)|
 |A continuation of Ballet III, this advanced course emphasizes foot and arm movement and body||
 |placement using barre, center work, and choreography. Complex retention and high-performance||
-|quality required at all times.PREREQUISITE: DANC 3420.REPEAT: May be repeated.OFFERED: With||
+|quality required at all times.Prerequisite: DANC 3420.Repeat: May be repeated.Offered: With||
 |suffcient demand.||
-|4500Dance Anatomy and Kinesiology|3 hrs. (3, 0)|
+|4500Dance Anatomy and Kinesiology|3 hours (3,0)|
 |Basic principles of anatomy and kinesiology and an investigation of the human body and how it||
 |works through dance and movement. Importance placed on functionality of joints, ligaments,||
-|tendons, and of musculoskeletal, sensory, and nervous systems.OFFERED: Sem. I.||
-|4590Dance Composition IV|2 hrs. (2, 0)|
+|tendons, and of musculoskeletal, sensory, and nervous systems.Offered: Semester I.||
+|4590Dance Composition IV|2 hours (2,0)|
 |Topics include non-rhythmical music, ambient music, environmental music, improvisation as a||
 |choreographic tool, and site-specifc works. Students craft original works, culminating in a student||
-|dance concert.PREREQUISITE: DANC 3590.OFFERED: Sem. II.||
-|4650Independent Study|1-4 hrs. (arranged)|
+|dance concert.Prerequisite: DANC 3590.Offered: Semester II.||
+|4650Independent Study|1-4 hours (arranged)|
 |Expanded experience in a topic area of student choice with approval from the dance area||
-|coordinator.REPEAT: May be repeated (total credit not to exceed 4 hours).||
-|4660International Experience in the Arts|1-4 hrs. (arranged)|
+|coordinator.Repeat: May be repeated (total credit not to exceed 4 hours).||
+|4660International Experience in the Arts|1-4 hours (arranged)|
 |Designed to provide academic credit for coursework and assignments completed in conjunction||
-|with an international experience offered through the TRI-S program.REPEAT: May be repeated.||
-|4800Internship in Dance|1-3 hrs. (arranged)|
+|with an international experience offered through the TRI-S program.Repeat: May be repeated.||
+|4800Internship in Dance|1-3 hours (arranged)|
 |In-depth experience in a selected dance-related business tailored to the abilities and needs of||
-|the individual student.PREREQUISITE: Upper-division standing.REPEAT: May be repeated (total||
-|credit not to exceed 3 hours).OFFERED: With suffcient demand.||
-|4900Seminar in Selected Topics|1-4 hrs. (arranged)|
-|Special dance courses as determined by the faculty.REPEAT: May be repeated.||
-|4910 Seminar in Professional Praxis for Dancers|2 hrs. (2, 0)|
+|the individual student.Prerequisite: Upper-division standing.Repeat: May be repeated (total||
+|credit not to exceed 3 hours).Offered: With suffcient demand.||
+|4900Seminar in Selected Topics|1-4 hours (arranged)|
+|Special dance courses as determined by the faculty.Repeat: May be repeated.||
+|4910 Seminar in Professional Praxis for Dancers|2 hours (2,0)|
 |Focus on preparation for the professional world. Topics covered include graduate school, dance||
 |company, and musical theatre. Conducted in a masterclass format, the seminar includes both oral||
-|and written participation, and the completion of a professional portfolio.PREREQUISITE:||
-|Upper-division standing.OFFERED: Sem. I.||
-
-
+|and written participation, and the completion of a professional portfolio.Prerequisite:||
+|Upper-division standing.Offered: Semester I.||
 
 Anderson University Undergraduate Catalog 2025-26 
 
@@ -3092,13 +2983,13 @@ A complementary major allows graduates to apply computer science in the specific
 
 Students majoring in computer science are urged to complete additional coursework in mathematics, accounting, business administration, physics, cybersecurity, or related areas. 
 
-## COMPUTER SCIENCE MAJOR, BACHELOR OF ARTS  (59 hrs.) 
+## COMPUTER SCIENCE MAJOR, BACHELOR OF ARTS  (59 hours) 
 
-- CPSC 2020, 2030, 2100, 2330, 2420, 2430, 2500 
+- CPSC 2020,2030,2100,2330,2420,2430,2500 
 
 - MATH 2200/CPSC 2250 
 
-- CPSC 2150, 3410, 4420, 4430 
+- CPSC 2150,3410,4420,4430 
 
 - 3 credit hours from CPSC 4480 or 4800 
 
@@ -3110,33 +3001,33 @@ Anderson University Undergraduate Catalog 2025-26
 
 60 
 
-## COMPUTER SCIENCE MAJOR, BACHELOR OF SCIENCE  (72 hrs.) 
+## COMPUTER SCIENCE MAJOR, BACHELOR OF SCIENCE  (72 hours) 
 
-- CPSC 2020, 2030, 2100, 2330, 2420, 2430, 2500 
+- CPSC 2020,2030,2100,2330,2420,2430,2500 
 
 - MATH 2200/CPSC 2250 
 
-- CPSC 2150, 3410, 4420, 4430 
+- CPSC 2150,3410,4420,4430 
 
 - 3 credit hours from CPSC 4480 or 4800 
 
-- MATH 2010, 2020, 2120, 3010 
+- MATH 2010,2020,2120,3010 
 
 - POSC 2420 
 
 - 10 credit hours from courses numbered CPSC/ENGR/MATH 2000 and above or/PHYS 2240 and above 
 
-## COMPUTER SCIENCE COMPLEMENTARY MAJOR  (32 hrs.) 
+## COMPUTER SCIENCE COMPLEMENTARY MAJOR  (32 hours) 
 
-- CPSC 2020, 2030, 2100, 2500 
+- CPSC 2020,2030,2100,2500 
 
-- 4 credit hours from one of the following courses: MATH 2010, 2020, 2200, or MATH 2120 and POSC 2420 
+- 4 credit hours from one of the following courses: MATH 2010,2020,2200, or MATH 2120 and POSC 2420 
 
 - 12 credit hours from any course CPSC 2000 or above, as approved in a plan of study by the computer science advisor 
 
-## COMPUTER SCIENCE MINOR  (16 hrs.) 
+## COMPUTER SCIENCE MINOR  (16 hours) 
 
-- CPSC 2020, 2030 
+- CPSC 2020,2030 
 
 - 8 credit hours of additional credit from CPSC 2000 and above 
 
@@ -3144,37 +3035,37 @@ Anderson University Undergraduate Catalog 2025-26
 
 The cybersecurity major is an interdisciplinary major and is aligned to meet the standards required for designation by the Department of Homeland Security and National Security Agency as a _National Center of Academic Excellence in Cybersecurity (NCAE-C)._ The program has been recognized with the _Center of Academic Excellence in Cyber Defense (CAE-CD) designation_ . 
 
-## CYBERSECURITY MAJOR (64 hrs.) 
+## CYBERSECURITY MAJOR (64 hours) 
 
-Foundation (31 hrs.): 
+Foundation (31 hours): 
 
-●​ CPSC 1080, 2020, 2080, 2300 ●​ MATH 2120, MATH 2200/CPSC 2250 
+●​ CPSC 1080,2020,2080,2300 ●​ MATH 2120, MATH 2200/CPSC 2250 
 
-- POSC 2020, 2200, 2400, 2420 
+- POSC 2020,2200,2400,2420 
 
-Professional Core (18 hrs.): 
+Professional Core (18 hours): 
 
-●​ CPSC 2150, 3410, 3480, 4060, 4070 
+●​ CPSC 2150,3410,3480,4060,4070 
 
 - 3 credit hours from CPSC 4480 or 4820 
 
-National Security Policy (6 hrs.): 
+National Security Policy (6 hours): 
 
 ●​ POSC/CRIM 3350 
 
 ●​ POSC 3370 
 
-Electives (6 hrs.) from: ●​ CPSC 2000 and above 
+Electives (6 hours) from: ●​ CPSC 2000 and above 
 
-●​ CRIM 2520 ●​ POSC 3250, 3310 ●​ PSYC 3080, 3330 
+●​ CRIM 2520 ●​ POSC 3250,3310 ●​ PSYC 3080,3330 
 
-Ethics (3 hrs.): 
+Ethics (3 hours): 
 
 ●​ PHIL/RLGN 3250 
 
-## CYBERSECURITY MINOR (16 hrs.) 
+## CYBERSECURITY MINOR (16 hours) 
 
-Core (10 hrs.): 
+Core (10 hours): 
 
 - CPSC 2020 - Fundamentals of Computational Thinking and Programming (4) 
 
@@ -3182,7 +3073,7 @@ Core (10 hrs.):
 
 - POSC 2020 - Introduction to World Politics (3) 
 
-Electives (6 hrs.) from: 
+Electives (6 hours) from: 
 
 - CPSC 2300 - System Administration (3) 
 
@@ -3208,13 +3099,13 @@ The curriculum for a Bachelor of Science degree in data science at Anderson Univ
 
 The complementary major in data science provides students with the foundational understanding to be able to utilize data science techniques and tools within their primary major. The techniques of data science are applicable to a broad range of different domains, so that nearly any major can be enhanced by a complementary major in data science. The minor in data science provides an initial foundation for understanding the functionality of data science tools, and is intended to serve as the first step towards the use of data science techniques in the student's major field of study. 
 
-## DATA SCIENCE MAJOR, BACHELOR OF ARTS  (64 hrs.) 
+## DATA SCIENCE MAJOR, BACHELOR OF ARTS  (64 hours) 
 
-- MATH 2010, 2120, 3010 and POSC 2420 
+- MATH 2010,2120,3010 and POSC 2420 
 
-- CPSC 2020, 2030, 2040, 2080, 2100, 2330, 2500 
+- CPSC 2020,2030,2040,2080,2100,2330,2500 
 
-- BSNS 2310, CPSC 2150, 3520, 3540 or 4100, and 4430 
+- BSNS 2310, CPSC 2150,3520,3540 or 4100, and 4430 
 
 - 3 credit hours from CPSC 4480 or 4840 
 
@@ -3224,11 +3115,11 @@ The complementary major in data science provides students with the foundational 
 
 - A minor or major in an application domain (see below) 
 
-## DATA SCIENCE MAJOR, BACHELOR OF SCIENCE  (81 hrs.) 
+## DATA SCIENCE MAJOR, BACHELOR OF SCIENCE  (81 hours) 
 
-- CPSC 2020, 2030, 2040, 2080, 2100, 2150, 2330, 2500, 3520, 3540, 4100, 4430 
+- CPSC 2020,2030,2040,2080,2100,2150,2330,2500,3520,3540,4100,4430 
 
-- MATH 2010, 2020, 3010, 3020, 3200, 4010, 4020 
+- MATH 2010,2020,3010,3020,3200,4010,4020 
 
 - POSC 2420 
 
@@ -3242,35 +3133,35 @@ The complementary major in data science provides students with the foundational 
 
 - A minor or major in an application domain (see below) 
 
-## DATA SCIENCE COMPLEMENTARY MAJOR  (37 hrs.) 
+## DATA SCIENCE COMPLEMENTARY MAJOR  (37 hours) 
 
-- CPSC 2020, 2030, 2040, 2100 
+- CPSC 2020,2030,2040,2100 
 
-- MATH 2010, 2120 
+- MATH 2010,2120 
 
 - POSC 2420 
 
 - BSNS 2310 
 
-- 3 credit hours from CPSC 3520, 3540, 4100 
+- 3 credit hours from CPSC 3520,3540,4100 
 
 - 3 credit hours from selected Communication Electives (see below) 
 
 - 3 credit hours from selected Domain Electives (see below) 
 
-## DATA SCIENCE MINOR  (17 hrs.) 
+## DATA SCIENCE MINOR  (17 hours) 
 
-- CPSC 2020, 2040, 2100 
+- CPSC 2020,2040,2100 
 
 - MATH 2120 
 
 - POSC 2420 
 
-## Eligible Data Science Communication Electives : 
+## Eligible Data Science Communication Electives  
 
 - COMM 2200, ENGL 3140, ENGL 3160, or a course approved by the data science advisor 
 
-## Eligible Data Science Minors: 
+## Eligible Data Science Minors 
 
 - Students are required to minor in an application domain, as approved by a data science advisor. 
 
@@ -3286,7 +3177,7 @@ Eligible Data Science Domain Electives:
 
 ●​ The following courses are pre-approved for students in the corresponding domain: 
 
-`o` ACCT 3110 `o` MATH 3400 `o` BIBL 2050 `o` PHYS 4220, 4410 `o` BIOL 4050 `o` POSC 3140, 3360 `o` BSNS 2450, 3240 `o` PSYC 3240 `o` CHEM 3100, 4110 `o` RLGN 3120 `o` ENGR 4120 `o` SOCI 3700 `o` HIST 2300 
+`o` ACCT 3110 `o` MATH 3400 `o` BIBL 2050 `o` PHYS 4220,4410 `o` BIOL 4050 `o` POSC 3140,3360 `o` BSNS 2450,3240 `o` PSYC 3240 `o` CHEM 3100,4110 `o` RLGN 3120 `o` ENGR 4120 `o` SOCI 3700 `o` HIST 2300 
 
 ## MATHEMATICS 
 
@@ -3298,25 +3189,25 @@ Students who have pursued accelerated mathematics programs in high school may re
 
 Students who plan to major in mathematics or actuarial studies should consult the chair of the department as soon as possible. 
 
-## ACTUARIAL SCIENCE MAJOR, BACHELOR OF ARTS (66 hrs.) 
+## ACTUARIAL SCIENCE MAJOR, BACHELOR OF ARTS (66 hours) 
 
-- MATH 2010, 2020, 2120, 3010, 3020, 3200, 3400, 4000, 4010, 4020 
+- MATH 2010,2020,2120,3010,3020,3200,3400,4000,4010,4020 
 
-- ACCT 2010, 2020 
+- ACCT 2010,2020 
 
-- BSNS 2510, 3390, 4150, 4390 
+- BSNS 2510,3390,4150,4390 
 
 - CPSC 2020 
 
-- ECON 2010, 2020, 3410 
+- ECON 2010,2020,3410 
 
 - POSC 2420 
 
-## MATHEMATICS MAJOR, BACHELOR OF ARTS (41 hrs.) 
+## MATHEMATICS MAJOR, BACHELOR OF ARTS (41 hours) 
 
-- MATH 2010, 2020, 2200, 3010, 3020, 4000 
+- MATH 2010,2020,2200,3010,3020,4000 
 
-- Probability/Statistics Elective: One course from MATH 2120, 4010, or 4020 
+- Probability/Statistics Elective: One course from MATH 2120,4010, or 4020 
 
 - Elective: One course from MATH 4100, or 4200 
 
@@ -3326,13 +3217,13 @@ Students who plan to major in mathematics or actuarial studies should consult th
 
 - MATH 4700 does not apply toward the major 
 
-## MATHEMATICS MAJOR, BACHELOR OF SCIENCE (49 hrs.) 
+## MATHEMATICS MAJOR, BACHELOR OF SCIENCE (49 hours) 
 
-- MATH 2010, 2020, 2200, 3010, 3020, 3200, 4000, 4200 
+- MATH 2010,2020,2200,3010,3020,3200,4000,4200 
 
-- Probability/Statistics Elective : Select one from MATH 2120, 4010, 4020 
+- Probability/Statistics Elective : Select one from MATH 2120,4010,4020 
 
-- Mathematics Elective : Select one from MATH 3100, 3200, 3300, 3400, 4100 
+- Mathematics Elective : Select one from MATH 3100,3200,3300,3400,4100 
 
 - CPSC 2020 
 
@@ -3350,9 +3241,9 @@ Anderson University Undergraduate Catalog 2025-26
 
 63 
 
-## MATHEMATICS TEACHING MAJOR, BACHELOR OF ARTS (44 hrs.) 
+## MATHEMATICS TEACHING MAJOR, BACHELOR OF ARTS (44 hours) 
 
-- MATH 2010, 2020, 2200, 2300, 3010, 3020, 3200, 4000, 4010, 4200 
+- MATH 2010,2020,2200,2300,3010,3020,3200,4000,4010,4200 
 
 - MATH 2120 or 4020 
 
@@ -3362,360 +3253,334 @@ Anderson University Undergraduate Catalog 2025-26
 
 - In addition to these requirements, students pursuing a teaching major must also meet additional requirements listed in the Department of Teacher Education section of this catalog. 
 
-## MATHEMATICS MINOR (16 hrs.) 
+## MATHEMATICS MINOR (16 hours) 
 
-- MATH 2010, 2020 
+- MATH 2010,2020 
 
 - Additional hours from MATH courses numbered 2120 or above 
 
 ## CPSC Courses 
 
-## _Note: For all courses with a CPSC caption, a laptop is required._ 
+## _Note For all courses with a CPSC caption, a laptop is required._ 
 
-|1030|Computer Science for Educators<br>2 hrs. (2, 0)|
+|1030|Computer Science for Educators<br>2 hours (2,0)|
 |---|---|
 ||Computer Science for Educators provides elementary educators with the necessary knowledge and skills|
 ||to integrate computer science and computational thinking into their teaching practice. The course focuses|
 ||on the core concepts and practices of computer science, as well as the importance of fostering an inclusive|
 ||computing culture in the classroom. This course is aligned with the following Indiana Department of|
 ||Education’s (IDOE) computer science standards: Data and Information (DI); Computing Devices and Systems|
-||(CD); Programs and Algorithms (PA); Networking and the Internet (NI).EXPECTATION: Designed particularly|
-||for education majors and does not apply toward majors or minors in Computer Science.OFFERED: Sem. I.|
-|1080|Introduction to Computing<br>3 hrs. (2, 1)|
+||(CD); Programs and Algorithms (PA); Networking and the Internet (NI).Expectation: Designed particularly|
+||for education majors and does not apply toward majors or minors in Computer Science.Offered: Semester I.|
+|1080|Introduction to Computing<br>3 hours (2,1)|
 ||This course builds students' foundational understanding of computers and their practical applications. It|
 ||covers essential hardware and software concepts, with an emphasis on productivity tools like Microsoft|
 ||Excel and introductory computer networking concepts. The course also provides an overview of major|
 ||computer components. Students who have already completed six credits in CPSC courses are not eligible|
-||for credit in this course.OFFERED: Sem. I.|
-|2020 |Fundamentals of Computational Thinking and Programming<br>4 hrs. (3, 2)|
+||for credit in this course.Offered: Semester I.|
+|2020 |Fundamentals of Computational Thinking and Programming<br>4 hours (3,2)|
 ||An introduction to concepts in the feld of computer science, the skills of computational thinking, and the|
 ||craft of computer programming.  Topics include a survey of problem-solving and algorithm development,|
 ||data types and variables, collections, control-of-fow structures, methods and parameters, fle processing,|
 ||and objects. Emphasis on effective testing and debugging, and an introduction to the command line|
 ||environment is presented._Applies to the Quantitative Reasoning [Raven Core] component of the Liberal Arts_|
-||_Core Curriculum._ OFFERED:Sem. I, II.|
-|2030 |Object-Oriented Analysis and Design<br>4 hrs. (3, 1)|
+||_Core Curriculum._ Offered:Semester I, II.|
+|2030 |Object-Oriented Analysis and Design<br>4 hours (3,1)|
 ||Builds upon the topics covered in Fundamentals of Computational Thinking and Programming with an|
 ||emphasis on writing classes and a focus on object-oriented programming. Topics include the theory and|
 ||application of encapsulation, abstraction, inheritance, and polymorphism. An introduction to version|
-||control is presented.PREREQUISITE:Grade of C- or better in CPSC 2020.OFFERED:Sem. II.|
-|2040 |Foundations of Data Science<br>4 hrs. (3, 1)|
+||control is presented.Prerequisite:Grade of C- or better in CPSC 2020.Offered:Semester II.|
+|2040 |Foundations of Data Science<br>4 hours (3,1)|
 ||Students will gain practical knowledge of Data Science using the Python programming language. Topics|
 ||covered will include data wrangling, storage, analysis, and visualization. Basic applications of statistical|
-||inference will be covered using Jupyter Lab, pandas, numpy, scipy, and sklearn.PREREQUISITE:CPSC|
-||2020.OFFERED:Sem. II, 2026-27.|
-|2080 |Introduction to Cybersecurity<br>4 hrs. (3, 2)|
+||inference will be covered using Jupyter Lab, pandas, numpy, scipy, and sklearn.Prerequisite:CPSC|
+||2020.Offered:Semester II, 2026-27.|
+|2080 |Introduction to Cybersecurity<br>4 hours (3,2)|
 ||Introduces cybersecurity beginning with the foundational concepts and security principles then proceeding|
 ||to threat, vulnerability, and risk management. Students will work with different offensive and defensive|
-||cyber tools to identify, protect, detect, respond, and recover critical infrastructure.OFFERED:Sem. I.|
-|2100|Database Programming<br>4 hrs. (4, 0)|
+||cyber tools to identify, protect, detect, respond, and recover critical infrastructure.Offered:Semester I.|
+|2100|Database Programming<br>4 hours (4,0)|
 ||Study of relational database management systems and information storage and retrieval techniques. Topics|
 ||include ERD and UML modeling, normalization, and SQL programming, stored procedures, triggers, views,|
-||transaction processing, concurrency control.PREREQUISITE:CPSC 2020.OFFERED:Sem. I, 2026-27.|
-|2150|Technology and Society<br>2 hrs. (2, 0)|
+||transaction processing, concurrency control.Prerequisite:CPSC 2020.Offered:Semester I, 2026-27.|
+|2150|Technology and Society<br>2 hours (2,0)|
 ||This course examines the impact of technology on society and introduces foundational concepts in|
 ||professional development. Through critical discussions on digital culture and emerging technologies like|
 ||artifcial intelligence, students will explore ethical and societal implications alongside practical skills for|
 ||their professional lives. Topics include privacy, misinformation, media infuence, and the responsibilities of|
 ||technology professionals. Students will also engage in practical measures to prepare them for internships|
-||and career opportunities.PREREQUISITE: Sophomore Standing|
-
-
+||and career opportunities.Prerequisite: Sophomore Standing|
 
 Anderson University Undergraduate Catalog 2025-26 
 
 64 
 
-## CPSC (cont.) 
-
 |PSC (|cont.)|cont.)|
 |---|---|---|
-|2180|Scripting and Systems<br>2 hrs. (1, 2)||
+|2180|Scripting and Systems<br>2 hours (1,2)||
 ||Teaches students to develop scripts for managing systems and automating operations. Students in the||
 ||class will write scripts for command environments in Windows and Linux operating systems. The course||
 ||introduces fundamental scripting goals and programming concepts like algorithms, data structures,||
-||type checking, loops, conditional logic, functions, parameters, and regular expressions.PREREQUISITE:||
-||Grade of C- or better in CPSC 2020.OFFERED:Sem. II.||
-|2250 |Discrete Mathematical Structures|4 hrs. (4, 0)|
+||type checking, loops, conditional logic, functions, parameters, and regular expressions.Prerequisite:||
+||Grade of C- or better in CPSC 2020.Offered:Semester II.||
+|2250 |Discrete Mathematical Structures|4 hours (4,0)|
 ||Topics include Boolean algebra, computer logic, relations and functions, logic and proof techniques,||
-||combinatorics, algebraic structures, and graph theory.SAME AS:MATH 2200.OFFERED:Sem. II.||
-|2300 |System Administration<br>3 hrs. (2, 2)||
+||combinatorics, algebraic structures, and graph theory.SAME AS:MATH 2200.Offered:Semester II.||
+|2300 |System Administration<br>3 hours (2,2)||
 ||Students will learn systems administration principles and practices focusing on both Windows and Linux||
 ||based environments. Students will be exposed to hardware and software components of modern||
 ||computing systems (desktop, server, IOT, virtual and cloud), data storage devices, data in use and||
 ||transmission, networking and security components, as well as operating system kernel, confguration||
-||hardening, vulnerability, and patch management.OFFERED:Sem. II.||
-|2330 |Web Application Development|4 hrs. (4, 0)|
+||hardening, vulnerability, and patch management.Offered:Semester II.||
+|2330 |Web Application Development|4 hours (4,0)|
 ||Introduces students to a broad range of web application software development tools and technologies.||
 ||Includes coverage of HTML 5, CSS, and JavaScript. Topics include client and server side web page||
 ||development, the creation of asynchronous web applications, database access and MVC software||
-||design.PREREQUISITE:CPSC 2020.OFFERED:Sem. I, 2025-26.||
-|2420 |Computer Architecture|2 hrs. (1, 2)|
+||design.Prerequisite:CPSC 2020.Offered:Semester I, 2025-26.||
+|2420 |Computer Architecture|2 hours (1,2)|
 ||Principles of computer architecture are introduced, including instruction and data representation,||
 ||fundamentals of assembly language, and low-level operating systems concepts, including registers,||
-||memory addressing, caching, the operating system stack, and bus architecture.PREREQUISITE:CPSC||
-||2030 or ENGR 2310.OFFERED:Sem. I, 2026-27.||
-|2430 |Programming Languages and Compilers|2 hrs. (1, 2)|
+||memory addressing, caching, the operating system stack, and bus architecture.Prerequisite:CPSC||
+||2030 or ENGR 2310.Offered:Semester I, 2026-27.||
+|2430 |Programming Languages and Compilers|2 hours (1,2)|
 ||A survey of programming languages and methods of translation. Topics include programming||
 ||paradigms, language syntax and lexical analysis, language design choices, and design of compilers.||
-||PREREQUISITE:CPSC 2500.OFFERED:Sem. II, 2025-26.||
-|2500 |Data Structures and Algorithms|4 hrs. (3, 2)|
+||Prerequisite:CPSC 2500.Offered:Semester II, 2025-26.||
+|2500 |Data Structures and Algorithms|4 hours (3,2)|
 ||In-depth study of data structures and algorithms, including stacks, queues, and trees through the use of||
 ||abstract data types to facilitate problem solving. Searching and sorting techniques will be applied to||
-||appropriate data structures.PREREQUISITE:Grade of C- or better in CPSC 2030 or ENGR 2310.||
-||OFFERED:Sem. I.||
-|2550 Selected Topics<br>2-4 hrs. (arranged)|||
+||appropriate data structures.Prerequisite:Grade of C- or better in CPSC 2030 or ENGR 2310.||
+||Offered:Semester I.||
+|2550 Selected Topics<br>2-4 hours (arranged)|||
 ||Courses offered periodically on selected topics related to computer science or cybersecurity, and||
 ||intended for both non-majors and majors within the department. Prerequisites vary according to course||
-||content.REPEAT:Different topics can be counted towards major electives (up to 6 total credit hours).||
-||OFFERED:With suffcient demand.||
-|3300 |Numerical Analysis|3 hrs. (3, 0)|
+||content.Repeat:Different topics can be counted towards major electives (up to 6 total credit hours).||
+||Offered:With suffcient demand.||
+|3300 |Numerical Analysis|3 hours (3,0)|
 ||Introduction to numerical algorithms fundamental to scientifc and mathematical computer use.||
 ||Solutions of transcendental, polynomial, and differential equations; matrix algebra; linear programming;||
-||numerical integration and differentiation; Monte Carlo methods; and curve ftting.PREREQUISITE:CPSC||
-||2020, MATH 2020.SAME AS:MATH 3300.OFFERED:With suffcient demand.||
-|3380 |Applied Cryptography and Security|4 hrs. (3, 2)|
+||numerical integration and differentiation; Monte Carlo methods; and curve ftting.Prerequisite:CPSC||
+||2020, MATH 2020.SAME AS:MATH 3300.Offered:With suffcient demand.||
+|3380 |Applied Cryptography and Security|4 hours (3,2)|
 ||Covers topics in applied cryptography (symmetric and asymmetric), public-key infrastructure, hashing,||
 ||digital signatures, VPN, confdentiality and identity mechanisms, as well as common cryptographic||
 ||failures. Protocols for securing data, applications, and network transmissions are covered in hands-on||
 ||labs. Covers the technical skills necessary to understand cryptographic standards and assess their||
-||implementation. The current state of technology and cybersecurity is also discussed.PREREQUISITE:||
-||MATH 2200 or MATH 2010.OFFERED:Sem. I.||
-|3410|Computer Networks|4 hrs. (3, 2)|
+||implementation. The current state of technology and cybersecurity is also discussed.Prerequisite:||
+||MATH 2200 or MATH 2010.Offered:Semester I.||
+|3410|Computer Networks|4 hours (3,2)|
 ||Students will learn the fundamental concepts, technologies, components, and issues related to||
 ||communications and data networks. The course topics include networking models (OSI and IP), media||
 ||(wired, wireless, optical), architectures (PAN, LAN/WAN, DMZ, VLAN, subnetting), devices (routers,||
 ||switches, frewalls), and protocols (IP, TCP, UDP, ICMP). The fundamental concepts behind network||
 ||security and network related threats are presented. Practical network software programming is covered||
-||with hands-on experience in the lab.PREREQUISITE:CPSC 2020.OFFERED:Sem. I.||
-
-
+||with hands-on experience in the lab.Prerequisite:CPSC 2020.Offered:Semester I.||
 
 Anderson University Undergraduate Catalog 2025-26 
 
 65 
 
-## CPSC (cont.) 
+3480 Network Security 3 hours (2,2) 
 
-3480 Network Security 3 hrs. (2, 2) 
+This class provides students with an understanding of the concepts used in designing a secure network, defending a network, and a familiarity with the tools and techniques that can be used to protect a network from cyber threats. Issues in network forensics are addressed. Students will use packet capturing and logging to diagnose real-world network and security issues. Prerequisite: CPSC 2300 and CPSC 3410. Offered: Semester II. 
 
-This class provides students with an understanding of the concepts used in designing a secure network, defending a network, and a familiarity with the tools and techniques that can be used to protect a network from cyber threats. Issues in network forensics are addressed. Students will use packet capturing and logging to diagnose real-world network and security issues. PREREQUISITE: CPSC 2300 and CPSC 3410. OFFERED: Sem. II. 
+3500 Design and Analysis of Computer Algorithms 4 hours (4,0) A study of techniques used in advanced algorithms, including algorithmic approaches such as brute-force, greedy, and divide-and-conquer algorithms, as well as recursive backtracking and dynamic programming. Supporting data structures like trees and graphs are studied, as well as search methods and related algorithms. In addition, the differences between P, NP, and NP-complete problems are discussed. Prerequisite: CPSC 2500. Offered: With sufficient demand. 3520 Introduction to Artificial Intelligence 3 hours (2,1) Introduces a range of topics in artificial intelligence including classical search algorithms, knowledge bases and logical inference, and Bayesian networks and statistical inference. Emphasis is given to applications of these techniques. Students are required to implement many of the algorithms discussed throughout the course in the form of multiple larger projects. Prerequisite: CPSC 2020, MATH 2010 or MATH 2120. Expectation: Strong mathematical background. Offered: Semester II, 2026-27. 3540 Introduction to Machine Learning 3 hours (2,1) This course provides a comprehensive introduction to machine learning (ML), covering foundational concepts, methods, and applications. Students will learn to define machine learning, understand various algorithms, and identify suitable problem types while gaining hands-on experience with essential ML tools and frameworks. Key topics include supervised learning (decision trees, support vector machines, and neural networks), unsupervised learning (clustering and dimensionality reduction), natural language processing, reinforcement learning, and an introduction to deep learning architectures. Emphasis is given to applications of these approaches to learning. Students are required to implement many of the algorithms discussed throughout the course in the form of multiple larger projects. Prerequisite : CPSC 2040, MATH 2010, MATH 2120. RECOMMENDED : MATH 3010. Offered : Semester II, 2025-26. 
 
-3500 Design and Analysis of Computer Algorithms 4 hrs. (4, 0) A study of techniques used in advanced algorithms, including algorithmic approaches such as brute-force, greedy, and divide-and-conquer algorithms, as well as recursive backtracking and dynamic programming. Supporting data structures like trees and graphs are studied, as well as search methods and related algorithms. In addition, the differences between P, NP, and NP-complete problems are discussed. PREREQUISITE: CPSC 2500. OFFERED: With sufficient demand. 3520 Introduction to Artificial Intelligence 3 hrs. (2, 1) Introduces a range of topics in artificial intelligence including classical search algorithms, knowledge bases and logical inference, and Bayesian networks and statistical inference. Emphasis is given to applications of these techniques. Students are required to implement many of the algorithms discussed throughout the course in the form of multiple larger projects. PREREQUISITE: CPSC 2020, MATH 2010 or MATH 2120. EXPECTATION: Strong mathematical background. OFFERED: Sem. II, 2026-27. 3540 Introduction to Machine Learning 3 hrs. (2, 1) This course provides a comprehensive introduction to machine learning (ML), covering foundational concepts, methods, and applications. Students will learn to define machine learning, understand various algorithms, and identify suitable problem types while gaining hands-on experience with essential ML tools and frameworks. Key topics include supervised learning (decision trees, support vector machines, and neural networks), unsupervised learning (clustering and dimensionality reduction), natural language processing, reinforcement learning, and an introduction to deep learning architectures. Emphasis is given to applications of these approaches to learning. Students are required to implement many of the algorithms discussed throughout the course in the form of multiple larger projects. PREREQUISITE : CPSC 2040, MATH 2010, MATH 2120. RECOMMENDED : MATH 3010. OFFERED : Sem. II, 2025-26. 
-
-||Sem. II, 2025-26.||
+||Semester II, 2025-26.||
 |---|---|---|
-|3550 |Special Topics|2-4 hrs. (arranged)|
+|3550 |Special Topics|2-4 hours (arranged)|
 ||Courses offered periodically on special topics related to computer science or cybersecurity, intended for||
-||majors within the department. Prerequisites vary according to course content.REPEAT:Different topics||
-||can be counted towards major electives (up to 6 total credit hours).OFFERED:With suffcient|demand.|
-|3650 |Independent Study|2-4 hrs. (arranged)|
-||Independent study under faculty direction.CONSENT:Instructor.REPEAT:May be repeated.||
-|4060 |Penetration Testing|3 hrs. (2, 2)|
+||majors within the department. Prerequisites vary according to course content.Repeat:Different topics||
+||can be counted towards major electives (up to 6 total credit hours).Offered:With suffcient|demand.|
+|3650 |Independent Study|2-4 hours (arranged)|
+||Independent study under faculty direction.Consent:Instructor.Repeat:May be repeated.||
+|4060 |Penetration Testing|3 hours (2,2)|
 
+This course builds upon foundational cybersecurity concepts, with an emphasis on governance, risk, and compliance. It addresses organizational and customer requirements, scoping, and fostering an ethical hacking mindset. Students will develop applied skills to assess cyberthreats and defend against them, exploring topics such as information gathering, vulnerability scanning, cyberattacks and exploits, and reporting and communication. Additionally, the course introduces advanced techniques in AI-enabled offensive cybersecurity operations as well as adversarial attacks on machine learning models. Ethical and legal implications of AI-enabled cyber offense will be discussed, with an emphasis on aligning offensive AI techniques with existing cybersecurity frameworks. Corequisite : CPSC 3480. Offered : Semester II, 2026-27. 
 
+4070 Cybersecurity Analysis and Digital Forensics 3 hours (2,2) 
 
-This course builds upon foundational cybersecurity concepts, with an emphasis on governance, risk, and compliance. It addresses organizational and customer requirements, scoping, and fostering an ethical hacking mindset. Students will develop applied skills to assess cyberthreats and defend against them, exploring topics such as information gathering, vulnerability scanning, cyberattacks and exploits, and reporting and communication. Additionally, the course introduces advanced techniques in AI-enabled offensive cybersecurity operations as well as adversarial attacks on machine learning models. Ethical and legal implications of AI-enabled cyber offense will be discussed, with an emphasis on aligning offensive AI techniques with existing cybersecurity frameworks. COREQUISITE : CPSC 3480. OFFERED : Sem. II, 2026-27. 
+This course provides an in-depth exploration of cybersecurity analysis and digital forensics, equipping students with the skills and techniques needed to investigate cyber incidents and analyze digital evidence. Key topics include threat intelligence, vulnerability management, security operations, incident response, compliance monitoring, data acquisition, evidence preservation, forensic imaging, and data analysis. The curriculum combines theory with hands-on exercises that simulate real-world investigations, offering practical experience in forensic investigations, legal report preparation, and the use of industry-standard tools to recover, examine, and interpret digital evidence. Corequisite: CPSC 3480. Offered: Semester II, 2025-26. 
 
-4070 Cybersecurity Analysis and Digital Forensics 3 hrs. (2, 2) 
+## 4100 Advanced Databases 3 hours (2,1) 
 
-This course provides an in-depth exploration of cybersecurity analysis and digital forensics, equipping students with the skills and techniques needed to investigate cyber incidents and analyze digital evidence. Key topics include threat intelligence, vulnerability management, security operations, incident response, compliance monitoring, data acquisition, evidence preservation, forensic imaging, and data analysis. The curriculum combines theory with hands-on exercises that simulate real-world investigations, offering practical experience in forensic investigations, legal report preparation, and the use of industry-standard tools to recover, examine, and interpret digital evidence. COREQUISITE: CPSC 3480. OFFERED: Sem. II, 2025-26. 
-
-## 4100 Advanced Databases 3 hrs. (2, 1) 
-
-This course delves into advanced data management techniques with a strong focus on NoSQL databases, distributed architectures, and the principles of building scalable and reliable database systems. Topics include key-value stores, document-based databases, data partitioning, replication strategies, and consistency models. Students will explore fault tolerance, distributed transactions, and the CAP theorem in depth. Emphasizes applying research and planning to provide robust and efficient solutions to common complex big data issues. PREREQUISITE: CPSC 2100. OFFERED: With sufficient demand. 
+This course delves into advanced data management techniques with a strong focus on NoSQL databases, distributed architectures, and the principles of building scalable and reliable database systems. Topics include key-value stores, document-based databases, data partitioning, replication strategies, and consistency models. Students will explore fault tolerance, distributed transactions, and the CAP theorem in depth. Emphasizes applying research and planning to provide robust and efficient solutions to common complex big data issues. Prerequisite: CPSC 2100. Offered: With sufficient demand. 
 
 Anderson University Undergraduate Catalog 2025-26 
 
 66 
 
-## CPSC (cont.) 
+4420 Operating Systems 4 hours (3,2) 
 
-4420 Operating Systems 4 hrs. (3, 2) 
+Focuses on the fundamentals of operating systems (OS), including how the OS manages processes, memory, I/O, and file management. Process and thread management are emphasized, including synchronization, communication, races, and deadlocks. Virtual memory, virtualization/hypervisors, and disk management are also discussed. With each topic, the security implications and design considerations are thoroughly discussed. Prerequisite: CPSC 2420 and CPSC 2500. Offered: Semester II. 
 
-Focuses on the fundamentals of operating systems (OS), including how the OS manages processes, memory, I/O, and file management. Process and thread management are emphasized, including synchronization, communication, races, and deadlocks. Virtual memory, virtualization/hypervisors, and disk management are also discussed. With each topic, the security implications and design considerations are thoroughly discussed. PREREQUISITE: CPSC 2420 and CPSC 2500. OFFERED: Sem. II. 
+4430 Software Engineering 4 hours (3,2) 
 
-4430 Software Engineering 4 hrs. (3, 2) 
+- A study of the principles of software design and development through the development of a large group project. Topics include requirements specification, project design and scheduling, security issues, verification, and validation. Software tools will be used for static code analysis, vulnerability scanning, and fuzzing. An emphasis is put on writing secure, high quality software that will work as expected in all circumstances and not be easily susceptible to vulnerabilities. Prerequisite: CPSC 2330 and CPSC 2500. RECOMMENDED: CPSC 2100. Offered : Semester I. 
 
-- A study of the principles of software design and development through the development of a large group project. Topics include requirements specification, project design and scheduling, security issues, verification, and validation. Software tools will be used for static code analysis, vulnerability scanning, and fuzzing. An emphasis is put on writing secure, high quality software that will work as expected in all circumstances and not be easily susceptible to vulnerabilities. PREREQUISITE: CPSC 2330 and CPSC 2500. RECOMMENDED: CPSC 2100. OFFERED : Sem. I. 
+4480 Technical Certification 1 hour (arranged) 
 
-4480 Technical Certification 1 hr. (arranged) 
+- Students study for an industry-relevant certification exam using prior course experiences and online resources. Students must take the certification exam to earn credit for the course. Eligible certification exams include CompTIA Security+, CompTIA PenTest+, AWS Certified Developer - Associate, Microsoft Certified: Azure Developer Associate, Microsoft Technology Associate: Database Fundamentals, or a certification deemed equivalent by faculty. NOTE: Students are responsible for required course materials and exam fee. Repeat: May be repeated once for a second certification. Prerequisite: Junior standing. Grade: CR/NC. 
 
-- Students study for an industry-relevant certification exam using prior course experiences and online resources. Students must take the certification exam to earn credit for the course. Eligible certification exams include CompTIA Security+, CompTIA PenTest+, AWS Certified Developer - Associate, Microsoft Certified: Azure Developer Associate, Microsoft Technology Associate: Database Fundamentals, or a certification deemed equivalent by faculty. NOTE: Students are responsible for required course materials and exam fee. REPEAT: May be repeated once for a second certification. PREREQUISITE: Junior standing. GRADE: CR/NC. 
+4800 Software Engineering Internship 2-4 hours (arranged) 
 
-4800 Software Engineering Internship 2-4 hrs. (arranged) 
+- Participation under professional supervision in business and industry that includes experience working on software development, QA testing, and/or database development in a production environment. Repeat: May be repeated once for a second internship. Consent: Instructor. Grade: CR/NC. 
 
-- Participation under professional supervision in business and industry that includes experience working on software development, QA testing, and/or database development in a production environment. REPEAT: May be repeated once for a second internship. CONSENT: Instructor. GRADE: CR/NC. 
-
-|4810|Data Science Internship<br>2-4 hrs. (arranged)|
+|4810|Data Science Internship<br>2-4 hours (arranged)|
 |---|---|
 ||Participation under professional supervision in business and industry that includes experience working on|
-||analytics, machine learning, and/or visualization in a production environment.REPEAT:May be repeated once|
-||for a second internship.CONSENT:Instructor.GRADE:CR/NC.|
+||analytics, machine learning, and/or visualization in a production environment.Repeat:May be repeated once|
+||for a second internship.Consent:Instructor.Grade:CR/NC.|
 
-
-
-|4820 |Cybersecurity Internship<br>2-4 hrs. (arranged)|
+|4820 |Cybersecurity Internship<br>2-4 hours (arranged)|
 |---|---|
 ||Participation under professional supervision in business and industry that includes experience working on|
 ||incident response, risk and compliance, threat intelligence, and/or security operations in a production|
-||environment.REPEAT:May be repeated once for a second internship.CONSENT:Instructor.GRADE:CR/NC.|
+||environment.Repeat:May be repeated once for a second internship.Consent:Instructor.Grade:CR/NC.|
 
-
-
-|4950 |Senior Seminar: Professional Development|1 hr. (1, 0)|
+|4950 |Senior Seminar: Professional Development|1 hour (1,0)|
 |---|---|---|
 ||Primarily discussion-based course which will further develop the oral communication skills of the student.||
 ||Students will engage in career-readiness through the preparation of a resume, the development of a||
 ||portfolio of accomplished work, the presentation of technical work, whiteboard questions, mock interviews,||
-||and networking with guest speakers and alumni.PREREQUISITE:Senior standing.OFFERED:Sem. I.||
+||and networking with guest speakers and alumni.Prerequisite:Senior standing.Offered:Semester I.||
 
+4960 Senior Seminar: Ethics 1 hour (1,0) 
 
+- Primarily discussion-based course which will further develop the critical-thinking skills and writing abilities of the student. Topics involved include a discussion of current topics in the fields of computer science and data science as well as a discussion of applied ethical issues. Prerequisite: Senior standing. Offered: Semester II. 
 
-4960 Senior Seminar: Ethics 1 hr. (1, 0) 
+4970 Senior Project 2-4 hours (arranged) 
 
-- Primarily discussion-based course which will further develop the critical-thinking skills and writing abilities of the student. Topics involved include a discussion of current topics in the fields of computer science and data science as well as a discussion of applied ethical issues. PREREQUISITE: Senior standing. OFFERED: Sem. II. 
-
-4970 Senior Project 2-4 hrs. (arranged) 
-
-- Application of relevant industry principles (software engineering, data engineering, information security, etc.) through the development of a significant project. May be completed individually or in a small group of students also enrolled in the course. CONSENT: Instructor. GRADE: CR/NC. 
+- Application of relevant industry principles (software engineering, data engineering, information security, etc.) through the development of a significant project. May be completed individually or in a small group of students also enrolled in the course. Consent: Instructor. Grade: CR/NC. 
 
 ## MATH Courses 
 
-## 1000 Introductory Algebra 2 hrs. (2, 0) 
+## 1000 Introductory Algebra 2 hours (2,0) 
 
-Basic algebra course designed to prepare students for college-level mathematics courses. Topics include whole numbers, fractions, decimals and percentages, ratios and proportions, polynomials, algebraic solutions of linear and quadratic equations, word problems, and systems of equations. Does not apply toward mathematics major or minor. GRADE : CR/NC. OFFERED : With sufficient demand. 
+Basic algebra course designed to prepare students for college-level mathematics courses. Topics include whole numbers, fractions, decimals and percentages, ratios and proportions, polynomials, algebraic solutions of linear and quadratic equations, word problems, and systems of equations. Does not apply toward mathematics major or minor. Grade : CR/NC. Offered : With sufficient demand. 
 
-1100 Elementary Mathematics-Numeration Systems 4 hrs. (4, 0) Elementary foundations course for students preparing to teach in a K-6 classroom setting Includes deductive reasoning, the algebra of sets, numeration systems, properties of natural numbers, integers, rational numbers, real numbers, and data analysis. _Applies to the Quantitative Reasoning [Raven Core] component of the Liberal Arts Core Curriculum._ Does not apply toward mathematics major or minor. OFFERED : Sem. I. 
+1100 Elementary Mathematics-Numeration Systems 4 hours (4,0) Elementary foundations course for students preparing to teach in a K-6 classroom setting Includes deductive reasoning, the algebra of sets, numeration systems, properties of natural numbers, integers, rational numbers, real numbers, and data analysis. _Applies to the Quantitative Reasoning [Raven Core] component of the Liberal Arts Core Curriculum._ Does not apply toward mathematics major or minor. Offered : Semester I. 
 
 Anderson University Undergraduate Catalog 2025-26 
 
 67 
 
-## MATH (cont.) 
-
 |MATH (|cont.)||
 |---|---|---|
-|1110|Elementary Mathematics-Geometry|3 hrs. (3, 0)|
+|1110|Elementary Mathematics-Geometry|3 hours (3,0)|
 ||Includes point-set geometry, linear and angular measurement concepts, area and volume,||
 ||transformational geometry, and probability. Designed particularly for students to teach in a K-6||
-||classroom setting. Does not apply toward a mathematics major or minor.OFFERED: Sem. II.||
-|1220|Advanced Algebra and Trigonometry|3 hrs. (3, 0)|
+||classroom setting. Does not apply toward a mathematics major or minor.Offered: Semester II.||
+|1220|Advanced Algebra and Trigonometry|3 hours (3,0)|
 ||Designed in order to fully prepare students for MATH 2010. Topics include right triangle trigonometry,||
 ||trigonometric identities and equations, complex numbers, laws of sines and cosines, trigonometric,||
 ||exponential, and logarithmic functions, analytic geometry, and conic sections. Does not apply toward||
-||mathematics major or minor.OFFERED: With suffcient demand.||
-|1250|Explorations in Mathematics|3 hrs. (3, 0)|
+||mathematics major or minor.Offered: With suffcient demand.||
+|1250|Explorations in Mathematics|3 hours (3,0)|
 ||Designed for students to explore different areas of college-level mathematics. Students will appreciate||
 ||the relevance of mathematics through real-life applications. Emphasis will be placed on critical reasoning,||
 ||problem solving, and the clear communication of mathematical ideas. Topics will be chosen from||
 ||mathematics of fnance, mathematical modeling, probability and statistics, voting theory, infnity, and||
 ||logic._Applies to the Quantitative Reasoning [Raven Core] component of theLiberal Arts Core Curriculum._||
-||Does not apply toward a mathematics major or minor.OFFERED: Sem. I, II.||
-|1300|Finite Mathematics|3 hrs. (3, 0)|
+||Does not apply toward a mathematics major or minor.Offered: Semester I, II.||
+|1300|Finite Mathematics|3 hours (3,0)|
 ||Topics include introduction to counting techniques, probability, systems of linear equations and matrices,||
 ||linear programming, Markov chains, and the mathematics of fnance. Does not apply toward mathematics||
 ||major or minor._Applies to the Quantitative Reasoning [Raven Core] component of theLiberal Arts Core_||
-||_Curriculum._ OFFERED: Sem. I, II.||
-|2010|Calculus I|4 hrs. (4, 0)|
+||_Curriculum._ Offered: Semester I, II.||
+|2010|Calculus I|4 hours (4,0)|
 ||Introduction to plane analytic geometry, functions, limits, continuity, differentiation of algebraic and||
 ||trigonometric functions, application of the derivative, and indefnite and defnite integrals._Applies to_||
-||_the Quantitative Reasoning [Raven Core] component of the Liberal Arts Core Curriculum._ EXPECTATION:||
+||_the Quantitative Reasoning [Raven Core] component of the Liberal Arts Core Curriculum._ Expectation:||
 ||Two years of high school algebra, plane geometry, and trigonometry, MATH 1220, or passing score on||
-||Calculus Readiness Exam.OFFERED: Sem. I, II.||
-|2020 |Calculus II|4 hrs. (4, 0)|
+||Calculus Readiness Exam.Offered: Semester I, II.||
+|2020 |Calculus II|4 hours (4,0)|
 ||Continuation of MATH 2010. Attention given to methods of integration of algebraic and transcendental||
 ||functions, curves given in polar coordinates, curves given by parametric equations, applications of||
 ||integration, introduction to ordinary differential equations, and infnite sequences and series.PRE-||
 ||REQUISITE: Grade of at least C- in MATH 2010. An appropriate AP score may waive the requirement||
-||(see department chair).OFFERED: Sem. II.||
-|2120|Introductory Statistics with Applications|3 hrs. (3, 0)|
+||(see department chair).Offered: Semester II.||
+|2120|Introductory Statistics with Applications|3 hours (3,0)|
 ||Descriptive statistics; binomial, normal, and chi-square distributions; sampling distributions;||
 ||estimation; hypothesis testing; simple linear regression; and analysis of variance._Applies to the_||
-||_Quantitative Reasoning [Raven Core] component of theLiberal Arts Core Curriculum._ EXPECTATION:||
-||Two years of high school algebra.OFFERED: Sem. II.||
-|2200 |Discrete Mathematical Structures|4 hrs. (4, 0)|
+||_Quantitative Reasoning [Raven Core] component of theLiberal Arts Core Curriculum._ Expectation:||
+||Two years of high school algebra.Offered: Semester II.||
+|2200 |Discrete Mathematical Structures|4 hours (4,0)|
 ||Topics include Boolean algebra, computer logic, relations and functions, logic and proof techniques,||
-||combinatorics, algebraic structures, and graph theory.SAME AS:CPSC 2250.OFFERED: Sem. II.||
-|2300 |College Geometry|3 hrs. (3, 0)|
+||combinatorics, algebraic structures, and graph theory.SAME AS:CPSC 2250.Offered: Semester II.||
+|2300 |College Geometry|3 hours (3,0)|
 ||Presents an axiomatic basis for Euclidean geometry and provides insight into the interdependence of||
 ||various theorems and axioms. Topics include incidence and order properties, congruence, absolute||
 ||and non-Euclidean geometry, the parallel postulate, and the real numbers and geometry.||
-||PREREQUISITE: MATH 2010.OFFERED: Sem. II, 2026-27.||
-|3010|Linear Algebra|4 hrs. (4, 0)|
+||Prerequisite: MATH 2010.Offered: Semester II, 2026-27.||
+|3010|Linear Algebra|4 hours (4,0)|
 ||Introduction to algebra and geometry of R3and its extension to Rn. Topics include vector spaces and||
 ||linear transformations, systems of linear equations and their solutions, matrices and determinants,||
-||eigenvalues, eigenvectors. Applications of these topics will also be demonstrated.EXPECTATION:||
-||Grade of at least C- in MATH 2010.OFFERED: Sem. I.||
-|3020 |Calculus III|4 hrs. (4, 0)|
+||eigenvalues, eigenvectors. Applications of these topics will also be demonstrated.Expectation:||
+||Grade of at least C- in MATH 2010.Offered: Semester I.||
+|3020 |Calculus III|4 hours (4,0)|
 ||Continuation of MATH 2020. Attention given to multi-dimensional calculus and its applications.||
 ||Topics include partial differentiation, multiple integration, three-dimensional analytic geometry,||
-||and vector calculus.EXPECTATION: Grade of at least C- in MATH 2020; grade of at least C- in||
-||MATH 3010.OFFERED: Sem. II.||
-
-
+||and vector calculus.Expectation: Grade of at least C- in MATH 2020; grade of at least C- in||
+||MATH 3010.Offered: Semester II.||
 
 Anderson University Undergraduate Catalog 2025-26 
 
 68 
 
-## MATH (cont.) 
-
 |MATH (|cont.)|
 |---|---|
-|3100|Differential Equations<br>3 hrs. (3, 0)|
+|3100|Differential Equations<br>3 hours (3,0)|
 ||Methods of solving ordinary differential equations and their applications to life sciences, physics, and|
 ||chemistry. Topics covered will include frst and second order homogeneous and nonhomogeneous|
 ||equations, frst order systems, Laplace transforms, series solutions, and an introduction to partial|
-||differential equations.PREREQUISITE: Grade of at least C- in MATH 2020.OFFERED: Sem. II.|
-|3200 |Mathematical Models<br>3 hrs. (3, 0)|
+||differential equations.Prerequisite: Grade of at least C- in MATH 2020.Offered: Semester II.|
+|3200 |Mathematical Models<br>3 hours (3,0)|
 ||Formation and study of mathematical models used in business, social, and biological sciences.|
 ||Mathematical topics include N-person games, networks, Markov processes, application of graphs and|
-||digraphs, apportionment, and group decision-making.OFFERED: Sem. I, 2025-26.|
-|3300 |Numerical Analysis<br>3 hrs. (3, 0)|
+||digraphs, apportionment, and group decision-making.Offered: Semester I, 2025-26.|
+|3300 |Numerical Analysis<br>3 hours (3,0)|
 ||Introduction to numerical algorithms fundamental to scientifc and mathematical computer use. Includes|
 ||root fnding methods; polynomial interpolation; numerical integration and differentiation; matrix|
-||equations; numerical solutions to differential equations.PREREQUISITE: CPSC 2020, MATH 2020.|
-||SAME AS:CPSC 3300.OFFERED: With suffcient demand.|
-|3400 |Mathematics of Finance<br>3 hrs. (3, 0)|
+||equations; numerical solutions to differential equations.Prerequisite: CPSC 2020, MATH 2020.|
+||SAME AS:CPSC 3300.Offered: With suffcient demand.|
+|3400 |Mathematics of Finance<br>3 hours (3,0)|
 ||Designed to introduce the fundamental concepts of fnancial mathematics with an emphasis on interest|
 ||theory. Topics include mathematical foundations of the following: present and accumulated values,|
 ||annuities, loans, bonds, fnancial markets, arbitrage, and fnancial derivatives. Serves as a foundation for|
-||the second actuarial exam (FM/2).PREREQUISITE: MATH 2020.OFFERED: Sem. I, 2025-26.|
-|4000 |Problem Seminar<br>2 hrs. (2, 0)|
+||the second actuarial exam (FM/2).Prerequisite: MATH 2020.Offered: Semester I, 2025-26.|
+|4000 |Problem Seminar<br>2 hours (2,0)|
 ||Introduction to research techniques based on problems from parts of the regular curriculum such as|
 ||calculus, linear algebra, probability, and statistics. Emphasis on problems from the required core of the|
 ||curriculum—problems that are integrative in nature._Applies to the writing-intensive requirement of the_|
-||_Liberal Arts Core Curriculum. _PREREQUISITE: Upper-division standing.OFFERED: Sem. I.|
-|4010|Probability<br>3 hrs. (3, 0)|
+||_Liberal Arts Core Curriculum. _PREREQUISITE: Upper-division standing.Offered: Semester I.|
+|4010|Probability<br>3 hours (3,0)|
 ||Probability distributions, expectation, mean, variance, moment generating functions, special|
 ||distributions, unbiasedness, maximum likelihood, confdence intervals, and hypothesis testing.|
-||PREREQUISITE: MATH 2020.OFFERED: Sem. I, 2026-27.|
-|4020 |Advanced Statistics<br>3 hrs. (3, 0)|
+||Prerequisite: MATH 2020.Offered: Semester I, 2026-27.|
+|4020 |Advanced Statistics<br>3 hours (3,0)|
 ||Point estimation including descriptive statistics, order statistics, and likelihood estimators, confdence|
-||intervals, hypothesis tests, power, resampling, regression, chi-squared, ANOVA.PREREQUISITE: MATH|
-||2020.OFFERED: Sem. II, 2026-27.|
-|4100|Real Analysis<br>3 hrs. (3, 0)|
+||intervals, hypothesis tests, power, resampling, regression, chi-squared, ANOVA.Prerequisite: MATH|
+||2020.Offered: Semester II, 2026-27.|
+|4100|Real Analysis<br>3 hours (3,0)|
 ||Careful study of the real number system with attention given to the study of real-valued functions,|
-||metric spaces, sequences, continuity, differentiation, and integration.PREREQUISITE: MATH 3010.|
-||OFFERED: With suffcient demand.|
-|4200 |Abstract Algebra<br>3 hrs. (3, 0)|
+||metric spaces, sequences, continuity, differentiation, and integration.Prerequisite: MATH 3010.|
+||Offered: With suffcient demand.|
+|4200 |Abstract Algebra<br>3 hours (3,0)|
 ||Consideration of fundamental concepts of modern algebra. Includes groups, rings, integral domains, and|
 ||felds along with isomorphisms, homomorphisms, normal subgroups, and quotient groups.|
-||PREREQUISITE: MATH 3010.OFFERED: Sem. I, 2026-27.|
-|4650 |Independent Study<br>1-3 hrs. (arranged)|
-||Selected topics in higher mathematics.REPEAT: May be repeated (total combined credit in MATH 4650|
-||and 4900 may not exceed 12 hrs.).CONSENT: Department Chair.|
-|4700 |Methods in Teaching Mathematics<br>3 hrs. (3, 0)|
+||Prerequisite: MATH 3010.Offered: Semester I, 2026-27.|
+|4650 |Independent Study<br>1-3 hours (arranged)|
+||Selected topics in higher mathematics.Repeat: May be repeated (total combined credit in MATH 4650|
+||and 4900 may not exceed 12 hours).Consent: Department Chair.|
+|4700 |Methods in Teaching Mathematics<br>3 hours (3,0)|
 ||Prepares Mathematics Education majors in the development of teaching methodologies appropriate to|
 ||mathematics. Designed for Mathematics Education majors; does not apply toward the math major or|
-||minor.PREREQUISITE: MATH 3020.COREQUISITE: EDUC 4120 or 4710.OFFERED: Sem. I, 2027-28.|
-|4900 |Seminar<br>1-3 hrs. (arranged)|
+||minor.Prerequisite: MATH 3020.Corequisite: EDUC 4120 or 4710.Offered: Semester I, 2027-28.|
+|4900 |Seminar<br>1-3 hours (arranged)|
 ||Seminars in algebra, analysis, topology, set theory, complex variables, non-Euclidean geometry, and|
-||applied mathematics.REPEAT: May be repeated (total combined credit in MATH 4650 and 4900 may not|
-||exceed 12 hrs.).CONSENT: Department chair.OFFERED: With suffcient demand.|
-
-
+||applied mathematics.Repeat: May be repeated (total combined credit in MATH 4650 and 4900 may not|
+||exceed 12 hours).Consent: Department chair.Offered: With suffcient demand.|
 
 Anderson University Undergraduate Catalog 2025-26 
 
@@ -3729,19 +3594,19 @@ _Dr. Stefanie Leiter, chair Faculty: Dr. Bruning, Dr. Dirck, Prof. Elliott, Dr. 
 
 The Cinema and Media Arts major emphasizes the art of storytelling as the foundation for creating visual media. Instruction in audio, video, and cinema production prepares majors for careers in scriptwriting, production, management, and related areas. Students create and showcase their original work through the Black Bird Media Lab and the Black Bird Film Festival, and they have the opportunity to spend a semester in Hollywood through the CCCU’s Los Angeles Film Studies Center. 
 
-## CINEMA AND MEDIA ARTS MAJOR  (52 hrs.) 
+## CINEMA AND MEDIA ARTS MAJOR  (52 hours) 
 
-- COMM 2000, 2020, 2060, 2160, 2200, 2320, 2420, 3120, 3200, 3220, 3420, 4000 
+- COMM 2000,2020,2060,2160,2200,2320,2420,3120,3200,3220,3420,4000 
 
 - 4 hours from COMM 2860 
 
 - 2-4 hours from COMM 4800 
 
-- Remaining hours from COMM 3050, 3160, 4120, 4900; ENGL 3140; THEA 2110, 2210 
+- Remaining hours from COMM 3050,3160,4120,4900; ENGL 3140; THEA 2110,2210 
 
-## CINEMA AND MEDIA ARTS MINOR  (18 hrs.) 
+## CINEMA AND MEDIA ARTS MINOR  (18 hours) 
 
-- COMM 2020, 2060, 2160, 2200 
+- COMM 2020,2060,2160,2200 
 
 - COMM 2320 or 2420 
 
@@ -3751,27 +3616,27 @@ The Cinema and Media Arts major emphasizes the art of storytelling as the founda
 
 We are committed to preparing students for an active and faithful life of stewardship within their chosen disciplines. Recognizing the close connection between creativity and the Creator, we seek to do this work with integrity, free and open inquiry, discipline, collaboration, and excellence. Programs in this area enable students to bring both breadth and depth to their professions, and they provide students with the opportunity to gain knowledge and learn skills and techniques. 
 
-## COMMUNICATION MINOR (18 hrs.) 
+## COMMUNICATION MINOR (18 hours) 
 
-- Any COMM-captioned courses except 4750, 4500 and 4800 
+- Any COMM-captioned courses except 4750,4500 and 4800 
 
 ## Multimedia Journalism 
 
 Prepares students for careers in reporting, writing and editing in both the print and electronic media environments. Practical experiences include producing news stories in classes, writing for the professional press, interning at a variety of news organizations, and working on newscast and online content for the student-operated news organization, the Andersonian. 
 
-## MULTIMEDIA JOURNALISM MAJOR   (42 hrs.) 
+## MULTIMEDIA JOURNALISM MAJOR   (42 hours) 
 
-- COMM 2000, 2020, 2060, 2130, 2140, 2200, 3130, 3200, 3230, 3370, 4000 
+- COMM 2000,2020,2060,2130,2140,2200,3130,3200,3230,3370,4000 
 
 - 4 hours from COMM 2850 
 
 - 2-4 hours from COMM 4800 
 
-- Remaining hours from COMM 2240, 2860 (1-4 hrs.), 3050, 3310 
+- Remaining hours from COMM 2240,2860 (1-4 hours), 3050,3310 
 
-## MULTIMEDIA JOURNALISM COMPLEMENTARY MAJOR  (30 hrs.) 
+## MULTIMEDIA JOURNALISM COMPLEMENTARY MAJOR  (30 hours) 
 
-- COMM 2000, 2060, 2130, 2200, 3130, 3230 
+- COMM 2000,2060,2130,2200,3130,3230 
 
 - 3 hours from COMM 2850 
 
@@ -3781,9 +3646,9 @@ Prepares students for careers in reporting, writing and editing in both the prin
 
 - Remaining hours from COMM 2140 or 3370; 3050; 3200 or 4000; 3310 
 
-## JOURNALISM MINOR  (18 hrs.) 
+## JOURNALISM MINOR  (18 hours) 
 
-- COMM 2130, 3130, 3230 
+- COMM 2130,3130,3230 
 
 - 3 hours from COMM 2850 
 
@@ -3799,9 +3664,9 @@ Anderson University Undergraduate Catalog 2025-26
 
 The field of public relations focuses broadly on strategically building and maintaining relationships with the various constituencies that are important to organizations. In the public relations major, students learn foundations, media writing, campaigns, research, ethics, social media, and event planning. Students may choose one of three tracks: public relations, public relations with a concentration in event planning, and public relations with a concentration in social media. This program offers an option to complete the major in three years rather than the traditional four. Classes are complemented by experiential learning through internships and the student-operated PR agency, Fifth Street Communications. The program also houses a chapter of the Public Relations Student Society of America (PRSSA). Public relations majors are required to maintain a PRSSA membership, with dues assessed yearly. 
 
-## PUBLIC RELATIONS MAJOR   (52 hrs.) 
+## PUBLIC RELATIONS MAJOR   (52 hours) 
 
-- COMM 2000, 2130, 2140, 2200, 2240, 3050, 3200, 3240, 3250, 3310, 3340, 3370, 3440, 4000 
+- COMM 2000,2130,2140,2200,2240,3050,3200,3240,3250,3310,3340,3370,3440,4000 
 
 - 3 hours from COMM 2840 
 
@@ -3809,15 +3674,15 @@ The field of public relations focuses broadly on strategically building and main
 
 - 2-4 hours from COMM 4800 
 
-- At least one of the following: COMM 3130, 3230 
+- At least one of the following: COMM 3130,3230 
 
-- Remaining hours from BSNS 2810; COMM 3130, 3230, 3310, 4900; HIST 2350 
+- Remaining hours from BSNS 2810; COMM 3130,3230,3310,4900; HIST 2350 
 
-## PR with Concentration in Event Planning and Management (52 hrs.) 
+## PR with Concentration in Event Planning and Management (52 hours) 
 
 - BSNS 2810 
 
-- COMM 2000, 2130, 2140, 2200, 2240, 3050, 3200, 3240, 3250, 3310, 3340, 3370, 3440, 4000, 4340 
+- COMM 2000,2130,2140,2200,2240,3050,3200,3240,3250,3310,3340,3370,3440,4000,4340 
 
 - 3 hours from COMM 2840 
 
@@ -3825,13 +3690,13 @@ The field of public relations focuses broadly on strategically building and main
 
 - 2-4 hours from COMM 4800 
 
-- Remaining hours from BSNS 3150; COMM 3230, 3860 (2-4 hrs.) 
+- Remaining hours from BSNS 3150; COMM 3230,3860 (2-4 hours) 
 
-## PR with Concentration in Social Media (52 hrs.) 
+## PR with Concentration in Social Media (52 hours) 
 
-- BSNS 2810, 4400 
+- BSNS 2810,4400 
 
-- COMM 2000, 2130, 2140, 2200, 2240, 3050, 3200, 3240, 3250, 3310,  3340, 3370, 3440, 4000 
+- COMM 2000,2130,2140,2200,2240,3050,3200,3240,3250,3310,3340,3370,3440,4000 
 
 - 3 hours from COMM 2840 
 
@@ -3841,9 +3706,9 @@ The field of public relations focuses broadly on strategically building and main
 
 - Remaining hours from BSNS 3550; COMM 3230; ENGL 3140 
 
-## PUBLIC RELATIONS COMPLEMENTARY MAJOR  (35 hrs.) 
+## PUBLIC RELATIONS COMPLEMENTARY MAJOR  (35 hours) 
 
-- COMM 2000, 2130, 2240, 3050, 3240, 3250, 3340, 3370, 3440 
+- COMM 2000,2130,2240,3050,3240,3250,3340,3370,3440 
 
 - 2 hours from COMM 2840 
 
@@ -3851,23 +3716,23 @@ The field of public relations focuses broadly on strategically building and main
 
 - At least one of the following: COMM 3130 or 3230 
 
-- Remaining hours from COMM 2140, 2200, 3130, 3200, 3230, 3310, 4000 
+- Remaining hours from COMM 2140,2200,3130,3200,3230,3310,4000 
 
-## PUBLIC RELATIONS MINOR  (18 hrs.) 
+## PUBLIC RELATIONS MINOR  (18 hours) 
 
-- COMM 2130, 2240, 2840 
+- COMM 2130,2240,2840 
 
 - COMM 3240 or 3340 
 
 - COMM 3250 or 3440 
 
-- Remaining hours from COMM 2140, 3050, 3310, 3370 
+- Remaining hours from COMM 2140,3050,3310,3370 
 
-## EVENT PLANNING & MANAGEMENT MINOR  (15-16 hrs.) 
+## EVENT PLANNING & MANAGEMENT MINOR  (15-16 hours) 
 
 - BSNS 2810 
 
-- COMM 2240, 3250, 3370, 4340 
+- COMM 2240,3250,3370,4340 
 
 - 1-2 hours from COMM 3860 
 
@@ -3889,15 +3754,15 @@ Additionally, the English Program hosts minors in English Studies and Writing, w
 
 ## MAJORS 
 
-## ENGLISH LANGUAGE ARTS TEACHING MAJOR  (44 hrs.) 
+## ENGLISH LANGUAGE ARTS TEACHING MAJOR  (44 hours) 
 
-## Core requirements (38 hrs.): 
+## Core requirements (38 hours) 
 
-- ENGL 2220, 2400, 3000, 3140 or 3160, 3320, 3540, 3560, 3570, 3580, 3590,  3880, 4700, COMM 4750, MLAN 2000 or ENGL 3050 
+- ENGL 2220,2400,3000,3140 or 3160,3320,3540,3560,3570,3580,3590,3880,4700, COMM 4750, MLAN 2000 or ENGL 3050 
 
-## Remaining requirements (6 hrs.): 
+## Remaining requirements (6 hours) 
 
-- One course from each of the following sets (6 hrs.): 
+- One course from each of the following sets (6 hours): 
 
    - ENGL 3110 or 3120 or 2580 
 
@@ -3907,39 +3772,39 @@ Teacher Education requirements
 
 - In addition to the above requirements, students pursuing a teaching major must also meet additional requirements listed in the _Department of Teacher Education_ section of this catalog. 
 
-## LITERARY STUDIES MAJOR  (35 hrs.) 
+## LITERARY STUDIES MAJOR  (35 hours) 
 
-- Literature (18 hrs.) 
+- Literature (18 hours) 
 
 o ENGL 2400 
 
-   - Select five courses from the following:  ENGL 2220, 3540, 3560, 3570, 3580, 3320 
+   - Select five courses from the following:  ENGL 2220,3540,3560,3570,3580,3320 
 
-- Language (3 hrs.) 
+- Language (3 hours) 
 
 o ENGL 3000 or MLAN 2000 
 
-- ENGL 4910 (3 hrs.) 
+- ENGL 4910 (3 hours) 
 
-- Electives (11 hrs.) 
+- Electives (11 hours) 
 
-   - Select from any 2000-level or higher ENGL course, including ENGL 3870, 3880 
+   - Select from any 2000-level or higher ENGL course, including ENGL 3870,3880 
 
 Credit for internship experience (ENGL 4880) of up to 3 hours may be applied toward the major and must be approved in advance by the English program director or department chair. 
 
 The department strongly recommends adding a Writing major (35 hours) or minor (15 hours) to increase one’s competency in writing.  The Literary Studies major and Writing major must have a minimum of 15 hours that are unique to each.  The Literary Studies major and Writing minor may share up to 3 hours in common. 
 
-_ENGL 1110, 1120, and 4700 do not apply to the major._ 
+_ENGL 1110,1120, and 4700 do not apply to the major._ 
 
 Anderson University Undergraduate Catalog 2025-26 
 
 72 
 
-## WRITING MAJOR  (35 hrs.) 
+## WRITING MAJOR  (35 hours) 
 
 The writing major provides the student with opportunities to develop advanced writing competencies in a range of creative and professional writing arenas. 
 
-- 18-25 hours from ENGL 2500, 2510, 2580, 3000, 3110, 3120, 3140, 3160, 3180, 3190, 3870, 3880, COMM 3220 or COMM 3260 
+- 18-25 hours from ENGL 2500,2510,2580,3000,3110,3120,3140,3160,3180,3190,3870,3880, COMM 3220 or COMM 3260 
 
 - 3-8 hours from any other ENGL course level 2000 or higher, not listed above. 
 
@@ -3953,37 +3818,37 @@ Please note if a student chooses to also pursue the Literary Studies major, the 
 
 ## MINORS 
 
-## ENGLISH STUDIES MINOR  (15 hrs.) 
+## ENGLISH STUDIES MINOR  (15 hours) 
 
 A flexible, generalized minor that provides students with the opportunity to take any combination of English courses 2000-level or above.  Courses may be selected from the following: 
 
-- Literature courses: ENGL 2220, 2400, 3320, 3540, 3560, 3570, 3580 
+- Literature courses: ENGL 2220,2400,3320,3540,3560,3570,3580 
 
 - Language courses: ENGL 3000, MLAN 2000, or ENGL 3050 
 
-- Writing and experiential courses: 2500/2510 (corequisites), 2580, 3110, 3120, 3140, 3160, 3180, 3190, 3870, 3880, 4800, 4910 
+- Writing and experiential courses: 2500/2510 (corequisites), 2580,3110,3120,3140,3160,3180,3190,3870,3880,4800,4910 
 
-_English 1000, 1100, 1110, 1120 and 4700 do not apply to the English Studies minor._ 
+_English 1000,1100,1110,1120 and 4700 do not apply to the English Studies minor._ 
 
-## LITERARY STUDIES MINOR  (15 hrs.) 
+## LITERARY STUDIES MINOR  (15 hours) 
 
 - ENGL 2400 
 
 - One or more courses from each group: 
 
-   - British Literature: ENGL 3320, 3540, 3560 
+   - British Literature: ENGL 3320,3540,3560 
 
-   - American Literature: ENGL 3570, 3580 
+   - American Literature: ENGL 3570,3580 
 
-   - 3000-level writing courses: ENGL 3110, 3120, 3140, 3160, 3180, 3190 
+   - 3000-level writing courses: ENGL 3110,3120,3140,3160,3180,3190 
 
-_ENGL 1000, 1110, 1120, and 4700 do not apply to the Literary Studies minor._ 
+_ENGL 1000,1110,1120, and 4700 do not apply to the Literary Studies minor._ 
 
-## WRITING MINOR (15 hrs.) 
+## WRITING MINOR (15 hours) 
 
 Courses may be selected from the following: 
 
-- ENGL 2500, 2510, 2580, 3000, 3110, 3120, 3140, 3160, 3180, 3190, 3870 
+- ENGL 2500,2510,2580,3000,3110,3120,3140,3160,3180,3190,3870 
 
 - COMM 2130 or SPAN 3010 or MUBS 2070 
 
@@ -4007,11 +3872,11 @@ Accordingly, our course offerings pursue three primary goals:
 
 The history degree prepares students for graduate and law school; careers in public service, museums, archives, and nonprofit associations; education; and many other diverse fields. 
 
-## HISTORY MAJOR (36 hrs.) 
+## HISTORY MAJOR (36 hours) 
 
-Foundational Courses (18 hrs.) 
+Foundational Courses (18 hours) 
 
-●​ HIST 2000, 2300, 2350, 4930 
+●​ HIST 2000,2300,2350,4930 
 
 ●​ HIST 2030 or 2040 
 
@@ -4019,19 +3884,19 @@ Foundational Courses (18 hrs.)
 
 - 2 hours from HIST 4800 
 
-American History Courses (6 hrs.) 
+American History Courses (6 hours) 
 
-- Two courses from HIST 3420, 3440, 3455, 3470, 3510, 3520, 3540, 3560, 4030 
+- Two courses from HIST 3420,3440,3455,3470,3510,3520,3540,3560,4030 
 
-European History Courses (6 hrs.) 
+European History Courses (6 hours) 
 
-●​ Two courses from HIST 3100, 3135, 3150, 3190, 3220, 3280 
+●​ Two courses from HIST 3100,3135,3150,3190,3220,3280 
 
-World History Courses (6 hrs.) 
+World History Courses (6 hours) 
 
-●​ Two courses from HIST 3240, 3250, 3260, 3300, 3360, 3370, 3425 
+●​ Two courses from HIST 3240,3250,3260,3300,3360,3370,3425 
 
-## HISTORY MINOR (15 hrs.) 
+## HISTORY MINOR (15 hours) 
 
 - At least two courses selected from HIST 3000- and 4000-level listings 
 
@@ -4043,29 +3908,29 @@ The public history major and minor prepares students who wish to work in the fie
 
 Preparation for work in public history is therefore, and necessarily, interdisciplinary, as it prepares individuals to preserve and transmit our past to the non-academic public. 
 
-## PUBLIC HISTORY MAJOR (59-60 hrs.) 
+## PUBLIC HISTORY MAJOR (59-60 hours) 
 
-- Completion of the History Major (36 hrs.) 
+- Completion of the History Major (36 hours) 
 
 - ARTH 3040 
 
-- COMM 2200, 2240 
+- COMM 2200,2240 
 
-●​ HIST 3480, 3490 
+●​ HIST 3480,3490 
 
-- Two courses (5-6 hrs.) from: BSNS 2710, 2810; COMM 3250 
+- Two courses (5-6 hours) from: BSNS 2710,2810; COMM 3250 
 
-- One course (3 hrs.) from: COMM 3370, BSNS 4400 
+- One course (3 hours) from: COMM 3370, BSNS 4400 
 
-## PUBLIC HISTORY MINOR (18 hrs. 
+## PUBLIC HISTORY MINOR (18 hours 
 
-Required (12 hrs.) ●​ ARTH 3480, 
+Required (12 hours) ●​ ARTH 3480, 
 
-●​ HIST 2350, 3490, 4800 (3-hr. internship) 
+●​ HIST 2350,3490,4800 (3-hour internship) 
 
-Remaining from at least two of the following (6 hrs.) 
+Remaining from at least two of the following (6 hours) 
 
-●​ ARTH 3040 ●​ BSNS 2710 ●​ MUSC 2210 ●​ BIBL 3310 ●​ COMM 2200, 2240, 3370 
+●​ ARTH 3040 ●​ BSNS 2710 ●​ MUSC 2210 ●​ BIBL 3310 ●​ COMM 2200,2240,3370 
 
 Anderson University Undergraduate Catalog 2025-26 
 
@@ -4079,39 +3944,39 @@ All courses listed for historical perspectives, and some courses listed for gove
 
 ✓ culture and cultural diversity ✓ power, authority, and governance ✓ continuity and change ✓ production, distribution, and consumption ✓ people, places, and environment ✓ science, technology, and society ✓ individual development and identity ✓ global connections ✓ individuals, groups, and institutions ✓ civic ideals and practices 
 
-## SOCIAL STUDIES TEACHING MAJOR  (51 hrs.) 
+## SOCIAL STUDIES TEACHING MAJOR  (51 hours) 
 
-Foundational courses (12 hrs.) 
+Foundational courses (12 hours) 
 
 ●​ HIST 4700 ●​ PSYC 2000 ●​ ECON 2010 ●​ SOCI 2010 
 
-Government & Citizenship (12 hrs.) 
+Government & Citizenship (12 hours) 
 
 - 12 hours of Political Science 
 
-o POSC 2020, 2100, 2580 
+o POSC 2020,2100,2580 
 
-o Remaining hours from POSC 2120, 3010, 3250 (recommended) 
+o Remaining hours from POSC 2120,3010,3250 (recommended) 
 
-Historical Perspectives (27 hrs.) 
+Historical Perspectives (27 hours) 
 
 - 12 hours of U.S. History: 
 
-o HIST 2110, 2120 
+o HIST 2110,2120 
 
-o Remaining hours from HIST 3420, 3425, 3440, 3455, 3470, 3510, 3540, 4030 
+o Remaining hours from HIST 3420,3425,3440,3455,3470,3510,3540,4030 
 
 ●​ 6 hours of European History: 
 
 o HIST 2030 or 2040 
 
-o Remaining hours from HIST 3010, 3100, 3135, 3150, 3190, 3220, 3240 
+o Remaining hours from HIST 3010,3100,3135,3150,3190,3220,3240 
 
 ●​ 6 hours of Global History: 
 
 o HIST 2000 
 
-o Remaining hours from 3260, 3280, 3300, 3320, 3360, 3370, 3425 
+o Remaining hours from 3260,3280,3300,3320,3360,3370,3425 
 
 - Additional 3-hour course from 3000 level of either European History or Global History 
 
@@ -4129,11 +3994,11 @@ In an increasingly interdependent world, the study of other languages and cultur
 
 ## SPANISH STUDIES MINOR (15 HRS.) 
 
-- Two SPAN courses taken in sequence (8 hrs.) 
+- Two SPAN courses taken in sequence (8 hours) 
 
-- SPAN 210x Spanish for the Professions course (3 hrs.) 
+- SPAN 210x Spanish for the Professions course (3 hours) 
 
-- MLAN 2000 Language and Society or additional SPAN captioned course (4 hrs.) 
+- MLAN 2000 Language and Society or additional SPAN captioned course (4 hours) 
 
 Anderson University Undergraduate Catalog 2025-26 
 
@@ -4141,64 +4006,62 @@ Anderson University Undergraduate Catalog 2025-26
 
 ## ARTH  (History) Courses 
 
-|3040 |Great Themes in Global Art History|3 hrs. (3, 0)|
+|3040 |Great Themes in Global Art History|3 hours (3,0)|
 |---|---|---|
 ||Important themes of art and architecture in non-Western and non-Eurocentric cultural contexts.||
 ||Lectures and immersive museum experiences focus on African, Asian, Islamic, Latin American, and||
-||Pre-Columbian art.OFFERED:Sem. I, 2025-26.||
-|3050 |Western Art History|3 hrs. (3, 0)|
+||Pre-Columbian art.Offered:Semester I, 2025-26.||
+|3050 |Western Art History|3 hours (3,0)|
 ||Survey of the prevailing theories, signifcant fgures, styles, movements and topics in Western art||
 ||through lecture and immersive museum experiences. Students identify signifcant characteristics of||
-||Western art and expand their knowledge of the debates regarding art theory and criticism.OFFERED:||
-||Sem. I, 2026-27.||
+||Western art and expand their knowledge of the debates regarding art theory and criticism.Offered:||
+||Semester I, 2026-27.||
 |RTS (Studio) Courses|||
-|1210|Drawing for Liberal Arts|3 hrs. (3, 0)|
+|1210|Drawing for Liberal Arts|3 hours (3,0)|
 ||Introduction to the basics of drawing with an emphasis on the elements of space, value, line, and form.||
-|1230|Painting for Liberal Arts|3 hrs. (3, 0)|
+|1230|Painting for Liberal Arts|3 hours (3,0)|
 ||Introduction to concepts and processes of painting. Basic problems of space, image and color are||
-||explored.OFFERED:Sem. II, 2025-26.||
-|1250|Graphic Design for Liberal Arts|3 hrs. (3, 0)|
+||explored.Offered:Semester II, 2025-26.||
+|1250|Graphic Design for Liberal Arts|3 hours (3,0)|
 ||Study of graphic design history, color theory, design rules, and graphic design software. Students create||
 ||theme-based projects. .||
-|2010|Introduction to Drawing|3 hrs. (3, 3)|
+|2010|Introduction to Drawing|3 hours (3,3)|
 ||Covers a variety of skills and subject matter attempting to develop visual understanding and sensitivity.||
 ||Formal art elements relevant to drawing; exploration of various graphic media. Main concerns are||
 ||concepts of processes and seeing as related to drawing.||
-|2011|Two-Dimensional Design|3 hrs. (3, 3)|
+|2011|Two-Dimensional Design|3 hours (3,3)|
 ||A series of directed studio problems, using a variety of media, concerned with the elements of form and||
 ||the principles of organization in two-dimensional visual forms. Emphasis on composition, such as Gestalt||
 ||principles, structural arrangements, and visual communication theories. Students are introduced to a||
 ||design/research process that is applied to course assignments and to the departmental sketchbook/||
 ||journal requirement.||
-|2060 |Illustration|3 hrs. (3, 3)|
+|2060 |Illustration|3 hours (3,3)|
 ||Builds on the visual concepts in Introduction to Drawing. Emphasis on problem solving through||
 ||structured, illustrative projects that engage the relationship of form and concept.||
-|2100|Introduction to Visual Design Studio<br>3 hrs. (3, 2)||
+|2100|Introduction to Visual Design Studio<br>3 hours (3,2)||
 ||Introduction to problem-solving in visual communication. Students engage in hands-on design and||
 ||computer activities, develop creative thinking strategies, and devise solutions to visual communication||
 ||design challenges. Intended for Visual Communication Design majors.||
-|3110|Visual Design Studio I|3 hrs. (3, 3)|
+|3110|Visual Design Studio I|3 hours (3,3)|
 ||An introduction to the practice of graphic design. Students engage in studio problems that explore the||
 ||communicative potential of visual symbol-making. The meaningful interrelation of text and image is||
 ||investigated through the integration of drawing, photography, illustration, and typography. Students also||
 ||begin to develop an individual design methodology that includes textual and visual research, explorative||
-||design thinking, appropriate visual/ verbal presentation approaches, and critique skills.PREREQUISITE:||
-||ARTS 2011.OFFERED:Sem. I, 2025-26.||
-|3114|Visual Design Studio II|3 hrs. (3, 3)|
+||design thinking, appropriate visual/ verbal presentation approaches, and critique skills.Prerequisite:||
+||ARTS 2011.Offered:Semester I, 2025-26.||
+|3114|Visual Design Studio II|3 hours (3,3)|
 ||Utilizes visual research and design thinking introduced in Visual Design Studio I. Through the execution||
 ||of projects employing layout, illustration and photo-imaging software, students examine aspects of the||
-||complexities of visual communication.PREREQUISITE:ARTS 2011.OFFERED:Sem. 1, 2026-27.||
-|3310|Typography Studio|3 hrs. (3, 3)|
+||complexities of visual communication.Prerequisite:ARTS 2011.Offered:Semester 1,2026-27.||
+|3310|Typography Studio|3 hours (3,3)|
 ||Introduction to history, aesthetics, and process of typography. Examines layout formats and the||
 ||interrelationships of text, display types, composition, and content. Study of letter forms and designing||
-||with type.PREREQUISITE:ARTS 2011.OFFERED:Sem. I, 2025-26.||
-|4114|Design for Digital Media|3 hrs. (3, 3)|
+||with type.Prerequisite:ARTS 2011.Offered:Semester I, 2025-26.||
+|4114|Design for Digital Media|3 hours (3,3)|
 ||Advanced study and application of systems, principles, and procedures underlying the practice of||
 ||graphic design as related to digitally based projects. Introduction to interactive digital media technology||
 ||and the impact upon design professions. Students encounter the complexities of working with clients||
 ||and vendors in the realization of designed electronic materials and virtual environments.||
-
-
 
 ## ARTS (Studio) Courses 
 
@@ -4206,64 +4069,60 @@ Anderson University Undergraduate Catalog 2025-26
 
 76 
 
-## ARTS (cont.) 
-
 |RTS (|cont.)|cont.)|
 |---|---|---|
 ||Interdisciplinary design teams work to structure design problems to develop well-conceptualized||
-||solutions.PREREQUISITE:ARTS 3310.OFFERED:Sem. II, 2025-26.||
-|4310|Design Thinking|3 hrs. (3, 3)|
+||solutions.Prerequisite:ARTS 3310.Offered:Semester II, 2025-26.||
+|4310|Design Thinking|3 hours (3,3)|
 ||Further investigation of effective visual communication with an emphasis on problem solving, conceptual||
 ||development, and visual logic. Students develop design methodology while exploring various facets of||
-||the design process.PREREQUISITE:ARTS 3110 or 3114, 3310..||
-|4420 |Design Methodology|3 hrs. (3, 3)|
+||the design process.Prerequisite:ARTS 3110 or 3114,3310..||
+|4420 |Design Methodology|3 hours (3,3)|
 ||Research and communication theory and practice related to practicum experiences. Series of meetings||
-||and discussions with visiting experts.PREREQUISITE:ARTS 3310.OFFERED:Sem. II, 2025-26.||
-|4450 |Special Topics in Graphic Design|3 hrs. (3, 3)|
+||and discussions with visiting experts.Prerequisite:ARTS 3310.Offered:Semester II, 2025-26.||
+|4450 |Special Topics in Graphic Design|3 hours (3,3)|
 ||Opportunity to explore in depth a specialization in the graphic design industry that is outside the design||
 ||core. Topics may include design within nontraditional media, book layout and illustration, and packaging||
-||design.PREREQUISITE:ARTS 3110 or 3114, 3310.||
-|4650 |Special Projects in Art (Two-Dimensional)|1-4 hrs. (arranged)|
+||design.Prerequisite:ARTS 3110 or 3114,3310.||
+|4650 |Special Projects in Art (Two-Dimensional)|1-4 hours (arranged)|
 ||Exploration of specifc problems in students’ areas of concentration, carried out independently with the||
-||instructor. Does not count toward the visual communication design major.EXPECTATION:Appropriate||
-||introductory and intermediate-level experience.CONSENT:Instructor.REPEAT:May be repeated (total||
+||instructor. Does not count toward the visual communication design major.Expectation:Appropriate||
+||introductory and intermediate-level experience.Consent:Instructor.Repeat:May be repeated (total||
 ||credit not to exceed 4 hours).||
-|4820 |Internship|1-4 hrs. (arranged)|
+|4820 |Internship|1-4 hours (arranged)|
 ||Practical experiences in the professional feld, typically up to 20 hours per week. Students learn||
 ||employers’ job methods relating to creative design applications, production responsibilities, and|client|
-||contact.CONSENT:Instructor.REPEAT:May be repeated (2 hrs. required in the major; an additional 2||
-||hrs. may be taken).PREREQUISITE:ARTS 3310.OFFERED:Sem. I, II; Summer.||
-|4930 |Comprehensive Projects I|2 hrs. (2, 0)|
-||Development of paper utilizing inquiry-based research approach. Exhibition planning.PREREQUISITE:||
+||contact.Consent:Instructor.Repeat:May be repeated (2 hours required in the major; an additional 2||
+||hours may be taken).Prerequisite:ARTS 3310.Offered:Semester I, II; Summer.||
+|4930 |Comprehensive Projects I|2 hours (2,0)|
+||Development of paper utilizing inquiry-based research approach. Exhibition planning.Prerequisite:||
 ||ARTS 3310.||
-|4950 |Comprehensive Projects II|4 hrs. (4, 2)|
+|4950 |Comprehensive Projects II|4 hours (4,2)|
 ||Students prepare portfolios, written inquiry papers, an oral presentation on their work, and concluding||
-||exhibitions.PREREQUISITE:ARTS 3310.OFFERED:Sem. II.||
+||exhibitions.Prerequisite:ARTS 3310.Offered:Semester II.||
 |OMM|Courses||
-|1000|Introduction to Speech Communication|3 hrs. (3, 0)|
+|1000|Introduction to Speech Communication|3 hours (3,0)|
 ||Exploration and practice of public speaking with respect to topic selection, research, organization,||
 ||and presentation. Students deliver speeches extemporaneously and by manuscript in the informative,||
 ||persuasive, and commemorative modes. Emphasis on verbal and nonverbal aspects of speaking.||
 ||_Applies to the Speaking and Listening [Raven Core] component of theLiberal Arts Core Curriculum._||
-||EXPECTATION:Should be taken during the frst year.OFFERED:Sem. I, II; Summer.||
-|2000 |Media and Society|3 hrs. (3, 0)|
+||Expectation:Should be taken during the frst year.Offered:Semester I, II; Summer.||
+|2000 |Media and Society|3 hours (3,0)|
 ||Examination of major print and electronic media in terms of historical development, functions,||
 ||structures, and issues. Entry course to majors in public relations, journalism, and cinema and media||
-||arts.OFFERED:Sem. II.||
-|2020 |Audio Concepts and Production|3 hrs. (3, 1)|
+||arts.Offered:Semester II.||
+|2020 |Audio Concepts and Production|3 hours (3,1)|
 ||Introduction to the basic tools, disciplines, and concepts of audio production. Using current audio||
 ||hardware and software, students will develop skills in announcing, recording, mixing, and digital||
-||editing.OFFERED:Sem. II.||
-|2060 |Video/Cinema Concepts|3 hrs. (2, 2)|
+||editing.Offered:Semester II.||
+|2060 |Video/Cinema Concepts|3 hours (2,2)|
 ||Introduction to the disciplines, concepts, hardware, and software of video/cinema production.||
 ||Topics and practices include theory of video/cinema, visual space, camera operation, graphics,||
 ||digital editing, directing, and producing. Both multi-camera and single-camera production||
-||opportunities.OFFERED:Sem. I.||
-|2130|Writing for the Media|3 hrs. (3, 0)|
+||opportunities.Offered:Semester I.||
+|2130|Writing for the Media|3 hours (3,0)|
 ||Research and writing in a variety of media, with an emphasis on news, features, public relations,||
-||and commercial copy.OFFERED:Sem. II.||
-
-
+||and commercial copy.Offered:Semester II.||
 
 ## COMM Courses 
 
@@ -4271,199 +4130,187 @@ Anderson University Undergraduate Catalog 2025-26
 
 77 
 
-## COMM (cont.) 
-
 |OMM |(cont.)||
 |---|---|---|
-|2140|Producing Multimedia Content|3 hrs. (3, 2)|
+|2140|Producing Multimedia Content|3 hours (3,2)|
 ||Intro to multimedia production for non-CMA majors. Includes on- and off-camera presentation||
 ||techniques, use of a teleprompter, single- and multi-camera productions, audio and video editing, and||
-||podcast production.OFFERED:Sem. I, 2026-27.||
-|2160|The Art of Storytelling|3 hrs. (3, 0)|
+||podcast production.Offered:Semester I, 2026-27.||
+|2160|The Art of Storytelling|3 hours (3,0)|
 ||Introduction to theme, plot, story arc, character, and narrative view as told through cinema and media||
 ||arts. Particular emphasis on screenwriting. Additional topics include fnding stories, adapting to the||
-||audience, and proper written form for different media. Includes daily writing assignments.OFFERED:||
-||Sem. II.||
-|2200 |Visual Communication|3 hrs. (3, 0)|
+||audience, and proper written form for different media. Includes daily writing assignments.Offered:||
+||Semester II.||
+|2200 |Visual Communication|3 hours (3,0)|
 ||Introduction to typography, color theory, photography, and design principles for print, Internet, and||
-||video/ cinema communication. Instruction in the appropriate production technologies.OFFERED:||
-||Sem. I, II.||
-|2240 |Public Relations Foundations|3 hrs. (3, 0)|
+||video/ cinema communication. Instruction in the appropriate production technologies.Offered:||
+||Semester I, II.||
+|2240 |Public Relations Foundations|3 hours (3,0)|
 ||Introduction to public relations: history, environment, processes, tools, and practices. Concepts are||
 ||reinforced through current-event discussions and the development of a basic public relations plan.||
-||OFFERED:Sem. I.||
-|2320 |Multicamera and Studio Production|4 hrs. (3, 2)|
+||Offered:Semester I.||
+|2320 |Multicamera and Studio Production|4 hours (3,2)|
 ||Intermediate course on the multicamera and studio production process with an emphasis on producing,||
 ||directing, and viewing the process as a collaborative effort. Programs include sports, sitcom and other||
-||genres. Students rotate through all crew positions.PREREQUISITE:COMM 2060.OFFERED:Sem. II,||
+||genres. Students rotate through all crew positions.Prerequisite:COMM 2060.Offered:Semester II,||
 ||2025-26.||
-|2420 |Field, Soundstage, and Postproduction|4 hrs. (3, 2)|
+|2420 |Field, Soundstage, and Postproduction|4 hours (3,2)|
 ||Intermediate practice of the single camera video/cinema production process in the feld. Involves||
-||pre-production planning, producing, directing, cinematography, and digital editing.PREREQUISITE:||
-||COMM 2060.OFFERED:Sem. II, 2026-27.||
-|2840 |Fifth Street Communications Staff|1 hr. (arranged)|
+||pre-production planning, producing, directing, cinematography, and digital editing.Prerequisite:||
+||COMM 2060.Offered:Semester II, 2026-27.||
+|2840 |Fifth Street Communications Staff|1 hour (arranged)|
 ||Practical experience in a student-staffed public relations agency primarily serving not-for-proft||
 ||organizations. Emphasis on researching client needs, developing appropriate and high-quality||
-||communication deliverables, and providing outstanding customer service.PREREQUISITE:COMM 2130,||
-||2240.REPEAT:May be repeated (total credit not to exceed 4 hours).OFFERED:Sem. I, II.||
-|2850 |Andersonian Staff|1 hr. (1, 0)|
+||communication deliverables, and providing outstanding customer service.Prerequisite:COMM 2130,||
+||2240.Repeat:May be repeated (total credit not to exceed 4 hours).Offered:Semester I, II.||
+|2850 |Andersonian Staff|1 hour (1,0)|
 ||Involves working in staff positions on the student-operated news organization, the Andersonian. Staff||
-||members plan, report, write, and edit content for the  online platform.REPEAT:May be repeated (total||
-||credit not to exceed 4 hours).OFFERED:Sem. I, II.||
-|2860 |Black Bird Media Lab|1hr. (1, 0)|
+||members plan, report, write, and edit content for the  online platform.Repeat:May be repeated (total||
+||credit not to exceed 4 hours).Offered:Semester I, II.||
+|2860 |Black Bird Media Lab|1hr. (1,0)|
 ||Students work as producers, directors, writers, cinematographers and editors on flm and video projects.||
-||PREREQUISITE:COMM 2060.REPEAT:May be repeated (total credit not to exceed 4 hours).OFFERED:||
-||Sem. I, II.||
-|3050 |Global Communication|3 hrs. (3, 0)|
+||Prerequisite:COMM 2060.Repeat:May be repeated (total credit not to exceed 4 hours).Offered:||
+||Semester I, II.||
+|3050 |Global Communication|3 hours (3,0)|
 ||Hybrid course focusing on international and intercultural aspects of communication. Includes a spring||
 ||break international travel option that allows for in-depth study of the subject matter._Applies to the_||
-||_Global Ways of Knowing [AU Experience] component of theLiberal Arts Core Curriculum._ OFFERED:Sem.||
+||_Global Ways of Knowing [AU Experience] component of theLiberal Arts Core Curriculum._ Offered:Semester||
 ||II, 2025-26.||
-|3120|The Business of Cinema and Media Arts|3 hrs. (3, 0)|
+|3120|The Business of Cinema and Media Arts|3 hours (3,0)|
 ||A survey of the distribution of radio and television programs and flm through traditional and new media.||
 ||Topics include structures, sales, programming, audience measurement, promotions, and distribution.||
-||PREREQUISITE:Upper-division standing.OFFERED:Sem. I, 2025-26.||
-|3130|Advanced Newswriting and Reporting|3 hrs. (3, 0)|
+||Prerequisite:Upper-division standing.Offered:Semester I, 2025-26.||
+|3130|Advanced Newswriting and Reporting|3 hours (3,0)|
 ||Study of advanced research, interviewing, and newswriting techniques, with emphasis on print and||
-||multimedia formats.PREREQUISITE:COMM 2130.OFFERED:Sem. I, 2026-27.||
-|3160|Motion Graphics|3 hrs. (3, 0)|
+||multimedia formats.Prerequisite:COMM 2130.Offered:Semester I, 2026-27.||
+|3160|Motion Graphics|3 hours (3,0)|
 ||Design, creation, and technique related to motion graphics for television and cinema. Primary tools are||
-||Photoshop and After Effects. Includes 2D and 3D animation, compositing and visual effects.OFFERED:||
-||Sem. II, 2026-27.||
-
-
+||Photoshop and After Effects. Includes 2D and 3D animation, compositing and visual effects.Offered:||
+||Semester II, 2026-27.||
 
 Anderson University Undergraduate Catalog 2025-26 
 
 78 
 
-## COMM (cont.) 
-
 |OMM |(cont.)||
 |---|---|---|
-|3200 |Communication Ethics|3 hrs. (3, 0)|
+|3200 |Communication Ethics|3 hours (3,0)|
 ||An examination of ethical standards and decision-making processes in journalism, public relations,||
 ||advertising, and entertainment media._Applies to the Civil Discourse & Confict Transformation [AU_||
-||_Experience] component of theLiberal Arts Core Curriculum._ PREREQUISITE:Upper-division standing.||
-||OFFERED:Sem. I, 2025-26.||
-|3220 |Screenwriting|3 hrs. (3, 0)|
-||Development of concepts and scripts in comedy, drama and other genres.OFFERED:Sem. I, 2026-27.||
-|3230 |Advanced Feature and Digital Writing|3 hrs. (3, 0)|
+||_Experience] component of theLiberal Arts Core Curriculum._ Prerequisite:Upper-division standing.||
+||Offered:Semester I, 2025-26.||
+|3220 |Screenwriting|3 hours (3,0)|
+||Development of concepts and scripts in comedy, drama and other genres.Offered:Semester I, 2026-27.||
+|3230 |Advanced Feature and Digital Writing|3 hours (3,0)|
 ||Strategic conception and creation of feature-oriented content for distribution in traditional print as well||
-||as digital outlets.PREREQUISITE:COMM 2130.OFFERED:Sem. I, 2025-26.||
-|3240 |Public Relations Campaigns|3 hrs. (3, 0)|
+||as digital outlets.Prerequisite:COMM 2130.Offered:Semester I, 2025-26.||
+|3240 |Public Relations Campaigns|3 hours (3,0)|
 ||Planning and implementation of public relations principles and strategies in a variety of campaign||
 ||situations. Focus may be on the development of specialized campaigns in areas such as business,||
-||healthcare, travel and government.PREREQUISITE:COMM 2240.OFFERED:Sem. II, 2025-26.||
-|3250 |Event Planning and Management|2 hrs. (2, 0)|
+||healthcare, travel and government.Prerequisite:COMM 2240.Offered:Semester II, 2025-26.||
+|3250 |Event Planning and Management|2 hours (2,0)|
 ||Introduction to event planning, execution, and evaluation. Includes concepts and principles of event||
 ||management and project management, as well as practical application of learned concepts. Emphasis on||
-||understanding and using planning tools to meet organizational goals.OFFERED:Sem. II.||
-|3310|Interpersonal Communication|3 hrs. (3, 0)|
+||understanding and using planning tools to meet organizational goals.Offered:Semester II.||
+|3310|Interpersonal Communication|3 hours (3,0)|
 ||Analyzes how individuals relate to one another in various interpersonal situations (dyadic, family, small||
 ||groups, etc.)  and the communication skills needed for those situations. Includes topics such as self-||
 ||disclosure, group dynamics, gender differences, and critical listening._Applies to the Speaking & Listening_||
-||_[Raven Core] component of the Liberal Arts Core Curriculum._ OFFERED:Summer 2026, Sem. II, 2026-27.||
-|3340 |Public Relations Writing|3 hrs. (3, 0)|
+||_[Raven Core] component of the Liberal Arts Core Curriculum._ Offered:Summer 2026, Semester II, 2026-27.||
+|3340 |Public Relations Writing|3 hours (3,0)|
 ||Writing of effective public relations materials, use of persuasion techniques, and study of procedures for||
-||dissemination of public information.PREREQUISITE:COMM 2130, 2240.OFFERED:Sem. II, 2026-27.||
-|3370 |Communicating through Social Media|3 hrs. (3, 0)|
+||dissemination of public information.Prerequisite:COMM 2130,2240.Offered:Semester II, 2026-27.||
+|3370 |Communicating through Social Media|3 hours (3,0)|
 ||Study of social media communication strategy and execution; topics include modifying messages for||
 ||various media, managing online reputation, understanding and developing social media policies, and||
 ||measurement and evaluation. Projects include development of social media messages and strategy.||
-||OFFERED:Sem. I, 2026-27.||
-|3420 |Cinema Studies|3 hrs. (3, 0)|
+||Offered:Semester I, 2026-27.||
+|3420 |Cinema Studies|3 hours (3,0)|
 ||An overview of motion pictures, including history, elements of production, and the critique. Involves the||
-||review of several major motion pictures and the context of their creation.OFFERED:Sem. I, 2026-27.||
-|3440 |Public Relations Research|2 hrs. (2, 0)|
+||review of several major motion pictures and the context of their creation.Offered:Semester I, 2026-27.||
+|3440 |Public Relations Research|2 hours (2,0)|
 ||Introduction to media and communication research methods, including reviewing secondary research,||
 ||developing surveys, performing communication audits, and conducting interviews and focus groups.||
 ||Emphasis is on understanding the types of research, identifying benefts and risks of each type, and||
-||choosing the correct type of research given time and cost constraints.PREREQUISITE:COMM 2240.||
-||OFFERED:Sem. I, 2026-27.||
-|3860 |Practicum in Event Management<br>1-2 hrs. (arranged)||
+||choosing the correct type of research given time and cost constraints.Prerequisite:COMM 2240.||
+||Offered:Semester I, 2026-27.||
+|3860 |Practicum in Event Management<br>1-2 hours (arranged)||
 ||Application of principles of successful event planning and management. Students work with a local||
-||organization to implement and evaluate an event.PREREQUISITE:COMM 3250.REPEAT:May be||
-||repeated (total credit not to exceed 4 hours).OFFERED:Sem. I, II; Summer.||
-|4000 |Communication Law|3 hrs. (3, 0)|
+||organization to implement and evaluate an event.Prerequisite:COMM 3250.Repeat:May be||
+||repeated (total credit not to exceed 4 hours).Offered:Semester I, II; Summer.||
+|4000 |Communication Law|3 hours (3,0)|
 ||Provides an understanding and appreciation of American legal traditions surrounding freedom of speech||
 ||and of the press as well as an examination of libel, slander, privacy, copyright, trademark, entertainment||
-||law, and free press/fair trial issues.PREREQUISITE:COMM 2000; upper-division standing.OFFERED:||
-||Sem. II, 2026-27.||
-|4120|Advanced Video Production|3 hrs. (3, 1)|
+||law, and free press/fair trial issues.Prerequisite:COMM 2000; upper-division standing.Offered:||
+||Semester II, 2026-27.||
+|4120|Advanced Video Production|3 hours (3,1)|
 ||Capstone teleproduction course with advanced theory and practice. Students will produce content for||
-||air on local or national television and for submission at flm festivals.PREREQUISITE:COMM 2420;||
-||upper-division standing.OFFERED:Sem. I, 2025-26.||
-|4340 |Executing Effective Events|3 hrs. (3, 0)|
+||air on local or national television and for submission at flm festivals.Prerequisite:COMM 2420;||
+||upper-division standing.Offered:Semester I, 2025-26.||
+|4340 |Executing Effective Events|3 hours (3,0)|
 ||Researching, designing, organizing and assessing events. Emphasis on communication, promotion, tools||
-||and techniques. Students develop a communication plan and implement an event.PREREQUISITE:||
-||COMM 3250.OFFERED:Sem. I, 2025-26.||
-
-
+||and techniques. Students develop a communication plan and implement an event.Prerequisite:||
+||COMM 3250.Offered:Semester I, 2025-26.||
 
 Anderson University Undergraduate Catalog 2025-26 
 
 79 
 
-## COMM (cont.) 
-
 |OMM |(cont.)||
 |---|---|---|
-|4500 |Communication Capstone<br>3|hrs. (3, 0)|
+|4500 |Communication Capstone<br>3|hours (3,0)|
 ||Intended for seniors in the online communication major. Involves a comprehensive project that draws on||
 ||the knowledge, skills, concepts, and methods acquired throughout the curriculum. Using a research,||
 ||action, communication, and evaluation model, students create a strategic communication plan for their||
 ||workplace or another community organization. Students will give an oral presentation of their projects.||
-||CONSENT:Instructor.OFFERED:Sem. I, II; Summer.||
-|4750 |Strategies for Teaching Speech<br>1 hr. (arranged)||
+||Consent:Instructor.Offered:Semester I, II; Summer.||
+|4750 |Strategies for Teaching Speech<br>1 hour (arranged)||
 ||Surveys the content of a secondary-level speech class, evaluation methods, and extra-curricular||
-||activities related to the speech classroom.OFFERED:Sem. I.||
-|4800 |Internship<br>1-4 hrs. (arranged)||
+||activities related to the speech classroom.Offered:Semester I.||
+|4800 |Internship<br>1-4 hours (arranged)||
 ||Opportunity for advanced work off campus in the area of specialization at a radio or TV station,||
 ||production or flm-related company, newspaper, magazine, public relations agency, or other relevant||
-||environment.CONSENT:Instructor.REPEAT:May be repeated (total credit not to exceed 4 hours).||
-||OFFERED:Sem. I, II; Summer.||
-|4900 |Seminar in Communication<br>3|hrs. (3, 0)|
-||Intensive study of selected topics in historical or contemporary communication. Topics vary.<br>REPEAT:May be repeated.||
+||environment.Consent:Instructor.Repeat:May be repeated (total credit not to exceed 4 hours).||
+||Offered:Semester I, II; Summer.||
+|4900 |Seminar in Communication<br>3|hours (3,0)|
+||Intensive study of selected topics in historical or contemporary communication. Topics vary.<br>Repeat:May be repeated.||
 |NGL Courses|||
-|1000|Composition Studio|1 hr. (1, 0)|
+|1000|Composition Studio|1 hour (1,0)|
 ||Provides additional support and instruction for students enrolled in ENGL 1110 through one-on-one||
-||instruction with a member of the English faculty and writing tutors.GRADING:C/NC.PREREQUISITE:||
-||Placement.COREQUISITE:ENGL 1110.REPEAT:May be repeated.||
-|1100|Rhetoric and Composition - Basic<br>4|hrs. (4, 0)|
+||instruction with a member of the English faculty and writing tutors.GRADING:C/NC.Prerequisite:||
+||Placement.Corequisite:ENGL 1110.Repeat:May be repeated.||
+|1100|Rhetoric and Composition - Basic<br>4|hours (4,0)|
 ||Designed for students who need supplemental help with writing skills. Focuses on theory and practice of||
 ||expository writing based on experience and observation. Emphasizes development of functional and||
 ||fexible writing processes for a range of purposes and audiences. Includes assigned readings. Requires||
 ||attention to sentence style, diction. Grade of C- or better required.PERMISSION:English Program||
 ||Director.||
-|1110|Rhetoric and Composition<br>3|hrs. (3, 0)|
+|1110|Rhetoric and Composition<br>3|hours (3,0)|
 ||Focuses on theory and practice of expository writing based on experience and observation. Emphasizes||
 ||development of functional and fexible writing processes for a range of purposes and audiences. Includes||
 ||assigned readings._Applies to the Written Communication [Raven Core] component of the Liberal Arts Core_||
 ||_Curriculum._Grade of C- or better required.||
-|1120|Rhetoric and Research<br>3|hrs. (3, 0)|
+|1120|Rhetoric and Research<br>3|hours (3,0)|
 ||Focuses on theory and practice of writing based on external sources. Emphasizes library, electronic, and||
 ||primary research sources and methods._Applies to the Written Communication [Raven Core] component of_||
-||_theLiberal Arts Core Curriculum._Grade of C- or better required.EXPECTATION:Grade of C- or better in||
+||_theLiberal Arts Core Curriculum._Grade of C- or better required.Expectation:Grade of C- or better in||
 ||ENGL 1110.||
-|2220 |Global Literature<br>3|hrs. (3, 0)|
+|2220 |Global Literature<br>3|hours (3,0)|
 ||Surveys representative 20th-century and contemporary literature from the several inhabited continents.||
 ||Seeks to explore both the diversity and commonality of the global community in the social, political,||
 ||ethical, and cultural dimensions._Applies to the Global Ways of Knowing [AU Experience] component of the_||
-||_Liberal Arts Core Curriculum._ OFFERED:Sem, II, 2025-26.||
-|2400 |Introduction to Literary Studies<br>3|hrs. (3, 0)|
+||_Liberal Arts Core Curriculum._ Offered:Sem, II, 2025-26.||
+|2400 |Introduction to Literary Studies<br>3|hours (3,0)|
 ||Examines works in English, American, and world literature to help students learn to read poetry, fction,||
 ||and drama for maximum enjoyment, appreciation, and understanding. Emphasis on critical analysis of||
 ||literature and applying these skills in written work as well as discussion. Major scholarly approaches to||
-||literature introduced. Strongly recommended as the frst literature course in the major.OFFERED:Sem. I.||
-|2500 |Appreciation of the Writing Craft<br>2|hrs. (2, 0)|
+||literature introduced. Strongly recommended as the frst literature course in the major.Offered:Semester I.||
+|2500 |Appreciation of the Writing Craft<br>2|hours (2,0)|
 ||Defnes and analyzes the fundamental elements and writing techniques of various creative genres, such||
 ||as short fction, poetry, literary nonfction, and/or drama._Applies to the Humanistic & Artistic Ways of_||
 ||_Knowing [Raven Core] component of the Liberal Arts Core Curriculum._Strongly recommended as a||
-||prerequisite to ENGL 3110, 3120, or 3180.EXPECTATION:Grade of C- or above in ENGL 1120.OFFERED:||
-||Sem. II.||
-
-
+||prerequisite to ENGL 3110,3120, or 3180.Expectation:Grade of C- or above in ENGL 1120.Offered:||
+||Semester II.||
 
 ## ENGL Courses 
 
@@ -4471,131 +4318,123 @@ Anderson University Undergraduate Catalog 2025-26
 
 80 
 
-## ENGL (cont.) 
-
 |NGL (|cont.)||
 |---|---|---|
-|2510|Creative Writing Workshop|1 hr. (1, 0)|
+|2510|Creative Writing Workshop|1 hour (1,0)|
 ||Offers students a workshop setting in which to experiment with writing techniques to produce original||
 ||poetry, short fction, drama, or literary nonfction_._EXPECTATION:Grade of C- or above in ENGL 1120.||
-||COREQUISITE:ENGL 2500.OFFERED:Sem. II.||
-|2580 |The Spiritual Practice of Writing|3 hrs. (3, 0)|
+||Corequisite:ENGL 2500.Offered:Semester II.||
+|2580 |The Spiritual Practice of Writing|3 hours (3,0)|
 ||Examines the techniques writers use in the practice of writing as a spiritual discipline. Advances students’||
 ||understanding of this discipline as it is exercised in a variety of literary forms, including poetry, personal||
 ||essay, spiritual meditation, prayer, and devotions, and provides opportunities for students to practice||
 ||these literary techniques in their own spiritual writing.||
-|3000 |Grammar and Style|3 hrs. (3, 0)|
+|3000 |Grammar and Style|3 hours (3,0)|
 ||Studies the English language by focusing on contemporary descriptive grammar and morphology.||
 ||Students will apply course concepts to improve their own writing style. Course designed for writing||
-||majors and teaching majors.OFFERED:Sem. I, 2025-26.||
-|3050 |History of the English Language|3 hrs. (3, 0)|
+||majors and teaching majors.Offered:Semester I, 2025-26.||
+|3050 |History of the English Language|3 hours (3,0)|
 ||Investigates the origins and development of the English language. Particular emphasis on social and||
-||political forces that have infuenced the development of the language.EXPECTATION:Grade of C- or||
-||above in ENGL 1120.OFFERED:With suffcient demand.||
-|3110|Creative Writing: Fiction|3 hrs. (3, 0)|
+||political forces that have infuenced the development of the language.Expectation:Grade of C- or||
+||above in ENGL 1120.Offered:With suffcient demand.||
+|3110|Creative Writing: Fiction|3 hours (3,0)|
 ||Emphasizes techniques writers use in various modes of short fction. Attention to the vocabulary and||
 ||techniques of the fction writer’s craft applied theoretically in analysis of published literary short stories||
-||and applied practically in students’ own creative endeavors in short fction.EXPECTATION:Grade of C- or||
-||above in ENGL 1120. ENGL 2500 strongly recommended as a prerequisite.OFFERED:Sem. II, 2025-26.||
-|3120|Creative Writing: Poetry|3 hrs. (3, 0)|
+||and applied practically in students’ own creative endeavors in short fction.Expectation:Grade of C- or||
+||above in ENGL 1120. ENGL 2500 strongly recommended as a prerequisite.Offered:Semester II, 2025-26.||
+|3120|Creative Writing: Poetry|3 hours (3,0)|
 ||Emphasizes techniques writers use in various modes of poetry. Attention to the vocabulary and techniques||
 ||of poet’s craft applied theoretically in analysis of published literary poetry and applied practically in||
-||students’ own creative endeavors in poetry.EXPECTATION:Grade of C- or above in ENGL 1120. ENGL 2500||
-||strongly recommended as a prerequisite.OFFERED:Sem. II, 2025-26.||
-|3140|Writing and Digital Media|3 hrs. (3, 0)|
+||students’ own creative endeavors in poetry.Expectation:Grade of C- or above in ENGL 1120. ENGL 2500||
+||strongly recommended as a prerequisite.Offered:Semester II, 2025-26.||
+|3140|Writing and Digital Media|3 hours (3,0)|
 ||Advances students’ professional writing skills by developing four key digital literacies: interacting with,||
 ||analyzing, researching, and producing digital media. Includes a focus on rhetorical and professional||
 ||writing theory. Students will examine the role language plays in digital spaces and will gain skills to||
-||produce quality writing in digital spaces.EXPECTATION:Grade of C- or above in ENGL 1120.||
-|3160|Professional Writing and Editing|3 hrs. (3, 0)|
+||produce quality writing in digital spaces.Expectation:Grade of C- or above in ENGL 1120.||
+|3160|Professional Writing and Editing|3 hours (3,0)|
 ||Focuses on reader-centered approaches to develop skills necessary in professions that require strong||
 ||writing and editing ability. Designed for students of varied academic majors and occupational interests.||
-||EXPECTATION:Grade of C- or above in ENGL 1120.OFFERED:Sem. I, 2025-26.||
-|3180|Composing Nonfction|3 hrs. (3, 0)|
+||Expectation:Grade of C- or above in ENGL 1120.Offered:Semester I, 2025-26.||
+|3180|Composing Nonfction|3 hours (3,0)|
 ||Explores the processes of nonfction writing and the variety of “forms” that are available to nonfction||
-||writers. Matters of style and voice will be examined closely.EXPECTATION:ENGL 2500 strongly||
-||recommended as a prerequisite.EXPECTATION:Grade of C- or above in ENGL 1120. .||
-|3190|Composing Arguments|3 hrs. (3, 0)|
+||writers. Matters of style and voice will be examined closely.Expectation:ENGL 2500 strongly||
+||recommended as a prerequisite.Expectation:Grade of C- or above in ENGL 1120. .||
+|3190|Composing Arguments|3 hours (3,0)|
 ||Explores various models of argument, including persuasion, advocacy, consensus building, and classical||
 ||rhetoric. Focuses on analyzing and composing multiple genres. Examines audience accommodation,||
-||research, tone, and revision.EXPECTATION:Grade of C- or above in ENGL 1120.OFFERED:Sem. II,||
+||research, tone, and revision.Expectation:Grade of C- or above in ENGL 1120.Offered:Semester II,||
 ||2025-26.||
-|3320 |Shakespeare|3 hrs. (3, 0)|
+|3320 |Shakespeare|3 hours (3,0)|
 ||Analyzes the poetry and several representative dramas within their historical context. Areas of emphasis||
-||will include Ovidian infuences, early modern culture, and pedagogy.EXPECTATION:Grade of C- or||
+||will include Ovidian infuences, early modern culture, and pedagogy.Expectation:Grade of C- or||
 ||above in ENGL 1120. .||
-|3540 |Studies in Early British Literature|3 hrs. (3, 0)|
+|3540 |Studies in Early British Literature|3 hours (3,0)|
 ||Surveys masterpieces of medieval and early modern British literature. The focus and themes of the||
 ||course, as well as authors and texts, will vary with each iteration of the course. Readings highlight the||
 ||imagination, poetics, and politics of authors such as Chaucer, Kempe, Shakespeare, Donne, Milton, and||
-||Behn, among others.EXPECTATION:Grade of C- or above in ENGL 1120.OFFERED:Sem. I, 2026-27.||
-
-
+||Behn, among others.Expectation:Grade of C- or above in ENGL 1120.Offered:Semester I, 2026-27.||
 
 Anderson University Undergraduate Catalog 2025-26 
 
 81 
 
-## ENGL (cont.) 
-
 |NGL (|cont.)|
 |---|---|
-|3560 |Studies in Later British Literature<br>3 hrs. (3, 0)|
+|3560 |Studies in Later British Literature<br>3 hours (3,0)|
 ||Surveys masterpieces of Romantic, Victorian, and Modern British literature. The focus and themes of the|
 ||course, as well as authors and texts, will vary with each iteration of the course. Readings highlight the|
 ||imagination, poetics, and politics of authors such as Wordsworth, Austen, Dickens, Yeats, Woolf, Pinter,|
-||among others.EXPECTATION:Grade of C- or above in ENGL 1120.OFFERED:Sem. II, 2025-26.|
-|3570 |Studies in American Literature<br>3 hrs. (3, 0)|
+||among others.Expectation:Grade of C- or above in ENGL 1120.Offered:Semester II, 2025-26.|
+|3570 |Studies in American Literature<br>3 hours (3,0)|
 ||Surveys masterpieces of early and Modern American literature. The focus and themes of the course, as|
 ||well as authors and texts, will vary with each iteration of the course. Readings highlight the imagination,|
 ||poetics, and politics of authors such as Hawthorne, Melville, Wharton, Chopin, Hemingway, Faulkner,|
-||Baldwin, Morrison, Wilson, among others.EXPECTATION:Grade of C- or above in ENGL 1120.OFFERED:|
-||Sem. I, 2025-26.|
-|3580 |American Ethnic Literature<br>3 hrs. (3, 0)|
+||Baldwin, Morrison, Wilson, among others.Expectation:Grade of C- or above in ENGL 1120.Offered:|
+||Semester I, 2025-26.|
+|3580 |American Ethnic Literature<br>3 hours (3,0)|
 ||Examines contemporary American poetry, fction, and nonfction, focusing on themes prominent in the|
 ||literature of cross-cultural authors, such as assimilation, cultural adaptation, discrimination, identity|
 ||formation, intergenerational family conficts, oppression in the homeland, and linguistic challenges.|
-||Required for language arts teaching majors.EXPECTATION:Grade of C- or above in ENGL 1120.|
-||OFFERED:Sem. II.|
-|3590 |Teaching Diversity through Young Adult Literature<br>3 hrs. (3, 0)|
+||Required for language arts teaching majors.Expectation:Grade of C- or above in ENGL 1120.|
+||Offered:Semester II.|
+|3590 |Teaching Diversity through Young Adult Literature<br>3 hours (3,0)|
 ||Provides secondary, middle, and upper elementary pre-service teachers with a wide variety of|
 ||experiences in reading, analyzing, and discussing texts written specifcally for young adults.|
-||EXPECTATION: Grade of C- or above in ENGL 1120. Grade of C or better required for education majors.|
+||Expectation: Grade of C- or above in ENGL 1120. Grade of C or better required for education majors.|
 ||_Applies to the Humanistic & Artistic Ways of Knowing [Raven Core] component of theLiberal Arts Core_|
-||_Curriculum._ OFFERED:Sem. II.|
-|3870 |Literary Arts Practicum<br>1 hr. (arranged)|
+||_Curriculum._ Offered:Semester II.|
+|3870 |Literary Arts Practicum<br>1 hour (arranged)|
 ||Allows students to work with a faculty consultant in producing an annual campus literary arts magazine.|
-||Activities include selecting materials, editing, promoting, and selling the magazine.EXPECTATION:|
-||Grade of C- or above in ENGL 1120.REPEAT: May be repeated (total credit not to exceed 4 hours).|
-||GRADE: CR/NC.OFFERED: Sem. I, II.|
-|3880 |Writing Tutor Practicum<br>1 hr. (arranged)|
+||Activities include selecting materials, editing, promoting, and selling the magazine.Expectation:|
+||Grade of C- or above in ENGL 1120.Repeat: May be repeated (total credit not to exceed 4 hours).|
+||Grade: CR/NC.Offered: Semester I, II.|
+|3880 |Writing Tutor Practicum<br>1 hour (arranged)|
 ||Prepares students to be exceptional writing tutors, including in the Kissinger Academic Center for|
 ||Excellence. Students will examine the various strategies of writing tutoring and how a writing center can|
-||best serve the needs of diverse student populations.EXPECTATION: Grade of C- or above in ENGL 1120.|
-||REPEAT: May be repeated (total credit not to exceed 4 hours).CONSENT: Instructor.OFFERED: Sem. I, II.|
-|4000 |Special Topics in Literature<br>3 hrs. (3, 0)|
+||best serve the needs of diverse student populations.Expectation: Grade of C- or above in ENGL 1120.|
+||Repeat: May be repeated (total credit not to exceed 4 hours).Consent: Instructor.Offered: Semester I, II.|
+|4000 |Special Topics in Literature<br>3 hours (3,0)|
 ||Examines discrete literary areas and topics not included in the current offerings. Previous topics have|
 ||included the literature of the American South, American nature writing, the fction of Thomas Hardy, and|
-||Christian writers.PREREQUISITE: Grade of C- or above in ENGL 1120.REPEAT: May be repeated (total|
-||credit not to exceed 6 hours).OFFERED: On demand.|
-|4650 |Independent Study<br>1-4 hrs. (arranged)|
-||Individualized projects for upper-division students.PREREQUISITE: Upper-division standing.|
-|4700 |Methods of Teaching English<br>3 hrs. (3, 0)|
+||Christian writers.Prerequisite: Grade of C- or above in ENGL 1120.Repeat: May be repeated (total|
+||credit not to exceed 6 hours).Offered: On demand.|
+|4650 |Independent Study<br>1-4 hours (arranged)|
+||Individualized projects for upper-division students.Prerequisite: Upper-division standing.|
+|4700 |Methods of Teaching English<br>3 hours (3,0)|
 ||Surveys methods, materials, and resources used in teaching composition, language, and literature in|
-||middle schools and high schools.COREQUISITE: EDUC 4710.EXPECTATION: Should be taken in|
-||conjunction with COMM 4750.OFFERED: Sem. I.|
-|4800 |Internship in Writing<br>1-3 hrs. (arranged)|
+||middle schools and high schools.Corequisite: EDUC 4710.Expectation: Should be taken in|
+||conjunction with COMM 4750.Offered: Semester I.|
+|4800 |Internship in Writing<br>1-3 hours (arranged)|
 ||With approval of department chair and cooperating business or nonproft enterprise, allows the student|
 ||to choose from a variety of paid and non-paid experiences in writing, preparing them for jobs in which|
-||the ability to write well is a major component.CONSENT: Department.|
-|4910|Senior Capstone Seminar<br>3 hrs. (3, 0)|
+||the ability to write well is a major component.Consent: Department.|
+|4910|Senior Capstone Seminar<br>3 hours (3,0)|
 ||Requires all senior-level Literary Studies majors and Writing majors to complete a comprehensive|
 ||project that draws on the knowledge, skills, concepts, and methods accumulated through study in the|
 ||other courses taken for the major. The project prepares them for work in graduate school, professional|
-||organizations, the literary marketplace, or corporate settings.PREREQUISITE: Senior standing with a|
-||major in literary studies or writing.OFFERED: Sem. I.|
-
-
+||organizations, the literary marketplace, or corporate settings.Prerequisite: Senior standing with a|
+||major in literary studies or writing.Offered: Semester I.|
 
 Anderson University Undergraduate Catalog 2025-26 
 
@@ -4603,100 +4442,96 @@ Anderson University Undergraduate Catalog 2025-26
 
 ## HIST Courses 
 
-|2000 |World History|3 hrs. (3, 0)|
+|2000 |World History|3 hours (3,0)|
 |---|---|---|
 ||Examination of the history of the non-Western world of Asia, the Middle East, Africa, and Latin America.||
 ||Material includes the interaction of non-Western cultures with Europe and the United States, particularly||
 ||from the 1500s to the present. Emphasizes patterns of development; religion and culture; political,||
 ||economic, and social issues; and historical and current problems. Required of all social studies teaching||
-||majors.OFFERED: Sem. II, Summer.||
-|2030 |Western Civilization I|3 hrs. (3, 0)|
+||majors.Offered: Semester II, Summer.||
+|2030 |Western Civilization I|3 hours (3,0)|
 ||Examination of major themes in the development of Western civilization. Special attention is given to||
 ||intellectual and cultural heritage of the classical world and to the transmission of the classical heritage||
 ||to the modern world._Applies to the Humanistic & Artistic Ways of Knowing [Raven Core] component of the_||
-||_Liberal Arts Core Curriculum._ OFFERED: Sem. I.||
-|2040 |Western Civilization II|3 hrs. (3, 0)|
+||_Liberal Arts Core Curriculum._ Offered: Semester I.||
+|2040 |Western Civilization II|3 hours (3,0)|
 ||Examination of major themes in the development of Western civilization. Special attention is given to||
 ||the expansion of the West, the development of modern political ideologies, and the historical impact of||
 ||economic modernization. Examines the period from the 16th century to the present._Applies to the_||
 ||_Humanistic & Artistic Ways of Knowing [Raven Core] component of theLiberal Arts Core Curriculum._||
-||OFFERED: Sem. II.||
-|2110|American History I<br>3 hrs. (3, 0)||
+||Offered: Semester II.||
+|2110|American History I<br>3 hours (3,0)||
 ||American civilization from the frst English settlements through the Civil War: artistic, intellectual,||
 ||literary, social, economic, political, and religious currents in American life. Required of all social studies||
 ||majors._Applies to the Humanistic & Artistic Ways of Knowing [Raven Core] component of theLiberal Arts_||
-||_Core Curriculum._ OFFERED: Sem. I, II.||
-|2120|American History II<br>3 hrs. (3, 0)||
+||_Core Curriculum._ Offered: Semester I, II.||
+|2120|American History II<br>3 hours (3,0)||
 ||American civilization from Reconstruction to present: artistic, literary, intellectual, social, economic,||
 ||political, and religious currents in American life. Required of all social studies majors._Applies to the_||
 ||_Humanistic & Artistic Ways of Knowing [Raven Core] component of theLiberal Arts Core Curriculum._||
-||OFFERED: Sem. I, II.||
-|2300 |Historical Inquiry|3 hrs. (3, 0)|
+||Offered: Semester I, II.||
+|2300 |Historical Inquiry|3 hours (3,0)|
 ||Examines various approaches to historical research, major bibliographical tools, varieties of history, and||
 ||philosophies of history._Applies to the Civil Discourse & Confict Transformation [AU Experience]_||
-||_component of the Liberal Arts Core Curriculum._ OFFERED: Sem. I.||
-|2350 |Foundation of Public History|3 hrs. (3, 0)|
+||_component of the Liberal Arts Core Curriculum._ Offered: Semester I.||
+|2350 |Foundation of Public History|3 hours (3,0)|
 ||Required introduction for students whose major is history or public history, examining the role and||
 ||function of the public historian, the conditions of the primary settings in which history is presented to the||
-||broader public, and contemporary theory and practice in the discipline.OFFERED: Sem. II.||
-|3010|History of Political Thought|3 hrs. (3, 0)|
+||broader public, and contemporary theory and practice in the discipline.Offered: Semester II.||
+|3010|History of Political Thought|3 hours (3,0)|
 ||Examination of major works in the development of political thought from ancient Greece through the||
 ||20th century. Theorists studied include Plato, Aristotle, St. Augustine, Machiavelli, Hobbes, Locke,||
 ||Rousseau, and Mill. Particular emphasis is placed on the practical consequences of ideas for||
-||contemporary leaders in politics and society.PREREQUISITE: Sophomore standing.SAME AS:||
-||PHIL/POSC 3010.OFFERED:Sem. II, 2025-26.||
-|3060 |History of Christianity|3 hrs. (3, 0)|
+||contemporary leaders in politics and society.Prerequisite: Sophomore standing.SAME AS:||
+||PHIL/POSC 3010.Offered:Semester II, 2025-26.||
+|3060 |History of Christianity|3 hours (3,0)|
 ||Comprehensive survey of the history of Christianity. An effort is made to trace main lines of development||
 ||and to understand them in light of their inner dynamics and general environment.SAME AS:RLGN 3060.||
-||OFFERED:Sem. I.||
-|3100|Ancient History|3 hrs. (3, 0)|
+||Offered:Semester I.||
+|3100|Ancient History|3 hours (3,0)|
 ||Study of ancient Greek and Roman civilizations. Particular attention is devoted to social and political||
 ||history of both societies and to a consideration of their lasting cultural bequest to the West._Applies to_||
-||_the Global Ways of Knowing [AU Experience] component of theLiberal Arts Core Curriculum._ OFFERED:||
-||Sem. II, 2025-26.||
-|3135|Medievalism and Reform: Europe from Charlemagne to Luther|3 hrs. (3, 0)|
+||_the Global Ways of Knowing [AU Experience] component of theLiberal Arts Core Curriculum._ Offered:||
+||Semester II, 2025-26.||
+|3135|Medievalism and Reform: Europe from Charlemagne to Luther|3 hours (3,0)|
 ||European civilization beginning with the medieval recovery from Rome’s collapse to the Reformation and||
 ||the age of religious wars. Treating the millennium between the Carolingian monarchs and the age of the||
 ||great reformers, the course examines the emergence of new states, the frst Agricultural Revolution, the||
 ||creation of the vibrant culture of Christendom, the Crusades and Black Death, and the burst of cultural,||
 ||political and economic vitality characteristic of the Renaissance and Reformation.SAME AS:RLGN 3135.||
-||OFFERED:Sem II, 2026-27.||
-
-
+||Offered:Sem II, 2026-27.||
 
 Anderson University Undergraduate Catalog 2025-26 
 
 83 
 
-## HIST (cont.) 
-
 |IST (c|ont.)||
 |---|---|---|
-|3150|Europe since 1870|3 hrs. (3, 0)|
+|3150|Europe since 1870|3 hours (3,0)|
 ||Political, economic, and intellectual developments in recent Europe. Also examines the unique||
-||characteristics of modern European culture and artistic development.OFFERED:Sem. II, 2026-27.||
-|3190|Jewish Holocaust and its Historical Context|3 hrs. (3, 0)|
+||characteristics of modern European culture and artistic development.Offered:Semester II, 2026-27.||
+|3190|Jewish Holocaust and its Historical Context|3 hours (3,0)|
 ||Examines the destruction of European Jewry by the government of Nazi Germany from 1933 to 1945.||
 ||Topics include the history of anti-Semitism in Europe, National Socialist racial ideology, Jewish resistance,||
 ||attitudes of churches toward Nazi policies, development of death camps as the “fnal solution,” and||
 ||non-Jewish victims of Holocaust terror._Applies to the Global Ways of Knowing [AU Experience] component_||
-||_of theLiberal Arts Core Curriculum._ PREREQUISITE: Upper-division standing.OFFERED: Sem. I, II.||
-|3220 |The Age of World Wars, 1900-1950|3 hrs. (3, 0)|
+||_of theLiberal Arts Core Curriculum._ Prerequisite: Upper-division standing.Offered: Semester I, II.||
+|3220 |The Age of World Wars, 1900-1950|3 hours (3,0)|
 ||Examines the onset, course, and consequences of the two world wars that devastated Europe in the||
 ||frst half of the 20th century; the roles of the United States in the wars and America’s emergence as||
 ||a global power; the transformation of the position of women in Western societies; the beginning of||
 ||the era of colonial liberation; the ideological division of the West for half a century; and genocides in||
 ||Armenia, the Ukraine, and Nazi-occupied Europe and the foundation of the state of Israel in the||
-||aftermath of the Holocaust.PREREQUISITE: Upper-division standing.OFFERED: Sem. I, 2026-27.||
-|3240 |History of Russia and the Soviet Union|3 hrs. (3, 0)|
+||aftermath of the Holocaust.Prerequisite: Upper-division standing.Offered: Semester I, 2026-27.||
+|3240 |History of Russia and the Soviet Union|3 hours (3,0)|
 ||Examines the development of the Muscovite state and the rise of the Russian “federation” and tsarist||
 ||system, imperial ambitions and an unruly empire, the infuence of the Orthodox Church and its||
 ||symbiotic relationship with the government, Russian literature and music as a refection of Russian||
 ||culture, the revolutions of 1905 and 1917 and the subsequent rise of the Soviet Union, the Cold War,||
 ||and the downfall of the Soviet Union and its consequent splintering into 15 separate republics._Applies_||
 ||_to the Global Ways of Knowing [AU Experience] component of theLiberal Arts Core Curriculum._||
-||PREREQUISITE: Upper-division standing.OFFERED: Sem. I, 2025-26.||
-|3250 |History of the Cold War|3 hrs. (3, 0)|
+||Prerequisite: Upper-division standing.Offered: Semester I, 2025-26.||
+|3250 |History of the Cold War|3 hours (3,0)|
 ||Examines at length the roots of the Cold War; the tension between the United States and the Soviet||
 ||Union, particularly after the conclusion of World War II, and the causes of the continued strained relations;||
 ||the national and cultural infuence of the Cold War (the Red Scare and the space race, to name just two);||
@@ -4704,43 +4539,39 @@ Anderson University Undergraduate Catalog 2025-26
 ||and/or limitations of alignment; the historiography of Cold War schools of thought; why and how the Cold||
 ||War ended; and the long-term impact of the Cold War. Particular emphasis on the need to understand, in|a|
 ||non-biased manner, the positions and infuences of the nations involved._Applies to the Global Ways of_||
-||_Knowing [AU Experience] component of theLiberal Arts Core Curriculum._ OFFERED: Sem. II, 2025-26.||
-|3260 |Women in the World, 1800 to Present|3 hrs. (3, 0)|
+||_Knowing [AU Experience] component of theLiberal Arts Core Curriculum._ Offered: Semester II, 2025-26.||
+|3260 |Women in the World, 1800 to Present|3 hours (3,0)|
 ||Covers a broad history of the role of women throughout the world from approximately the end of the||
 ||18th century to modern times. A brief examination of the lives of western women will provide a basis||
 ||for discussion of the political, cultural, economic, and theological infuences on women in Asia, Africa,||
 ||and the Middle East specifcally, with additional attention being paid to women in Latin America and||
 ||India. Considerable time will be spent discussing the changing roles of women over the course of two||
 ||centuries._Applies to the Global Ways of Knowing [AU Experience] component of the Liberal Arts Core_||
-||_Curriculum._ PREREQUISITE: Upper-division standing.OFFERED: Sem. I, II.||
-|3280 |The Age of Global Empires|3 hrs. (3, 0)|
+||_Curriculum._ Prerequisite: Upper-division standing.Offered: Semester I, II.||
+|3280 |The Age of Global Empires|3 hours (3,0)|
 ||Considers European expansion in the 19th century and the consequences of that interaction on three||
 ||continents — Europe, Asia, and Africa. Examines French, British, American, Dutch, and Italian empires;||
 ||gauges the impact of Western intrusion upon indigenous societies; and considers the ways in which||
 ||the colonized peoples understood what was happening, as well as the outside world’s impact upon the||
 ||West._Applies to the Global Ways of Knowing [AU Experience] component of the Liberal Arts Core_||
-||_Curriculum._ PREREQUISITE: Upper-division standing.OFFERED: Sem. II, 2026-27.||
-|3300 |Middle East|3 hrs. (3, 0)|
+||_Curriculum._ Prerequisite: Upper-division standing.Offered: Semester II, 2026-27.||
+|3300 |Middle East|3 hours (3,0)|
 ||Survey of Middle Eastern history since the rise of Islam. Emphasis on the 18th century to the present,||
 ||including the impact of the West on the Middle East._Applies to the Global Ways of Knowing [AU_||
-||_Experience] component of theLiberal Arts Core Curriculum._ PREREQUISITE: Upper-division standing.||
-||OFFERED: Sem. I, 2026-27.||
-|3320 |World Religions|3 hrs. (3, 0)|
+||_Experience] component of theLiberal Arts Core Curriculum._ Prerequisite: Upper-division standing.||
+||Offered: Semester I, 2026-27.||
+|3320 |World Religions|3 hours (3,0)|
 ||Introduction to the major tenets and cultural expressions of selected religions, such as Islam, Taoism,||
 ||Buddhism, Jainism, Hinduism, Judaism, and Christianity. Religions are compared and contrasted||
 ||thematically, structurally, and culturally. Emphasis on the interdependence of religions and cultures, and||
 ||on what it means to be a responsible citizen in a globalized world._Applies to the Global Ways of Knowing_||
-||_[AU Experience] component of the Liberal Arts Core Curriculum._ SAME AS:RLGN 3320.OFFERED: Sem. I.||
-
-
+||_[AU Experience] component of the Liberal Arts Core Curriculum._ SAME AS:RLGN 3320.Offered: Semester I.||
 
 Anderson University Undergraduate Catalog 2025-26 
 
 84 
 
-## HIST (cont.) 
-
-|3360 |History of Modern Asia|3 hrs. (3, 0)|
+|3360 |History of Modern Asia|3 hours (3,0)|
 |---|---|---|
 ||Focuses on the histories of China, Japan, Korea, India, and Vietnam, including the foundational values||
 ||(religions, philosophies, and customs) of each culture; their political and economic structures; their||
@@ -4749,124 +4580,118 @@ Anderson University Undergraduate Catalog 2025-26
 ||when tempted by the rapid technological advancement of the 19th century; 20th century conficts||
 ||(including two world wars, the Korean War, the Vietnam War, and the Cold War); and current issues faced||
 ||by these countries in the 21st century._Applies to the Global Ways of Knowing [AU Experience] component_||
-||_of theLiberal Arts Core Curriculum._ OFFERED: Sem. I, 2026-27.||
-|3370 |General History of Latin America|3 hrs. (3, 0)|
+||_of theLiberal Arts Core Curriculum._ Offered: Semester I, 2026-27.||
+|3370 |General History of Latin America|3 hours (3,0)|
 ||Pre-Columbian civilizations and the results of their clash with European cultures, formation of Latin||
 ||American culture and character, past and present movements for political and economic independence,||
-||and the role of the United States in shaping the current socioeconomic situation.PREREQUISITE:||
+||and the role of the United States in shaping the current socioeconomic situation.Prerequisite:||
 ||Upper-division standing._Applies to the Global Ways of Knowing [AU Experience] component of theLiberal_||
-||_Arts Core Curriculum._ OFFERED: Sem. II, 2026-27.||
-|3420 |American Religious History|3 hrs. (3, 0)|
+||_Arts Core Curriculum._ Offered: Semester II, 2026-27.||
+|3420 |American Religious History|3 hours (3,0)|
 ||Comprehensive survey of diverse American religious experiences in the past and present. A study of||
 ||various historic forms of Christianity, Judaism, Eastern faiths, and indigenous American religions, as well||
-||as unifying religious forces, such as “civil religion.”SAME AS:RLGN 3420.OFFERED:Sem. I, 2025-26.||
-|3425 |Slavery and Freedom in the Modern World, 1800 to the Present|3 hrs. (3, 0)|
+||as unifying religious forces, such as “civil religion.”SAME AS:RLGN 3420.Offered:Semester I, 2025-26.||
+|3425 |Slavery and Freedom in the Modern World, 1800 to the Present|3 hours (3,0)|
 ||Examines the institutions of slavery and their demise during the “Age of Emancipation” in the 19th||
 ||century, focusing particular attention on the emancipation process in the United States, England, Brazil,||
 ||and the Caribbean. Also connects these historical events and debates to modern debates regarding||
 ||liberty, forced labor and Christian ethics in the modern era._Applies to the Global Ways of Knowing [AU_||
-||_Experience] component of theLiberal Arts Core Curriculum._ OFFERED: Sem. II, 2025-26.||
-|3440 |Civil War and Reconstruction|3 hrs. (3, 0)|
+||_Experience] component of theLiberal Arts Core Curriculum._ Offered: Semester II, 2025-26.||
+|3440 |Civil War and Reconstruction|3 hours (3,0)|
 ||Examines the coming of the Civil War, the major fgures in the North and the South, issues related to the||
-||conduct of the war, and the reconstruction of the nation following its conclusion.PREREQUISITE:||
-||Upper-division standing.OFFERED: Sem. I, 2026-27.||
-|3455 |United States from Gilded Age to the Present|3 hrs. (3, 0)|
+||conduct of the war, and the reconstruction of the nation following its conclusion.Prerequisite:||
+||Upper-division standing.Offered: Semester I, 2026-27.||
+|3455 |United States from Gilded Age to the Present|3 hours (3,0)|
 ||Provides an in-depth examination from a topical perspective of U.S. history from the Gilded Age to the||
 ||present. Examples of topics include the infuence of mass media (radio, television, and social media) on||
 ||elections; two world wars and the dynamics of alliances; and America’s changing views of immigration.||
-||PREREQUISITE: Upper-division standing.OFFERED: Sem. II, 2026-27.||
-|3470 |The American West|3 hrs. (3, 0)|
+||Prerequisite: Upper-division standing.Offered: Semester II, 2026-27.||
+|3470 |The American West|3 hours (3,0)|
 ||A comprehensive examination of the history of the American West from the Louisiana Purchase to||
 ||present day. Introduces issues of American expansion and settlement, relations with Native Americans||
 ||and other peoples of color, and patterns of economic and cultural interaction and conquest in the||
-||Trans-Mississippi region.PREREQUISITE: Upper-division standing.OFFERED: With suffcient demand.||
-|3480 |Introduction to Archival Theory and Practice|3 hrs. (3,0)|
+||Trans-Mississippi region.Prerequisite: Upper-division standing.Offered: With suffcient demand.||
+|3480 |Introduction to Archival Theory and Practice|3 hours (3,0)|
 ||A comprehensive course providing a broad range of knowledge and practical skills for those desiring||
 ||work in a variety of felds, to include museums, archives, and government research. Includes an||
 ||introduction to the history of archives and how they ft into library and museum institutions; acquisition,||
 ||evaluation, and arrangement of archival material; cataloging, digital methods, and the use of archival||
-||programs; records management and terminology of archivists.PREREQUISITE: Upper-division standing.||
-||OFFERED: Sem. I, 2025-26.||
-|3490 |Archival Presentation and Preservation|3 hrs. (3,0)|
+||programs; records management and terminology of archivists.Prerequisite: Upper-division standing.||
+||Offered: Semester I, 2025-26.||
+|3490 |Archival Presentation and Preservation|3 hours (3,0)|
 ||Introduces the foundations of preservation and exhibit strategies; causes of deterioration of museum||
 ||objects and best practices for preventing or limiting loss; preservation of collections; museum and other||
 ||historical venues as a means to educate and challenge the public; the use of space and visual||
-||presentation for exhibits.PREREQUISITE: Upper-division standing.OFFERED: Sem. I,  2025-26.||
-|3510|Law, the Constitution, and War in American History, 1787 to present|3 hrs. (3, 0)|
+||presentation for exhibits.Prerequisite: Upper-division standing.Offered: Semester I,  2025-26.||
+|3510|Law, the Constitution, and War in American History, 1787 to present|3 hours (3,0)|
 ||Examines the historical development of legal and constitutional issues surrounding American warfare,||
 ||paying close attention to the history of wartime civil liberties, questions regarding the legal defnitions of||
 ||war, treason, citizenship and enemy combatants, and the many challenges posed by the nation’s||
 ||economic, cultural, and political mobilization for large-scale conventional wars (the Civil War and the two||
 ||world wars) and asymmetrical conficts such as the U.S. interventions in Southeast Asia and the Middle||
-||East.OFFERED: Sem. I, 2025-26.||
-
-
+||East.Offered: Semester I, 2025-26.||
 
 Anderson University Undergraduate Catalog 2025-26 
 
 85 
 
-## HIST (cont.) 
-
 |IST (c|ont.)||
 |---|---|---|
-|3520 |History of the Vietnam War|3 hrs. (3, 0)|
+|3520 |History of the Vietnam War|3 hours (3,0)|
 ||Explores U.S. foreign policy toward Vietnam, the diplomatic history of the confict, the deepening||
 ||commitment of U.S. forces, the experiences of U.S. Armed Forces personnel, and the full-scale war||
 ||waged in the country. This will include domestic responses to the war, particularly the massive||
-||protest movement that the war generated and its effect on politics in this country.OFFERED: Sem. II,||
+||protest movement that the war generated and its effect on politics in this country.Offered: Semester II,||
 ||2026-27.||
-|3540 |Civil Rights Movement in the United States|3 hrs. (3, 0)|
+|3540 |Civil Rights Movement in the United States|3 hours (3,0)|
 ||Examines the growth and dynamics of the African-American Civil Rights Movement, one of the most||
 ||infuential mass movements in American history. Emphasis on the economic, social, and cultural||
 ||changes that have infuenced the civil rights struggles as well as historical conceptions of race that||
-||have plagued this country.OFFERED: With suffcient demand.||
-|3560 |History of Sports in America|3 hrs. (3, 0)|
+||have plagued this country.Offered: With suffcient demand.||
+|3560 |History of Sports in America|3 hours (3,0)|
 ||A comprehensive examination of the origins, history and development of sports as a basic component||
 ||of modern American cultural, social, political and economic life. Sports is a valuable lens through||
 ||which students may examine larger trends in American race relations, modern capitalism and labor||
 ||relations, and the development of the idea of leisure activity in an increasingly urban and suburban||
 ||American landscape. Sports history is a subject of considerable interest to students, and it is also a||
-||useful way to introduce them to larger trends in the study of American history.OFFERED: With||
+||useful way to introduce them to larger trends in the study of American history.Offered: With||
 ||suffcient demand.||
-|4030 |History of the American Family|3 hrs. (3, 0)|
+|4030 |History of the American Family|3 hours (3,0)|
 ||Explores the historical development of American families with changes in gender roles, sexuality,||
 ||race, and life stages. This will include looking at the concepts of manhood, womanhood, and childhood||
 ||over time and the changed meaning of the family, roles, and obligations of each member.||
 ||Contemporary issues will include the defnition of the family as well as the notions underpinning||
-||current conceptions of what a traditional family is.OFFERED: With suffcient demand.||
-|4650 |Advanced Readings and Research<br>2-3|hrs. (2-3, 0)|
+||current conceptions of what a traditional family is.Offered: With suffcient demand.||
+|4650 |Advanced Readings and Research<br>2-3|hours (2-3,0)|
 ||Includes general reading and discussion covering the major or related feld and intensive study of||
 ||a specifc subject in the major feld. Area of study is determined by the student and instructor with||
-||departmental approval.EXPECTATION: Cumulative GPA of 3.0 or higher. Special consideration||
+||departmental approval.Expectation: Cumulative GPA of 3.0 or higher. Special consideration||
 ||may be given to students in other majors with 3.0 or higher GPAs in their major feld.||
-||PREREQUISITE: Upper-division standing.CONSENT: Instructor.OFFERED: Sem. I, II.||
-|4700 |Methods of Teaching Social Studies|3 hrs. (3, 0)|
+||Prerequisite: Upper-division standing.Consent: Instructor.Offered: Semester I, II.||
+|4700 |Methods of Teaching Social Studies|3 hours (3,0)|
 ||Prepares Social Studies Secondary Education majors in the development of teaching methodology||
 ||appropriate to the social sciences. Designed only for Social Studies Secondary Education majors;||
-||does not apply toward the history major or minor.COREQUISITE: EDUC 4710.OFFERED: Sem. I.||
-|4800 |Internship in Public History<br>1-4 hrs. (arranged)||
+||does not apply toward the history major or minor.Corequisite: EDUC 4710.Offered: Semester I.||
+|4800 |Internship in Public History<br>1-4 hours (arranged)||
 ||Offers practical experience in an active public history setting, integrating classroom study,||
-||research, and discussion with mentor-guided hands-on work in the feld.CONSENT: Instructor.||
-||PREREQUISITE: Upper-division standing. HIST 2350 and an additional 15 hours in HIST-captioned||
-||courses.REPEAT: May be repeated (total credit not to exceed 4 hours).GRADE: CR/NC.OFFERED:||
-||Sem. I, II; Summer.||
-|4900 |Historical Problems and Interpretations (American, European, Asian)|4 hrs. (4, 0)|
+||research, and discussion with mentor-guided hands-on work in the feld.Consent: Instructor.||
+||Prerequisite: Upper-division standing. HIST 2350 and an additional 15 hours in HIST-captioned||
+||courses.Repeat: May be repeated (total credit not to exceed 4 hours).Grade: CR/NC.Offered:||
+||Semester I, II; Summer.||
+|4900 |Historical Problems and Interpretations (American, European, Asian)|4 hours (4,0)|
 ||In-depth examination of specifc problem areas and interpretations of history. In seminar context,||
-||issues dealt with in terms of specifc areas of interpretation and illustration.REPEAT: May be||
-||repeated (total credit not to exceed 12 hours).OFFERED: Sem. I, II.||
-|4915|Honors Research<br>1-3 hrs. (arranged)||
+||issues dealt with in terms of specifc areas of interpretation and illustration.Repeat: May be||
+||repeated (total credit not to exceed 12 hours).Offered: Semester I, II.||
+|4915|Honors Research<br>1-3 hours (arranged)||
 ||Required for students who intend to graduate with departmental honors. Research project||
 ||designed and executed by the student in consultation with and under the direction of the||
-||instructor.EXPECTATION: Cumulative GPA of 3.0 or higher and a GPA of 3.5 or higher in courses||
-||counting toward the major.PREREQUISITE: Senior standing.CONSENT: Department Chair.||
-||OFFERED: Sem. I, II.||
-|4930 |Senior Seminar|1 hr. (1, 0)|
+||instructor.Expectation: Cumulative GPA of 3.0 or higher and a GPA of 3.5 or higher in courses||
+||counting toward the major.Prerequisite: Senior standing.Consent: Department Chair.||
+||Offered: Semester I, II.||
+|4930 |Senior Seminar|1 hour (1,0)|
 ||Capstone course for the major. Students will integrate concepts, knowledge, skills, methods,||
-||approaches, and practical experience from their major studies.PREREQUISITE: Senior standing.||
-||OFFERED: Sem. II.||
-
-
+||approaches, and practical experience from their major studies.Prerequisite: Senior standing.||
+||Offered: Semester II.||
 
 Anderson University Undergraduate Catalog 2025-26 
 
@@ -4876,48 +4701,46 @@ Anderson University Undergraduate Catalog 2025-26
 
 |MLAN|Courses||
 |---|---|---|
-|2000 |Language and Society|4 hrs. (4, 0)|
+|2000 |Language and Society|4 hours (4,0)|
 ||Introduces the study of language in the context of historical, grammatical, biological, and social issues.||
 ||Our nationalities, our family histories, our speech communities, our social standings, and our education||
 ||all infuence the ways in which we use language. Examines the many ways people use and manipulate||
 ||language according to their individual background to make themselves understood and/or to achieve||
 ||specifc goals in different social settings._Applies to the Global Ways of Knowing [AU Experience]_||
-||_component of the Liberal Arts Core Curriculum._ OFFERED: Sem. II.||
-|3400 |The French- and Spanish-Speaking Caribbean|3 hrs. (3, 0)|
+||_component of the Liberal Arts Core Curriculum._ Offered: Semester II.||
+|3400 |The French- and Spanish-Speaking Caribbean|3 hours (3,0)|
 ||Explores the dynamic convergence of cultures, races, and religions that comprise the French- and||
 ||Spanish-speaking Caribbean. Primary focus on the cultures of Haiti, the French Antilles, Cuba, Puerto||
 ||Rico, and the Dominican Republic, through their history, literature, language, politics, art, and religious||
 ||expression. Emphasis on the complex interrelation of these elements, which have formed the||
 ||contemporary identity of the region. Taught in English._Applies to the Global Ways of Knowing [AU_||
-||_Experience] component of theLiberal Arts Core Curriculum._ OFFERED: Sem. II.||
-|4900 |Senior Seminar in Cultural Studies|3 hrs. (3, 0)|
+||_Experience] component of theLiberal Arts Core Curriculum._ Offered: Semester II.||
+|4900 |Senior Seminar in Cultural Studies|3 hours (3,0)|
 ||Addresses openness to truth and Christian commitments and practices from a global perspective of||
 ||modern languages and cultures. Includes required readings, in-depth discussions, and a major project||
-||and presentation. Taught in English.CONSENT: Instructor.OFFERED: Sem. I.||
+||and presentation. Taught in English.Consent: Instructor.Offered: Semester I.||
 |REN Courses|||
-|1010|Elementary French I|4 hrs. (3, 1)|
+|1010|Elementary French I|4 hours (3,1)|
 ||Emphasizes development of fundamental language skills (listening, speaking, reading, and writing) and||
 ||appreciation of Francophone cultures. Requires individual online or outside laboratory work.||
-||PREREQUISITE: Placement.OFFERED: Sem. I.||
-|1020|Elementary French II|4 hrs. (3, 1)|
+||Prerequisite: Placement.Offered: Semester I.||
+|1020|Elementary French II|4 hours (3,1)|
 ||Emphasizes development of fundamental language skills (listening, speaking, reading, and writing) and||
 ||appreciation of Francophone cultures. Requires individual online or outside laboratory work.||
-||PREREQUISITE: FREN 1010 or placement.OFFERED: Sem. II.||
+||Prerequisite: FREN 1010 or placement.Offered: Semester II.||
 |ERM|Courses||
-|1010|Elementary German I|4 hrs. (3, 1)|
+|1010|Elementary German I|4 hours (3,1)|
 ||Emphasizes development of fundamental language skills (listening, speaking, reading, and writing) and||
 ||appreciation of Germanic cultures. Requires individual online or outside laboratory work.||
-||PREREQUISITE: Placement.OFFERED: Sem. I.||
-|1020|Elementary German II|4 hrs. (3, 1)|
+||Prerequisite: Placement.Offered: Semester I.||
+|1020|Elementary German II|4 hours (3,1)|
 ||Emphasizes continued development of fundamental language skills (listening, speaking, reading, and||
 ||writing) and appreciation of Germanic cultures. Requires individual online or outside laboratory work.||
-||PREREQUISITE: GERM 1010 or placement.OFFERED: Sem. II.||
-|2010|Intermediate German I|4 hrs. (3, 1)|
+||Prerequisite: GERM 1010 or placement.Offered: Semester II.||
+|2010|Intermediate German I|4 hours (3,1)|
 ||Communicative tasks and culture-oriented readings. Continued development of basic skills in reading,||
-||writing, listening, and speaking. Requires individual online or outside laboratory work.PREREQUISITE:||
-||GERM 1020 or placement.OFFERED: With suffcient demand.||
-
-
+||writing, listening, and speaking. Requires individual online or outside laboratory work.Prerequisite:||
+||GERM 1020 or placement.Offered: With suffcient demand.||
 
 ## FREN Courses 
 
@@ -4925,124 +4748,117 @@ Anderson University Undergraduate Catalog 2025-26
 
 ## SPAN Courses 
 
-1010 Elementary Spanish I 4 hrs. (3, 1) Emphasizes development of fundamental language skills (listening, speaking, reading, and writing) and appreciation of Spanish-speaking cultures. Requires individual online or outside laboratory work. _Applies to the Humanistic & Artistic Ways of Knowing [Raven Core] component of the Liberal Arts Core Curriculum._ PREREQUISITE : Placement. OFFERED : Sem. I, II. 1020 Elementary Spanish II 4 hrs. (3, 1) Emphasizes continued development of fundamental language skills (listening, speaking, reading, and writing) and appreciation of Spanish-speaking cultures. Requires individual online or outside laboratory work. _Applies to the Humanistic & Artistic Ways of Knowing [Raven Core] component of the Liberal Arts Core Curriculum._ PREREQUISITE : SPAN 1010 or placement. OFFERED : Sem. I, II. 
+1010 Elementary Spanish I 4 hours (3,1) Emphasizes development of fundamental language skills (listening, speaking, reading, and writing) and appreciation of Spanish-speaking cultures. Requires individual online or outside laboratory work. _Applies to the Humanistic & Artistic Ways of Knowing [Raven Core] component of the Liberal Arts Core Curriculum._ Prerequisite : Placement. Offered : Semester I, II. 1020 Elementary Spanish II 4 hours (3,1) Emphasizes continued development of fundamental language skills (listening, speaking, reading, and writing) and appreciation of Spanish-speaking cultures. Requires individual online or outside laboratory work. _Applies to the Humanistic & Artistic Ways of Knowing [Raven Core] component of the Liberal Arts Core Curriculum._ Prerequisite : SPAN 1010 or placement. Offered : Semester I, II. 
 
 Anderson University Undergraduate Catalog 2025-26 
 
 87 
 
-## SPAN (cont.) 
-
 |PAN (|cont.)|||
 |---|---|---|---|
-|2010|Intermediate Spanish I||4 hrs. (3, 1)|
+|2010|Intermediate Spanish I||4 hours (3,1)|
 ||Increases language profciency in the areas of listening, speaking, reading, and writing. Also emphasizes|||
 ||increased understanding of the diverse Spanish-speaking cultures. Requires individual online or outside|||
-||laboratory work.PREREQUISITE: SPAN 1020 or placement.OFFERED: Sem. I, II.|||
-|2020 |Intermediate Spanish II||4 hrs. (3, 1)|
+||laboratory work.Prerequisite: SPAN 1020 or placement.Offered: Semester I, II.|||
+|2020 |Intermediate Spanish II||4 hours (3,1)|
 ||Increases language profciency in the areas of listening, speaking, reading, and writing, so that learners|||
 ||can speak with ease about past, present, and future experiences relevant to a variety of settings in|||
 ||Spanish. Also emphasizes understanding the diverse Spanish-speaking cultures through authentic|||
 ||materials. Introduction to literary readings. Requires individual online or outside laboratory work.|||
-||PREREQUISITE: SPAN 2010 or placement.OFFERED: Sem. I, II.|||
-|210x|Spanish for the Professions||3 hrs.|
+||Prerequisite: SPAN 2010 or placement.Offered: Semester I, II.|||
+|210x|Spanish for the Professions||3 hours|
 ||Designed for students who will interact with Spanish-speakers in their careers, these courses will give|||
 ||students the linguistic and cultural knowledge needed to communicate on the job in Spanish at the|||
 ||intermediate level._Applies to the Global Ways of Knowing [AU Experience] component of the Liberal Arts_|||
-||_Core Curriculum._ EXPECTATION: SPAN 2010 or equivalent profciency.|||
-||2101<br>Spanish for Health Care<br>3 hrs. (3, 0)|||
-||OFFERED: Sem. II.|||
-||2102 Spanish for Ministry<br>3 hrs. (3, 0)|||
-||OFFERED: With suffcient demand.|||
-||2103 Spanish for Social Work and Criminal Justice<br>3 hrs. (3, 0)|||
-||OFFERED: With suffcient demand.|||
-||2104 Spanish for Business<br>3 hrs. (3, 0)|||
-||OFFERED: With suffcient demand.|||
-|3010|Spanish Composition||4 hrs. (4, 0)|
+||_Core Curriculum._ Expectation: SPAN 2010 or equivalent profciency.|||
+||2101<br>Spanish for Health Care<br>3 hours (3,0)|||
+||Offered: Semester II.|||
+||2102 Spanish for Ministry<br>3 hours (3,0)|||
+||Offered: With suffcient demand.|||
+||2103 Spanish for Social Work and Criminal Justice<br>3 hours (3,0)|||
+||Offered: With suffcient demand.|||
+||2104 Spanish for Business<br>3 hours (3,0)|||
+||Offered: With suffcient demand.|||
+|3010|Spanish Composition||4 hours (4,0)|
 ||Builds upon intermediate Spanish by investigating the identities, communities, and life experiences of|||
 ||Hispanic cultures around the globe. It builds bilingual literacy via  authentic readings, short flms, and|||
-||music at the advanced level while emphasizing  reading and professional writing.PREREQUISITE: SPAN|||
-||2020 or placement.OFFERED: Sem. I, II.|||
-|3020 |Spanish Conversation||4 hrs. (3, 1)|
+||music at the advanced level while emphasizing  reading and professional writing.Prerequisite: SPAN|||
+||2020 or placement.Offered: Semester I, II.|||
+|3020 |Spanish Conversation||4 hours (3,1)|
 ||Designed to increase students’ abilities to deal orally and culturally with a variety of subjects related to|||
 ||everyday life, employment, and current events. Includes review of Spanish grammar, development of|||
 ||more fuent command of oral patterns, and more active control of vocabulary. Practice with native|||
 ||Spanish speakers required in a practicum setting._Applies to the Global Ways of Knowing [AU Experience]_|||
-||_component of the Liberal Arts Core Curriculum._ PREREQUISITE: SPAN 2020.OFFERED: Sem. II.|||
-|3140|Spanish Phonetics||3 hrs. (2, 1)|
+||_component of the Liberal Arts Core Curriculum._ Prerequisite: SPAN 2020.Offered: Semester II.|||
+|3140|Spanish Phonetics||3 hours (2,1)|
 ||Provides a survey of topics in Spanish phonetics and phonology, designed to help the non-native speaker|||
 ||develop more accurate pronunciation and intonation. Introduction to phonetic transcription, basic|||
 ||concepts of linguistic science, and contrasts with English pronunciation patterns. Requires speaking|and||
-||listening activities outside of class.PREREQUISITE: SPAN 2020.OFFERED: Sem. II.|||
-|3200 |Advanced Spanish Grammar and Translation||3 hrs. (3, 0)|
+||listening activities outside of class.Prerequisite: SPAN 2020.Offered: Semester II.|||
+|3200 |Advanced Spanish Grammar and Translation||3 hours (3,0)|
 ||In-depth review of grammar with the goal of refning students’ understanding and use of written|||
 ||Spanish. Includes oral and written exercises, vocabulary-building exercises, and translations. Emphasis|||
-||on fner points of Spanish grammar as compared to English.PREREQUISITE: SPAN 3010, 3020.|||
-||OFFERED: With suffcient demand.|||
-|3240 |Strategies for Advanced Spanish Profciency|1-2|hrs. (1-2, 0)|
+||on fner points of Spanish grammar as compared to English.Prerequisite: SPAN 3010,3020.|||
+||Offered: With suffcient demand.|||
+|3240 |Strategies for Advanced Spanish Profciency|1-2|hours (1-2,0)|
 ||To increase communicative profciency in Spanish in multiple domains (speaking, listening, reading,|||
 ||writing) and to provide the life-long learner with strategies for maintaining and continuing to grow in|||
 ||these language skills. Includes speaking practice with a native speaker language coach and the|||
 ||development and implementation of an action plan for the semester, individualized according to the|||
-||needs and preferences of each student.REPEAT: May be repeated with instructor permission (total|||
-||credit not to exceed 2 hours).PREREQUISITE: SPAN 3010 or 3020.|||
-|3400 |Spanish Civilization and Culture||3 hrs. (3, 0)|
+||needs and preferences of each student.Repeat: May be repeated with instructor permission (total|||
+||credit not to exceed 2 hours).Prerequisite: SPAN 3010 or 3020.|||
+|3400 |Spanish Civilization and Culture||3 hours (3,0)|
 ||Geography and cultural history of Spain. Present political situation, education, art, music, and everyday|||
-||life.PREREQUISITE: SPAN 3010, 3020.OFFERED: Sem. II.|||
-
-
+||life.Prerequisite: SPAN 3010,3020.Offered: Semester II.|||
 
 Anderson University Undergraduate Catalog 2025-26 
 
 88 
-
-## SPAN (cont.) 
 
 ==> picture [49 x 9] intentionally omitted <==
 
 ----- Start of picture text -----<br>
 ||
 |---|
-|3 hrs. (3, 0)|
+|3 hours (3,0)|
 
 ----- End of picture text -----<br>
 
-
 ## 3440 Latin American Civilization 
 
-Survey of Spanish-American culture, pre-Columbian to the present. Socioeconomic problems and relationships with the United States. PREREQUISITE : SPAN 3010, 3020. 
+Survey of Spanish-American culture, pre-Columbian to the present. Socioeconomic problems and relationships with the United States. Prerequisite : SPAN 3010,3020. 
 
-3-4 hrs. (3-4, 0) 
+3-4 hours (3-4,0) 
 
 ## 4300 Literature of the Hispanic World 
 
-Survey of the most influential literary texts from Spain and Latin America which investigates the relationship of mutual influence that exists between literature, culture, and historical events. PREREQUISITE : SPAN 3010, 3020. OFFERED : Sem. I. 
+Survey of the most influential literary texts from Spain and Latin America which investigates the relationship of mutual influence that exists between literature, culture, and historical events. Prerequisite : SPAN 3010,3020. Offered : Semester I. 
 
-3-4 hrs. (3-4, 0) 
+3-4 hours (3-4,0) 
 
 ## 4500 Special Topics 
 
-Group study on selected topics. CONSENT : Department Chair. 
+Group study on selected topics. Consent : Department Chair. 
 
-1-6 hrs. (arranged) 
+1-6 hours (arranged) 
 
 ## 4550 Intensive Experience in Spanish 
 
-Participation in an internship, practicum, or other intensive language experience to be approved by the department that provides the student with linguistic and cultural challenges that will improve their listening, speaking and cross-cultural proficiencies and competencies. EXPECTATION : Completion of or enrollment in at least one hour of SPAN 3240. REPEAT : May be repeated to fulfill the study abroad requirement for a total of 6 hours. PREREQUISITE : SPAN 3010, 3020. OFFERED : Sem. I, II. 
+Participation in an internship, practicum, or other intensive language experience to be approved by the department that provides the student with linguistic and cultural challenges that will improve their listening, speaking and cross-cultural proficiencies and competencies. Expectation : Completion of or enrollment in at least one hour of SPAN 3240. Repeat : May be repeated to fulfill the study abroad requirement for a total of 6 hours. Prerequisite : SPAN 3010,3020. Offered : Semester I, II. 
 
-1-4 hrs. (arranged) 
+1-4 hours (arranged) 
 
 ## 4650 Directed Individual Study 
 
-Readings or special interest project to help majors coordinate their work in other Spanish courses. May be completed in a Spanish-speaking country. CONSENT : Department chair. 
+Readings or special interest project to help majors coordinate their work in other Spanish courses. May be completed in a Spanish-speaking country. Consent : Department chair. 
 
-1-4 hrs. (arranged) 
+1-4 hours (arranged) 
 
 ## 4660 Directed Individual Study 
 
-Readings or special interest project to help majors coordinate their work in other Spanish courses. May be completed in a Spanish-speaking country. CONSENT : Department chair. 
+Readings or special interest project to help majors coordinate their work in other Spanish courses. May be completed in a Spanish-speaking country. Consent : Department chair. 
 
-## _Note on placement and credit:_ 
+## _Note on placement and credit_ 
 
 _Students who place into SPAN 2020 or SPAN 3010 level and successfully pass these courses with a C- or above may request retroactive credit for SPAN 2010 or SPAN 2020. The retroactive credit will appear on the Anderson University transcript as SPAN 2015 and SPAN 2025 for purposes of differentiation within the liberal arts core processing system._ 
 
@@ -5074,27 +4890,27 @@ The department undertakes advising and supervision of undergraduate programs in 
 
 ## BIOLOGY 
 
-## BIOLOGY MAJOR, BACHELOR OF ARTS  (49 hrs.) 
+## BIOLOGY MAJOR, BACHELOR OF ARTS  (49 hours) 
 
-- 29 hours from BIOL 2210, 2220, 2240, 3030, 3510, 4050, 4070, 4910, 4920 
+- 29 hours from BIOL 2210,2220,2240,3030,3510,4050,4070,4910,4920 
 
 - 8 hours from additional upper-division BIOL courses (completion of both BIOL 2410 and 2420 will substitute for 4 hours of upper-division biology) 
 
-- CHEM 2110, 2120, 2210 
+- CHEM 2110,2120,2210 
 
 _BIOL 2230 does not apply toward the major._ 
 
 _Additional CHEM courses, especially CHEM 2220 and 3100, are strongly recommended._ 
 
-## BIOLOGY MAJOR, BACHELOR OF SCIENCE  (73 hrs.) 
+## BIOLOGY MAJOR, BACHELOR OF SCIENCE  (73 hours) 
 
-- 29 hours from BIOL 2210, 2220, 2240, 3030, 3510, 4050, 4070, 4910, 4920 
+- 29 hours from BIOL 2210,2220,2240,3030,3510,4050,4070,4910,4920 
 
 - 12 hours from additional upper-division BIOL courses (completion of both BIOL 2410 and 2420 will substitute for 4 hours of upper-division biology) 
 
-- CHEM 2110, 2120, 2210, 2220 
+- CHEM 2110,2120,2210,2220 
 
-- PHYS 2140 or 2240, 2150 or 2250 
+- PHYS 2140 or 2240,2150 or 2250 
 
 - MATH 2120 or PSYC 2440 
 
@@ -5102,9 +4918,9 @@ _Additional CHEM courses, especially CHEM 2220 and 3100, are strongly recommende
 
 _BIOL 2230 does not apply toward the major._ 
 
-## BIOLOGY MINOR (16 hrs.) 
+## BIOLOGY MINOR (16 hours) 
 
-- BIOL 2210, 2220 
+- BIOL 2210,2220 
 
 - 8 hours from BIOL courses numbered 2230 and above 
 
@@ -5120,37 +4936,37 @@ Students who wish to pursue a career in teaching should complete the Biology BA 
 
 The biochemistry major is an interdisciplinary major that applies the principles and methods of both biology and chemistry to understanding the molecular basis of life. The major requires a number of basic classes from each discipline with advanced courses in chemical instrumentation, cell and molecular biology, genetics, and biochemistry, and allows the student to select additional courses necessary to pursue certain career objectives. Students considering a biochemistry major should begin their study with CHEM 2110 and BIOL 2210. 
 
-## BIOCHEMISTRY MAJOR, BACHELOR OF ARTS  (56 hrs.) 
+## BIOCHEMISTRY MAJOR, BACHELOR OF ARTS  (56 hours) 
 
-- CHEM 2110, 2120, 2210, 2220, 3100, 4510, 4520 
+- CHEM 2110,2120,2210,2220,3100,4510,4520 
 
 - BIOL/CHEM 4210 
 
 - BIOL/CHEM4220 
 
-- BIOL/CHEM/PHYS 4910, 4920 
+- BIOL/CHEM/PHYS 4910,4920 
 
-- BIOL 2210, 2220, 2240, 4050, 4310 
+- BIOL 2210,2220,2240,4050,4310 
 
-- Elective hours from CHEM 3140, 4090, 4110; BIOL 3030, 4120 
+- Elective hours from CHEM 3140,4090,4110; BIOL 3030,4120 
 
-_It is suggested that students pursuing pre-medicine should elect BIOL 3030, 4120. They should also take PHYS 2140, 2150 or MATH 2010, 2020, PHYS 2240, 2250._ 
+_It is suggested that students pursuing pre-medicine should elect BIOL 3030,4120. They should also take PHYS 2140,2150 or MATH 2010,2020, PHYS 2240,2250._ 
 
-_It is suggested that students pursuing graduate school should elect CHEM 3140, 4090, 4110; BIOL 3030; as well as MATH 2010, 2020, PHYS 2240, 2250._ 
+_It is suggested that students pursuing graduate school should elect CHEM 3140,4090,4110; BIOL 3030; as well as MATH 2010,2020, PHYS 2240,2250._ 
 
 _It is suggested that students pursuing an industry career elect CHEM 3140._ 
 
-## BIOCHEMISTRY MAJOR, BACHELOR OF SCIENCE  (76 hrs.) 
+## BIOCHEMISTRY MAJOR, BACHELOR OF SCIENCE  (76 hours) 
 
-- CHEM 2110, 2120, 2210, 2220, 3100, 4110, 4510, 4520 
+- CHEM 2110,2120,2210,2220,3100,4110,4510,4520 
 
-- BIOL 2210, 2220, 2240, 3030, 4050, 4310 
+- BIOL 2210,2220,2240,3030,4050,4310 
 
 - BIOL/CHEM 4210 
 
 - BIOL/CHEM 4220 
 
-- BIOL/CHEM/PHYS 4910, 4920 
+- BIOL/CHEM/PHYS 4910,4920 
 
 - PHYS 2140 or 2240 
 
@@ -5164,17 +4980,17 @@ _It is suggested that students pursuing an industry career elect CHEM 3140._
 
 The purpose of study in physics is to obtain an understanding of the nature and order of the physical world while being exposed to the logical application of scientific methods in discovering this order. 
 
-## PHYSICS MINOR  (16 hrs.) 
+## PHYSICS MINOR  (16 hours) 
 
-- PHYS 2240, 2250 
+- PHYS 2240,2250 
 
 - Remaining 8 hours from 
 
-   - PHYS 1020, 1240 
+   - PHYS 1020,1240 
 
-   - ENGR 2010, 2070, 2110, 2200, 2310, 3240 
+   - ENGR 2010,2070,2110,2200,2310,3240 
 
-   - CPSC 2020, 2040 
+   - CPSC 2020,2040 
 
 Anderson University Undergraduate Catalog 2025-26 
 
@@ -5182,201 +4998,191 @@ Anderson University Undergraduate Catalog 2025-26
 
 ## BIOL Courses 
 
-|1000|Principles of Modern Biology|4 hrs. (3, 2)|
+|1000|Principles of Modern Biology|4 hours (3,2)|
 |---|---|---|
 ||Fundamental ideas in the science of biology, including molecules, cells, genetics, ecology, the diversity||
 ||of life, and the human body._Applies to the Scientifc Ways of Knowing [Raven Core] component of the_||
-||_Liberal Arts Core Curriculum._ OFFERED:Sem. I; Summer.||
-|2010|Medical Terminology|2 hrs. (2, 0)|
+||_Liberal Arts Core Curriculum._ Offered:Semester I; Summer.||
+|2010|Medical Terminology|2 hours (2,0)|
 ||Course objective is to make students familiar with the common root words, prefxes, and suffxes of||
 ||terms used in the medical felds. The material to be covered includes anatomical, procedural, diagnostic,||
-||disease, and pharmacology terms.OFFERED:Sem. I, II, Summer.||
-|2040 |Personal and Community Health|3 hrs. (3, 0)|
+||disease, and pharmacology terms.Offered:Semester I, II, Summer.||
+|2040 |Personal and Community Health|3 hours (3,0)|
 ||Health problems of individuals, home, school, and community. Covers nutrition, child growth, personality||
 ||development, home living, and the human body. Includes application of exercise to the maintenance of||
-||individual and community health.SAME AS:SOWK 2040.OFFERED:Sem. I.||
-|2070 |Humans and the Environment|4 hrs. (3, 2)|
+||individual and community health.SAME AS:SOWK 2040.Offered:Semester I.||
+|2070 |Humans and the Environment|4 hours (3,2)|
 ||Students are exposed to basic concepts of ecology and to select environmental issues and are||
 ||encouraged to engage in vigorous discussion and to think critically about our impact on the environment.||
 ||The perspective of Christian environmental stewardship is emphasized throughout the course.||
-|2080 |Flora of Indiana|4 hrs. (3, 2)|
+|2080 |Flora of Indiana|4 hours (3,2)|
 ||Taxonomic study (identifcation, classifcation, and nomenclature) of fowering plants of Indiana.||
-|2210|Foundations of Modern Biology I|4 hrs. (3, 2)|
+|2210|Foundations of Modern Biology I|4 hours (3,2)|
 ||Basic principles of cell structure and function, genetics, evolution, biodiversity, and ecology using animal||
 ||and human models. Through these themes, the student becomes familiar with major animal groups, their||
 ||salient characteristics, environmental interactions, and postulated evolutionary relationships._Applies to_||
-||_the Scientifc Ways of Knowing [Raven Core] component of the Liberal Arts Core Curriculum._ OFFERED:||
-||Sem. I.||
-|2220 |Foundations of Modern Biology II|4 hrs. (3, 2)|
+||_the Scientifc Ways of Knowing [Raven Core] component of the Liberal Arts Core Curriculum._ Offered:||
+||Semester I.||
+|2220 |Foundations of Modern Biology II|4 hours (3,2)|
 ||Concepts of cell structure and function, cell metabolism, genetics, organismal structure and function,||
 ||and principles of ecology using plant models. Through these themes, the student becomes familiar with||
 ||major plant groups, their salient characteristics, environmental interactions, and postulated evolutionary||
-||relationships.PREREQUISITE:BIOL 2210.OFFERED:Sem. II.||
-|2230 |Microbes and Disease|4 hrs. (3, 2)|
+||relationships.Prerequisite:BIOL 2210.Offered:Semester II.||
+|2230 |Microbes and Disease|4 hours (3,2)|
 ||Introduction to the science of microbiology using clinical microbiology as a model. Some emphasis on||
 ||general areas such as microbial classifcation, genetics, physiology, and ecology, with concentration on||
 ||subjects related to disease-microorganism relationships: classifcation, culture and identifcation of||
 ||pathogenic organisms, control processes (antisepsis, disinfection, antibiotics), infection patterns, control||
 ||of disease, and elementary immunology._Applies to the Scientifc Ways of Knowing [Raven Core]_||
-||_component of the Liberal Arts Core Curriculum._ PREREQUISITE:BIOL 2220 or 2420.OFFERED:Sem. I.||
-|2240 |Cell Biology|4 hrs. (3, 3)|
+||_component of the Liberal Arts Core Curriculum._ Prerequisite:BIOL 2220 or 2420.Offered:Semester I.||
+|2240 |Cell Biology|4 hours (3,3)|
 ||Introduction to fundamental concepts of cellular and molecular biology. Integrated lab and classroom||
 ||curriculum introduce the subject in four parts: (1) fundamentals of biochemistry, (2) the fow of genetic||
-||information in the cell, (3) cellular anatomy and physiology, and (4) cell regulation.PREREQUISITE:BIOL||
-||2220. OFFERED:Sem. II.||
-|2310|Field Biology in Spring|4 hrs. (4, 0)|
+||information in the cell, (3) cellular anatomy and physiology, and (4) cell regulation.Prerequisite:BIOL||
+||2220. Offered:Semester II.||
+|2310|Field Biology in Spring|4 hours (4,0)|
 ||Springtime plants and animals, their feld identifcation, feld biology, behavior and landscape context,||
 ||with a focus on spring fora, amphibia, and birds. Focuses on observation and sounds of life in the feld||
 ||occurring between the end of the spring college semester and the end of spring high school semester to||
 ||provide prospective teachers and naturalists with an opportunity to investigate the natural history of this||
-||time of year.OFFERED:At Au Sable Institute.||
-|2410|Human Anatomy and Physiology I|4 hrs. (3, 2)|
+||time of year.Offered:At Au Sable Institute.||
+|2410|Human Anatomy and Physiology I|4 hours (3,2)|
 ||Topics include cell form and function and organization of human cells into tissues, organs, and organ||
 ||systems. Emphasis on skeletal tissues, muscles, and the nervous and endocrine systems, along with||
 ||pathological conditions that alter the normal functions of these organ systems and how these alterations||
 ||affect the organism as a whole. Lecture and laboratory experiences emphasize how the structure and||
-||function of each topic is interrelated (that function follows form).OFFERED:Sem. I, Summer.||
-|2420 |Human Anatomy and Physiology II|4 hrs. (3, 2)|
+||function of each topic is interrelated (that function follows form).Offered:Semester I, Summer.||
+|2420 |Human Anatomy and Physiology II|4 hours (3,2)|
 ||Topics include cell form and function as well as the human digestive, cardiovascular, respiratory, urinary,||
 ||and reproductive systems. Emphasis given to pathological conditions that alter the normal functions of||
 ||these organ systems and how these alterations affect the organism as a whole. Lecture and laboratory||
 ||experiences emphasize how the structure and function of each topic is interrelated (that function||
-||follows form).PREREQUISITE:BIOL 2410 or CHEM 1000.OFFERED:Sem. II, Summer.||
-
-
+||follows form).Prerequisite:BIOL 2410 or CHEM 1000.Offered:Semester II, Summer.||
 
 Anderson University Undergraduate Catalog 2025-26 
 
 92 
 
-## BIOL (cont.) 
-
 |IOL (c|ont.)|||
 |---|---|---|---|
-|3030 |Microbiology||4 hrs. (3, 4)|
+|3030 |Microbiology||4 hours (3,4)|
 ||Introduction to microbiology using a study of various microbes. Biochemical, genetic, and ecological|||
 ||aspects of Archaea, prokaryotes, viruses, fungi, and protozoans will be covered. One unit will cover|||
-||human pathology and immunology.PREREQUISITE:BIOL 2220.OFFERED:Sem. I.|||
-|3050 |Advanced Topics in Microbiology|2|hrs. (2, 0-3)|
+||human pathology and immunology.Prerequisite:BIOL 2220.Offered:Semester I.|||
+|3050 |Advanced Topics in Microbiology|2|hours (2,0-3)|
 ||Topics important to the understanding and practice of microbiology will be covered in a seminar/|||
 ||laboratory format customized to the topic being discussed. Includes latest developments in the topic|||
-||areas of immunology, virology, and mycology.REPEAT:May be repeated under a different topic.|||
-||PREREQUISITE:BIOL 3030.OFFERED:With suffcient demand.|||
-|3080 |Animal Ecology||4 hrs. (4, 0)|
+||areas of immunology, virology, and mycology.Repeat:May be repeated under a different topic.|||
+||Prerequisite:BIOL 3030.Offered:With suffcient demand.|||
+|3080 |Animal Ecology||4 hours (4,0)|
 ||Interrelationships between animals and their biotic and physical environments, emphasizing animal|||
 ||population dynamics in old growth pine forests and bogs. This feld-intensive course centers on the|||
 ||ecology of northern Michigan fauna from a stewardship perspective. Included are individual student|||
-||projects.PREREQUISITE:BIOL 2220.OFFERED:At Au Sable Institute.|||
-|3170|Comparative Vertebrate Anatomy||5 hrs. (3, 4)|
+||projects.Prerequisite:BIOL 2220.Offered:At Au Sable Institute.|||
+|3170|Comparative Vertebrate Anatomy||5 hours (3,4)|
 ||Lecture emphasizes major themes of vertebrate structure, function, and development, such as the|||
 ||vertebrate transition to land, adaptations for terrestrial life, the evolutionary relationship between birds|||
 ||and theropod dinosaurs, and the evolution of fight. Laboratory emphasizes comparative morphology|of||
-||representative chordate types.PREREQUISITE:BIOL 2220.OFFERED:With suffcient demand.|||
-|3270 |Human Gross Anatomy and Histology||5 hrs. (3, 4)|
+||representative chordate types.Prerequisite:BIOL 2220.Offered:With suffcient demand.|||
+|3270 |Human Gross Anatomy and Histology||5 hours (3,4)|
 ||Detailed study of gross anatomy, microscopic and ultramicroscopic structures of tissues and organs of|||
 ||the human body. Laboratory emphasizes examination of the gross to microscopic structure through|||
-||various techniques. Relationship of structure and function emphasized.PREREQUISITE:BIOL 3030.|||
-||OFFERED:Sem. I, 2025-26.|||
-|3310|Entomology||4 hrs. (3, 2)|
-||Study of insects, with an emphasis upon their identifcation and role in the environment.<br>PREREQUISITE:BIOL 2220.OFFERED:With suffcient demand.|||
-|3420 |Fish Biology and Ecology||4 hrs. (3, 2)|
+||various techniques. Relationship of structure and function emphasized.Prerequisite:BIOL 3030.|||
+||Offered:Semester I, 2025-26.|||
+|3310|Entomology||4 hours (3,2)|
+||Study of insects, with an emphasis upon their identifcation and role in the environment.<br>Prerequisite:BIOL 2220.Offered:With suffcient demand.|||
+|3420 |Fish Biology and Ecology||4 hours (3,2)|
 ||Covers in detail the systematics, evolution, and anatomy of fshes. Students will be exposed to|||
 ||selected topics in fsh physiology, ecology, and behavior. Fishery issues will be touched upon as time|||
 ||permits. The lab component includes identifcation and classifcation of fshes using specimens from|||
 ||the university’s collections, as well as comparative dissections of sharks and representative teleosts.|||
-||PREREQUISITE:BIOL 2220.OFFERED:With suffcient demand.|||
-|3510|Bioethics||3 hrs. (3, 0)|
+||Prerequisite:BIOL 2220.Offered:With suffcient demand.|||
+|3510|Bioethics||3 hours (3,0)|
 ||Seminar course examines ethical questions that arise in the relationships among life sciences,|||
 ||biotechnology, medicine, politics, law, philosophy, and theology. Topics and case studies are selected|||
 ||and discussed in terms of the ethical issues they present. These issues include beginning of life, death|||
 ||and dying, human and animal testing, and environmental stewardship._Applies to the Civil Discourse &_|||
-||_Confict Transformation [AU Experience] component of the Liberal Arts Core Curriculum._ PREREQUISITE:|||
-||Junior standing.OFFERED:Sem. I.|||
-|4050 |Genetics||4 hrs. (4, 2)|
+||_Confict Transformation [AU Experience] component of the Liberal Arts Core Curriculum._ Prerequisite:|||
+||Junior standing.Offered:Semester I.|||
+|4050 |Genetics||4 hours (4,2)|
 ||Study of the principles of genetics, including Mendelian, molecular, microbial, developmental, and|||
 ||behavioral genetics, as well as cytogenetics and genomics. Laboratory experiences range from|||
-||classical to molecular procedures and concepts.PREREQUISITE:BIOL 2240.OFFERED:Sem. I.|||
-|4070 |Ecology and Evolutionary Biology||4 hrs. (3, 2)|
+||classical to molecular procedures and concepts.Prerequisite:BIOL 2240.Offered:Semester I.|||
+|4070 |Ecology and Evolutionary Biology||4 hours (3,2)|
 ||Covers essential concepts and principles in ecology and evolutionary biology, including natural|||
 ||selection, genetic drift, speciation, energy fow, nutrient cycling, and physiological and community|||
 ||ecology. The course has four main goals: the frst is (1) to provide an overview of the current status of|||
 ||the science of ecology; (2) to provide some exposure to current environmental concerns; (3) to engage|||
 ||in thoughtful, informed discussion of some of the controversies in modern ecology, and (4) to expose|||
-||students to some feld methods.PREREQUISITE:BIOL 4050.OFFERED:Sem. II.|||
-|4120|Mammalian Physiology||4 hrs. (3, 3)|
+||students to some feld methods.Prerequisite:BIOL 4050.Offered:Semester II.|||
+|4120|Mammalian Physiology||4 hours (3,3)|
 ||A study of the function and interrelationships of various tissues, organs, and organ systems, with|||
-||emphasis on homeostatic mechanisms.PREREQUISITE:BIOL 2240.OFFERED:Sem. I, 2026-27.|||
-|4210|Biochemistry I||4 hrs. (3, 3)|
+||emphasis on homeostatic mechanisms.Prerequisite:BIOL 2240.Offered:Semester I, 2026-27.|||
+|4210|Biochemistry I||4 hours (3,3)|
 ||Introduction to fundamental principles of biochemistry. Lectures and project-oriented laboratories|||
 ||emphasize concepts of macromolecular structure, aspects of enzymology, and intermediary|||
-||metabolism.PREREQUISITE:BIOL 2240, CHEM 2220.SAME AS:CHEM 4210.OFFERED:Sem. I.|||
-
-
+||metabolism.Prerequisite:BIOL 2240, CHEM 2220.SAME AS:CHEM 4210.Offered:Semester I.|||
 
 Anderson University Undergraduate Catalog 2025-26 
 
 93 
 
-## BIOL (cont.) 
-
 |IOL (c|ont.)|
 |---|---|
-|4220 |Biochemistry II<br>4 hrs. (3, 2)|
+|4220 |Biochemistry II<br>4 hours (3,2)|
 ||Further discussion of particular metabolic pathways in animals and plants with an overall emphasis on|
-||control of metabolism and regulation of pathways.PREREQUISITE:BIOL/CHEM 4210.SAME AS:|
-||CHEM 4220.OFFERED:Sem. II, 2025-26.|
-|4310|Molecular Biochemistry and Genetics<br>4 hrs. (3, 4)|
+||control of metabolism and regulation of pathways.Prerequisite:BIOL/CHEM 4210.SAME AS:|
+||CHEM 4220.Offered:Semester II, 2025-26.|
+|4310|Molecular Biochemistry and Genetics<br>4 hours (3,4)|
 ||Emphasizes molecular and biotechnology aspects of the felds of biochemistry and genetics. This is a|
 ||laboratory-intensive course on techniques involved in biotechnology for the cloning and investigation|
 ||of gene function, and is designed to train students in the types of techniques used in the current|
-||biotechnology industry.PREREQUISITE:BIOL 4050.PREREQUISITE or COREQUISITE:CHEM 2220.|
-||EXPECTATION:BIOL/CHEM 4210 strongly recommended.OFFERED:Sem. II, 2026-27.|
-|4650 |Independent Study<br>1-4 hrs. (arranged)|
-||Independently executed investigations, normally by students with upper-division standing.<br>REPEAT:May be repeated (total credit not to exceed 12 hours).|
-|4910|Science Seminar I<br>1 hr. (1, 0)|
+||biotechnology industry.Prerequisite:BIOL 4050.Prerequisite or Corequisite:CHEM 2220.|
+||Expectation:BIOL/CHEM 4210 strongly recommended.Offered:Semester II, 2026-27.|
+|4650 |Independent Study<br>1-4 hours (arranged)|
+||Independently executed investigations, normally by students with upper-division standing.<br>Repeat:May be repeated (total credit not to exceed 12 hours).|
+|4910|Science Seminar I<br>1 hour (1,0)|
 ||Techniques and practice of written and oral technical communication with respect to experimental or|
 ||library research projects. Required of all science majors._Both BIOL 4910 and 4920 must be completed_|
 ||_to receive advanced writing competency (writing-intensive) and speaking-intensive credit._|
-||PREREQUISITE:Science major.SAME AS:CHEM/PHYS 4910.OFFERED:Sem. I.|
-|4920 |Science Seminar II<br>1 hr. (1, 0)|
+||Prerequisite:Science major.SAME AS:CHEM/PHYS 4910.Offered:Semester I.|
+|4920 |Science Seminar II<br>1 hour (1,0)|
 ||Techniques and practice of written and oral technical communication with respect to experimental or|
 ||library research projects. Required of all science majors._Both BIOL 4910 and 4920 must be completed_|
 ||_to receive advanced writing competency (writing-intensive) and speaking-intensive credit._EXPECTATION:|
-||4910 Science Seminar I should be completed.PREREQUISITE:Science major.SAME AS:CHEM/PHYS|
-||4920.OFFERED:Sem. II.|
+||4910 Science Seminar I should be completed.Prerequisite:Science major.SAME AS:CHEM/PHYS|
+||4920.Offered:Semester II.|
 |HEM|Courses|
-|1000|Introduction to Chemistry<br>4 hrs. (3, 2)|
+|1000|Introduction to Chemistry<br>4 hours (3,2)|
 ||A survey approach to the study of chemistry examining the methods of science as applied to the study of|
 ||inorganic, organic, and biochemistry. Emphasis on understanding chemical principles and their application|
 ||to the environment, with some use of numerical computations. Not applicable toward chemistry major or|
 ||minor._Applies to the Scientifc Ways of Knowing [Raven Core] component of the Liberal Arts Core Curriculum._|
-||OFFERED: Sem. II.|
-|2110|General Chemistry I<br>4 hrs. (3, 2.5)|
+||Offered: Semester II.|
+|2110|General Chemistry I<br>4 hours (3,2.5)|
 ||Basic introduction to theory and practice of chemical principles with emphasis on atomic structure,|
 ||chemical bonding, stoichiometry, thermochemistry, and physical states of matter._Applies to the_|
-||_Scientifc Ways of Knowing [Raven Core] component of theLiberal Arts Core Curriculum._ EXPECTATION:|
+||_Scientifc Ways of Knowing [Raven Core] component of theLiberal Arts Core Curriculum._ Expectation:|
 ||Students entering general chemistry typically have at least one year of high school chemistry and two|
-||years of high school algebra.OFFERED: Sem. I.|
-|2120|General Chemistry II<br>4 hrs. (3, 2.5)|
+||years of high school algebra.Offered: Semester I.|
+|2120|General Chemistry II<br>4 hours (3,2.5)|
 ||Further studies of chemical principles including kinetics, oxidation-reduction and acid-base reactions,|
-||inorganic complexes, and nuclear chemistry.PREREQUISITE: CHEM 2110 or equivalent.OFFERED: Sem. II.|
-|2210|Organic Chemistry I<br>4 hrs. (3, 3)|
+||inorganic complexes, and nuclear chemistry.Prerequisite: CHEM 2110 or equivalent.Offered: Semester II.|
+|2210|Organic Chemistry I<br>4 hours (3,3)|
 ||Bonding theory, composition, and constitution of carbon frameworks and functional groups, nomenclature,|
-||stereochemistry, and introduction to reactions and reaction mechanisms.PREREQUISITE: CHEM 2110.|
-||OFFERED: Sem. I.|
-|2220 |Organic Chemistry II<br>4 hrs. (3, 3)|
+||stereochemistry, and introduction to reactions and reaction mechanisms.Prerequisite: CHEM 2110.|
+||Offered: Semester I.|
+|2220 |Organic Chemistry II<br>4 hours (3,3)|
 ||Reactions, mechanisms, and synthesis of various functional groups. Spectroscopy, including NMR, IR,|
-||and UV-VIS.PREREQUISITE: CHEM 2210.OFFERED: Sem. II.|
-|3100|Analytical Chemistry<br>4 hrs. (3, 3)|
+||and UV-VIS.Prerequisite: CHEM 2210.Offered: Semester II.|
+|3100|Analytical Chemistry<br>4 hours (3,3)|
 ||Review of equilibrium and its relationship to gravimetric and volumetric analysis. Statistical methods and|
 ||an introduction to environmental chemistry. Several instrumental techniques are introduced.|
-||PREREQUISITE: CHEM 2110.OFFERED: Sem. II.|
-|3140|Instrumental Analysis<br>4 hrs. (3, 3)|
+||Prerequisite: CHEM 2110.Offered: Semester II.|
+|3140|Instrumental Analysis<br>4 hours (3,3)|
 ||A study of modern instrumental methods, including UV-VIS, AAS, GC, GC/MS, HPLC, IR, NMR,|
-||Voltammetry, and X-ray, with special emphasis on chromatography.PREREQUISITE: CHEM 3100.|
-||OFFERED: With suffcient demand.|
-
-
+||Voltammetry, and X-ray, with special emphasis on chromatography.Prerequisite: CHEM 3100.|
+||Offered: With suffcient demand.|
 
 ## CHEM Courses 
 
@@ -5384,62 +5190,58 @@ Anderson University Undergraduate Catalog 2025-26
 
 94 
 
-## CHEM (cont.) 
-
 |HEM |(cont.)|||
 |---|---|---|---|
-|4090 |Inorganic Chemistry|4|hrs. (3, 3)|
+|4090 |Inorganic Chemistry|4|hours (3,3)|
 ||Molecular structure and bonding, symmetry, structures of solids, d-metal complexes, band theory,|||
-||organometallics, and advanced topics.PREREQUISITE: CHEM 2110 and 2220.OFFERED: With suffcient|||
+||organometallics, and advanced topics.Prerequisite: CHEM 2110 and 2220.Offered: With suffcient|||
 ||demand.|||
-|4100|Organic Spectroscopy|4|hrs. (3, 3)|
+|4100|Organic Spectroscopy|4|hours (3,3)|
 ||A look at the instrumentation used to identify organic compounds. An emphasis is placed on identifying|||
 ||organic compounds from various spectra. Students will gain hands-on experience in FT-NMR (1H, 13C,|||
-||2D), FT-IR, GC-MS, UV-Vis, and the interpretation of their spectra.PREREQUISITE: CHEM 2210.|||
-||OFFERED: With suffcient demand.|||
-|4110|Thermodynamics and Kinetics|4|hrs. (3, 2)|
+||2D), FT-IR, GC-MS, UV-Vis, and the interpretation of their spectra.Prerequisite: CHEM 2210.|||
+||Offered: With suffcient demand.|||
+|4110|Thermodynamics and Kinetics|4|hours (3,2)|
 ||Emphasis on engineering concepts related to classical thermodynamics. Provides the tools necessary in|||
 ||designing and analyzing thermal systems and processes. Topics covered include internal energy,|||
-||enthalpy, entropy, and conservation of energy.PREREQUISITE: PHYS 2240, CHEM 2110, MATH 3100.|||
-|4120|Quantum Theory|4|hrs. (4, 0)|
+||enthalpy, entropy, and conservation of energy.Prerequisite: PHYS 2240, CHEM 2110, MATH 3100.|||
+|4120|Quantum Theory|4|hours (4,0)|
 ||Provides a background and introduction to quantum theory, as well as applications to various systems|||
 ||such as the hydrogen atom. Additionally, students are exposed to problem solving techniques, such as|||
 ||perturbation theory and the variational method, as well as their applications to a range of physical|||
-||systems.PREREQUISITE: CHEM 2210.SAME AS:PHYS 4130.OFFERED: With suffcient demand.|||
-|4210|Biochemistry I|4|hrs. (3, 4)|
+||systems.Prerequisite: CHEM 2210.SAME AS:PHYS 4130.Offered: With suffcient demand.|||
+|4210|Biochemistry I|4|hours (3,4)|
 ||Introduction to fundamental principles of biochemistry. Lectures and project-oriented laboratories|||
 ||emphasize concepts of macromolecular structure, aspects of enzymology, and intermediary metabolism.|||
-||PREREQUISITE: BIOL 2240, CHEM 2220.SAME AS:BIOL 4210.OFFERED: Sem. I.|||
-|4220 |Biochemistry II|4|hrs. (3, 2)|
+||Prerequisite: BIOL 2240, CHEM 2220.SAME AS:BIOL 4210.Offered: Semester I.|||
+|4220 |Biochemistry II|4|hours (3,2)|
 ||Further discussion of particular metabolic pathways in animals and plants with an overall emphasis on|||
-||control of metabolism and regulation of pathways.PREREQUISITE: BIOL/CHEM 4210.SAME AS:BIOL|||
-||4220.OFFERED: Sem. II.|||
-|4510|Senior Physical Science Practicum I||1 hr. (1, 0)|
+||control of metabolism and regulation of pathways.Prerequisite: BIOL/CHEM 4210.SAME AS:BIOL|||
+||4220.Offered: Semester II.|||
+|4510|Senior Physical Science Practicum I||1 hour (1,0)|
 ||Assessment of the student’s development as a chemistry/biochemistry major. In addition, students will|||
 ||study and discuss nuances, potential careers, résumé building and job seeking, graduate schools,|||
 ||laboratory safety, and the relationship of science and Christianity. Required of all chemistry/biochemistry|||
-||majors.SAME AS:PHYS 4510.OFFERED: Sem. I.|||
-|4520 |Senior Physical Science Practicum II||1 hr. (1, 0)|
+||majors.SAME AS:PHYS 4510.Offered: Semester I.|||
+|4520 |Senior Physical Science Practicum II||1 hour (1,0)|
 ||Assessment of student’s development as a chemistry/biochemistry major. Continuation of Senior|||
 ||Physical Science Practicum I. An introduction to the scientifc literature and grant writing. Required of all|||
-||chemistry/ biochemistry majors.EXPECTATION: Completion of CHEM 4510.SAME AS:PHYS 4520.|||
-||OFFERED: Sem. II.|||
-|4650 |Independent Study<br>1-4 hrs. (arranged)|||
-||Individual study or research in advanced areas of interest.PREREQUISITE: At least second year standing|||
-||in the department.CONSENT: Chemistry faculty advisor.REPEAT: May be repeated (total credit toward|||
+||chemistry/ biochemistry majors.Expectation: Completion of CHEM 4510.SAME AS:PHYS 4520.|||
+||Offered: Semester II.|||
+|4650 |Independent Study<br>1-4 hours (arranged)|||
+||Individual study or research in advanced areas of interest.Prerequisite: At least second year standing|||
+||in the department.Consent: Chemistry faculty advisor.Repeat: May be repeated (total credit toward|||
 ||the major not to exceed 8 hours).|||
-|4910|Science Seminar I||1 hr. (1, 0)|
+|4910|Science Seminar I||1 hour (1,0)|
 ||Techniques and practice of written and oral technical communication with respect to experimental or|||
 ||library research projects. Required of all science majors._To receive advanced writing competency_|||
-||_(writing-intensive) credit, both CHEM 4910 and 4920 must be completed._ PREREQUISITE: Science major.|||
-||SAME AS:BIOL/PHYS 4910.OFFERED: Sem. I.|||
-|4920 |Science Seminar II||1 hr. (1, 0)|
+||_(writing-intensive) credit, both CHEM 4910 and 4920 must be completed._ Prerequisite: Science major.|||
+||SAME AS:BIOL/PHYS 4910.Offered: Semester I.|||
+|4920 |Science Seminar II||1 hour (1,0)|
 ||Techniques and practice of written and oral technical communication with respect to experimental or|||
 ||library research projects. Required of all science majors._To receive advanced writing competency_|||
-||_(writing-intensive) credit, both CHEM 4910 and 4920 must be completed._ EXPECTATION: Completion of|||
-||CHEM 4910.PREREQUISITE: Science major.SAME AS:BIOL/PHYS 4920.OFFERED: Sem. II.|||
-
-
+||_(writing-intensive) credit, both CHEM 4910 and 4920 must be completed._ Expectation: Completion of|||
+||CHEM 4910.Prerequisite: Science major.SAME AS:BIOL/PHYS 4920.Offered: Semester II.|||
 
 Anderson University Undergraduate Catalog 2025-26 
 
@@ -5447,42 +5249,40 @@ Anderson University Undergraduate Catalog 2025-26
 
 ## PHYS Courses 
 
-|1020|Earth and Space Science<br>4 hrs. (3, 2)|
+|1020|Earth and Space Science<br>4 hours (3,2)|
 |---|---|
 ||Introduction to the study of geology, weather, and space science, with an emphasis on the phenomena|
 ||that pertain to the earth’s crust and atmosphere and the methods used to form our understanding of|
 ||these dynamic systems._Applies to the Scientifc Ways of Knowing [Raven Core] component of the Liberal_|
-||_Arts Core Curriculum._ OFFERED: Sem. I.|
-|1030|Teaching STEM in the Elementary Classroom<br>3 hrs. (0, 4)|
+||_Arts Core Curriculum._ Offered: Semester I.|
+|1030|Teaching STEM in the Elementary Classroom<br>3 hours (0,4)|
 ||Introduces concepts in Science, Technology, Engineering, and Mathematics (STEM). Equips students to|
 ||create and execute their own hands-on experiences exploring these concepts. Taken almost exclusively|
 ||by education majors in order to prepare them to address these important topics in their careers.|
-||OFFERED: With suffcient demand.|
-|1240|Introduction to Astronomy<br>4 hrs. (3, 2)|
+||Offered: With suffcient demand.|
+|1240|Introduction to Astronomy<br>4 hours (3,2)|
 ||Introduction to understanding planets, stars, and galaxies of our universe with emphasis on what they|
 ||are, how they live and die, and how they are studied. Students will also gain an appreciation for the night|
-||sky and the type of observations that can be made.OFFERED: With suffcient demand.|
-|2140|General Physics I (Algebra Based)<br>4 hrs. (3, 2)|
+||sky and the type of observations that can be made.Offered: With suffcient demand.|
+|2140|General Physics I (Algebra Based)<br>4 hours (3,2)|
 ||Introduces major concepts of physics and their mathematical foundations, with a primary emphasis on|
 ||Newtonian mechanics._Applies to the Scientifc Ways of Knowing [Raven Core] component of theLiberal_|
-||_Arts Core Curriculum._ EXPECTATION: Suffcient knowledge of college algebra.OFFERED: Sem. II.|
-|2150|General Physics II (Algebra Based)<br>4 hrs. (3, 2)|
+||_Arts Core Curriculum._ Expectation: Suffcient knowledge of college algebra.Offered: Semester II.|
+|2150|General Physics II (Algebra Based)<br>4 hours (3,2)|
 ||Continuation of General Physics I, with a primary emphasis on electricity, magnetism, optics, and modern|
-||physics.EXPECTATION: Suffcient knowledge of college algebra; completion of PHYS 2140 or|
-||equivalent.OFFERED: Sem. I.|
-|2240 |General Physics I (Calculus Based)<br>4 hrs. (3, 4)|
+||physics.Expectation: Suffcient knowledge of college algebra; completion of PHYS 2140 or|
+||equivalent.Offered: Semester I.|
+|2240 |General Physics I (Calculus Based)<br>4 hours (3,4)|
 ||Introduces major concepts of physics and their mathematical foundations, with a primary emphasis on|
 ||momentum, energy, and rotational dynamics._Applies to the Scientifc Ways of Knowing [Raven Core]_|
-||_component of the Liberal Arts Core Curriculum._ EXPECTATION: At least one year of high school physics.|
-||COREQUISITE: MATH 2010.OFFERED: Sem. II.|
-|2250 |General Physics II (Calculus Based)<br>4 hrs. (3, 2)|
+||_component of the Liberal Arts Core Curriculum._ Expectation: At least one year of high school physics.|
+||Corequisite: MATH 2010.Offered: Semester II.|
+|2250 |General Physics II (Calculus Based)<br>4 hours (3,2)|
 ||Continuation of General Physics I, with a primary emphasis on electricity, magnetism, and optics.|
-||PREREQUISITE: PHYS 2240 and MATH 2020, both with a C- or better.OFFERED: Sem. I.|
-|4650 |Independent Study<br>1-4 hrs. (arranged)|
-||Individual research in advanced areas of interest.REPEAT: May be repeated (total credit not to exceed|
-||8 hours).OFFERED: With suffcient demand.|
-
-
+||Prerequisite: PHYS 2240 and MATH 2020, both with a C- or better.Offered: Semester I.|
+|4650 |Independent Study<br>1-4 hours (arranged)|
+||Individual research in advanced areas of interest.Repeat: May be repeated (total credit not to exceed|
+||8 hours).Offered: With suffcient demand.|
 
 Anderson University Undergraduate Catalog 2025-26 
 
@@ -5500,9 +5300,9 @@ Each course seeks to integrate psychological theories and data with biblically b
 
 ## MAJORS 
 
-## PSYCHOLOGY MAJOR  (30 hrs.) 
+## PSYCHOLOGY MAJOR  (30 hours) 
 
-## Requirements: 
+## Requirements 
 
 - 3 hours of PSYC 2000 
 
@@ -5510,9 +5310,9 @@ Each course seeks to integrate psychological theories and data with biblically b
 
 - 1 hour of PSYC 4900 
 
-## 15 additional hours from upper-level PSYC courses, including: 
+## 15 additional hours from upper-level PSYC courses, including 
 
-- At least 12 hours from PSYC 3010, 3030, 3040, 3060, 3100, 3120, 3200, 3210, 3240, 3330, 3400, 3450, 4030, 4100, 4110, 4140, 4150, 4510/4520, 4650 
+- At least 12 hours from PSYC 3010,3030,3040,3060,3100,3120,3200,3210,3240,3330,3400,3450,4030,4100,4110,4140,4150,4510/4520,4650 
 
 - At least 3 hours from any 3000- and 4000-level PSYC courses 
 
@@ -5522,25 +5322,25 @@ Remaining hours from any additional PSYC courses.
 
 ## COMPLEMENTARY MAJORS 
 
-## PSYCHOLOGY COMPLEMENTARY MAJOR  (26 hrs.) 
+## PSYCHOLOGY COMPLEMENTARY MAJOR  (26 hours) 
 
 The complementary major does not stand alone to fulfill graduation requirements, but it is a useful complement to students who are seeking a better understanding of themselves and others. The structure of the complementary major is flexible but has these requirements: 
 
-- Required courses: PSYC 2000, 2010, 4900 
+- Required courses: PSYC 2000,2010,4900 
 
-- At least 12 hours from PSYC 3010, 3030, 3040, 3060, 3100, 3120, 3200, 3210, 3240, 3330, 3400, 3450, 4030, 4100, 4110, 4140, 4150, 4510/4520, 4650 
+- At least 12 hours from PSYC 3010,3030,3040,3060,3100,3120,3200,3210,3240,3330,3400,3450,4030,4100,4110,4140,4150,4510/4520,4650 
 
 - Remaining hours from additional PSYC courses 
 
-## YOUTH LEADERSHIP COMPLEMENTARY MAJOR  (28 hrs.) 
+## YOUTH LEADERSHIP COMPLEMENTARY MAJOR  (28 hours) 
 
 Youth Leadership does not stand alone to fulfill graduation requirements, but it is a valuable complement to such majors as youth ministries, social work, criminal justice, psychology, and other majors involving interaction with youth. This major is also an excellent complement for students who enjoy working with youth but whose careers will be in fields that may not involve interaction with youth. 
 
-- PSYC 2000, 2100, 2510, 2850, 4210, 4800 
+- PSYC 2000,2100,2510,2850,4210,4800 
 
 - SOCI 3100 
 
-- Select two courses from: CMIN 2260, 3260; CRIM 3030; PSYC 3040, 3200; SOCI 2100, 3050 
+- Select two courses from: CMIN 2260,3260; CRIM 3030; PSYC 3040,3200; SOCI 2100,3050 
 
 Anderson University Undergraduate Catalog 2025-26 
 
@@ -5548,7 +5348,7 @@ Anderson University Undergraduate Catalog 2025-26
 
 ## MINOR 
 
-## PSYCHOLOGY MINOR  (16 hrs.) 
+## PSYCHOLOGY MINOR  (16 hours) 
 
 - Required course: PSYC 2000 
 
@@ -5562,181 +5362,171 @@ Minimum requirements for applying include the following: (1) completion of 36 ho
 
 |PSYC Courses|PSYC Courses||
 |---|---|---|
-|2000 |General Psychology|3 hrs. (3, 0)|
+|2000 |General Psychology|3 hours (3,0)|
 ||An introduction to the scientifc study of mental processes and behavior. Topics include history, biological||
 ||basis of behavior, sensation, perception, development, learning, memory, motivation, emotion, social,||
 ||abnormal, and counseling._Applies to the Social & Behavioral Ways of Knowing [Raven Core] component of_||
-||_theLiberal Arts Core Curriculum._Required of all psychology majors and minors.OFFERED: Sem. I, II.||
-|2010|Research Methods in Psychology|3 hrs. (3, 0)|
+||_theLiberal Arts Core Curriculum._Required of all psychology majors and minors.Offered: Semester I, II.||
+|2010|Research Methods in Psychology|3 hours (3,0)|
 ||An introduction to psychological research methods and discipline-specifc writing, with an emphasis on||
-||in-class exercises. Required of all psychology majors. PREREQUISITE: Psychology major or minor.||
-||OFFERED: Sem. I, II.||
-|2050 |Psychological Propaedeutics|4 hrs. (4, 0)|
+||in-class exercises. Required of all psychology majors. Prerequisite: Psychology major or minor.||
+||Offered: Semester I, II.||
+|2050 |Psychological Propaedeutics|4 hours (4,0)|
 ||An introduction to the philosophical foundations of psychology. Topics include will, mind, sense, cognition,||
-||dreams, mental faculties, imagination, memory, and the unconscious.OFFERED: With suffcient demand.||
-|2100|Interpersonal Relationships|4 hrs. (4, 0)|
+||dreams, mental faculties, imagination, memory, and the unconscious.Offered: With suffcient demand.||
+|2100|Interpersonal Relationships|4 hours (4,0)|
 ||An introduction to the social skills that increase interpersonal effectiveness in courtship, marriage,||
 ||work, and play. Methods used may involve role playing, personal feedback, video recording, and group||
 ||discussion._Applies to the Speaking and Listening [Raven Core] component of the Liberal Arts Core_||
-||_Curriculum._ GRADE: CR/NC.OFFERED: Sem. I, II.||
-|2110|Educational Psychology|3 hrs. (2, 0)|
+||_Curriculum._ Grade: CR/NC.Offered: Semester I, II.||
+|2110|Educational Psychology|3 hours (2,0)|
 ||An introduction to the application of psychological principles to the challenges of teaching and learning.||
 ||Examines the theoretical and applied aspects of learning, motivation, human development, personality,||
 ||and measurement and evaluation._Applies to the Social & Behavioral Ways of Knowing [Raven Core]_||
-||_component of the Liberal Arts Core Curriculum._ SAME AS:EDUC 2110.OFFERED: Sem. I, II.||
-|2440 |Applied Statistics and Introduction to Research|4 hrs. (4, 0)|
+||_component of the Liberal Arts Core Curriculum._ SAME AS:EDUC 2110.Offered: Semester I, II.||
+|2440 |Applied Statistics and Introduction to Research|4 hours (4,0)|
 ||An examination of basic statistical techniques with emphasis on interpreting research literature, practical||
 ||applications in psychology, business and political science, and use and interpretation of appropriate||
 ||computer software._Applies to the Quantitative Reasoning [Raven Core] component of theLiberal Arts Core_||
-||_Curriculum._ EXPECTATION: Basic mathematics profciency at a high school level.OFFERED: Sem. II.||
-|2510|Developmental Psychology|4 hrs. (4, 0)|
+||_Curriculum._ Expectation: Basic mathematics profciency at a high school level.Offered: Semester II.||
+|2510|Developmental Psychology|4 hours (4,0)|
 ||An introduction to the study of psychological growth and development of the individual from a lifespan||
 ||approach. Child and adolescent development will be emphasized. A holistic approach to physical,||
 ||cognitive, affective, and personality development; parenting; and stages of grief and dying are used.||
-||Theorists considered may include Piaget, Erikson, Kohlberg, Mahler, and Kubler-Ross.PREREQUISITE:||
-||PSYC 2000.OFFERED: Sem. I, II.||
-|2850 |Practicum in Leadership Skills|2 hrs. (1, 2)|
+||Theorists considered may include Piaget, Erikson, Kohlberg, Mahler, and Kubler-Ross.Prerequisite:||
+||PSYC 2000.Offered: Semester I, II.||
+|2850 |Practicum in Leadership Skills|2 hours (1,2)|
 ||An introduction to training assertiveness, communication, helping, and negotiation skills. Students||
 ||receive direct feedback on their performance and gain experience in co-leadership and team building.||
-||Required for youth leadership [complementary] majors.CONSENT: Instructor.PREREQUISITE: PSYC||
-||2100.GRADE: CR/NC.SAME AS:EDUC/SOCI 2850.OFFERED: Sem. I, II.||
-
-
+||Required for youth leadership [complementary] majors.Consent: Instructor.Prerequisite: PSYC||
+||2100.Grade: CR/NC.SAME AS:EDUC/SOCI 2850.Offered: Semester I, II.||
 
 Anderson University Undergraduate Catalog 2025-26 
 
 98 
 
-## PSYC (cont.) 
-
 |SYC (|cont.)||
 |---|---|---|
-|3010|Social Psychology|4 hrs. (4, 0)|
+|3010|Social Psychology|4 hours (4,0)|
 ||An examination of the behavior of individuals in society, including the study of attitudes, beliefs, prejudice,||
-||aggression, leadership, and altruism.PREREQUISITE: PSYC 2000.SAME AS:SOCI/PUBH 3030.OFFERED:||
-||Sem. II.||
-|3030 |Psychiatric Rehabilitation|3 hrs. (3, 0)|
+||aggression, leadership, and altruism.Prerequisite: PSYC 2000.SAME AS:SOCI/PUBH 3030.Offered:||
+||Semester II.||
+|3030 |Psychiatric Rehabilitation|3 hours (3,0)|
 ||Involves exploring mental health services used to help individuals with severe mental illnesses achieve the||
 ||best outcomes possible. Focus on evidence-based practices, but discusses a variety of other factors||
 ||shaping how services are provided, including cultural factors, stigma, and the role of advocacy groups.<br>A repeated theme will be to ask how to implement humane, practical, feasible, culturally competent,||
-||cost-effective, and replicable services.PREREQUISITE: PSYC 2000.OFFERED: Sem. II, 2027-28||
+||cost-effective, and replicable services.Prerequisite: PSYC 2000.Offered: Semester II, 2027-28||
 ||(alternating years).||
-|3040 |Group and Institutional Dynamics|3 hrs. (3, 0)|
+|3040 |Group and Institutional Dynamics|3 hours (3,0)|
 ||A practical approach to the theory and training of small and large groups and their leadership. Focus on||
 ||leading groups in schools, churches, hospitals, agencies, and industry. Group types covered include||
-||discussion, task, and personal-development groups.PREREQUISITE: PSYC 2000.GRADE: CR/NC.||
-||OFFERED: Sem. I.||
-|3060 |The Emotions|4 hrs. (4, 0)|
+||discussion, task, and personal-development groups.Prerequisite: PSYC 2000.Grade: CR/NC.||
+||Offered: Semester I.||
+|3060 |The Emotions|4 hours (4,0)|
 ||Our emotions infuence almost every part of our lives, including our perceptions, decision-making, and||
 ||relationships with others. The course briefy examines motivation and how emotion differs from it and the||
 ||various theories of emotion. It also examines the complex components of emotion, from antecedent event,||
 ||through appraisal and arousal, to attribution and action. Numerous specifc emotions are examined in light||
-||of this.PREREQUISITE: PSYC 2000.OFFERED: Sem. I.||
-|3080|Forensic Psychology|2 hrs. (2, 0)|
+||of this.Prerequisite: PSYC 2000.Offered: Semester I.||
+|3080|Forensic Psychology|2 hours (2,0)|
 ||Forensic Psychology is an introductory course designed to provide a comprehensive study of the varied||
 ||and expanding feld of psychology and the law. Topics and guest speakers will address many applications||
 ||of psychological principles to the legal system, including to criminal behavior, legal processes, and||
-||correctional practices.SAME AS: CRIM 3080.OFFERED: Sem. II.||
-|3100|Human Brain Dysfunction|4 hrs. (4, 0)|
+||correctional practices.SAME AS: CRIM 3080.Offered: Semester II.||
+|3100|Human Brain Dysfunction|4 hours (4,0)|
 ||Within a framework of neuropsychology, an introduction to brain dysfunction, including language disruption,||
-||memory disruption, and the effects of stroke, tumor, and traumatic brain injury.PREREQUISITE: PSYC 2000.||
-||OFFERED: Sem. II, 2026-27 (alternating years).||
-|3120|Abnormal Psychology|4 hrs. (4, 0)|
+||memory disruption, and the effects of stroke, tumor, and traumatic brain injury.Prerequisite: PSYC 2000.||
+||Offered: Semester II, 2026-27 (alternating years).||
+|3120|Abnormal Psychology|4 hours (4,0)|
 ||An exploration of differing perspectives on abnormal behavior and how these impact the resulting||
-||classifcation and treatments.PREREQUISITE: PSYC 2000.OFFERED: Sem. I.||
-|3200 |Living the Christian Faith in a Post-Christian World|3 hrs. (3, 0)|
+||classifcation and treatments.Prerequisite: PSYC 2000.Offered: Semester I.||
+|3200 |Living the Christian Faith in a Post-Christian World|3 hours (3,0)|
 ||An examination of the interface of biblical principles as developed through the inductive study of||
 ||contemporary approaches to understanding the world. Emphasizes the impact of such principles on faith||
 ||and action._Applies to the Civil Discourse & Confict Transformation [AU Experience] component of theLiberal_||
-||_Arts Core Curriculum._ OFFERED: Sem. I.||
-|3210|Behavioral Neuroscience|4 hrs. (3, 2)|
+||_Arts Core Curriculum._ Offered: Semester I.||
+|3210|Behavioral Neuroscience|4 hours (3,2)|
 ||Introduces the biological foundations of animal and human behavior, including human neuropsychology,||
 ||the study of brain disease, and how the environment (including toxins) contributes to changes in the||
 ||brain. The laboratory component stresses the human brain and the student’s ability to recognize its||
-||various components.PREREQUISITE: PSYC 2000.EXPECTATION: PSYC 2010 strongly recommended.||
-||OFFERED: Sem. I.||
-|3220 |Organizational Behavior and Theory|3 hrs. (3, 0)|
+||various components.Prerequisite: PSYC 2000.Expectation: PSYC 2010 strongly recommended.||
+||Offered: Semester I.||
+|3220 |Organizational Behavior and Theory|3 hours (3,0)|
 ||Stresses behavior in relation to organizational theories, knowledge, and the application of theories related||
 ||to individual, group, and organizational performance. Emphasis on understanding the managerial process||
-||from a behavioral perspective.PREREQUISITE: PSYC 2000.SAME AS:BSNS 4010.OFFERED: Sem. II.||
-|3240 |Experimental Design|4 hrs. (4, 0)|
+||from a behavioral perspective.Prerequisite: PSYC 2000.SAME AS:BSNS 4010.Offered: Semester II.||
+|3240 |Experimental Design|4 hours (4,0)|
 ||An introduction to complex analysis of variance and covariance. Focuses on intermediate statistical||
 ||methods of data analysis. The class is for students planning to do graduate work in psychology.||
-||PREREQUISITE: PSYC 2440 or MATH 2120.OFFERED: Sem. II, 2026-27 (alternating years).||
-|3310|Psychological Tests|3 hrs. (3, 0)|
+||Prerequisite: PSYC 2440 or MATH 2120.Offered: Semester II, 2026-27 (alternating years).||
+|3310|Psychological Tests|3 hours (3,0)|
 ||An introduction to the principles and practices of individual and group testing in aptitude, intelligence,||
 ||interest, and personality. Theory, construction, evaluation, interpretation, uses, and limits of psychological||
 ||tests are emphasized. Specifc topics include reliability, validity, norms, test construction, and selection.||
-||PREREQUISITE: PSYC 2000.EXPECTATION: PSYC 2440 strongly recommended.OFFERED: With||
+||Prerequisite: PSYC 2000.Expectation: PSYC 2440 strongly recommended.Offered: With||
 ||suffcient demand.||
-
-
 
 Anderson University Undergraduate Catalog 2025-26 
 
 99 
 
-## PSYC (cont.) 
-
 |SYC (|cont.)||
 |---|---|---|
-|3330 |Cognitive Psychology|4 hrs. (4, 0)|
+|3330 |Cognitive Psychology|4 hours (4,0)|
 ||An examination of the theoretical and empirical consideration of cognitive processes. Topics include||
 ||attention, memory, problem-solving, and language. Corresponding topics from neuroscience will also be||
-||included.PREREQUISITE: PSYC 2000.OFFERED: Sem. II.||
-|3400 |Memory|4 hrs. (4, 0)|
+||included.Prerequisite: PSYC 2000.Offered: Semester II.||
+|3400 |Memory|4 hours (4,0)|
 ||Introduces the theory and application of human learning and memory. Students will learn evidence-||
 ||based best practices for learning and apply this knowledge to class, work or athletics. Memory failures||
 ||such as forgetting, blocking, and the intrusion of unwanted memories will be examined and solutions||
-||discussed. Christian perspectives of memory will be considered.PREREQUISITE: PSYC 2000.OFFERED:||
-||Sem. II, 2025-26 (alternating years).||
-|3450 |Health Psychology|4 hrs. (4, 0)|
+||discussed. Christian perspectives of memory will be considered.Prerequisite: PSYC 2000.Offered:||
+||Semester II, 2025-26 (alternating years).||
+|3450 |Health Psychology|4 hours (4,0)|
 ||Involves the application of psychological principles and research into the enhancement of health and to||
 ||the prevention and treatment of illness. Examines how biological, psychological, and social factors||
 ||interact with and impact an individual’s ability to make decisions that promote good health and help||
 ||prevent illness. Topics may include the role of stress in illness, specifc illnesses (e.g. cancer, heart||
-||disease), and strategies for modifying lifestyle factors (e.g. smoking, weight control).PREREQUISITE:||
-||PSYC 2000.OFFERED: Sem. I.||
-|3500 |Thought Life and Spiritual Growth|2 hrs. (2, 0)|
+||disease), and strategies for modifying lifestyle factors (e.g. smoking, weight control).Prerequisite:||
+||PSYC 2000.Offered: Semester I.||
+|3500 |Thought Life and Spiritual Growth|2 hours (2,0)|
 ||Utilizes cognitive theory and spiritual principles to inform one’s interpersonal and professional growth.||
 ||Presents a convergence model of cognitive precepts and Judeo-Christian spiritual principles that can be||
 ||utilized in such transformation. A theoretical context will be provided and experiential techniques will be||
 ||modeled for application._Applies to the Personal Wellness [AU Experience] component of theLiberal Arts_||
-||_Core Curriculum._ SAME AS:SOCI 3500.OFFERED: Sem. I, 2025-26 and 2027-28.||
-|4030 |Counseling and Psychotherapy|4 hrs. (4, 0)|
+||_Core Curriculum._ SAME AS:SOCI 3500.Offered: Semester I, 2025-26 and 2027-28.||
+|4030 |Counseling and Psychotherapy|4 hours (4,0)|
 ||An examination of several approaches to treating abnormal behavior with an emphasis on developing||
-||practical competence.PREREQUISITE: PSYC 2000, 3120.OFFERED: Sem. II.||
-|4100|Leadership and Training Skills|2 hrs. (2, 0)|
+||practical competence.Prerequisite: PSYC 2000,3120.Offered: Semester II.||
+|4100|Leadership and Training Skills|2 hours (2,0)|
 ||Equips students to lead small interpersonal skill-training groups using the skills of working with a||
 ||co-leader, team building, promoting a positive learning environment, agenda monitoring, and remaining||
 ||task focused. Students will learn to train others in the skills of communication, assertion, helping, and||
-||negotiation.CONSENT: Instructor.PREREQUISITE: PSYC 2850.REPEAT: May be repeated once for||
-||credit.GRADE: CR/NC.OFFERED: Sem. I, II.||
-|4110|History and Systems|3 hrs. (3, 0)|
+||negotiation.Consent: Instructor.Prerequisite: PSYC 2850.Repeat: May be repeated once for||
+||credit.Grade: CR/NC.Offered: Semester I, II.||
+|4110|History and Systems|3 hours (3,0)|
 ||The study of the evolution of thought in psychology from its inception as an experimental science to the||
 ||development of its signifcant systems, issues, experiments, and theories of today. Provides good||
-||preparation for the Graduate Record Examination in psychology.PREREQUISITE: PSYC 2000.OFFERED:||
+||preparation for the Graduate Record Examination in psychology.Prerequisite: PSYC 2000.Offered:||
 ||With suffcient demand.||
-|4140|Personality Theory|4 hrs. (4, 0)|
+|4140|Personality Theory|4 hours (4,0)|
 ||A critical evaluation of major theories of personality based on selected philosophical and theological||
-||perspectives. Theorists considered include Freud, Sartre, Jung, and Lacan.PREREQUISITE: PSYC 2000.||
-||OFFERED: With suffcient demand.||
-|4150|Philosophical Issues for the Psychologist|3 hrs. (3, 0)|
+||perspectives. Theorists considered include Freud, Sartre, Jung, and Lacan.Prerequisite: PSYC 2000.||
+||Offered: With suffcient demand.||
+|4150|Philosophical Issues for the Psychologist|3 hours (3,0)|
 ||An examination of the differing methodological approaches of psychology and theology. The interface of||
-||science and a Christian perspective is explored.PREREQUISITE: PSYC 2000.OFFERED: With suffcient||
+||science and a Christian perspective is explored.Prerequisite: PSYC 2000.Offered: With suffcient||
 ||demand.||
-|4210|Capstone: Psychological Issues for Youth|4 hrs. (4, 0)|
+|4210|Capstone: Psychological Issues for Youth|4 hours (4,0)|
 ||A unifying experience for all youth leadership [complementary] majors to integrate their understanding||
 ||of the problems of youth, potential methods of prevention and guidance, and special topics unique to||
-||this age group. Students will prepare presentations for use during their internship.PREREQUISITE:||
-||PSYC 2000, 2510, 2850; SOCI 3100.OFFERED: Sem. I.||
-|4510|Capstone Research I|3 hrs. (3, 0)|
+||this age group. Students will prepare presentations for use during their internship.Prerequisite:||
+||PSYC 2000,2510,2850; SOCI 3100.Offered: Semester I.||
+|4510|Capstone Research I|3 hours (3,0)|
 ||Yearlong course (semesters I and II) provides an opportunity for students to design, propose, and||
 ||implement individual research projects. Students are expected to present their research fndings to an||
 ||appropriate audience.NOTE: Students should be prepared to cover part of their project costs and any||
-||conference registration fees.CONSENT: Instructor.REPEAT: May be repeated once for credit.||
-
-
+||conference registration fees.Consent: Instructor.Repeat: May be repeated once for credit.||
 
 Anderson University Undergraduate Catalog 2025-26 
 
@@ -5744,31 +5534,29 @@ Anderson University Undergraduate Catalog 2025-26
 
 |PSYC (cont.)|||
 |---|---|---|
-|4520 Capstone Research II||2 hrs. (1, 2)|
+|4520 Capstone Research II||2 hours (1,2)|
 |Continuation of Capstone Research I. Yearlong course (semesters I and II) provides an opportunity|||
 |for students to design, propose, and implement individual research projects. Students are expected|||
 |to present their research fndings to an appropriate audience.NOTE: Students should be prepared|||
-|to cover part of their project costs and any conference registration fees.CONSENT: Instructor.|||
-|PREREQUISITE: PSYC 4510.REPEAT: May be repeated once for credit.OFFERED: Sem. II.|||
-|4650 Independent Study/Research Project|1-4|hrs. (1-4, 0)|
+|to cover part of their project costs and any conference registration fees.Consent: Instructor.|||
+|Prerequisite: PSYC 4510.Repeat: May be repeated once for credit.Offered: Semester II.|||
+|4650 Independent Study/Research Project|1-4|hours (1-4,0)|
 |A scheduled or specially arranged class for research or other individual study. Capstone research|||
 |projects require two semesters (semesters I and II).NOTE: Students should be prepared to cover part|||
-|of their project costs and any conference registration fees.CONSENT: Instructor.REPEAT: May be|||
-|repeated (total credit to be applied to the major may not exceed 8 hours).OFFERED: With suffcient|||
+|of their project costs and any conference registration fees.Consent: Instructor.Repeat: May be|||
+|repeated (total credit to be applied to the major may not exceed 8 hours).Offered: With suffcient|||
 |demand.|||
-|4800 Internship in Youth Leadership||2 hrs. (1, 2)|
+|4800 Internship in Youth Leadership||2 hours (1,2)|
 |An opportunity for youth leadership [complementary] majors to practice the training and presentation|||
 |skills and content learned in prior courses in an applied setting relevant to the student’s career or|||
-|personal goals. Required for youth leadership [complementary] majors.PREREQUISITE: PSYC 4210.|||
-|GRADE: CR/NC.CONSENT: Department.SAME AS:EDUC/SOCI 4800.OFFERED: Sem. II.|||
-|4900 Professional Issues for the Psychologist||1 hr. (1, 0)|
+|personal goals. Required for youth leadership [complementary] majors.Prerequisite: PSYC 4210.|||
+|Grade: CR/NC.Consent: Department.SAME AS:EDUC/SOCI 4800.Offered: Semester II.|||
+|4900 Professional Issues for the Psychologist||1 hour (1,0)|
 |Provides an assessment of the student’s development as a psychology major. Covers professional|||
 |issues such as ethics in the practice of psychology and a Christian response to these ethical principles.|||
 |Students will also discuss strategies for applying to graduate schools and job seeking. A formal|||
-|assessment of the major will be completed. Required of all psychology majors.PREREQUISITE: Senior|||
-|status.OFFERED: Sem. I.|||
-
-
+|assessment of the major will be completed. Required of all psychology majors.Prerequisite: Senior|||
+|status.Offered: Semester I.|||
 
 Anderson University Undergraduate Catalog 2025-26 
 
@@ -5786,11 +5574,11 @@ The Criminal Justice program offers a major, an associate's degree, and a minor,
 
 ## MAJORS 
 
-## CRIMINAL JUSTICE MAJOR (BA 120 hrs.; CRIM 34 hrs.) 
+## CRIMINAL JUSTICE MAJOR (BA 120 hours; CRIM 34 hours) 
 
 The criminal justice major enables students to enter employment in fields related to law enforcement, courts, corrections, victim advocacy and assistance, and also provides a foundation for graduate study. Students gain preparation for careers throughout criminal justice in the private occupational sector as well as with public agencies at the local, state, or federal level. 
 
-- CRIM 2510, 2520, 3110 
+- CRIM 2510,2520,3110 
 
 - 4 hours from CRIM 4810 and 3 hours from CRIM 4900 
 
@@ -5802,9 +5590,9 @@ The criminal justice major enables students to enter employment in fields relate
 
 - Students who wish to take additional coursework providing more breadth and depth in the field should consult with their advisor concerning the appropriate courses. 
 
-## CRIMINAL JUSTICE ONLINE MAJOR  (BA 120 hrs.; CRIM 34 hrs.) 
+## CRIMINAL JUSTICE ONLINE MAJOR  (BA 120 hours; CRIM 34 hours) 
 
-- CRIM 2510, 2520, 3110, 4900 
+- CRIM 2510,2520,3110,4900 
 
 - 4 hours from CRIM 4810 (credits may be earned from professional experience) 
 
@@ -5820,15 +5608,15 @@ The criminal justice major enables students to enter employment in fields relate
 
 ## MINORS 
 
-## CRIMINAL JUSTICE MINOR  (17 hrs.) 
+## CRIMINAL JUSTICE MINOR  (17 hours) 
 
-- CRIM 2510, 2520, 3110 
+- CRIM 2510,2520,3110 
 
 - Remaining hours from additional CRIM courses 
 
-## CRIMINAL JUSTICE ONLINE MINOR  (17 hrs.) 
+## CRIMINAL JUSTICE ONLINE MINOR  (17 hours) 
 
-- CRIM 2510, 2520, 3110 
+- CRIM 2510,2520,3110 
 
 - Remaining hours from additional CRIM courses 
 
@@ -5840,13 +5628,13 @@ Anderson University Undergraduate Catalog 2025-26
 
 ## ASSOCIATE’S DEGREES 
 
-## ASSOCIATE OF ARTS DEGREE (60 hrs. CRIM and Liberal Arts) 
+## ASSOCIATE OF ARTS DEGREE (60 hours CRIM and Liberal Arts) 
 
 This two-year Associate of Arts provides foundational courses in criminal justice and approximately one-half of the hours required for the four-year Bachelor of Arts degree program. The curriculum assumes proficiency in writing at the ENGL 1110 level and in mathematics at the MATH 1000 level. 
 
 - BIBL 2000; SOCI 2010 or SOCI 2020; SOCI 2450 
 
-- CRIM 2510, 2520, 3110 
+- CRIM 2510,2520,3110 
 
 - 9 hours from additional CRIM courses 
 
@@ -5856,13 +5644,13 @@ This two-year Associate of Arts provides foundational courses in criminal justic
 
 - Students must also meet other graduation requirements as listed in this catalog. 
 
-## ASSOCIATE OF ARTS ONLINE DEGREE  (60 hrs. CRIM and Liberal Arts) 
+## ASSOCIATE OF ARTS ONLINE DEGREE  (60 hours CRIM and Liberal Arts) 
 
 This two-year Associate of Arts degree provides foundational courses in criminal justice and approximately one-half of the hours required for the four-year Bachelor of Arts degree program. The curriculum assumes proficiency in writing at the ENGL 1110 level and in mathematics at the MATH 1000 level. 
 
 - BIBL 2000; SOCI 2010 or SOCI 2020, SOCI 2450 
 
-- CRIM 2510, 2520, 3110 
+- CRIM 2510,2520,3110 
 
 - 9 hours from additional CRIM courses 
 
@@ -5884,49 +5672,49 @@ Students in the political science program are expected to successfully complete 
 
 ## MAJORS 
 
-## POLITICAL SCIENCE MAJOR (36 hrs.) 
+## POLITICAL SCIENCE MAJOR (36 hours) 
 
-Foundational courses (16 hrs.) 
+Foundational courses (16 hours) 
 
-- POSC 2020, 2100, 2200, 2400 
+- POSC 2020,2100,2200,2400 
 
 - MATH 2120 
 
-American Politics courses (6 hrs.) 
+American Politics courses (6 hours) 
 
-- Two from POSC 3140, 3211, 3212 
+- Two from POSC 3140,3211,3212 
 
-International Relations and Comparative Politics courses (6 hrs.) 
+International Relations and Comparative Politics courses (6 hours) 
 
-- Two from POSC 3300, 3400, 3510 
+- Two from POSC 3300,3400,3510 
 
 Anderson University Undergraduate Catalog 2025-26 
 
 103 
 
-Senior Capstone course (1 hr.) 
+Senior Capstone course (1 hour) 
 
 ●​ POSC 4930 
 
-Electives (8 hrs.) 
+Electives (8 hours) 
 
 - Remaining hours from additional POSC courses; at least 6 hours from upper-division courses 
 
-_No more than 5 hours from POSC 2810, 4800, 4810, 4820 may be applied toward the major._ 
+_No more than 5 hours from POSC 2810,4800,4810,4820 may be applied toward the major._ 
 
-## POLITICAL SCIENCE, PHILOSOPHY, AND ECONOMICS MAJOR (54 hrs.) 
+## POLITICAL SCIENCE, PHILOSOPHY, AND ECONOMICS MAJOR (54 hours) 
 
-Foundational courses (29 hrs.) 
+Foundational courses (29 hours) 
 
-●​ POSC 2020, 2100, 2200, 2400, 2420 
+●​ POSC 2020,2100,2200,2400,2420 
 
 - MATH 2120 
 
-- ECON 2010, 2020 
+- ECON 2010,2020 
 
-- PHIL 2000, 2120 
+- PHIL 2000,2120 
 
-Advanced courses (12 hrs.) 
+Advanced courses (12 hours) 
 
 - POSC 3510 
 
@@ -5936,43 +5724,43 @@ Advanced courses (12 hrs.)
 
 - PHIL/RLGN 3250 
 
-Senior Capstone course (1 hr.) 
+Senior Capstone course (1 hour) 
 
 - POSC 4930 
 
-Electives (12 hrs.) 
+Electives (12 hours) 
 
 - Remaining hours from additional upper-division POSC, PHIL, or ECON courses, or from BIBL 3420 or RLGN 3120 
 
-_No more than 3 hours from POSC 4800, 4810, 4820 may be applied toward the major._ 
+_No more than 3 hours from POSC 4800,4810,4820 may be applied toward the major._ 
 
-## INTERNATIONAL RELATIONS MAJOR (42-43 hrs.) 
+## INTERNATIONAL RELATIONS MAJOR (42-43 hours) 
 
-Foundational courses (15 hrs.) 
+Foundational courses (15 hours) 
 
-●​ POSC 2020, 2200, 2400, 2580 
+●​ POSC 2020,2200,2400,2580 
 
 - MATH 2120 
 
-Advanced courses (12 hrs.) 
+Advanced courses (12 hours) 
 
-- POSC 3300, 3400, 3510 
+- POSC 3300,3400,3510 
 
-- One from POSC 3310, 3320, 3330, 3360, 3450 
+- One from POSC 3310,3320,3330,3360,3450 
 
-Experiential courses (4-5 hrs.) from: 
+Experiential courses (4-5 hours) from: 
 
-●​ POSC 2840, 4820 
+●​ POSC 2840,4820 
 
-Senior Capstone course (1 hr.) 
+Senior Capstone course (1 hour) 
 
 - POSC 4930 
 
-Electives (9 hrs.) from: 
+Electives (9 hours) from: 
 
 - ECON 3210 
 
-- HIST 3190, 3220, 3240, 3250, 3260, 3300, 3360, 3370, 3520 
+- HIST 3190,3220,3240,3250,3260,3300,3360,3370,3520 
 
 - Study abroad or intensive experience approved by the department 
 
@@ -5982,31 +5770,31 @@ Electives (9 hrs.) from:
 
 ## MINORS 
 
-## POLITICAL SCIENCE MINOR (15 hrs.) 
+## POLITICAL SCIENCE MINOR (15 hours) 
 
-●​ POSC 2020, 2100 
+●​ POSC 2020,2100 
 
 - Remaining hours from additional POSC courses; at least 6 hours from upper-division courses 
 
-_No more than 3 hours from POSC 2810, 4800, 4810, 4820 may be applied toward the minor._ 
+_No more than 3 hours from POSC 2810,4800,4810,4820 may be applied toward the minor._ 
 
-## INTERNATIONAL RELATIONS MINOR (15 hrs.) 
+## INTERNATIONAL RELATIONS MINOR (15 hours) 
 
-- POSC 2020, 2580, 3300, 3510 
+- POSC 2020,2580,3300,3510 
 
-- Remaining hours from POSC 3310, 3320, 3330, 3360, 3400, 3450 
+- Remaining hours from POSC 3310,3320,3330,3360,3400,3450 
 
 Anderson University Undergraduate Catalog 2025-26 
 
 104 
 
-## LEGAL STUDIES MINOR (15 hrs.) 
+## LEGAL STUDIES MINOR (15 hours) 
 
 _Pre-Law Advisor: Dr. Frank_ 
 
 The legal studies minor is designed in accordance with the statement on pre-law preparation, developed by the Pre-Law Committee of the American Bar Association, Section of Legal Education and Admissions to the Bar, to help students develop the analytical, writing, research, and oral communication skills necessary to succeed in law school and beyond. 
 
-●​ POSC 2210, 4810 ●​ ENGL 3190 ●​ One course from: ○​ BSNS 3420 ○​ CRIM 3110 ○​ COMM 4000 ○​ POSC 3250 ●​ One course from: ○​ BIBL 3420 ○​ POSC/HIST/PHIL 3010 ○​ PHIL 2120, 3250 ○​ RLGN 3120, 3250 
+●​ POSC 2210,4810 ●​ ENGL 3190 ●​ One course from: ○​ BSNS 3420 ○​ CRIM 3110 ○​ COMM 4000 ○​ POSC 3250 ●​ One course from: ○​ BIBL 3420 ○​ POSC/HIST/PHIL 3010 ○​ PHIL 2120,3250 ○​ RLGN 3120,3250 
 
 Students are expected to complete POSC 2210 before POSC 4810. In addition to these courses, students are encouraged to develop their oral presentation skills through POSC 2840, and to further develop their analytical skills through MATH 2200, ACCT 2010, and additional courses in mathematics and economics. 
 
@@ -6022,23 +5810,23 @@ Students in both majors are expected to successfully complete the foundational c
 
 Anderson University has been designated by the National Security Agency as a Center of Academic Excellence in Cyber Defense Education (CAE-CD), certifying the cybersecurity major as a validated Program of Study. 
 
-## NATIONAL SECURITY MAJOR (44 hrs.) 
+## NATIONAL SECURITY MAJOR (44 hours) 
 
 _*Grade of C- or higher required in all courses that count toward the major_ 
 
-Foundation (15 hrs.): ●​ POSC 2020, 2100, 2200, 2400 ●​ MATH 2120 
+Foundation (15 hours): ●​ POSC 2020,2100,2200,2400 ●​ MATH 2120 
 
-National Security Policy (9 hrs.) from: 
+National Security Policy (9 hours) from: 
 
-●​ POSC 3300, 3310, 3370 ●​ POSC/CRIM 3350 
+●​ POSC 3300,3310,3370 ●​ POSC/CRIM 3350 
 
-Ethics (3 hrs.): ●​ PHIL/RLGN 3250 
+Ethics (3 hours): ●​ PHIL/RLGN 3250 
 
-Electives (16 hrs.) from: 
+Electives (16 hours) from: 
 
-●​ HIST 3220, 3240, 3250, 3300, 3360, 3370, 3510, 3520 ●​ POSC 3212, 3250, 3300, 3310, 3330, 3360, 3370 ●​ CRIM 2520, 3050 ●​ MATH 3200 ●​ CRIM/POSC 3350 ●​ PSYC 3330, 3400 ●​ CRIM/SOCI 2510 ●​ PSYC/SOCI 3010 
+●​ HIST 3220,3240,3250,3300,3360,3370,3510,3520 ●​ POSC 3212,3250,3300,3310,3330,3360,3370 ●​ CRIM 2520,3050 ●​ MATH 3200 ●​ CRIM/POSC 3350 ●​ PSYC 3330,3400 ●​ CRIM/SOCI 2510 ●​ PSYC/SOCI 3010 
 
-Senior Capstone (1 hr.): ●​ POSC 4930 
+Senior Capstone (1 hour): ●​ POSC 4930 
 
 Anderson University Undergraduate Catalog 2025-26 
 
@@ -6050,31 +5838,13 @@ _Director: Dr. Lolly Bargerstock_
 
 The social work major is accredited by the Council on Social Work Education (CSWE) and prepares students to become generalist social work practitioners in entry-level human service positions or to enter graduate study in social work. Graduates are eligible to apply for credentialing as beginning-level social work practitioners in most states. 
 
-## Mission 
-
-The mission of the Anderson University Social Work Program is to prepare competent, compassionate, and effective entry-level social workers who: 
-
-- Exercise professionalism and integrity by demonstrating knowledge, skills, and values grounded in a person-in-environment framework and through a commitment to scientific inquiry and evidence-based practice. 
-
-- Pursue social, racial, economic, and environmental justice by actively working to challenge oppressive systems and to empower marginalized and vulnerable populations. 
-
-- Respect human diversity by valuing the dignity and worth of every person and promoting inclusive and equitable policies and practices. 
-
-- Advocate for universal human rights by working to eliminate poverty and to create societal conditions that advance human and community well-being. 
-
-- Cultivate human relationships by engaging in collaborative partnerships with individuals, families, groups, organizations, and communities both locally and globally. 
-
-- Practice service to others by committing to do good, seek justice, rebuke and rectify the hearts of oppressors, defend orphans and widows, and help those in need (based on Isaiah 1:17). 
-
-_(revised 2024)_ 
-
 ## Admission to the Social Work Program 
 
 The Anderson University Social Work Program is a carefully constructed baccalaureate degree curriculum accredited by the Council on Social Work Education (CSWE). 
 
 Students may apply for admission to the program when they have: 
 
-- completed SOCI 2010 or 2020; SOWK 2000, 2100 
+- completed SOCI 2010 or 2020; SOWK 2000,2100 
 
 - earned a minimum 2.0 cumulative GPA 
 
@@ -6094,41 +5864,41 @@ The process for applying to the Social Work Program is to:
 
 The social work faculty make the final decision on admission of a student to the Program. For more information, refer to the AU Social Work Program Student Handbook at _anderson.edu/academics/social-work_ . 
 
-## SOCIAL WORK MAJOR (64 hrs.) 
+## SOCIAL WORK MAJOR (64 hours) 
 
 The social work major at Anderson University may be declared in the University Registrar’s office at any time after matriculation. However, continuation in the major is determined by admission to the Social Work Program. 
 
-## Prerequisite courses for program admission: 
+## Prerequisite courses for program admission 
 
 ●​ SOCI 2010 or 2020 
 
-- SOWK 2000, 2100 
+- SOWK 2000,2100 
 
-## Foundation courses: 
+## Foundation courses 
 
 - BIOL 2040 
 
 - POSC 2100 
 
-- PSYC 2000, 2440 
+- PSYC 2000,2440 
 
-- SOCI 2450, 3100 
+- SOCI 2450,3100 
 
 Anderson University Undergraduate Catalog 2025-26 
 
 106 
 
-## Core courses: 
+## Core courses 
 
-●​ SOWK 2200, 3100, 4350, 4710, 4720, 4730, 4850 
+●​ SOWK 2200,3100,4350,4710,4720,4730,4850 
 
 ●​ SOCI 3700 
 
-Admission to the Social Work Program is a prerequisite for SOWK 4710, 4720, 4730, and 4850. To advance in the program following admission, students must earn a grade of C- or better in all courses applied to the major. 
+Admission to the Social Work Program is a prerequisite for SOWK 4710,4720,4730, and 4850. To advance in the program following admission, students must earn a grade of C- or better in all courses applied to the major. 
 
-Internship experiences in social service agencies are built into the coursework: SOWK 2100 (36 hrs.), SOWK 2200 (20 hrs.), and SOWK 4710 (20 hrs.). The practicum (SOWK 4850) consists of a full-time block field placement over the entire spring semester (442 hrs.). 
+Internship experiences in social service agencies are built into the coursework: SOWK 2100 (36 hours), SOWK 2200 (20 hours), and SOWK 4710 (20 hours). The practicum (SOWK 4850) consists of a full-time block field placement over the entire spring semester (442 hours). 
 
-## SOCIAL WORK MINOR (17 hrs.) 
+## SOCIAL WORK MINOR (17 hours) 
 
 The social work minor is a valuable addition to many majors including, but not limited to, criminal justice, psychology, nursing, education, Christian ministries,  and business administration. It is intended to accomplish the following: 
 
@@ -6144,7 +5914,7 @@ A 20-hour internship is included to familiarize one with the role of social work
 
 - SOCI 2010 or 2020 
 
-- SOWK 2000, 2200*, 3100 
+- SOWK 2000,2200*, 3100 
 
 - BIOL 2040 
 
@@ -6154,7 +5924,7 @@ A 20-hour internship is included to familiarize one with the role of social work
 
 The Sociology minor provides a solid liberal arts preparation for entry-level positions throughout the fields of social service, education, government, and business, as well as for graduate study, and complements many majors. Sociology students who enter human services fields often work with youth at risk, the elderly, or people experiencing problems related to poverty, substance abuse, the justice system, or other social problems. Those who enter careers in business may work in human resources, customer relations, sales, or marketing. 
 
-## SOCIOLOGY MINOR (15 hrs.) 
+## SOCIOLOGY MINOR (15 hours) 
 
 - SOCI 2010 - Introduction to Sociology (3) 
 
@@ -6164,155 +5934,145 @@ The Sociology minor provides a solid liberal arts preparation for entry-level po
 
 ## CRIM Courses 
 
-|2510|The Nature of Crime and Social Deviance|4 hrs. (4, 0)|
+|2510|The Nature of Crime and Social Deviance|4 hours (4,0)|
 |---|---|---|
 ||Examines the nature and extent of crime, juvenile delinquency, and social deviance in the United States.||
 ||Special attention is given to theoretical perspectives, scientifc research and scholarship in criminology,||
-||and related factors offering explanations for these behaviors.PREREQUISITE: ENGL 1120.||
-||PREREQUISITEOR COREQUISITE:SOCI 2010 or SOCI 2020.SAME AS:SOCI 2510.OFFERED: Sem. II.||
-|2520 |Introduction to Criminal Justice|3 hrs. (3, 0)|
+||and related factors offering explanations for these behaviors.Prerequisite: ENGL 1120.||
+||PREREQUISITEOR Corequisite:SOCI 2010 or SOCI 2020.SAME AS:SOCI 2510.Offered: Semester II.||
+|2520 |Introduction to Criminal Justice|3 hours (3,0)|
 ||An introductory examination of crime, the nature of criminal law, and the operation of criminal justice||
 ||agencies in the United States. Emphasis on issues related to the legal processing of criminal cases.||
-||OFFERED: Sem. I, II.||
-|2560 |Introduction to Criminal Forensic Science|3 hrs. (3, 0)|
+||Offered: Semester I, II.||
+|2560 |Introduction to Criminal Forensic Science|3 hours (3,0)|
 ||Introductory course to criminalistics that explores the history and scope of forensic science. The scope||
 ||of this course includes discovery at a crime scene, the most important location of evidence; physical||
 ||evidence; analytical techniques for organic and inorganic materials; forensic toxicology; frearms,||
 ||ammunition, unique tool marks, and various impressions (e.g., shoe prints, fabric properties, and||
-||bloodstains).OFFERED: Sem. II.||
-
-
+||bloodstains).Offered: Semester II.||
 
 Anderson University Undergraduate Catalog 2025-26 
 
 107 
 
-## CRIM (cont.) 
-
 |RIM (|cont.)|||
 |---|---|---|---|
-|3010|Victimology and Victim Studies||3 hrs. (3, 0)|
+|3010|Victimology and Victim Studies||3 hours (3,0)|
 ||Examines the role of the victim in criminal incidents and criminal justice case processing. Analysis of|||
 ||concerns related to victim precipitation, victim blaming, and victim facilitation, as well as the|||
 ||consequences and after-effects of crime victimization. In addition to traditional violent and property|||
 ||crimes, this course also looks at the areas of interpersonal abuse, including domestic and family|||
 ||violence. Discussion of victims’ assistance, advocacy, compensation, and rights are also included.|||
-||OFFERED: Sem. II, 2026-27.|||
-|3020 |Principles of Law Enforcement||3 hrs. (3, 0)|
+||Offered: Semester II, 2026-27.|||
+|3020 |Principles of Law Enforcement||3 hours (3,0)|
 ||Examines the multi-faceted role of the police offcer in society. Topics include the historical development|||
 ||of policing and police work, police organization and patrol practices, police discretion, innovations in|||
-||community policing, police corruption, career issues, and reform efforts.PREREQUISITE: CRIM 2520.|||
-||OFFERED: Sem. II, 2025-26.|||
-|3030 |Juvenile Justice||3 hrs. (3, 0)|
+||community policing, police corruption, career issues, and reform efforts.Prerequisite: CRIM 2520.|||
+||Offered: Semester II, 2025-26.|||
+|3030 |Juvenile Justice||3 hours (3,0)|
 ||Focuses on issues related to juvenile delinquency and justice processing involving youth. Examines the|||
 ||changing defnitions of adolescence in society, delinquent behavior and youth crime, major theoretical|||
 ||perspectives in the area, the creation and development of the juvenile court, historical changes in the|||
-||juvenile justice system, corrections, aftercare, and treatment of juvenile offenders.PREREQUISITE:|||
-||CRIM 2510, 2520.OFFERED: With suffcient demand.|||
-|3040 |The Correctional System||3 hrs. (3, 0)|
+||juvenile justice system, corrections, aftercare, and treatment of juvenile offenders.Prerequisite:|||
+||CRIM 2510,2520.Offered: With suffcient demand.|||
+|3040 |The Correctional System||3 hours (3,0)|
 ||Examines corrections in all of its diversity — at the federal, state, and local levels, and via public as well|||
 ||as private agencies. Attention concerns community-based corrections, probation and parole, jails,|||
 ||prisons, and trend patterns in organization and day-to-day functioning of correctional agencies in the|||
-||United States.PREREQUISITE: CRIM 2520.OFFERED: With suffcient demand.|||
-|3050 |Drugs and American Society||3 hrs. (3, 0)|
+||United States.Prerequisite: CRIM 2520.Offered: With suffcient demand.|||
+|3050 |Drugs and American Society||3 hours (3,0)|
 ||Examines the sociological and criminal justice aspects of drugs, drug use, sales and traffcking, and|||
 ||related socio-legal policies. Social control issues as well as concerns with education, prevention, and|||
 ||treatment are discussed. Historical perspective, primarily within the context of the United States, as|well||
-||as contemporary issues will be included.PREREQUISITE: CRIM 2520, SOCI 2010, or SOCI 2020 or|||
-||upper-division standing.SAME AS:SOCI 3050.OFFERED: With suffcient demand.|||
-|3080|Forensic Psychology||2 hrs. (2, 0)|
+||as contemporary issues will be included.Prerequisite: CRIM 2520, SOCI 2010, or SOCI 2020 or|||
+||upper-division standing.SAME AS:SOCI 3050.Offered: With suffcient demand.|||
+|3080|Forensic Psychology||2 hours (2,0)|
 ||Forensic Psychology is an introductory course designed to provide a comprehensive study of the varied|||
 ||and expanding feld of psychology and the law. Topics and guest speakers will address many|||
 ||applications of psychological principles to the legal system, including to criminal behavior, legal|||
-||processes, and correctional practices.SAME AS:PSYC 3080.OFFERED:Sem. II.|||
-|3110|Criminal Law and Process||4 hrs. (4, 0)|
+||processes, and correctional practices.SAME AS:PSYC 3080.Offered:Semester II.|||
+|3110|Criminal Law and Process||4 hours (4,0)|
 ||Examines the historical development of substantive and procedural criminal law in the United States as|||
 ||well as how the law is implemented in practice through the actions of criminal justice agencies. Issues of|||
 ||criminal law involving constitutional questions and related landmark Supreme Court decisions are|||
-||discussed and analyzed.PREREQUISITE: CRIM 2510, 2520.OFFERED: Sem. I.|||
-|3350 |Homeland Security||3 hrs. (3, 0)|
+||discussed and analyzed.Prerequisite: CRIM 2510,2520.Offered: Semester I.|||
+|3350 |Homeland Security||3 hours (3,0)|
 ||Overview of American foreign and domestic policy changes in the aftermath of the terrorist attacks of|||
-||Sept. 11, 2001. Covers the reorganization of government bureaucracies, ongoing debates over balancing|||
+||Sept. 11,2001. Covers the reorganization of government bureaucracies, ongoing debates over balancing|||
 ||security with civil liberties, interagency cooperation to prevent terrorism, risk-based assessment, border|||
-||security, and disaster management.PREREQUISITE: Upper-division standing.SAME AS:POSC 3350.|||
-|3650 |Independent Study|1-4|hrs. (1-4, 0)|
+||security, and disaster management.Prerequisite: Upper-division standing.SAME AS:POSC 3350.|||
+|3650 |Independent Study|1-4|hours (1-4,0)|
 ||Intensive research, study, or personal involvement in a criminal justice area not specifcally covered by|||
-||other courses.CONSENT: Department chair.REPEAT: May be repeated (total credit not to exceed 8|||
-||hours).OFFERED: With suffcient demand.|||
-|4120|Planned Change||4 hrs. (4, 0)|
+||other courses.Consent: Department chair.Repeat: May be repeated (total credit not to exceed 8|||
+||hours).Offered: With suffcient demand.|||
+|4120|Planned Change||4 hours (4,0)|
 ||Examination and analysis of strategies for planned change and reform in the criminal justice area.|||
-||Case studies of particular issues related to policing, the courts, and/or corrections.CONSENT:|||
-||Instructor.PREREQUISITE: CRIM 2520.OFFERED: With suffcient demand.|||
-|4650 |Independent Study|1-4|hrs. (1-4, 0)|
+||Case studies of particular issues related to policing, the courts, and/or corrections.Consent:|||
+||Instructor.Prerequisite: CRIM 2520.Offered: With suffcient demand.|||
+|4650 |Independent Study|1-4|hours (1-4,0)|
 ||Intensive research, study, or personal involvement in a criminal justice area not specifcally covered by|||
-||other courses.CONSENT: Department chair.REPEAT: May be repeated (total credit not to exceed 8|||
-||hours).OFFERED: With suffcient demand.|||
-
-
+||other courses.Consent: Department chair.Repeat: May be repeated (total credit not to exceed 8|||
+||hours).Offered: With suffcient demand.|||
 
 Anderson University Undergraduate Catalog 2025-26 
 
 108 
 
-## CRIM (cont.) 
-
-|4810|Criminal Justice Internship I<br>1-4 hrs. (arranged)|
+|4810|Criminal Justice Internship I<br>1-4 hours (arranged)|
 |---|---|
 ||Placement in a criminal justice agency under professional supervision. Requires 40 hours of feld|
-||experience for each hour of credit.EXPECTATION: Junior or senior criminal justice major or minor.|
-||CONSENT: Instructor.PREREQUISITE: CRIM 2510, 2520.REPEAT: May be repeated.OFFERED:|
-||Sem. I, II; Summer.|
-|4820 |Criminal Justice Internship II<br>1-4 hrs. (arranged)|
+||experience for each hour of credit.Expectation: Junior or senior criminal justice major or minor.|
+||Consent: Instructor.Prerequisite: CRIM 2510,2520.Repeat: May be repeated.Offered:|
+||Semester I, II; Summer.|
+|4820 |Criminal Justice Internship II<br>1-4 hours (arranged)|
 ||Continuation of CRIM 4810. Requires 40 hours of feld experience for each hour of credit. Internship|
-||normally completed at an agency different from the agency for CRIM 4810.CONSENT: Instructor.|
-||PREREQUISITE: CRIM 4810.REPEAT: May be repeated.OFFERED: Sem. I, II; Summer.|
-|4900 |Criminal Justice Seminar<br>3 hrs. (3, 0)|
+||normally completed at an agency different from the agency for CRIM 4810.Consent: Instructor.|
+||Prerequisite: CRIM 4810.Repeat: May be repeated.Offered: Semester I, II; Summer.|
+|4900 |Criminal Justice Seminar<br>3 hours (3,0)|
 ||Senior capstone course involving intensive reading and discussion of materials focused on issues|
 ||related to current topics on crime, criminological theory, and applied policy, as well as career|
-||pursuits in criminal justice and related professional issues.CONSENT: Instructor.PREREQUISITE:|
-||Upper-division standing; CRIM 2510, 2520.OFFERED: Sem. I.|
-|4920 |Honors Study<br>4 hrs. (arranged)|
+||pursuits in criminal justice and related professional issues.Consent: Instructor.Prerequisite:|
+||Upper-division standing; CRIM 2510,2520.Offered: Semester I.|
+|4920 |Honors Study<br>4 hours (arranged)|
 ||Intensive research, study, or personal involvement in a criminal justice area not specifcally covered|
-||by other courses.EXPECTATION: A 3.5 or higher GPA in CRIM courses counted toward the major.|
-||CONSENT: Department chair.PREREQUISITE: Senior standing.REPEAT: May be repeated (total|
-||credit not to exceed 4 hours).OFFERED: With suffcient demand.|
+||by other courses.Expectation: A 3.5 or higher GPA in CRIM courses counted toward the major.|
+||Consent: Department chair.Prerequisite: Senior standing.Repeat: May be repeated (total|
+||credit not to exceed 4 hours).Offered: With suffcient demand.|
 |OSC Courses||
-|2020 Introduction to World Politics<br>3 hrs. (3,0)||
+|2020 Introduction to World Politics<br>3 hours (3,0)||
 ||Introduces the study of politics, peace and confict transformation, and American national security|
 ||through a survey of historical and contemporary world politics. Examines the conceptual, theoretical,|
 ||and empirical foundations of political science and international relations including power, democracy|
 ||and authoritarianism, war, human rights, cyber competition, and international cooperation._Applies to_|
 ||_the Social & Behavioral Ways of Knowing [Raven Core] component of theLiberal Arts Core Curriculum._|
-||OFFERED: Sem. I.|
-|2100|American National Government<br>3 hrs. (3, 0)|
+||Offered: Semester I.|
+|2100|American National Government<br>3 hours (3,0)|
 ||An introductory study of national government in the United States. Examines the major institutions and|
 ||processes of the American political system, including constitutional design, federalism, public opinion,|
 ||voting and elections, political parties, interest groups, Congress, the presidency, and the courts.|
-||OFFERED: Sem. I, II.|
-|2120|State and Local Government<br>3 hrs. (3, 0)|
+||Offered: Semester I, II.|
+|2120|State and Local Government<br>3 hours (3,0)|
 ||A comparative examination of the institutional structure, political processes, and public policies of state|
 ||and local government systems. The functions of state and local government are examined in relation to|
-||the federal government.OFFERED: With suffcient demand.|
-|2200 |Public Policy<br>3 hrs. (3, 0)|
+||the federal government.Offered: With suffcient demand.|
+|2200 |Public Policy<br>3 hours (3,0)|
 ||Introduces the theory and practice of policymaking and public administration as it relates to selected|
 ||policy problems facing national, state, and local governments. Policy areas covered may include|
-||healthcare, education, fscal, cybersecurity, and national defense.PREREQUISITE: POSC 2400.|
-||OFFERED: Sem. II.|
-|2210|Introduction to Legal Studies<br>3 hrs. (3, 0)|
+||healthcare, education, fscal, cybersecurity, and national defense.Prerequisite: POSC 2400.|
+||Offered: Semester II.|
+|2210|Introduction to Legal Studies<br>3 hours (3,0)|
 ||Introduces the structure and basic decision processes of the American legal system, as well as a study|
 ||of the historical and social development of the legal profession in America from the colonial period to|
 ||the present. Particular focus is on examination of the central issues and processes of the legal system|
-||from the perspective of their everyday working relationships and how the court works.OFFERED: Sem.|
+||from the perspective of their everyday working relationships and how the court works.Offered: Semester|
 ||II, 2025-26.|
-|2400 |Social Science Research Methods<br>3 hrs. (3, 0)|
+|2400 |Social Science Research Methods<br>3 hours (3,0)|
 ||Provides a foundation for reading and interpreting research done by social scientists, as well as doing|
 ||research and writing in more advanced courses. Focuses on principles for research design and the|
-||collection, analysis, and presentation of data.OFFERED: Sem. I.|
-|2420 |Applied Statistics Lab<br>2 hr. (2, 0)|
+||collection, analysis, and presentation of data.Offered: Semester I.|
+|2420 |Applied Statistics Lab<br>2 hour (2,0)|
 ||Introduction to the statistical analysis of political, economic, and policy data using the R programming|
-||language.COREQUISITE: Concurrent enrollment in MATH 2120.OFFERED: Sem. II.|
-
-
+||language.Corequisite: Concurrent enrollment in MATH 2120.Offered: Semester II.|
 
 ## POSC Courses 
 
@@ -6320,71 +6080,67 @@ Anderson University Undergraduate Catalog 2025-26
 
 109 
 
-## POSC (cont.) 
-
 |OSC (|cont.)||
 |---|---|---|
-|2580 |Principles of Geography<br>3|hrs. (3, 0)|
+|2580 |Principles of Geography<br>3|hours (3,0)|
 ||Introduction to geography, emphasizing fve major themes: the physical environment, natural resources,||
 ||and agricultural pursuits; demographics, immigration, sequent occupance, and settlement patterns; the||
 ||impact of natural and human-made disasters; cultural, economic, and political development; and the||
 ||interaction between people of different cultures and environments. Required of all social studies||
-||secondary education majors.OFFERED: Sem. I, 2026-27.||
-|2810|Campaign Internship<br>1-4 hrs. (arranged)||
+||secondary education majors.Offered: Semester I, 2026-27.||
+|2810|Campaign Internship<br>1-4 hours (arranged)||
 ||Placement on a local political campaign under professional supervision. Requires 45 hours of feld||
-||experience for each hour of credit. Open to non-majors.CONSENT: Instructor.REPEAT: May be repeated||
-||(total credit not to exceed 4 hours).GRADE: CR/NC.OFFERED: Sem. I, 2026-27.||
-|2840 |Model Diplomacy and Simulation Conferences|1 hr. (1, 0)|
+||experience for each hour of credit. Open to non-majors.Consent: Instructor.Repeat: May be repeated||
+||(total credit not to exceed 4 hours).Grade: CR/NC.Offered: Semester I, 2026-27.||
+|2840 |Model Diplomacy and Simulation Conferences|1 hour (1,0)|
 ||Maximizes learning opportunities inherent in participation in Model United Nations, Model Arab League,||
 ||Model NATO, and other diplomatic or security simulation conferences. Students develop skills in||
 ||diplomatic behavior and writing, conduct individualized research, and gain expertise related to their||
 ||assigned roles. Requires participation in functions outside of the traditional classroom environment.||
-||Open to non-majors.CONSENT: Instructor.REPEAT: May be repeated (total credit not to exceed 4||
-||hours).OFFERED: Sem. I, II.||
-|3010|History of Political Thought<br>3|hrs. (3, 0)|
+||Open to non-majors.Consent: Instructor.Repeat: May be repeated (total credit not to exceed 4||
+||hours).Offered: Semester I, II.||
+|3010|History of Political Thought<br>3|hours (3,0)|
 ||Examines major works in the development of political thought from ancient Greece through the 20th||
 ||century. Theorists studied include Plato, Aristotle, St. Augustine, Machiavelli, Hobbes, Locke, Rousseau,||
 ||and Mill. Particular emphasis on the practical consequences of ideas for contemporary leaders in politics||
-||and society.PREREQUISITE: Sophomore standing.SAME AS:HIST/PHIL 3010.OFFERED: Sem. II,||
+||and society.Prerequisite: Sophomore standing.SAME AS:HIST/PHIL 3010.Offered: Semester II,||
 ||2025-26.||
-|3140|Elections, Public Opinion, and Democracy<br>3|hrs. (3, 0)|
+|3140|Elections, Public Opinion, and Democracy<br>3|hours (3,0)|
 ||Studies American political values, attitudes and beliefs, and the factors that infuence their development;||
 ||the role of public opinion in American democracy; and the structural, psychological, and sociological||
 ||factors associated with participation in the political process. Topics include party identifcation, turnout,||
-||models of vote choice, and survey research methods.EXPECTATION: Completion of MATH 2120 and||
-||POSC 2420.PREREQUISITE: Upper-division standing; POSC 2400.OFFERED: Sem. I, 2026-27.||
-|3211|The Congress<br>3|hrs. (3, 0)|
+||models of vote choice, and survey research methods.Expectation: Completion of MATH 2120 and||
+||POSC 2420.Prerequisite: Upper-division standing; POSC 2400.Offered: Semester I, 2026-27.||
+|3211|The Congress<br>3|hours (3,0)|
 ||Studies the Congress, focusing upon its organizational structure, processes, and political behavior of its||
 ||members. Particular emphasis on representation, congressional elections, congressional committees,||
-||party leadership, House-Senate differences, and legislative processes.PREREQUISITE: Upper-division||
-||standing; POSC 2400.OFFERED: Sem. II, 2026-27.||
-|3212|The Presidency<br>3|hrs. (3, 0)|
+||party leadership, House-Senate differences, and legislative processes.Prerequisite: Upper-division||
+||standing; POSC 2400.Offered: Semester II, 2026-27.||
+|3212|The Presidency<br>3|hours (3,0)|
 ||Examines the selection, tenure, succession, and leadership of the American chief executive. Topics||
 ||include presidential elections, presidential power, and presidential relations with Congress, the||
-||bureaucracy, and the courts.PREREQUISITE: Upper-division standing.OFFERED: Sem. I, 2025-26.||
-|3250 |Constitutional Law<br>3|hrs. (3, 0)|
+||bureaucracy, and the courts.Prerequisite: Upper-division standing.Offered: Semester I, 2025-26.||
+|3250 |Constitutional Law<br>3|hours (3,0)|
 ||A survey of the development of constitutional law through Supreme Court decisions. Topics include||
 ||judicial review, federalism, the powers of congress and the president, equal protection, and due process.||
-||PREREQUISITE: Upper-division standing.OFFERED: Sem. II, 2026-27.||
-|3300 |International Security<br>3|hrs. (3, 0)|
+||Prerequisite: Upper-division standing.Offered: Semester II, 2026-27.||
+|3300 |International Security<br>3|hours (3,0)|
 ||Examines the major theories, concepts, and principles of international security, especially as they relate||
 ||to global stability and confict resolution. Topics include international alliances, mediation, bargaining,||
 ||war termination, military effectiveness, and other security issues. Also provides a framework to view||
 ||government policy through a theoretical lens and understand how policymakers utilize theory to make||
-||decisions regarding national security.OFFERED: Sem. I, 2026-27.||
-|3310 Political Violence and Terrorism<br>3||hrs. (3, 0)|
+||decisions regarding national security.Offered: Semester I, 2026-27.||
+|3310 Political Violence and Terrorism<br>3||hours (3,0)|
 ||Examines the causes and consequences of political violence from an interdisciplinary perspective, with||
 ||emphasis on case studies of modern terrorism and counterterrorism policy. Also studies the relationship||
-||between faith, morality, and the ethical conduct of foreign policy.EXPECTATION: Grade of C- or better in||
-||POSC 2020.PREREQUISITE: Upper-division standing.OFFERED: Sem. I, 2025-26.||
-|3320 Civilian Perspectives on Political Violence<br>3||hrs. (3, 0)|
+||between faith, morality, and the ethical conduct of foreign policy.Expectation: Grade of C- or better in||
+||POSC 2020.Prerequisite: Upper-division standing.Offered: Semester I, 2025-26.||
+|3320 Civilian Perspectives on Political Violence<br>3||hours (3,0)|
 ||Explores the causes and consequences of political violence from the civilian perspective. Draws on||
 ||insights from political science, sociology, psychology, history, and contemporary literature to understand||
 ||why people participate in violent acts and the impact of political violence on the civilian population.||
 ||_Applies to the Global Ways of Knowing [AU Experience] component of theLiberal Arts Core Curriculum._||
-||REREQUISITE: Upper-division standing.OFFERED: With suffcient demand.||
-
-
+||REREQUISITE: Upper-division standing.Offered: With suffcient demand.||
 
 Anderson University Undergraduate Catalog 2025-26 
 
@@ -6394,98 +6150,92 @@ POSC (cont.)
 
 |OSC (|cont.)|
 |---|---|
-|3330 |American Foreign Policy<br>3 hrs. (3, 0)|
+|3330 |American Foreign Policy<br>3 hours (3,0)|
 ||Studies the formulation and execution of foreign policy in the United States, together with an|
 ||examination of the substantive issues and perspectives of American foreign policy since World War II.|
-||PREREQUISITE: Upper-division standing.OFFERED: Sem. I, 2026-27.|
-|3350 |Homeland Security<br>3 hrs. (3, 0)|
+||Prerequisite: Upper-division standing.Offered: Semester I, 2026-27.|
+|3350 |Homeland Security<br>3 hours (3,0)|
 ||An overview of the changes in American foreign and domestic policy in the aftermath of the terrorist|
-||attacks of Sept. 11, 2001. Topics covered include the reorganization of government bureaucracies,|
+||attacks of Sept. 11,2001. Topics covered include the reorganization of government bureaucracies,|
 ||ongoing debates over balancing security with civil liberties, interagency cooperation to prevent|
 ||terrorism, risk-based assessment, border security, and disaster management.SAME AS:CRIM 3350.|
-||OFFERED: Sem. II.|
-|3360 |War, Peace, and Security<br>3 hrs. (3,0)|
+||Offered: Semester II.|
+|3360 |War, Peace, and Security<br>3 hours (3,0)|
 ||A survey of the causes and consequences of war in its various forms and the major theoretical and|
 ||methodological approaches to the study of war in the feld of peace science and security studies. In|
 ||particular, a review of domestic, state, and system factors and the political correlates of war and confict|
 ||processes. Special emphasis on interstate wars, but civil wars, extra state wars, and emerging “grey|
 ||zone” conficts are considered. Also explores peace, peace-making, and the cessation of hostilities.|
-||PREREQUISITE: Upper-division standing.OFFERED: Sem. II,  2026-27.|
-|3370 |Intelligence and Security Studies<br>3 hrs. (3, 0)|
+||Prerequisite: Upper-division standing.Offered: Semester II,  2026-27.|
+|3370 |Intelligence and Security Studies<br>3 hours (3,0)|
 ||Introduces the intelligence cycle (planning, collection, processing, analysis, and dissemination), the role|
 ||of the intelligence community in making and implementing foreign policy, and a broad overview of the|
 ||feld of security studies. Intelligence needs are discussed with respect to both public and private sector|
-||actors. Also examines the moral and legal constraints on national security professionals.EXPECTATION:|
-||Grade of C- or better in POSC 2020.PREREQUISITE: Upper-division standing.OFFERED: Sem. II.|
-|3400 |Comparative Politics<br>3 hrs. (3, 0)|
+||actors. Also examines the moral and legal constraints on national security professionals.Expectation:|
+||Grade of C- or better in POSC 2020.Prerequisite: Upper-division standing.Offered: Semester II.|
+|3400 |Comparative Politics<br>3 hours (3,0)|
 ||Introduces students to the causes and consequences of political institutions and provides a|
-||comparative analysis of selected democratic and nondemocratic systems.PREREQUISITE:|
-||Upper-division standing.OFFERED: Sem. I, 2025-26.|
-|3450 Politics of the Modern World<br>3 hrs. (3, 0)||
+||comparative analysis of selected democratic and nondemocratic systems.Prerequisite:|
+||Upper-division standing.Offered: Semester I, 2025-26.|
+|3450 Politics of the Modern World<br>3 hours (3,0)||
 ||Explores issues and theoretical concepts from the felds of comparative politics, international relations,|
 ||and public policy of relevance to current events. The course will examine the politics of fve nations|
 ||currently in the news, exploring topics such as education, development, migration, religion, poverty,|
 ||debt, corruption, public health, human rights, technology, political participation, confict, and other|
 ||contemporary issues._Applies to the Global Ways of Knowing [AU Experience] component of theLiberal_|
-||_Arts Core Curriculum._ PREREQUISITE: Upper-division standing.OFFERED: Sem. I, 2026-27.|
-|3510|International Political Economy<br>3 hrs. (3, 0)|
+||_Arts Core Curriculum._ Prerequisite: Upper-division standing.Offered: Semester I, 2026-27.|
+|3510|International Political Economy<br>3 hours (3,0)|
 ||Introduces students to the study of how politics and economics interact at the global, regional and|
 ||national level. Covers major theories related to political economy; global monetary and trade relations;|
 ||the role of multinational corporations, international organizations, and NGOs; issues of globalization|
 ||and development; the international fow of labor and capital; state- and nation-building; and human|
 ||rights. Particular emphasis on understanding contemporary issues facing the global economy.|
-||PREREQUISITE: Upper-division standing; ECON 2010.OFFERED: Sem. II, 2026-27.|
-|4650 |Advanced Readings and Research<br>1-4 hrs. (arranged)|
+||Prerequisite: Upper-division standing; ECON 2010.Offered: Semester II, 2026-27.|
+|4650 |Advanced Readings and Research<br>1-4 hours (arranged)|
 ||Intensive study of a subject in the feld of political science not specifcally covered by other courses.|
-||Area of study is defned by the student and instructor with departmental approval.EXPECTATION:|
-||Cumulative GPA of 3.0 or higher.CONSENT: Instructor.PREREQUISITE: Upper-division standing; at|
-||least 18 hours of POSC coursework.REPEAT: May be repeated (total credit not to exceed 4 hours).|
-||OFFERED: With suffcient demand.|
-|4800 |Government Internship<br>1-4 hrs. (arranged)|
+||Area of study is defned by the student and instructor with departmental approval.Expectation:|
+||Cumulative GPA of 3.0 or higher.Consent: Instructor.Prerequisite: Upper-division standing; at|
+||least 18 hours of POSC coursework.Repeat: May be repeated (total credit not to exceed 4 hours).|
+||Offered: With suffcient demand.|
+|4800 |Government Internship<br>1-4 hours (arranged)|
 ||Placement in a government agency or party organization under professional supervision. Requires|
-||45 hours of feld experience for each hour of credit.CONSENT: Instructor.PREREQUISITE:|
-||Upper-division standing; at least 18 hours of POSC coursework.REPEAT: May be repeated (total|
-||credit not to exceed 4 hours).GRADE: CR/NC.OFFERED: Sem. I, II; Summer.|
-|4810|Legal Internship<br>1-4 hrs. (arranged)|
+||45 hours of feld experience for each hour of credit.Consent: Instructor.Prerequisite:|
+||Upper-division standing; at least 18 hours of POSC coursework.Repeat: May be repeated (total|
+||credit not to exceed 4 hours).Grade: CR/NC.Offered: Semester I, II; Summer.|
+|4810|Legal Internship<br>1-4 hours (arranged)|
 ||Placement in a legal setting under professional supervision. Requires 45 hours of feld experience|
-||for each hour of credit. Open to non-majors.CONSENT: Instructor.PREREQUISITE: Upper-division|
-||standing.REPEAT: May be repeated (total credit not to exceed 4 hours).GRADE: CR/NC.OFFERED:|
-||Sem. I, II; Summer.|
-
-
+||for each hour of credit. Open to non-majors.Consent: Instructor.Prerequisite: Upper-division|
+||standing.Repeat: May be repeated (total credit not to exceed 4 hours).Grade: CR/NC.Offered:|
+||Semester I, II; Summer.|
 
 Anderson University Undergraduate Catalog 2025-26 
 
 111 
 
-## POSC (cont.) 
-
-|4820 |International Internship<br>1-4|hrs. (arranged)|
+|4820 |International Internship<br>1-4|hours (arranged)|
 |---|---|---|
 ||Placement under professional supervision in either a government agency or a non- governmental||
 ||organization, in a position focused on global issues. Requires 45 hours of feld experience for each||
-||hour of credit. Open to non-majors.CONSENT: Instructor.REPEAT: May be repeated (total credit||
-||not to exceed 4 hours).GRADE: CR/NC.OFFERED: Sem. I, II, Summer.||
-|4860 |Public Policy Practicum|3 hrs. (3, 0)|
+||hour of credit. Open to non-majors.Consent: Instructor.Repeat: May be repeated (total credit||
+||not to exceed 4 hours).Grade: CR/NC.Offered: Semester I, II, Summer.||
+|4860 |Public Policy Practicum|3 hours (3,0)|
 ||Students work as a team to conduct policy research for an external client under faculty supervision.||
 ||An experiential learning opportunity for students developing their knowledge and skills in a real-||
-||world setting.CONSENT: Instructor.PREREQUISITE: Upper-division standing.OFFERED: With||
+||world setting.Consent: Instructor.Prerequisite: Upper-division standing.Offered: With||
 ||suffcient demand.||
-|4915|Honors Research<br>3|hrs. (arranged)|
+|4915|Honors Research<br>3|hours (arranged)|
 ||Required for students who intend to graduate with departmental honors. The research project is||
 ||designed and executed by the student in consultation with and under the direction of the instructor.||
-||CONSENT: Department chair.EXPECTATION: Cumulative GPA of 3.0 or higher and a GPA of 3.5 or||
-||higher in courses counting toward the major.PREREQUISITE: Senior standing.OFFERED: Sem. I.||
-|4930 |Senior Seminar|1 hr. (1, 0)|
+||Consent: Department chair.Expectation: Cumulative GPA of 3.0 or higher and a GPA of 3.5 or||
+||higher in courses counting toward the major.Prerequisite: Senior standing.Offered: Semester I.||
+|4930 |Senior Seminar|1 hour (1,0)|
 ||Capstone course for the major. Students will integrate concepts, knowledge, skills, methods,||
-||approaches, and practical experience from their major studies.PREREQUISITE: Senior standing.||
-||OFFERED: Sem. II.||
-
-
+||approaches, and practical experience from their major studies.Prerequisite: Senior standing.||
+||Offered: Semester II.||
 
 ## SOCI Courses 
 
-|2010|Introduction to Sociology|3 hrs. (3, 0)|
+|2010|Introduction to Sociology|3 hours (3,0)|
 |---|---|---|
 ||Presents the basic principles, concepts, and theoretical paradigms of sociology for analyzing social||
 ||behavior, human relationships, and social institutions. Introduces students to a sociological perspective||
@@ -6493,21 +6243,21 @@ Anderson University Undergraduate Catalog 2025-26
 ||a perspective that strives to understand the intersection between individual biography and social||
 ||structural history. Surveys the main areas of study and concentration within the feld of sociology.||
 ||_Applies to the Social & Behavioral Ways of Knowing [Raven Core] component of theLiberal Arts Core_||
-||_Curriculum._ OFFERED: Sem. I, II; Summer.||
-|2020 |Social Problems|3 hrs. (3, 0)|
+||_Curriculum._ Offered: Semester I, II; Summer.||
+|2020 |Social Problems|3 hours (3,0)|
 ||Sociological analysis of contemporary social problems designed to help students increase awareness||
 ||and sensitivity toward major social issues, recognize the impact of social problems on various groups of||
 ||people within our society, and understand how societal structures can serve to perpetuate or intervene||
 ||to effectively resolve social problems._Applies to the Social & Behavioral Ways of Knowing [Raven Core]_||
-||_component of the Liberal Arts Core Curriculum._ OFFERED: Sem. I, II; Summer. Course credit may also be||
+||_component of the Liberal Arts Core Curriculum._ Offered: Semester I, II; Summer. Course credit may also be||
 ||earned by successfully completing the Communities and Cultures Seminar at the Chicago Center.||
-|2200 |Self and Society|3 hrs. (3, 0)|
+|2200 |Self and Society|3 hours (3,0)|
 ||Examines the interrelationship of self and society in the everyday world of social interaction. Particular||
 ||emphasis on theoretical perspectives of the self and related conceptions of self-concept and self-esteem,||
 ||social roles, and identity. Examines the importance of society in the development and expression of self||
-||through a focus on socialization processes, language, deviance, and gender.OFFERED: Summer, with||
+||through a focus on socialization processes, language, deviance, and gender.Offered: Summer, with||
 ||suffcient demand.||
-|2450 |Introduction to Issues in Race and Ethnicity|3 hrs. (3, 0)|
+|2450 |Introduction to Issues in Race and Ethnicity|3 hours (3,0)|
 ||Introduces students, through a relational perspective, to the origins and the ongoing sociological||
 ||construction of the concepts of race and ethnicity in America. Analyzes different types of race and||
 ||ethnic relations in America, as well as racism, prejudice, and discrimination as tools of exclusion.||
@@ -6515,118 +6265,110 @@ Anderson University Undergraduate Catalog 2025-26
 ||Incorporates a perspective of “sociological imagination,” where one considers the intersections between||
 ||individual biography and socio-structural history._Applies to both the Global Ways of Knowing and the_||
 ||_Civil Discourse & Confict Transformation [AU Experience] components of the Liberal Arts Core Curriculum._||
-||OFFERED: Sem. I, II.||
-|2510|The Nature of Crime and Social Deviance|4 hrs. (4, 0)|
+||Offered: Semester I, II.||
+|2510|The Nature of Crime and Social Deviance|4 hours (4,0)|
 ||Examines the nature and extent of crime, juvenile delinquency, and social deviance in the United States.||
 ||Special attention given to theoretical perspectives, scientifc research and scholarship in criminology, and||
-||related factors that offer explanations for these behaviors.PREREQUISITE: ENGL 1120.PREREQUISITE or||
-||COREQUISITE:SOCI 2010 or SOCI 2020.SAME AS:CRIM 2510.OFFERED: Sem. II.||
-
-
+||related factors that offer explanations for these behaviors.Prerequisite: ENGL 1120.Prerequisite or||
+||Corequisite:SOCI 2010 or SOCI 2020.SAME AS:CRIM 2510.Offered: Semester II.||
 
 Anderson University Undergraduate Catalog 2025-26 
 
 112 
 
-## SOCI (cont.) 
-
 |OCI (c|ont.)||
 |---|---|---|
-|2850 |Practicum in Leadership Skills|2 hrs. (1, 2)|
+|2850 |Practicum in Leadership Skills|2 hours (1,2)|
 ||Introduction to training assertiveness, communication, helping, and negotiation skills. Students||
 ||receive direct feedback on their performance and gain experience in co-leadership and team building.||
-||Required for youth leadership [complementary]  majors.CONSENT: Instructor.PREREQUISITE: PSYC||
-||2100.GRADE: CR/NC.SAME AS:EDUC/PSYC 2850.OFFERED: Sem. I, II.||
-|3010|Social Psychology|4 hrs. (4, 0)|
+||Required for youth leadership [complementary]  majors.Consent: Instructor.Prerequisite: PSYC||
+||2100.Grade: CR/NC.SAME AS:EDUC/PSYC 2850.Offered: Semester I, II.||
+|3010|Social Psychology|4 hours (4,0)|
 ||Examines the behavior of individuals in society, including the study of attitudes, beliefs, prejudice,||
-||aggression, leadership, and altruism.PREREQUISITE: PSYC 2000.SAME AS:PSYC 3010.OFFERED:||
-||Sem. II.||
-|3050 |Drugs and American Society|3 hrs. (3, 0)|
+||aggression, leadership, and altruism.Prerequisite: PSYC 2000.SAME AS:PSYC 3010.Offered:||
+||Semester II.||
+|3050 |Drugs and American Society|3 hours (3,0)|
 ||Examines the sociological and criminal justice aspects of drugs, drug use, sales and traffcking, and||
 ||related socio-legal policies. Social control issues as well as concerns with education, prevention, and||
 ||treatment are also discussed. Historical perspective, primarily within the context of the United States,||
-||as well as contemporary issues will be included.PREREQUISITE: CRIM 2520, SOCI 2010, or SOCI||
-||2020 or upper-division standing.SAME AS:CRIM 3050.OFFERED: With suffcient demand.||
-|3100|Human Sexuality|3 hrs. (3, 0)|
+||as well as contemporary issues will be included.Prerequisite: CRIM 2520, SOCI 2010, or SOCI||
+||2020 or upper-division standing.SAME AS:CRIM 3050.Offered: With suffcient demand.||
+|3100|Human Sexuality|3 hours (3,0)|
 ||Nature and meaning of human sexuality as part of one’s total personality structure. Consideration of||
 ||theological/ spiritual, physiological, social, and cultural aspects of human sexual nature and behavior.||
 ||Of particular value to people entering human service professions, including pastoral counseling,||
 ||social work, criminal justice, nursing, individual therapy, marriage and family therapy, and related||
-||felds.PREREQUISITE: Sophomore or upper-division standing.OFFERED: Sem. I, II.||
-|3170|Sociology of Religion|3 hrs. (3, 0)|
-||Sociological factors infuencing expression of religion.SAME AS:RLGN 3170.OFFERED: With||
+||felds.Prerequisite: Sophomore or upper-division standing.Offered: Semester I, II.||
+|3170|Sociology of Religion|3 hours (3,0)|
+||Sociological factors infuencing expression of religion.SAME AS:RLGN 3170.Offered: With||
 ||suffcient demand.||
-|3220 |Social Gerontology|3 hrs. (3, 0)|
+|3220 |Social Gerontology|3 hours (3,0)|
 ||Includes theoretical frameworks, historical development of social policy, and social services related to||
 ||aging. Provides students the opportunity to explore the bio-psycho-social dimensions particular to the||
 ||elderly; assess the socioeconomic, physical, and psychological needs of the elderly; and develop||
 ||intervention skills for obtaining, providing, and improving social services on behalf of elderly individuals||
-||and their families.SAME AS:SOWK 3220.OFFERED: With suffcient demand.||
-|3300 |Family Law and Public Policy|3 hrs. (3, 0)|
+||and their families.SAME AS:SOWK 3220.Offered: With suffcient demand.||
+|3300 |Family Law and Public Policy|3 hours (3,0)|
 ||Comprehensive survey of laws and public policies pertaining to marriage and the family: laws relating to||
 ||marriage, divorce, family support, child custody, child protection rights, and family planning and public||
 ||policy as it affects the family in areas such as taxes, civil rights, social security, and economic support.||
-||SAME AS:SOWK 3300.OFFERED: Sem. II.||
-|3400 |Race and Ethnicity in America|3 hrs. (3, 0)|
+||SAME AS:SOWK 3300.Offered: Semester II.||
+|3400 |Race and Ethnicity in America|3 hours (3,0)|
 ||Explores critical issues related to the construction and meanings of the concepts of race and ethnicity||
 ||as well as the nature of stereotyping, prejudice, racism, discrimination, and historical exclusion, while||
 ||also addressing processes of identity formation. Examines a variety of race and ethnic relations||
 ||patterns, from colonialism, expulsion, and segregation to integration, assimilation, and pluralism, taken||
 ||historically by different racial and ethnic groups in America, as well as the phenomenon of||
 ||transnationalism and the emergence of transnational communities in the United States and globally.||
-||PREREQUISITE: Upper-division standing.OFFERED: With suffcient demand.||
-|3470 |Environmental Sociology|3 hrs. (3, 0)|
+||Prerequisite: Upper-division standing.Offered: With suffcient demand.||
+|3470 |Environmental Sociology|3 hours (3,0)|
 ||Examines the interplay among the biophysical environment, social organization, and human social||
 ||behavior with a focus on the social and environmental consequences of the organization of daily life.||
 ||Students will study how various societal institutions and structures infuence the defnition of and||
 ||response to the physical environment._Applies to the Global Ways of Knowing [AU Experience]_||
-||_component of the Liberal Arts Core Curriculum._ PREREQUISITE:Upper-division standing.OFFERED:||
+||_component of the Liberal Arts Core Curriculum._ Prerequisite:Upper-division standing.Offered:||
 ||With suffcient demand.||
-|3500 |Thought Life and Spiritual Growth|2 hrs. (2, 0)|
+|3500 |Thought Life and Spiritual Growth|2 hours (2,0)|
 ||Utilizes cognitive theory and spiritual principles to inform one’s interpersonal and professional||
 ||growth. Presents a convergence model of cognitive precepts and Judeo-Christian spiritual principles||
 ||that can be utilized in such transformation. A theoretical context will be provided and experiential||
 ||techniques will be modeled for application. Of particular value for those entering ministry and||
 ||helping professions._Applies to the Personal Wellness [AU Experience] component of theLiberal Arts_||
-||_Core Curriculum._ SAME AS:PSYC 3500.OFFERED: Sem. I, 2025-26 (alternating years).||
-
-
+||_Core Curriculum._ SAME AS:PSYC 3500.Offered: Semester I, 2025-26 (alternating years).||
 
 Anderson University Undergraduate Catalog 2025-26 
 
 113 
 
-## SOCI (cont.) 
-
 |SOCI (|cont.)|||
 |---|---|---|---|
-|3650 |Independent Study|1-4|hrs. (1-4, 0)|
-||Intensive study of a sociological area not specifcally covered by other courses.CONSENT:|||
-||Department chair.REPEAT: May be repeated (total credit not to exceed 4 hours).OFFERED: With|||
+|3650 |Independent Study|1-4|hours (1-4,0)|
+||Intensive study of a sociological area not specifcally covered by other courses.Consent:|||
+||Department chair.Repeat: May be repeated (total credit not to exceed 4 hours).Offered: With|||
 ||suffcient demand.|||
-|3700 |Introduction to Social Research||4 hrs. (4, 0)|
+|3700 |Introduction to Social Research||4 hours (4,0)|
 ||Introduces methods and application of social research, including issues of conceptualization of|||
 ||variables, research design, scientifc sampling, quantitative and qualitative forms of analysis, evaluation|||
-||research, and utilization of social research in policy, program, and practice settings.PREREQUISITE:|||
-||Upper-division standing; SOCI 2010 or 2020 or 2100.SAME AS:PUBH 3010.OFFERED: Sem. I, II.|||
-|4350 |Program Planning and Grant Writing||3 hrs. (3, 0)|
+||research, and utilization of social research in policy, program, and practice settings.Prerequisite:|||
+||Upper-division standing; SOCI 2010 or 2020 or 2100.SAME AS:PUBH 3010.Offered: Semester I, II.|||
+|4350 |Program Planning and Grant Writing||3 hours (3,0)|
 ||There is a need in the nonproft sector and social service agencies for highly competent professionals|||
 ||who possess the requisite skills needed to: (1) assess community needs, especially those impacting|||
 ||children and families; (2) think strategically and creatively about relevant program interventions; and|||
 ||(3) acquire competitive funding from government agencies and private and public foundations.|||
 ||Coursework integrates several knowledge and skill areas including research methods, program|||
 ||planning, proposal writing, budget planning, project implementation, and program evaluation to assess|||
-||the effectiveness of interventions.PREREQUISITE: Upper-division standing.SAME AS:SOWK 4350.|||
-||OFFERED: Sem. I.|||
-|4650 |Independent Study|1-4|hrs. (1-4, 0)|
-||Intensive study of a sociological area not specifcally covered by other courses.CONSENT: Department|||
-||chair.REPEAT: May be repeated (total credit not to exceed 8 hours).OFFERED: With suffcient demand.|||
-|4800 |Internship in Youth Leadership||2 hrs. (1, 2)|
+||the effectiveness of interventions.Prerequisite: Upper-division standing.SAME AS:SOWK 4350.|||
+||Offered: Semester I.|||
+|4650 |Independent Study|1-4|hours (1-4,0)|
+||Intensive study of a sociological area not specifcally covered by other courses.Consent: Department|||
+||chair.Repeat: May be repeated (total credit not to exceed 8 hours).Offered: With suffcient demand.|||
+|4800 |Internship in Youth Leadership||2 hours (1,2)|
 ||Opportunity for youth leadership [complementary] majors to practice the training and presentation|||
 ||skills and content learned in prior courses in an applied setting relevant to the student’s career or|||
-||personal goals. Required for youth leadership [complementary] majors.PREREQUISITE: PSYC 4210.|||
-||GRADE: CR/NC.SAME AS:EDUC/PSYC 4800.OFFERED: Sem. II.|||
-|4810|Community Health Internship||3 hrs. (3, 0)|
+||personal goals. Required for youth leadership [complementary] majors.Prerequisite: PSYC 4210.|||
+||Grade: CR/NC.SAME AS:EDUC/PSYC 4800.Offered: Semester II.|||
+|4810|Community Health Internship||3 hours (3,0)|
 ||Supervised feld experience providing students an opportunity to apply knowledge in a practice setting.|||
 ||Focuses on strengthening competence in general community health and specialty skills through|||
 ||practical experiences. A wide range of settings and opportunities may be suitable for an internship,|||
@@ -6637,115 +6379,107 @@ Anderson University Undergraduate Catalog 2025-26
 ||nutrition, human rights, sustainable communities, and global health policies and initiatives. Internship|||
 ||locations might include NGO, International Agencies (United Nations High Commission for Refugees),|||
 ||World Relief, World Vision, Compassion International, SIFAT, World Hunger Relief Inc., Food Research|||
-||and Action Center, and local nonproft or governmental agencies.CONSENT: Instructor.OFFERED:|||
+||and Action Center, and local nonproft or governmental agencies.Consent: Instructor.Offered:|||
 ||Summer.|||
-|4820 |Family Science Internship||3 hrs. (3, 0)|
+|4820 |Family Science Internship||3 hours (3,0)|
 ||Allows students to work under supervision in an approved agency where classroom knowledge is|||
-||applied to practical learning skills in a family life education setting. PREREQUISITE: SOCI 3250, 3700;|||
-||SOWK 3200. OFFERED: With suffcient demand.|||
+||applied to practical learning skills in a family life education setting. Prerequisite: SOCI 3250,3700;|||
+||SOWK 3200. Offered: With suffcient demand.|||
 |SOWK|Courses|||
-|2000 |Introduction to Social Welfare and Social Work||3 hrs. (3, 0)|
+|2000 |Introduction to Social Welfare and Social Work||3 hours (3,0)|
 ||Studies the foundations of generalist social work practice. Examines the knowledge, values, and skills|||
 ||base of the social work profession. Provides introductory content in the areas of human behavior and|||
-||social environment, social welfare policy, social research and social work practice.PREREQUISITE or|||
-||COREQUISITE: SOCI 2010 or 2020.OFFERED: Sem. I, II.|||
-|2100|Introduction to Field Experience|2 hrs. (1.25, 0)||
+||social environment, social welfare policy, social research and social work practice.Prerequisite or|||
+||Corequisite: SOCI 2010 or 2020.Offered: Semester I, II.|||
+|2100|Introduction to Field Experience|2 hours (1.25,0)||
 ||Participant observer feld experience (36 hours) in a social agency providing knowledge and perspective|||
 ||about the network of social agencies and institutions, administrative structures, policies, programs, and|||
 ||delivery of services. Students develop human relations skills working with clients. Weekly group discussion|||
-||(1.5 hours).PREREQUISITE or COREQUISITE:SOCI 2010 or 2020; SOWK 2000.OFFERED: Sem. I.|||
-
-
+||(1.5 hours).Prerequisite or Corequisite:SOCI 2010 or 2020; SOWK 2000.Offered: Semester I.|||
 
 Anderson University Undergraduate Catalog 2025-26 
 
 114 
 
-## SOWK (cont.) 
-
 |OWK |(cont.)|||
 |---|---|---|---|
-|2200 |Human Behavior and Social Environment||4 hrs. (4, 0)|
+|2200 |Human Behavior and Social Environment||4 hours (4,0)|
 ||Exploration of the person in the environment through examining biological, psychological, social and|||
 ||spiritual development over the lifespan; resources and obstacles in meeting crises at various points|in||
 ||life cycle; systems approach to integration of individual, group, and societal needs; understanding and|||
 ||acceptance of human diversity; integration of theories of human behavior from various disciplines; and|||
-||introductory research methodology. Internship required (20 hours for the semester).PREREQUISITE:|||
-||Upper-division standing; social work major or minor; SOWK 2000, 2100 (SOWK 2100 waived as a|||
-||prerequisite for social work minors).PREREQUISITE or COREQUISITE:BIOL 2040.OFFERED: Sem. I.|||
-|3100|Social Welfare Policy||4 hrs. (4, 0)|
+||introductory research methodology. Internship required (20 hours for the semester).Prerequisite:|||
+||Upper-division standing; social work major or minor; SOWK 2000,2100 (SOWK 2100 waived as a|||
+||prerequisite for social work minors).Prerequisite or Corequisite:BIOL 2040.Offered: Semester I.|||
+|3100|Social Welfare Policy||4 hours (4,0)|
 ||Processes by which policies are developed in social welfare delivery systems; establishing priorities;|||
 ||professional roles in analysis and evaluation in public and private agencies; and political and economic|||
-||implications of major social welfare legislation.PREREQUISITE: Upper-division standing; SOWK 2200.|||
-||OFFERED: Sem. II.|||
-|3210|Child Welfare||3 hrs. (3, 0)|
+||implications of major social welfare legislation.Prerequisite: Upper-division standing; SOWK 2200.|||
+||Offered: Semester II.|||
+|3210|Child Welfare||3 hours (3,0)|
 ||Historical and current issues related to the practice of child welfare. Examination of contemporary|||
-||services to children and parents.OFFERED: With suffcient demand.|||
-|3220 |Social Gerontology||3 hrs. (3, 0)|
+||services to children and parents.Offered: With suffcient demand.|||
+|3220 |Social Gerontology||3 hours (3,0)|
 ||Includes theoretical frameworks, historical development of social policy, and social services related|to||
 ||aging. Provides students the opportunity to explore the bio-psycho-social dimensions particular to the|||
 ||elderly; assess the socioeconomic, physical, and psychological needs of the elderly; and to develop|||
 ||intervention skills for obtaining, providing, and improving social services on behalf of elderly individuals|||
-||and their families.SAME AS:SOCI 3220.OFFERED: With suffcient demand.|||
-|3230 |Mental Health||3 hrs. (3, 0)|
+||and their families.SAME AS:SOCI 3220.Offered: With suffcient demand.|||
+|3230 |Mental Health||3 hours (3,0)|
 ||Examination of emotional problems resulting in social dysfunctioning of the individual and family;|||
-||includes survey of mental health services.OFFERED: With suffcient demand.|||
-|3240 |Developmental Disabilities||3 hrs. (3, 0)|
+||includes survey of mental health services.Offered: With suffcient demand.|||
+|3240 |Developmental Disabilities||3 hours (3,0)|
 ||Examination of physical and developmental disabilities. Exploration of barriers and discrimination.|||
-||Survey of rehabilitation and social services.OFFERED: With suffcient demand.|||
-|3300 |Family Law and Public Policy||3 hrs. (3, 0)|
+||Survey of rehabilitation and social services.Offered: With suffcient demand.|||
+|3300 |Family Law and Public Policy||3 hours (3,0)|
 ||Comprehensive survey of laws and public policies pertaining to marriage and the family: laws relating to|||
 ||marriage, divorce, family support, child custody, child protection rights, and family planning and public|||
 ||policy as it affects the family in areas such as taxes, civil rights, social security, and economic support.|||
-||SAME AS:SOCI 3300.OFFERED: With suffcient demand.|||
-|3650 |Independent Study|1-4|hrs. (1-4, 0)|
-||Intensive study of a social work area not specifcally covered by other courses.CONSENT: Program|||
-||Director.REPEAT: May be repeated (total credit not to exceed 8 hours).OFFERED: With suffcient|||
+||SAME AS:SOCI 3300.Offered: With suffcient demand.|||
+|3650 |Independent Study|1-4|hours (1-4,0)|
+||Intensive study of a social work area not specifcally covered by other courses.Consent: Program|||
+||Director.Repeat: May be repeated (total credit not to exceed 8 hours).Offered: With suffcient|||
 ||demand.|||
-|4350 |Program Planning and Grant Writing||3 hrs. (3, 0)|
+|4350 |Program Planning and Grant Writing||3 hours (3,0)|
 ||There is a need in the nonproft sector and social service agencies for highly competent professionals|||
 ||who possess the requisite skills needed to: (1) assess community needs, especially those impacting|||
 ||children and families; (2) think strategically and creatively about relevant program interventions; and|||
 ||(3) acquire competitive funding from government agencies and private and public foundations. The|||
 ||course integrates several knowledge and skill areas including research methods, program planning,|||
 ||proposal writing, budget planning, project implementation, and program evaluation to assess the|||
-||effectiveness of interventions.PREREQUISITE: Upper-division standing.SAME AS:SOCI 4350.|||
-||OFFERED: Sem. I.|||
-|4650 |Independent Study|1-4|hrs. (1-4, 0)|
-||Intensive study of a social work area not specifcally covered by other courses.CONSENT: Program|||
-||Director.REPEAT: May be repeated (total credit not to exceed 8 hours).OFFERED: With suffcient|||
+||effectiveness of interventions.Prerequisite: Upper-division standing.SAME AS:SOCI 4350.|||
+||Offered: Semester I.|||
+|4650 |Independent Study|1-4|hours (1-4,0)|
+||Intensive study of a social work area not specifcally covered by other courses.Consent: Program|||
+||Director.Repeat: May be repeated (total credit not to exceed 8 hours).Offered: With suffcient|||
 ||demand.|||
-|4710|Social Work Practice||4 hrs. (4, 0)|
+|4710|Social Work Practice||4 hours (4,0)|
 ||Teaches basic skills for generalist social work practice that considers the strengths and defcits in|||
 ||the interplay between people and their environments. Emphasizes theories, methods, and techniques|||
 ||for multi-dimensional assessment, differential selection of interventions, and evaluation in work with|||
 ||diverse populations. Also builds skills in ethical decision-making, networking, utilizing resources, and|||
-||documenting services. Internship required (20 hours for the semester).EXPECTATION: Admission to|||
-||Social Work Program.PREREQUISITE: SOWK 2000, 2100, 2200.OFFERED: Sem. II.|||
-
-
+||documenting services. Internship required (20 hours for the semester).Expectation: Admission to|||
+||Social Work Program.Prerequisite: SOWK 2000,2100,2200.Offered: Semester II.|||
 
 Anderson University Undergraduate Catalog 2025-26 
 
 115 
 
-## SOWK (cont.) 
+4720 Social Work Practice with Families and Groups 3 hours (3,0) 
 
-4720 Social Work Practice with Families and Groups 3 hrs. (3, 0) 
+Emphasis on basic skills for generalist social work practice that include understanding and assessing family and small-group functioning, strategically planning interventions, and effectively terminating and evaluating services with these client groups. Common family issues are presented in tandem with ideas for interventions. A survey of group types is provided with techniques for effective facilitation. Prerequisite : SOWK 4710. Corequisite : SOWK 4730. Offered : Semester I. 
 
-Emphasis on basic skills for generalist social work practice that include understanding and assessing family and small-group functioning, strategically planning interventions, and effectively terminating and evaluating services with these client groups. Common family issues are presented in tandem with ideas for interventions. A survey of group types is provided with techniques for effective facilitation. PREREQUISITE : SOWK 4710. COREQUISITE : SOWK 4730. OFFERED : Sem. I. 
+4730 Social Work Practice with Communities and Organizations 3 hours (3,0) 
 
-4730 Social Work Practice with Communities and Organizations 3 hrs. (3, 0) 
+Study of macro social work practice skills, interventions, and issues with communities and organizations. Emphasizes community organization as a viable practice method. The close interrelationship between community and organizations is explored, as well as concepts such as empowerment, asset-based community development, collective action, and problem solving. Prerequisite : SOWK 4710. Corequisite : SOWK 4720. Offered : Semester I. 
 
-Study of macro social work practice skills, interventions, and issues with communities and organizations. Emphasizes community organization as a viable practice method. The close interrelationship between community and organizations is explored, as well as concepts such as empowerment, asset-based community development, collective action, and problem solving. PREREQUISITE : SOWK 4710. COREQUISITE : SOWK 4720. OFFERED : Sem. I. 
+4850 Social Work Practicum 12 hours (arranged) 
 
-4850 Social Work Practicum 12 hrs. (arranged) 
+Block field placement (442 hours) in a social service agency under professional supervision. Requires full-time availability for the entire semester. _Applies to both the speaking-intensive and Experiential Ways of Knowing components of the Liberal Arts Core Curriculum._ Prerequisite : SOWK 4710,4720,4730. Offered : Semester II. 
 
-Block field placement (442 hours) in a social service agency under professional supervision. Requires full-time availability for the entire semester. _Applies to both the speaking-intensive and Experiential Ways of Knowing components of the Liberal Arts Core Curriculum._ PREREQUISITE : SOWK 4710, 4720, 4730. OFFERED : Sem. II. 
+4920 Honors Study 4 hours (4,0) 
 
-4920 Honors Study 4 hrs. (4, 0) 
-
-Intensive study of a social work area not specifically covered by other courses. PREREQUISITE: Senior standing. EXPECTATION: Minimum GPA of 3.5 or higher in SOWK courses counted toward the major. CONSENT: Program Director. REPEAT: May be repeated (total credit not to exceed 8 hours). OFFERED: With sufficient demand. 
+Intensive study of a social work area not specifically covered by other courses. Prerequisite: Senior standing. Expectation: Minimum GPA of 3.5 or higher in SOWK courses counted toward the major. Consent: Program Director. Repeat: May be repeated (total credit not to exceed 8 hours). Offered: With sufficient demand. 
 
 Anderson University Undergraduate Catalog 2025-26 
 
@@ -6762,10 +6496,6 @@ The Anderson University honors program provides an intellectually enriched learn
 Each honors course will be taken together as a cohort, and all meet Liberal Arts Core Curriculum areas required for Anderson University students. Honors courses are not designed to be more difficult or more work than other liberal arts courses. Instead, they involve discussions based on readings, and they are focused on intellectual and spiritual development. Many of these courses are team-taught and/or are interdisciplinary. 
 
 Outside of the classroom, our honors scholars are engaged in campus activities, including service and leadership roles. Many scholars are athletes both on intercollegiate and intramural teams, as well as dancers, musicians, leaders in student government, and event participants. Students in our honors program are among the most engaged on campus, with the support to excel in all of the areas about which they are passionate. Throughout the program, honors scholars are encouraged to pursue opportunities for international study and travel and service to the church and community. Upon completion of this four-year program, honors scholars will receive special recognition at commencement and on their transcript. 
-
-## Mission 
-
-The honors program at Anderson University is devoted to fostering within its honors scholars a passionate dedication to intellectual inquiry and spiritual development so that they may serve as vibrant leaders in their professions and in their communities. 
 
 ## Scholars Courses 
 
@@ -6797,49 +6527,47 @@ Anderson University Undergraduate Catalog 2025-26
 
 ## HNRS Courses 
 
-|1000|Personal Enrichment Through Servant Leadership|0-1 hr.|
+|1000|Personal Enrichment Through Servant Leadership|0-1 hour|
 |---|---|---|
 ||Engages students in servant leadership through participation in a signifcant community service||
-||project, a travel seminar or other enrichment activity approved by the program directors.GRADE:||
+||project, a travel seminar or other enrichment activity approved by the program directors.Grade:||
 ||CR/NC.||
-|2110|Honors Literature|3 hrs. (3, 0)|
+|2110|Honors Literature|3 hours (3,0)|
 ||Employs literary theory to examine multiple literary texts and develops students’ ability to produce||
 ||analytical essays through a process of scholarly research, drafting and revision.NOTE:_A grade of C-_||
 ||_or better fulflls the Written Communication [Raven Core] component of the Liberal Arts Core Curriculum._||
-|2125|The Scholar as Servant Leader|2 hrs. (2, 0)|
+|2125|The Scholar as Servant Leader|2 hours (2,0)|
 ||Focuses on the stories of great men and women who were cast into positions of leadership and||
 ||analyzes what is to be understood of their personal formation and qualities as leaders and servants.||
 ||_Applies to the Civil Discourse & Confict Transformation [AU Experience] component of the Liberal Arts_||
 ||_Core Curriculum._||
-|2210 Scientifc Discoveries and Paradigm Shifts||4 hrs. (3, 2)|
+|2210 Scientifc Discoveries and Paradigm Shifts||4 hours (3,2)|
 ||Examines the nature of science, the history and philosophy of science, and the experiential, hands-on||
 ||practice of science. “Paradigm shifts” are explored through the lens of various scientifc models as||
 ||they relate to how science helps us understand our world._Applies to the Scientifc Ways of Knowing_||
 ||_[Raven Core] component of the Liberal Arts Core Curriculum._||
-|2300 |Honors History|3 hrs. (3, 0)|
+|2300 |Honors History|3 hours (3,0)|
 ||Introduces students to the history and culture of the West, through a consideration of the ongoing||
 ||Western debate about use of force and  the defning characteristics of Western civilization._Applies to_||
 ||_the Humanistic & Artistic Ways of Knowing [Raven Core] component of the Liberal Arts Core Curriculum._||
-|3100|Art and the Human Response|3 hrs. (3,0)|
+|3100|Art and the Human Response|3 hours (3,0)|
 ||An integrated appreciation/experiential course that investigates how art in its various forms is an||
 ||important element of social, political, persona and religious expression across time and cultures,||
 ||and engages students in the practice of creating genre-specifc art forms, such as short flms,||
 ||dramatic skips, music or photography._Applies to the Humanistic & Artistic Ways of Knowing [Raven_||
 ||_Core] component of the Liberal Arts Core Curriculum._||
-|3221|Traditionalism and Globalization|3 hrs. (3,0)|
+|3221|Traditionalism and Globalization|3 hours (3,0)|
 ||Examines the bridges and barriers among various cultures of the world through a historical analysis.||
 ||_Applies to the Global Ways of Knowing [AU Experience] component in the Liberal Arts Core Curriculum_.||
-|3325 |Christ and Culture|3 hrs. (2, 0)|
+|3325 |Christ and Culture|3 hours (2,0)|
 ||Organized as a seminar in historical theology that considers the various relationships between||
 ||Christians and their culture. Readings in primary and secondary sources, as well as journal articles,||
 ||will inform seminar discussions._Applies to the Christian Ways of Knowing [AU Experience] component_||
 ||_in the Liberal Arts Core Curriculum_.||
-|4910|Honors Senior Seminar|1 hr. (1, 0)|
+|4910|Honors Senior Seminar|1 hour (1,0)|
 ||Honors scholars will develop and complete an original research project which makes a unique||
-||scholarly contribution, under the direction of an academic mentor.REPEAT: May be repeated by||
+||scholarly contribution, under the direction of an academic mentor.Repeat: May be repeated by||
 ||students whose senior thesis project spans two semesters.||
-
-
 
 Anderson University Undergraduate Catalog 2025-26 
 
@@ -6851,67 +6579,63 @@ _Faculty: Prof. Coplin, Prof Grubbs, Prof. Willis_
 
 |LART Courses|LART Courses||
 |---|---|---|
-|1000|College Survival Skills|2 hrs. (2, 0)|
+|1000|College Survival Skills|2 hours (2,0)|
 ||Provides an opportunity for students to learn and adopt methods to be successful in undergraduate||
 ||work. Deals with basic academic, study, and life skills, and attitudes necessary for collegiate success.||
-||OFFERED: Sem. I, II; Summer.||
-|1010|Strategies for Academic Success|3 hrs. (3, 0)|
+||Offered: Semester I, II; Summer.||
+|1010|Strategies for Academic Success|3 hours (3,0)|
 ||Introduces the concept of how emotional intelligence (EQ) and personal learning preferences affect||
 ||the student’s ability to think critically and therefore improve learning. Provides an opportunity to||
 ||assess and develop basic EQ skills and study strategies necessary for academic success, including||
 ||textbook reading, note-taking, test-taking, time management, communication skills, collegiate writing||
-||skills, presentation skills, and career planning.OFFERED: Sem. I, II.||
-|1020|Strategies for Academic Success for Adult Learners|3 hrs. (3, 0)|
+||skills, presentation skills, and career planning.Offered: Semester I, II.||
+|1020|Strategies for Academic Success for Adult Learners|3 hours (3,0)|
 ||Introduces adult students to strategies necessary for academic success, including time management,||
 ||note-taking, test-taking, reading strategies, communication skills, collegiate writing skills, and||
 ||research skills. Introduces the concept of how emotional intelligence (EQ) affects the ability to think||
-||critically and achieve success.OFFERED: Sem. I, II.||
-|1050|First-Year Experience Seminar|1 hr. (1, 0)|
+||critically and achieve success.Offered: Semester I, II.||
+|1050|First-Year Experience Seminar|1 hour (1,0)|
 ||A holistic orientation during which students refect, connect, and grow intellectually, socially, and||
 ||spiritually as part of AU’s community. Students refect upon AU’s fve core values and distinctive||
 ||Christian character while also connecting to campus resources necessary for success. Students grow||
 ||as whole people by considering how their individual values, strengths, and vocational call can work||
 ||together to beneft their personal and professional future._Applies to the Understanding College [AU_||
-||_Experience] component of theLiberal Arts Core Curriculum._ GRADE: CR/NC.OFFERED: Sem. I, II.||
-|1100|Critical-Thinking Seminar|3 hrs. (3, 0)|
+||_Experience] component of theLiberal Arts Core Curriculum._ Grade: CR/NC.Offered: Semester I, II.||
+|1100|Critical-Thinking Seminar|3 hours (3,0)|
 ||Cultivates critical-thinking, communication, and community-building skills common to most other||
 ||university- level classes and which are useful for pursuing truth and living lives of faith and service.||
-||OFFERED: Sem. I, II.||
-|1200|Career and Life Planning|1 hr. (2, 0)|
+||Offered: Semester I, II.||
+|1200|Career and Life Planning|1 hour (2,0)|
 ||Addresses the role of decision-making skills in choosing a college major. Students assess interests,||
 ||personality, skills, and values to assist them in fnding the “best ft” among the majors and career||
 ||options they are researching. Students also learn effective problem-solving skills that can be used||
-||over a lifetime for career and life-planning decisions.EXPECTATION: Designed for undecided||
-||freshman/sophomore students.CONSENT: Open to juniors/seniors with instructor’s consent.||
-||OFFERED: Sem. I, II.||
-|2000 |Introduction to Scholarly Communication|2 hr. (2, 0)|
+||over a lifetime for career and life-planning decisions.Expectation: Designed for undecided||
+||freshman/sophomore students.Consent: Open to juniors/seniors with instructor’s consent.||
+||Offered: Semester I, II.||
+|2000 |Introduction to Scholarly Communication|2 hour (2,0)|
 ||Introduces students to concepts and skills related to scholarly communication and academic literature||
 ||research. Will include weekly topics such as literature research, “the scholarly conversation”, citations||
 ||and plagiarism, matching information needs to appropriate information sources, context and construction||
 ||of authority in popular and scholarly information, and online written engagement._Applies to the Civil_||
 ||_Discourse & Confict Transformation [AU Experience] component of theLiberal Arts Core Curriculum._||
-|2900 |Student-Leadership Seminar|1 hr. (1, 0)|
+|2900 |Student-Leadership Seminar|1 hour (1,0)|
 ||Students will explore the discipline of leadership. With a biblical framework, applicable themes will||
-||give students practical ways to refect on their strengths and grow in their leadership skills.OFFERED:||
-||Sem. I, II.||
-|4500 |Critical Thinking and Professional Development|3 hrs. (3, 0)|
+||give students practical ways to refect on their strengths and grow in their leadership skills.Offered:||
+||Semester I, II.||
+|4500 |Critical Thinking and Professional Development|3 hours (3,0)|
 ||Focuses on transforming learning from the classroom to the real world through the assessment and||
 ||development of the 6 major areas and 16 subcomponents of emotional intelligence (EQ) and the 8||
 ||Competencies for a Career-Ready Workforce(National Association of Colleges and Employers).||
 ||Students incorporate a variety of methods to enhance the critical-thinking and EQ skills necessary||
 ||to positively affect decision-making abilities as well as the personal, collegiate, and professional||
-||relationships that defne success.OFFERED: Sem. I; Summer.||
-
-
+||relationships that defne success.Offered: Semester I; Summer.||
 
 ## INCS Course 
 
-|3850 |Domestic/Global Experience|0 hrs. (arranged)|
+|3850 |Domestic/Global Experience|0 hours (arranged)|
 |---|---|---|
 ||Participation in an intercultural service/learning experience. Offered in conjunction with a TRI-S||
-||program.CONSENT: Instructor.OFFERED: Sem. I, II; Summer.||
-
-
+||program.Consent: Instructor.Offered: Semester I, II; Summer.||
 
 Anderson University Undergraduate Catalog 2025-26 
 
@@ -6937,7 +6661,7 @@ Additional requirements for Bachelor of Arts degree:
 
 - complete 120 hours (2.0 GPA) 
 
-## ASSOCIATE OF SCIENCE: GENERAL STUDIES 
+## ASSOCIATE OF SCIENCE GENERAL STUDIES 
 
 This two-year Associate of Science degree provides foundational courses for the university’s bachelor’s degrees. 
 
@@ -6977,7 +6701,7 @@ _Faculty:  Dr. Frank, Dr. Griffith, Dr. Stull, Dr. Van Groningen_
 
 Provides a coherent plan of study in statistics supporting students’ major fields of study. 
 
-## STATISTICS MINOR  (16 hrs.) 
+## STATISTICS MINOR  (16 hours) 
 
 - MATH 2120 or PSYC 2440 
 
@@ -6993,9 +6717,9 @@ _Faculty: Prof. Elliott, Dean Miller Fox, Prof. Pay, Prof. Poythress, Dean Willo
 
 An interdisciplinary minor focusing on the historical, cultural, sociological, political, and economic roles of women both nationally and globally. Emphasis is also placed on women’s issues as they affect the individual and the family. The women’s studies minor is hosted by the Department of History and Political Science. Students who declare this minor must meet with the coordinator for advising. 
 
-## WOMEN’S STUDIES MINOR (15 hrs.) 
+## WOMEN’S STUDIES MINOR (15 hours) 
 
-## Required Core Courses (6 hrs.): 
+## Required Core Courses (6 hours) 
 
 - HIST 3260 
 
@@ -7005,11 +6729,11 @@ _*With prior approval of program coordinator, may substitute one of the followin
 
 o POSC 4650 o ENGL 4650 o SOCI 4650 
 
-Remaining (9 hrs.) from: 
+Remaining (9 hours) from: 
 
-- HIST 3455, 4030 
+- HIST 3455,4030 
 
-- SOCI 2020, 2100, 3100 
+- SOCI 2020,2100,3100 
 
 - ENGL 3580 
 
@@ -7058,8 +6782,6 @@ A wide selection of minors is available to all students, whether their major is 
 |●|Economics|●|Global Business|
 |●|Entrepreneurship|●|Management|
 
-
-
 - Marketing ●​ Social Media ●​ Sports Management 
 
 ## BUSINESS CORE  (48 hrs) 
@@ -7100,23 +6822,23 @@ The accounting major is designed to provide a knowledge base in both financial a
 
 The major provides coursework that helps prepare students for the Certified Public Accountant (CPA) exam. Students wanting to take the Certified Management Accountant (CMA) exam can take the optional CMA concentration. 
 
-## ACCOUNTING MAJOR (73 hrs. ) 
+## ACCOUNTING MAJOR (73 hours ) 
 
-## Accounting with CPA preparation: 
+## Accounting with CPA preparation 
 
 - 48-hour business core 
 
-- 25-hour accounting core: ACCT 3010, 3020, 3110, 3500, 4020, 4050, 4100, 4310, 4900 
+- 25-hour accounting core: ACCT 3010,3020,3110,3500,4020,4050,4100,4310,4900 
 
 - ACCT 4850 is strongly recommended for students preparing for the CPA exam. 
 
 Optional CMA preparation Concentration: 
 
-- BSNS 3240, 3350, 4150 
+- BSNS 3240,3350,4150 
 
 - Recommended: ACCT 4860 
 
-## ACCOUNTING MINOR (15 hrs. ) 
+## ACCOUNTING MINOR (15 hours ) 
 
 - 15 hours from ACCT courses 
 
@@ -7126,49 +6848,49 @@ Courses in business administration are designed to provide general understanding
 
 ## MAJORS 
 
-## BUSINESS ANALYTICS MAJOR (67-68 hrs. ) 
+## BUSINESS ANALYTICS MAJOR (67-68 hours ) 
 
 ●​ 48-hour business core 
 
-●​ CPSC 2020, 2040, 2100 
+●​ CPSC 2020,2040,2100 
 
-●​ 3 hours from CPSC 2080, 2330, 4100 
+●​ 3 hours from CPSC 2080,2330,4100 
 
-●​ BSNS 3390, 4390 
+●​ BSNS 3390,4390 
 
-## ENGINEERING MANAGEMENT MAJOR (66 hrs. ) 
-
-●​ 48-hour business core 
-
-●​ ENGR 2001, 2002, 2003, 2090, 2310 
-
-- BSNS 3270, 3240, 4480 
-
-## FINANCE MAJOR (66 hrs. ) 
+## ENGINEERING MANAGEMENT MAJOR (66 hours ) 
 
 ●​ 48-hour business core 
 
-●​ BSNS 3150, 3350, 4150, 4160 
+●​ ENGR 2001,2002,2003,2090,2310 
+
+- BSNS 3270,3240,4480 
+
+## FINANCE MAJOR (66 hours ) 
+
+●​ 48-hour business core 
+
+●​ BSNS 3150,3350,4150,4160 
 
 ●​ ECON 3410 
 
 ●​ 3 hours from BSNS 4160 or ACCT 4020 
 
-## MANAGEMENT MAJOR (68 hrs. ) 
+## MANAGEMENT MAJOR (68 hours ) 
 
 ●​ 48-hour business core 
 
-●​ BSNS 3230, 3240, 3270, 4010, 4310, 4480 
+●​ BSNS 3230,3240,3270,4010,4310,4480 
 
-## MARKETING MAJOR (66 hrs. ) 
+## MARKETING MAJOR (66 hours ) 
 
 ●​ 48-hour business core 
 
-●​ BSNS 3210, 3220, 3400, 3550, 4110, 4330 
+●​ BSNS 3210,3220,3400,3550,4110,4330 
 
 ## SPORTS MANAGEMENT MAJOR (66 hrs .) 
 
-●​ 48-hour business core ●​ BSNS 3130, 4360, 4560 ●​ COMM 2130, 2140 
+●​ 48-hour business core ●​ BSNS 3130,4360,4560 ●​ COMM 2130,2140 
 
 - SPRL 3300 
 
@@ -7178,51 +6900,51 @@ Anderson University Undergraduate Catalog 2025-26
 
 ## COMPLEMENTARY MAJORS 
 
-## BUSINESS ADMINISTRATION COMPLEMENTARY MAJOR (48 hrs. ) 
+## BUSINESS ADMINISTRATION COMPLEMENTARY MAJOR (48 hours ) 
 
 - 48-hour business core 
 
 ●​ Available as a complementary major only; the student’s primary major must be outside the Falls School of Business. 
 
-## FINANCIAL PLANNING COMPLEMENTARY MAJOR  (27 hrs. ) 
+## FINANCIAL PLANNING COMPLEMENTARY MAJOR  (27 hours ) 
 
 - Preparation Coursework 
 
-○​ ACCT 2010, 2020 ○​ BSNS 2510 
+○​ ACCT 2010,2020 ○​ BSNS 2510 
 
-●​ Financial Planning Coursework ○​ BSNS 3150, 4150, 4260, 4350, 4510 ○​ ACCT 4020 
+●​ Financial Planning Coursework ○​ BSNS 3150,4150,4260,4350,4510 ○​ ACCT 4020 
 
 ## MINORS 
 
 ## ECONOMICS MINOR 
 
-For majors within or outside of the Falls School of Business (18 hrs.) 
+For majors within or outside of the Falls School of Business (18 hours) 
 
-●​ ECON 2010, 2020, 3020, 3410 
+●​ ECON 2010,2020,3020,3410 
 
-●​ 6 hours selected from the following: ˃ ECON 3110, 3210, 3850*, 4020 ˃ BSNS 4240 ˃ POSC 2200 
+●​ 6 hours selected from the following: ˃ ECON 3110,3210,3850*, 4020 ˃ BSNS 4240 ˃ POSC 2200 
 
 ## ENTREPRENEURSHIP MINOR 
 
-For majors within the Falls School of Business (18 hrs.) 
+For majors within the Falls School of Business (18 hours) 
 
-●​ BSNS 3210, 3270, 4310 ●​ 9 hours from the following: ˃ ACCT 3110, 4020 ˃ BSNS 3150, 3220, 3350, 3400, 4110, 4240, 4360 ˃ COMM 2200, 2240, 3250 ˃ PSYC 2000 ˃ SOCI 2010 
+●​ BSNS 3210,3270,4310 ●​ 9 hours from the following: ˃ ACCT 3110,4020 ˃ BSNS 3150,3220,3350,3400,4110,4240,4360 ˃ COMM 2200,2240,3250 ˃ PSYC 2000 ˃ SOCI 2010 
 
-For majors outside of the Falls School of Business (15 hrs.) 
+For majors outside of the Falls School of Business (15 hours) 
 
-●​ 12 hours from the following: ˃ ACCT 2010 ˃ BSNS 2710, 2810, 4310 
+●​ 12 hours from the following: ˃ ACCT 2010 ˃ BSNS 2710,2810,4310 
 
-●​ 3 hours from BSNS 3210, 3220, 3240, 3400, 3420, 4110 
+●​ 3 hours from BSNS 3210,3220,3240,3400,3420,4110 
 
 ## FINANCE MINOR 
 
-For majors within or outside of the Falls School of Business (18 hrs.) 
+For majors within or outside of the Falls School of Business (18 hours) 
 
-●​ ACCT 2010 ●​ BSNS 2510, 3350, 4150 ●​ ECON 3410 ●​ 3 hours from BSNS 3150, 4160, 4260, 4350 
+●​ ACCT 2010 ●​ BSNS 2510,3350,4150 ●​ ECON 3410 ●​ 3 hours from BSNS 3150,4160,4260,4350 
 
 ## GLOBAL BUSINESS MINOR 
 
-For majors within the Falls School of Business, select an option (15 hrs.) 
+For majors within the Falls School of Business, select an option (15 hours) 
 
 ●​ Option 1: o 12-hour International Business Institute Program o 3 hours from either BSNS 3120 or 4120 
 
@@ -7230,63 +6952,63 @@ Anderson University Undergraduate Catalog 2025-26
 
 124 
 
-●​ Option 2: o BSNS 3120 o 12 hours from the following: ˃ COMM 3050 ˃ INSC 3850 ˃ HIST 3240, 3360, 3370 ˃ POSC 3450, 3510 ˃ HIST/RLGN 3320 ˃ FREN/GERM/SPAN 1020 or higher 
+●​ Option 2: o BSNS 3120 o 12 hours from the following: ˃ COMM 3050 ˃ INSC 3850 ˃ HIST 3240,3360,3370 ˃ POSC 3450,3510 ˃ HIST/RLGN 3320 ˃ FREN/GERM/SPAN 1020 or higher 
 
-For majors outside of the Falls School of Business (18 hrs.) 
+For majors outside of the Falls School of Business (18 hours) 
 
-●​ BSNS 2710, 2810, 3120 
+●​ BSNS 2710,2810,3120 
 
 ●​ ECON 2010 
 
-●​ 6 hours from the following: ˃ COMM 3050 ˃ INSC 3850 ˃ HIST 3240, 3360, 3370 ˃ POSC 3450, 3510 ˃ HIST/RLGN 3320 ˃ FREN/GERM/SPAN 1020 or higher 
+●​ 6 hours from the following: ˃ COMM 3050 ˃ INSC 3850 ˃ HIST 3240,3360,3370 ˃ POSC 3450,3510 ˃ HIST/RLGN 3320 ˃ FREN/GERM/SPAN 1020 or higher 
 
 ## MANAGEMENT MINOR 
 
-For majors within the Falls School of Business (15 hrs.) 
+For majors within the Falls School of Business (15 hours) 
 
-●​ BSNS 3230, 3240, 3270, 4010, 4310, 4480 
+●​ BSNS 3230,3240,3270,4010,4310,4480 
 
-For majors outside of the Falls School of Business (18 hrs.) 
+For majors outside of the Falls School of Business (18 hours) 
 
 ●​ BSNS 2710 
 
-●​ 15 hours from BSNS 3230, 3240, 3270, 4010, 4310, 4480 
+●​ 15 hours from BSNS 3230,3240,3270,4010,4310,4480 
 
 ## MARKETING MINOR 
 
-For majors within the Falls School of Business (15 hrs.) 
+For majors within the Falls School of Business (15 hours) 
 
-●​ BSNS 3210, 3220, 3400, 3550, 4110, 4330 
+●​ BSNS 3210,3220,3400,3550,4110,4330 
 
-For majors outside of the Falls School of Business (18 hrs.) 
+For majors outside of the Falls School of Business (18 hours) 
 
 ●​ BSNS 2810 
 
-●​ 15 hours from BSNS 3210, 3220, 3400, 3550, 4110, 4330 
+●​ 15 hours from BSNS 3210,3220,3400,3550,4110,4330 
 
 ## SOCIAL MEDIA MINOR 
 
-For majors within the Falls School of Business (15 hrs.) 
+For majors within the Falls School of Business (15 hours) 
 
-●​ BSNS 3400, 3550, 4330 
+●​ BSNS 3400,3550,4330 
 
-- 6 hours from COMM 2130, 2200, 3370 
+- 6 hours from COMM 2130,2200,3370 
 
-For majors outside the Falls School of Business (18 hrs.) 
+For majors outside the Falls School of Business (18 hours) 
 
-●​ BSNS 2810, 3400, 3550, 4330 
+●​ BSNS 2810,3400,3550,4330 
 
-- 6 hours from COMM 2130, 2200, 3370 
+- 6 hours from COMM 2130,2200,3370 
 
 ## SPORTS MANAGEMENT MINOR 
 
 For majors within the Falls School of Business (15 hours): 
 
-●​ BSNS 3130, 4360, 4560 
+●​ BSNS 3130,4360,4560 
 
 ●​ 6 hours selected from the following: 
 
-˃ COMM 2130, 2140 
+˃ COMM 2130,2140 
 
 ˃ SPRL 3300 
 
@@ -7306,7 +7028,7 @@ Business & Integrative Leadership is an accelerated online bachelor of arts degr
 
 ## BUSINESS & INTEGRATIVE LEADERSHIP MAJOR 
 
-- Content area course requirements (39 hrs.) 
+- Content area course requirements (39 hours) 
 
 |○|LEAD|2300|Social Problems and Their Impact on the Workplace (3)|
 |---|---|---|---|
@@ -7323,17 +7045,15 @@ Business & Integrative Leadership is an accelerated online bachelor of arts degr
 |○|LEAD|4550|Diversity and Intercultural Humility (3)|
 |○|LEAD|4990|Action Research Project (3)|
 
+●​ Additional Liberal Arts requirements (43 hours) 
 
-
-●​ Additional Liberal Arts requirements (43 hrs.) 
-
-- Additional Electives (38 hrs.) – may be applied toward a minor, a complementary major or a second major. 
+- Additional Electives (38 hours) – may be applied toward a minor, a complementary major or a second major. 
 
 ## CERTIFICATE PROGRAM 
 
 Certificates are offered to adult learners in a non-degree seeking format, and consist of for-credit coursework which may be applied towards a degree. Each certificate is earned upon the successful completion of four selected Business & Integrative Leadership (LEAD) courses totaling 12 credit hours. The four seven-week courses may be completed at a pace which best fits the adult learner’s schedule. 
 
-## ●​ 12 hours selected from the following courses: 
+## ●​ 12 hours selected from the following courses 
 
 ○​ LEAD 3000 Professional Development & Applied Ethics (3) ○​ LEAD 3100 Introduction to Information Systems & Analysis of Data (3) ○​ LEAD 3200 Issues in Management (3) ○​ LEAD 3260 Conflict Resolution (3) ○​ LEAD 3300 Managerial Accounting (3) 
 
@@ -7343,7 +7063,7 @@ Certificates are offered to adult learners in a non-degree seeking format, and c
 
 The International Business Institute (IBI) Program is a 10-week, 12-credit-hour academic summer program that allows business students to incorporate a distinctive international experience into their field of study. The IBI program facilitates personal interaction with business leaders from top multinational corporations. Visits with industry leaders and top policymakers have included Daimler Benz, Nestlé, the Bank of England, and the British Parliament. Travel has included visits to England, Russia, Western and Eastern Europe, and Scandinavia. 
 
-The IBI Program may be taken to satisfy some requirements for the global business major, the global business minor, the global business concentration within the management major, or the global marketing concentration within the marketing major. The IBI Program courses are ECON 3250 and BSNS 4170, 4250, 4450. 
+The IBI Program may be taken to satisfy some requirements for the global business major, the global business minor, the global business concentration within the management major, or the global marketing concentration within the marketing major. The IBI Program courses are ECON 3250 and BSNS 4170,4250,4450. 
 
 Acceptance into the program is on a competitive basis. Students should apply early in the fall semester of their junior year. The program is normally completed the summer between the student’s junior and senior years. 
 
@@ -7355,64 +7075,62 @@ Anderson University Undergraduate Catalog 2025-26
 
 ## ACCT Courses 
 
-|2010|Principles of Accounting I||3 hrs. (3, 0)|
+|2010|Principles of Accounting I||3 hours (3,0)|
 |---|---|---|---|
 ||Introduces accounting principles and practice. Covers the accounting cycle, internal control and|||
-||system design principles, and fnancial statement preparation and interpretation.OFFERED:Sem. I,||II.|
-|2020 |Principles of Accounting II||3 hrs. (3, 0)|
+||system design principles, and fnancial statement preparation and interpretation.Offered:Semester I,||II.|
+|2020 |Principles of Accounting II||3 hours (3,0)|
 ||Continues accounting principles and practice with emphasis on the use of accounting information by|||
-||management and external users.PREREQUISITE:ACCT 2010.OFFERED:Sem. I, II.|||
-|3010|Intermediate Accounting I||3 hrs. (3, 0)|
+||management and external users.Prerequisite:ACCT 2010.Offered:Semester I, II.|||
+|3010|Intermediate Accounting I||3 hours (3,0)|
 ||Focuses on fnancial statements presented to external users and the complexities of fnancial reporting|||
-||in today’s business environment.PREREQUISITE:ACCT 2010.OFFERED:Sem. I.|||
-|3020 |Intermediate Accounting II||3 hrs. (3, 0)|
+||in today’s business environment.Prerequisite:ACCT 2010.Offered:Semester I.|||
+|3020 |Intermediate Accounting II||3 hours (3,0)|
 ||Continues principles, practices, and theories used to provide fnancial information to external users.|||
 ||Includes research and communication regarding issues in fnancial reporting, along with emphasis on|||
-||the use of spreadsheets.PREREQUISITE:ACCT 3010.OFFERED:Sem. II.|||
-|3110|Managerial Accounting||3 hrs. (3, 0)|
+||the use of spreadsheets.Prerequisite:ACCT 3010.Offered:Semester II.|||
+|3110|Managerial Accounting||3 hours (3,0)|
 ||Focuses on accounting methods that assist an organization with planning and control. Emphasis on|||
 ||decision-making. Topics include cost systems, cost allocation, budgeting, and variance analysis.|||
-||PREREQUISITE:ACCT 2020.OFFERED:Sem. I.|||
-|3500 |Accounting Information Systems||3 hrs. (3, 0)|
+||Prerequisite:ACCT 2020.Offered:Semester I.|||
+|3500 |Accounting Information Systems||3 hours (3,0)|
 ||Accounting information systems from a business perspective, including the organization and|||
 ||management of electronic information, the design of effective internal controls, system life cycle|||
 ||issues, and fnancial reporting considerations. The study and use of low- to mid-market accounting|||
 ||systems and their methods for processing information is an integral part of this course.|||
-||PREREQUISITE:Open only to accounting majors and minors who have completed ACCT 2010.|||
-||OFFERED:Sem. I.|||
-|3850 |Practicum in Accounting|1-3|hrs. (arranged)|
+||Prerequisite:Open only to accounting majors and minors who have completed ACCT 2010.|||
+||Offered:Semester I.|||
+|3850 |Practicum in Accounting|1-3|hours (arranged)|
 ||Students work with faculty consultants to plan and execute programs designed to integrate|||
 ||content in accounting in a practical, service-oriented project. Students are responsible for|||
-||successful implementation of defned projects and reporting results.REPEAT:May be repeated|||
-||(total credit not to exceed 4 hours).GRADE:CR/NC.OFFERED:Sem. I, II.|||
-|3860 |Volunteer Income Tax Assistance Practicum||1 hr. (arranged)|
+||successful implementation of defned projects and reporting results.Repeat:May be repeated|||
+||(total credit not to exceed 4 hours).Grade:CR/NC.Offered:Semester I, II.|||
+|3860 |Volunteer Income Tax Assistance Practicum||1 hour (arranged)|
 ||Provides professional preparation and a service-learning opportunity in the preparation of federal|||
-||and state income tax returns.REPEAT:May be repeated.GRADE:CR/NC.OFFERED:Sem. II.|||
-|4020 |Federal Income Tax||3 hrs. (3, 0)|
+||and state income tax returns.Repeat:May be repeated.Grade:CR/NC.Offered:Semester II.|||
+|4020 |Federal Income Tax||3 hours (3,0)|
 ||Examines Internal Revenue Code and Treasury regulations with respect to taxation of individuals.|||
-||Emphasis on tax research, planning, and compliance.PREREQUISITE:ACCT 2020.OFFERED:Sem.||II.|
-|4050 |Advanced Federal Income Taxation||3 hrs. (3, 0)|
+||Emphasis on tax research, planning, and compliance.Prerequisite:ACCT 2020.Offered:Semester||II.|
+|4050 |Advanced Federal Income Taxation||3 hours (3,0)|
 ||Federal income taxation of corporations, partnerships, and estates and trusts. Students will develop|||
-||and enhance tax research skills.PREREQUISITE:ACCT 2020.OFFERED:Sem. II.|||
-|4100|Advanced Financial Accounting||3 hrs. (3, 0)|
+||and enhance tax research skills.Prerequisite:ACCT 2020.Offered:Semester II.|||
+|4100|Advanced Financial Accounting||3 hours (3,0)|
 ||Advanced accounting issues related to business combinations, consolidated fnancial statements,|||
 ||intercompany transactions, multinational accounting, segment and interim reporting, partnership|||
-||accounting, and government/not-for-proft accounting.PREREQUISITE:ACCT 3020.OFFERED:|Sem. II.||
-|4800 |Accounting Internship|1-6|hrs. (arranged)|
+||accounting, and government/not-for-proft accounting.Prerequisite:ACCT 3020.Offered:|Semester II.||
+|4800 |Accounting Internship|1-6|hours (arranged)|
 ||With the approval of the Falls School of Business faculty and a cooperating business enterprise,|||
-||the student studies under the supervision of an experienced, practicing professional.REPEAT:|||
-||May be repeated  (total credit not to exceed 6 hours).CONSENT:Instructor.PREREQUISITE:|||
-||ACCT 3010.GRADE:CR/NC.OFFERED:Sem. I, II; Summer.|||
-|4850 |Practicum in CPA Exam Preparation|1-4|hrs. (arranged)|
+||the student studies under the supervision of an experienced, practicing professional.Repeat:|||
+||May be repeated  (total credit not to exceed 6 hours).Consent:Instructor.Prerequisite:|||
+||ACCT 3010.Grade:CR/NC.Offered:Semester I, II; Summer.|||
+|4850 |Practicum in CPA Exam Preparation|1-4|hours (arranged)|
 ||Preparation in study for the CPA exam. One credit per section of the Uniform CPA Examination.|||
-||PREREQUISITE:Senior standing.GRADE:CR/NC.OFFERED:Sem. I, II.|||
-|4860 |Practicum in CMA Exam Preparation|1-2|hrs. (arranged)|
-||Preparation in study for the CMA exam. One credit per section of the CMA Examination.<br>PREREQUISITE:Senior standing.GRADE:CR/NC.OFFERED:Sem. I, II.|||
-|4900 |Professional Ethics for Accountants||1 hr. (1, 0)|
+||Prerequisite:Senior standing.Grade:CR/NC.Offered:Semester I, II.|||
+|4860 |Practicum in CMA Exam Preparation|1-2|hours (arranged)|
+||Preparation in study for the CMA exam. One credit per section of the CMA Examination.<br>Prerequisite:Senior standing.Grade:CR/NC.Offered:Semester I, II.|||
+|4900 |Professional Ethics for Accountants||1 hour (1,0)|
 ||A study of ethics for the accounting profession, with attention both to law and personal choice.|||
-||PREREQUISITE:Junior standing.OFFERED:Sem. I.|||
-
-
+||Prerequisite:Junior standing.Offered:Semester I.|||
 
 Anderson University Undergraduate Catalog 2025-26 
 
@@ -7422,12 +7140,12 @@ Anderson University Undergraduate Catalog 2025-26
 
 |SNS |Courses||
 |---|---|---|
-|1050|Business as a Profession|3 hrs. (3, 0)|
+|1050|Business as a Profession|3 hours (3,0)|
 ||Entry course for majors in the Falls School of Business. Examines the multiple roles and||
 ||responsibilities of business organizations in a capitalistic democracy, introduces the various||
 ||functions of business, and explores the implications of viewing business as a calling and/or vocation.||
-||OFFERED:Sem. I, II.||
-|2310|Spreadsheet Analytics|3 hrs. (3,0)|
+||Offered:Semester I, II.||
+|2310|Spreadsheet Analytics|3 hours (3,0)|
 ||Provides an introduction to business-based problem-solving using advanced spreadsheet||
 ||applications. Core topics include spreadsheet modeling, data management, and in-depth data analysis||
 ||techniques with a focus on visualization and functional tools. Emphasis will be placed on managing||
@@ -7435,306 +7153,290 @@ Anderson University Undergraduate Catalog 2025-26
 ||data in tables and charts to support business insights. Students will engage with business scenarios||
 ||that require hands-on experience in data structuring, formula-based analysis, and creating visually||
 ||informative displays. The course will also introduce design principles for crafting clear and impactful||
-||data presentations to aid in effective managerial decision-making.OFFERED:Sem. I, II.||
-|2450 |Principles of Business Analytics|3 hrs. (3, 0)|
+||data presentations to aid in effective managerial decision-making.Offered:Semester I, II.||
+|2450 |Principles of Business Analytics|3 hours (3,0)|
 ||This course provides students with a basic understanding of applying various methods to transform||
 ||data into useful business information and insights. Emphasis will be placed on using statistical and||
 ||computational models to analyze and visualize data in spreadsheets and interpreting the results to||
 ||make data-driven business decisions. Major topics covered include data visualization, statistical data||
-||analysis, data mining, and spreadsheet modeling.OFFERED:Sem. I, II.||
-|2510|Principles of Finance|3 hrs. (3, 0)|
+||analysis, data mining, and spreadsheet modeling.Offered:Semester I, II.||
+|2510|Principles of Finance|3 hours (3,0)|
 ||Provides overview of the fnancial management of the business enterprise, with emphasis on ways||
 ||fnancial managers create value. Decision-making skills relying on discounted cash-fow techniques,||
-||capital budgeting, and the fundamentals of security pricing are presented.PREREQUISITE:ACCT||
-||2010.OFFERED:Sem. I, II.||
-|2550 |Business Communications|3 hrs. (3, 0)|
+||capital budgeting, and the fundamentals of security pricing are presented.Prerequisite:ACCT||
+||2010.Offered:Semester I, II.||
+|2550 |Business Communications|3 hours (3,0)|
 ||This course equips students with essential communication skills for today’s business environment,||
 ||focusing on clear, concise, and professional written and verbal techniques. Students will practice||
 ||diverse business communication formats—emails, reports, presentations, and digital tools—while||
 ||developing critical soft skills like active listening and interpersonal communication. A career||
 ||readiness component enhances job market preparation, covering resumes, interviews, and networking||
 ||strategies. By course end, students will be ready to communicate effectively, collaborate well, and||
-||present themselves confdently in professional settings.PREREQUISITE:COMM 1000OFFERED:||
-||Sem. I, II.||
-|2710|Principles of Management|3 hrs. (3, 0)|
+||present themselves confdently in professional settings.Prerequisite:COMM 1000OFFERED:||
+||Semester I, II.||
+|2710|Principles of Management|3 hours (3,0)|
 ||Managerial principles and problems of conducting a business enterprise. Topics include management||
 ||philosophy, objectives, functions performed by management, and the signifcance of management in||
-||relation to other activities.OFFERED:Sem. I, II.||
-|2810|Principles of Marketing|3 hrs. (3, 0)|
+||relation to other activities.Offered:Semester I, II.||
+|2810|Principles of Marketing|3 hours (3,0)|
 ||Studies the ways organizations of all sizes and types (including nonproft) go about fnding, getting,||
 ||and keeping customers. Deals with understanding customers’ needs, hopes, wants, dreams, habits,||
 ||and motivations. Examines how organizations try to meet those needs and wants through their||
 ||marketing mix strategies while operating within a dynamic, competitive, and increasingly global||
-||environment.OFFERED:Sem. I, II.||
-|3100|Opportunity Identifcation and Feasibility<br>3 hrs. (3, 0)||
+||environment.Offered:Semester I, II.||
+|3100|Opportunity Identifcation and Feasibility<br>3 hours (3,0)||
 ||Focuses on developing ideas for new businesses. Utilizes group exercises and case studies to help||
 ||students determine which ideas might result in feasible businesses. Students select a business idea||
 ||and write a feasibility plan, the frst step in developing a detailed business plan. This plan will||
-||determine whether the idea has proft potential.OFFERED:Sem. II.||
-|3120|Global Business|3 hrs. (3, 0)|
+||determine whether the idea has proft potential.Offered:Semester II.||
+|3120|Global Business|3 hours (3,0)|
 ||The importance of thinking globally and understanding the legal, technological, and economic||
 ||differences that affect business practice are explored through readings and projects. The focus is||
 ||on the global changes impacting national sovereignty, regionalization, and the balance of economic||
 ||and political power._Applies to the Global Ways of Knowing [AU Experience] component of theLiberal_||
-||_Arts Core Curriculum._ OFFERED:Sem. I, II.||
-|3130|Sports Management|3 hrs. (3, 0)|
+||_Arts Core Curriculum._ Offered:Semester I, II.||
+|3130|Sports Management|3 hours (3,0)|
 ||The sports industry has become one of the most important and infuential institutions in our society.||
 ||This course provides students the opportunity to study and experience the application of business||
-||principles and processes in the sports industry.OFFERED:Sem. I.||
-
-
+||principles and processes in the sports industry.Offered:Semester I.||
 
 Anderson University Undergraduate Catalog 2025-26 
 
 128 
 
-## BSNS (cont.) 
-
 |SNS (|cont.)||
 |---|---|---|
-|3150|Financial Planning|3 hrs. (3, 0)|
+|3150|Financial Planning|3 hours (3,0)|
 ||Study of money management and comprehensive fnancial-planning skills for immediate and long-||
 ||range goals of individuals and families. Areas of study include values identifcation, career planning,||
 ||consumerism, tax strategies, investments, retirement, and estate planning. Open to all students.||
-||OFFERED:Sem. I, II.||
-|3210|Buyer/Seller Relations|3 hrs. (3, 0)|
+||Offered:Semester I, II.||
+|3210|Buyer/Seller Relations|3 hours (3,0)|
 ||Emphasis on essential qualities, right mental attitudes, and emotional control, as well as good selling||
-||skills necessary to sell self, services, and products.PREREQUISITE:BSNS 2810.OFFERED:Sem. I.||
-|3220 |Consumer Behavior|3 hrs. (3, 0)|
+||skills necessary to sell self, services, and products.Prerequisite:BSNS 2810.Offered:Semester I.||
+|3220 |Consumer Behavior|3 hours (3,0)|
 ||Develops awareness of various aspects of consumer motivation and behavior. Provides understanding||
 ||of infuences of business and environment and ways each affects consumer purchase decisions.||
-||PREREQUISITE:BSNS 2810.OFFERED:Sem. I.||
-|3230 |Human Resource Management|3 hrs. (3, 0)|
+||Prerequisite:BSNS 2810.Offered:Semester I.||
+|3230 |Human Resource Management|3 hours (3,0)|
 ||Emphasizes human resource policies and practices. Topics include legal aspects of human resources,||
 ||recruitment and selection, training and development, career planning and management, compensation||
-||and benefts, employee relations, discipline, and counseling.PREREQUISITE:BSNS 2710.OFFERED:||
-||Sem. I.||
-|3240 |Operations Management|3 hrs. (3, 0)|
+||and benefts, employee relations, discipline, and counseling.Prerequisite:BSNS 2710.Offered:||
+||Semester I.||
+|3240 |Operations Management|3 hours (3,0)|
 ||Emphasis on the challenges of operations in all forms of organizations. Topics include process design,||
 ||layout strategies, location decisions, inventory control, forecasting, human resource and material||
 ||requirements planning. Utilizing a problem-solving focus as a basis for decision-making is a prime||
-||objective.PREREQUISITE:BSNS 2710; BSNS 2450 or MATH 2120 or PSYC 2440.OFFERED:Sem. II.||
-|3270 |Project Management|3 hrs. (3, 0)|
+||objective.Prerequisite:BSNS 2710; BSNS 2450 or MATH 2120 or PSYC 2440.Offered:Semester II.||
+|3270 |Project Management|3 hours (3,0)|
 ||Introduces project management principles, focusing on planning, executing, and controlling projects.||
 ||Teaches students time, cost, and performance management, with an emphasis on leadership,||
 ||communication, and stakeholder management. Highlights the role of technology and enhances skills||
-||through practical applications, including case studies and a simulated project.PREREQUISITE:BSNS||
+||through practical applications, including case studies and a simulated project.Prerequisite:BSNS||
 ||2450 or MATH 2120 or PSYC 2440.||
-|3320 |Legal Aspects of the Music Business|2 hrs. (2, 0)|
-||Selected topics in copyright management, music licensing, and publishing contracts.PREREQUISITE:||
-||MUBS 2010, 2020.SAME AS:MUBS 3310.OFFERED:With suffcient demand.||
-|3330 |Music Marketing|3 hrs. (3, 0)|
+|3320 |Legal Aspects of the Music Business|2 hours (2,0)|
+||Selected topics in copyright management, music licensing, and publishing contracts.Prerequisite:||
+||MUBS 2010,2020.SAME AS:MUBS 3310.Offered:With suffcient demand.||
+|3330 |Music Marketing|3 hours (3,0)|
 ||Students will identify the marketing mix tools that are available for a music marketer to use when||
 ||developing a music brand and affliate marketing plan. Students will learn the theoretical and||
 ||practical mechanisms involved in understanding the needs, wants and classifcations of music||
 ||consumption. Students will gain an appreciation of how internal competencies and the external||
-||environment impact the execution of music marketing plans.PREREQUISITE:MUBS 2010, 2020.<br>SAME AS:MUBS 3350.OFFERED:Sem. I.||
-|3350 |Corporate Finance|3 hrs. (3, 0)|
+||environment impact the execution of music marketing plans.Prerequisite:MUBS 2010,2020.<br>SAME AS:MUBS 3350.Offered:Semester I.||
+|3350 |Corporate Finance|3 hours (3,0)|
 ||Studies specifc fnancial cases and the need for ethics in fnance within a system of well-established||
 ||laws and industry regulation. Sample topics could include the cost of capital, capital structure,||
 ||capital budgeting, dividend policy, fnancial analysis and forecasting, sales and lending practices,||
 ||socially responsible investing, insider trading, the ethics of bankruptcy, and hostile takeovers.||
-||PREREQUISITE:BSNS 2510.OFFERED:Sem. II.||
-|3360 |Beyond Talent: Entrepreneurship|3 hrs. (3, 0)|
+||Prerequisite:BSNS 2510.Offered:Semester II.||
+|3360 |Beyond Talent: Entrepreneurship|3 hours (3,0)|
 ||Allows students to take an exploratory journey into the understanding of their own talent and identity||
 ||management through the research of established/professionals, personal career refective writing,||
 ||and the development of a ‘Professional Performance’ journal, evidencing existing or planned career||
 ||activities. All of these undertakings will allow the student to better comprehend the importance of||
-||personal branding.PREREQUISITE:Senior status.||
-|3390 |Advanced Descriptive Analytics|3 hrs. (3, 0)|
+||personal branding.Prerequisite:Senior status.||
+|3390 |Advanced Descriptive Analytics|3 hours (3,0)|
 ||Descriptive analytics is a type of data analytics that analyzes historical data to give an account of||
 ||what has happened. Designed to provide students with the ability to use descriptive analytics in||
 ||business decision-making. Students will be equipped with the knowledge to use various statistical||
 ||techniques with a focus on data visualization to identify historical trends and relationships in||
-||business.PREREQUISITE:BSNS 2450.||
-
-
+||business.Prerequisite:BSNS 2450.||
 
 Anderson University Undergraduate Catalog 2025-26 
 
 129 
 
-## BSNS (cont.) 
-
 |SNS (|cont.)|
 |---|---|
-|3400 |Digital Marketing<br>3 hrs. (3, 0)|
+|3400 |Digital Marketing<br>3 hours (3,0)|
 ||Examines use and integration of digital technologies in the business setting. Focus on how technology|
 ||can enhance the business value chain through knowledge management, customer relationship|
 ||management, and supply chain management. Also examines eCommerce fundamentals, including the|
-||online order process and fulfllment, online service, and related issues.OFFERED:Sem. I.|
-|3420 |Business Law<br>3 hrs. (3, 0)|
+||online order process and fulfllment, online service, and related issues.Offered:Semester I.|
+|3420 |Business Law<br>3 hours (3,0)|
 ||The nature and historical development of the U.S. legal system, court structure, and legal procedure.|
 ||Law of contracts, sales, agency, and corporations. Valuable for non-business majors as well as|
 ||business majors._Applies to the Social & Behavioral Ways of Knowing [Raven Core] component of the_|
-||_Liberal Arts Core Curriculum._ OFFERED:Sem. I, II.|
-|3510|Supply Chain Management<br>3 hrs. (3, 0)|
+||_Liberal Arts Core Curriculum._ Offered:Semester I, II.|
+|3510|Supply Chain Management<br>3 hours (3,0)|
 ||The study of the issues associated with making goods and services available for use or consumption.|
 ||Examines activities, organizations, and tools — such as logistics and retailing — involved in delivering|
-||the right product to the right place at the right time, quantity, quality, and price.PREREQUISITE:|
-||BSNS 2810.OFFERED:Sem. I.|
-|3550 |Integrated Marketing Communications<br>3 hrs. (3, 0)|
+||the right product to the right place at the right time, quantity, quality, and price.Prerequisite:|
+||BSNS 2810.Offered:Semester I.|
+|3550 |Integrated Marketing Communications<br>3 hours (3,0)|
 ||This course provides a comprehensive exploration of Integrated Marketing Communications (IMC),|
 ||emphasizing how organizations effectively coordinate promotional tools to deliver a consistent and|
 ||impactful message. Students will analyze and develop strategies using various communication|
 ||channels, including advertising, public relations, social media, content marketing, sales promotions,|
-||and digital marketing.PREREQUISITE:BSNS 2810.OFFERED:Sem. I.|
-|3850 |Practicum in Business<br>1-3 hrs. (arranged)|
+||and digital marketing.Prerequisite:BSNS 2810.Offered:Semester I.|
+|3850 |Practicum in Business<br>1-3 hours (arranged)|
 ||Students work with faculty consultants in planning and executing programs to integrate content<br>in business in a practical, service-oriented project. Students are responsible for reporting results.|
-||REPEAT: May be repeated (total credit not to exceed 4 hours).GRADE:CR/NC.OFFERED:Sem. I, II;|
+||Repeat: May be repeated (total credit not to exceed 4 hours).Grade:CR/NC.Offered:Semester I, II;|
 ||Summer.|
-|4010|Organizational Behavior and Theory<br>3 hrs. (3, 0)|
+|4010|Organizational Behavior and Theory<br>3 hours (3,0)|
 ||Stresses behavior in relation to organizational theories, knowledge, and the application of theories|
 ||related to individual, group, and organizational performance. Emphasis on understanding the|
-||managerial process from a behavioral perspective.PREREQUISITE:BSNS 2710.SAME AS:PSYC|
-||3220.OFFERED:Sem. II.|
-|4050 |Lean Six Sigma I<br>3 hrs. (3, 0)|
+||managerial process from a behavioral perspective.Prerequisite:BSNS 2710.SAME AS:PSYC|
+||3220.Offered:Semester II.|
+|4050 |Lean Six Sigma I<br>3 hours (3,0)|
 ||An introduction to Lean Six Sigma concepts, tools and practices and application of those tools and|
 ||practices to various applications including problem solving, continuous improvement and process|
-||control.PREREQUISITE:BSNS 2710; BSNS 2450 or MATH 2120 or PSYC 2440.|
-|4110|Marketing Research<br>3 hrs. (3, 0)|
-||Research methodology and application of research to solve marketing problems.PREREQUISITE:|
-||BSNS 2810 or BSNS 3330, BSNS 2450 or MATH 2120 or PSYC 2440.OFFERED:Sem. I.|
-|4120|International Management<br>3 hrs. (3, 0)|
+||control.Prerequisite:BSNS 2710; BSNS 2450 or MATH 2120 or PSYC 2440.|
+|4110|Marketing Research<br>3 hours (3,0)|
+||Research methodology and application of research to solve marketing problems.Prerequisite:|
+||BSNS 2810 or BSNS 3330, BSNS 2450 or MATH 2120 or PSYC 2440.Offered:Semester I.|
+|4120|International Management<br>3 hours (3,0)|
 ||Examines challenges facing managers competing in a global economy. Uses case studies to address|
 ||ways frms of all sizes become and remain competitive in an international environment, how|
 ||businesses establish and conduct international transactions, and what managers must know to be|
-||effective in the international marketplace.PREREQUISITE:BSNS 2710.OFFERED:Sem. II.|
-|4150|Investments<br>3 hrs. (3, 0)|
+||effective in the international marketplace.Prerequisite:BSNS 2710.Offered:Semester II.|
+|4150|Investments<br>3 hours (3,0)|
 ||Examines the organization and function of securities markets, valuation of securities, relationship of|
 ||risk to required rates of return, and portfolio construction. This is achieved by focusing on concepts|
 ||and strategies applicable to individual investors and by using the tools employed by professional|
-||portfolio managers.PREREQUISITE:BSNS 2510.OFFERED:Sem. I.|
-|4160|Portfolio Management<br>3 hrs. (3, 0)|
+||portfolio managers.Prerequisite:BSNS 2510.Offered:Semester I.|
+|4160|Portfolio Management<br>3 hours (3,0)|
 ||Examines diversifcation, asset allocation, risk management, performance evaluation, and socially|
 ||responsible investing. Additionally, the course content will be applied with students making specifc|
-||investment recommendations for the student-managed Raven Investment Fund.REPEAT:May be|
-||repeated once.PREREQUISITE:BSNS 4150.OFFERED:Sem. II.|
-|4170|International Trade and Finance<br>3 hrs. (3, 0)|
+||investment recommendations for the student-managed Raven Investment Fund.Repeat:May be|
+||repeated once.Prerequisite:BSNS 4150.Offered:Semester II.|
+|4170|International Trade and Finance<br>3 hours (3,0)|
 ||A survey of analytical and institutional aspects of international trade and fnance. Historical and|
 ||contextual elements are the foundation for the examination of current theoretical and empirical|
 ||approaches to international economic and fnancial relations. Major emphasis on international fnance,|
 ||international trade, and regional economic integration. Special attention is also given to the issues of|
-||globalization and the problems of economic development.CONSENT:Instructor.OFFERED:At _IBI_.|
-
-
+||globalization and the problems of economic development.Consent:Instructor.Offered:At _IBI_.|
 
 Anderson University Undergraduate Catalog 2025-26 
 
 130 
 
-## BSNS (cont.) 
-
 |SNS (|cont.)||
 |---|---|---|
-|4240 |Topics in Business and Economics|3 hrs. (3, 0)|
-||Allows for subjects pertinent and/or current in nature to be explored. PREREQUISITE: Varies||
-||depending on topic.REPEAT:May be repeated as long as the topic is different.OFFERED:With||
+|4240 |Topics in Business and Economics|3 hours (3,0)|
+||Allows for subjects pertinent and/or current in nature to be explored. Prerequisite: Varies||
+||depending on topic.Repeat:May be repeated as long as the topic is different.Offered:With||
 ||suffcient demand.||
-|4250 |Global Marketing|3 hrs. (3, 0)|
+|4250 |Global Marketing|3 hours (3,0)|
 ||Elements of an international marketing plan are discussed and developed, including the cultural||
 ||environment of global markets, assessing global market opportunities through consumer behavior||
 ||research, global marketing strategies for the international marketing mix, and implementation of a||
 ||global marketing strategy. Case studies will be used to illustrate theoretical concepts, and students||
-||will develop their own international marketing plan for a product or service.PREREQUISITE:BSNS||
-||2810.OFFERED:Sem. II; Summer (at _IBI_).||
-|4260 |Estate Planning|3 hrs. (3, 0)|
+||will develop their own international marketing plan for a product or service.Prerequisite:BSNS||
+||2810.Offered:Semester II; Summer (at _IBI_).||
+|4260 |Estate Planning|3 hours (3,0)|
 ||Examines the components of the estate planning process. Related topics include gift and estate||
 ||taxes, trusts, charitable giving, life insurance, probate, and generation-skipping transfers.||
-|4310|Entrepreneurship|3 hrs. (3, 0)|
+|4310|Entrepreneurship|3 hours (3,0)|
 ||Guides students through identifying market opportunities, validating concepts, pitching business||
 ||ideas, and fostering essential entrepreneurship skills. Covers business modeling, marketing, fnancial||
-||planning, and scaling, utilizing real-time market engagement to test ideas.PREREQUISITE:Junior||
-||Standing.OFFERED:Sem. I.||
-|4330 |Marketing Management|3 hrs. (3, 0)|
+||planning, and scaling, utilizing real-time market engagement to test ideas.Prerequisite:Junior||
+||Standing.Offered:Semester I.||
+|4330 |Marketing Management|3 hours (3,0)|
 ||Students learn to identify and explain important concepts of marketing management and apply them<br>to practical situations. Students become acquainted with the roles, responsibilities, and tools of the||
 ||marketing manager. Students also become familiar with developing marketing plans, feasibility||
-||studies, and planning and executing marketing strategies.PREREQUISITE:BSNS 2810 or BSNS 3330;||
-||senior standing.OFFERED:Sem. II.||
-|4350 |Retirement Planning and Employee Benefts|3 hrs. (3, 0)|
+||studies, and planning and executing marketing strategies.Prerequisite:BSNS 2810 or BSNS 3330;||
+||senior standing.Offered:Semester II.||
+|4350 |Retirement Planning and Employee Benefts|3 hours (3,0)|
 ||Study of the retirement planning process including needs analysis, qualifed plans, and other||
 ||regulatory needs. Also examines the role of social programs in the planning process. Retirement||
 ||income and distribution strategies, rules, and taxation will be explored||
-|4360 |Sports Sponsorship and Sales|3 hrs. (3, 0)|
+|4360 |Sports Sponsorship and Sales|3 hours (3,0)|
 ||Analyzes and develops skills essential to effectively build sales and revenue within a sports business.||
 ||Focus on professional selling and communication processes successful in the realm of sports||
 ||products and services. Topics include presentation methods, persuasion, handling objections, fnding||
 ||solutions, developing relationships, and serving clients and customers. Also examines the growing||
 ||presence of corporate sponsorship in non-sports organizations. Emphasis on effective methods used||
 ||to plan, price, organize, acquire, implement, measure, and evaluate sponsorships, including the||
-||development of a corporate sponsorship plan.PREREQUISITE:BSNS 2810, 3130.OFFERED:Sem. II.||
-|4390 |Advanced Predictive Analytics|3 hrs. (3, 0)|
+||development of a corporate sponsorship plan.Prerequisite:BSNS 2810,3130.Offered:Semester II.||
+|4390 |Advanced Predictive Analytics|3 hours (3,0)|
 ||Predictive analytics is a type of data analytics that examines historical data to make predictions about||
 ||possible future outcomes. Designed to provide students with the ability to use predictive analytics in||
 ||business decision-making. Students will be equipped with the knowledge to use various statistical||
 ||techniques with a focus on regression analysis to forecast potential scenarios that can help make||
-||strategic business decisions.PREREQUISITE:BSNS 2450.||
-|4400 |Social Media|3 hrs. (3, 0)|
+||strategic business decisions.Prerequisite:BSNS 2450.||
+|4400 |Social Media|3 hours (3,0)|
 ||Explores current trends in social media marketing. A focus on brands that are successfully marketing||
 ||themselves across social networking platforms and the tools they are using for communication,||
 ||customer retention, branding, marketing, market research, and interacting with customers and clients.||
 ||Topics also include privacy and best practices. Students examine the process of engagement and||
-||co-creation of content as well as other trends in analytics and platforms.OFFERED:Sem. II.||
-|4450 |Global Business Strategy|3 hrs. (3, 0)|
+||co-creation of content as well as other trends in analytics and platforms.Offered:Semester II.||
+|4450 |Global Business Strategy|3 hours (3,0)|
 ||Integrates feld experiences and presentations by guest faculty and practitioners in the area of||
 ||international business management with reading and academic work that includes recent||
 ||developments and literature in the feld. Students will prepare analytical reports on the various frms||
 ||and institutions visited on the feld seminar. Major topics include the role of the multinational frm in||
 ||the global economy, international and global business strategy, and cultural adaptation and||
 ||organizational behavior in the global frm. Ethical values and issues in global management will also be||
-||discussed.CONSENT:Instructor.OFFERED:At _IBI_.||
-
-
+||discussed.Consent:Instructor.Offered:At _IBI_.||
 
 Anderson University Undergraduate Catalog 2025-26 
 
 131 
 
-## BSNS (cont.) 
-
 |SNS (|cont.)|
 |---|---|
-|4480 |Leadership<br>3 hrs. (3, 0)|
+|4480 |Leadership<br>3 hours (3,0)|
 ||Develops knowledge and critical understanding of the main theoretical concepts, current research and|
 ||approaches to leadership in organizations and at different organizational levels, and identifes those|
 ||most valuable to management in a modern global and ethical context. Leads to an understanding of|
-||the social infuence processes and dynamics of power and politics in organizations.PREREQUISITE:|
-||BSNS 2710, junior standing.OFFERED:Sem. I.|
-|4500 |Strategic Management<br>3 hrs. (3, 0)|
+||the social infuence processes and dynamics of power and politics in organizations.Prerequisite:|
+||BSNS 2710, junior standing.Offered:Semester I.|
+|4500 |Strategic Management<br>3 hours (3,0)|
 ||Study of administrative policy and strategy in organizations, emphasizing the integration and inter-|
 ||relationships of functional business areas for a broad perspective (accounting, economics, fnance,|
 ||marketing, and management). Students evaluate strategy formulation and decision-making situations|
 ||from top management perspectives. Using case studies, a variety of both organizational sizes and|
-||structures are addressed.PREREQUISITE:BSNS 2510, 2710, 2810 or 3330; ACCT 2020; senior|
-||standing.OFFERED:Sem. I, II.|
-|4510|Financial Plan Development<br>3 hrs. (3, 0)|
+||structures are addressed.Prerequisite:BSNS 2510,2710,2810 or 3330; ACCT 2020; senior|
+||standing.Offered:Semester I, II.|
+|4510|Financial Plan Development<br>3 hours (3,0)|
 ||The application of the fnancial planning process to effectively develop, communicate, critique|
 ||fnancial plans. Examines the CFP Board of Code Ethics and Standards of Conduct and their role in|
-||the fnancial planning process.PREREQUISITE:BSNS 3150, ACCT 4020, BSNS 4150, BSNS 4260,|
+||the fnancial planning process.Prerequisite:BSNS 3150, ACCT 4020, BSNS 4150, BSNS 4260,|
 ||and BSNS 4350.|
-|4550 |Integrated Marketing Communications II<br>3 hrs. (3, 0)|
+|4550 |Integrated Marketing Communications II<br>3 hours (3,0)|
 ||Allows students to carry through prior knowledge regarding their understanding of integrated|
 ||marketing communications (IMC) to develop a comprehension and appreciation of the strategic|
 ||planning processes that contribute to the development of an effective marketing communications|
 ||plan. Consequently, students will gain knowledge about the components of an effective framework|
 ||for IMC plans. Students will also complete a critical marketing communications plan assessment|
-||through a practical case scenario.PREREQUISITE:BSNS 3550.OFFERED:Sem. II.|
-|4560 |Game Day Experience Management<br>3 hrs. (3, 0)|
+||through a practical case scenario.Prerequisite:BSNS 3550.Offered:Semester II.|
+|4560 |Game Day Experience Management<br>3 hours (3,0)|
 ||This course will cover the various aspects in administrative procedures, operational techniques,|
 ||hospitality, public relations, marketing, and technical services of the fan experience on game days|
 ||and nights through sponsorship of events. Issues related to both safety, security, and public policy|
-||in planning, fnancing and operating a sports event will also be addressed.PREREQUISITE:BSNS|
-||3130.OFFERED:Sem. I.|
-|4800 |Business Internship<br>1-4 hrs. (arranged)|
+||in planning, fnancing and operating a sports event will also be addressed.Prerequisite:BSNS|
+||3130.Offered:Semester I.|
+|4800 |Business Internship<br>1-4 hours (arranged)|
 ||With approval of the Falls School of Business faculty and a cooperating business enterprise,|
-||the student studies under the supervision of experienced executives.EXPECTATION:30 hours|
-||completed toward a business major.CONSENT:Instructor.REPEAT:May be repeated.GRADE:|
-||CR/NC.OFFERED:Sem. I, II; Summer.|
-|4810|Internship in Music Business<br>1-3 hrs. (arranged)|
+||the student studies under the supervision of experienced executives.Expectation:30 hours|
+||completed toward a business major.Consent:Instructor.Repeat:May be repeated.Grade:|
+||CR/NC.Offered:Semester I, II; Summer.|
+|4810|Internship in Music Business<br>1-3 hours (arranged)|
 ||An in-depth experience in a selected area of the music industry tailored to the student’s|
-||individual ability and needs.REPEAT:May be repeated (total credit not to exceed 4 hours).|
-||PREREQUISITE:MUBS 2010, 2020.OFFERED:Sem. I, II.|
-|4910|Senior Seminar in Business & Ethics<br>3 hrs. (3, 0)|
+||individual ability and needs.Repeat:May be repeated (total credit not to exceed 4 hours).|
+||Prerequisite:MUBS 2010,2020.Offered:Semester I, II.|
+|4910|Senior Seminar in Business & Ethics<br>3 hours (3,0)|
 ||This senior capstone course is designed to encourage you to seriously consider your personal|
 ||responsibilities to your organization and to society. This is an upper-division course for those with|
 ||majors in the Falls School of Business and with senior class standing. This course will focus on the|
@@ -7742,9 +7444,7 @@ Anderson University Undergraduate Catalog 2025-26
 ||setting. It is designed to focus on both the practical steps to make this transition as well as will look|
 ||at career development and management from an ethical and Christ-centered faith perspective. The|
 ||course provides the opportunity for personal refection and assessment to develop greater|
-||self-awareness.PREREQUISITE:Senior standing.OFFERED:Sem. I, II.|
-
-
+||self-awareness.Prerequisite:Senior standing.Offered:Semester I, II.|
 
 Anderson University Undergraduate Catalog 2025-26 
 
@@ -7754,56 +7454,54 @@ Anderson University Undergraduate Catalog 2025-26
 
 |CON |Courses|
 |---|---|
-|2010|Principles of Macroeconomics<br>3 hrs. (3, 0)|
+|2010|Principles of Macroeconomics<br>3 hours (3,0)|
 ||Provides students with a basic understanding of contemporary macroeconomic theories and|
 ||principles. Emphasis is placed on the analysis of economic growth and fuctuation, macroeconomic|
 ||indicators, and macroeconomic policies._Applies to the Social & Behavioral Ways of Knowing [Raven_|
-||_Core] component of the Liberal Arts Core Curriculum._ PREREQUISITE:Sophomore standing.OFFERED:|
-||Sem. I.|
-|2020 |Principles of Microeconomics<br>3 hrs. (3, 0)|
+||_Core] component of the Liberal Arts Core Curriculum._ Prerequisite:Sophomore standing.Offered:|
+||Semester I.|
+|2020 |Principles of Microeconomics<br>3 hours (3,0)|
 ||Provides students with a basic understanding of contemporary microeconomic theories and principles|
 ||that explains how market forces determine an equilibrium in a market economy and that examines the|
 ||choice and behavior of individual economic units, such as consumers and producers._Applies to the_|
 ||_Social & Behavioral Ways of Knowing [Raven Core] component of the Liberal Arts Core Curriculum._|
-||PREREQUISITE:Sophomore standing.OFFERED:Sem. II.|
-|3020 |Intermediate Microeconomics<br>3 hrs. (3, 0)|
+||Prerequisite:Sophomore standing.Offered:Semester II.|
+|3020 |Intermediate Microeconomics<br>3 hours (3,0)|
 ||Provides a deeper understanding of contemporary microeconomics theories and principles and to|
 ||teach how to use scientifc models to understand the microeconomic choices of economic agents.|
-||PREREQUISITE:ECON 2010, 2020; MATH 1400.OFFERED:With suffcient demand.|
-|3110|Public Sector Economics<br>3 hrs. (3, 0)|
+||Prerequisite:ECON 2010,2020; MATH 1400.Offered:With suffcient demand.|
+|3110|Public Sector Economics<br>3 hours (3,0)|
 ||Provides students with a basic understanding of the primary functions of government as a public|
 ||economic agent collecting resources from its citizens and using the collected resources to improve|
 ||their welfare. Emphasis is placed on the impact of the government's fscal and public economic policy|
-||on the effcient allocation of resources and the distribution of income in the economy.PREREQUISITE:|
-||ECON 2010 or ECON 2020.OFFERED:Sem. I.|
-|3210|International Economics<br>3 hrs. (3, 0)|
+||on the effcient allocation of resources and the distribution of income in the economy.Prerequisite:|
+||ECON 2010 or ECON 2020.Offered:Semester I.|
+|3210|International Economics<br>3 hours (3,0)|
 ||Provides students with a basic understanding of contemporary international economic principles and|
 ||theories. Emphasis is placed on the analysis of international trade and international fnance that|
 ||deal with how goods, services, factors, and money move across national borders and how they affect|
-||national and international economies.PREREQUISITE:ECON 2010 or ECON 2020.OFFERED:Sem. I.|
-|3250 |Comparative Economic Systems<br>3 hrs. (3, 0)|
+||national and international economies.Prerequisite:ECON 2010 or ECON 2020.Offered:Semester I.|
+|3250 |Comparative Economic Systems<br>3 hours (3,0)|
 ||A survey of the major economic systems, including the underlying ideological foundations and|
 ||institutional arrangements. The major theoretical aspects of various types of systems are covered in|
 ||terms of political economy and their central organizational features. Special attention is given to|
 ||changes and developments in the former Soviet Union and Eastern Europe. The European Union is|
-||covered in depth, along with the major Asian economies of China and Japan.CONSENT:Instructor.|
-||OFFERED:At _IBI_.|
-|3410|Money, Banking, and Financial Markets<br>3 hrs. (3, 0)|
+||covered in depth, along with the major Asian economies of China and Japan.Consent:Instructor.|
+||Offered:At _IBI_.|
+|3410|Money, Banking, and Financial Markets<br>3 hours (3,0)|
 ||Provides students with a basic understanding of banking, the fnancial system, the role of central|
 ||banks, and monetary policy from a macroeconomic point of view. Emphasis is placed on the|
 ||application of macroeconomic principles to understand money, banking, and the fnancial system.|
-||PREREQUISITE:ECON 2010 or ECON 2020.OFFERED:Sem. II.|
-|3850 |Practicum in Economics<br>1-3 hrs. (arranged)|
+||Prerequisite:ECON 2010 or ECON 2020.Offered:Semester II.|
+|3850 |Practicum in Economics<br>1-3 hours (arranged)|
 ||Students work with faculty consultants in planning and executing programs to integrate content|
 ||in economics in a practical, service-oriented project. Students are responsible for successful|
-||implementation of defned projects and reporting results.REPEAT:May be repeated (total credit|
-||not to exceed 4 hours).GRADE:CR/NC.OFFERED:With suffcient demand.|
-|4020 |Topics in Contemporary Economics and Finance<br>3 hrs. (3, 0)|
-||Allows for the exploration of subjects pertinent and/or current in nature.PREREQUISITE:Vary|
-||depending on topic.REPEAT:May be repeated as long as the topic is different.OFFERED:With|
+||implementation of defned projects and reporting results.Repeat:May be repeated (total credit|
+||not to exceed 4 hours).Grade:CR/NC.Offered:With suffcient demand.|
+|4020 |Topics in Contemporary Economics and Finance<br>3 hours (3,0)|
+||Allows for the exploration of subjects pertinent and/or current in nature.Prerequisite:Vary|
+||depending on topic.Repeat:May be repeated as long as the topic is different.Offered:With|
 ||suffcient demand.|
-
-
 
 Anderson University Undergraduate Catalog 2025-26 
 
@@ -7811,166 +7509,158 @@ Anderson University Undergraduate Catalog 2025-26
 
 ## LEAD Courses 
 
-|1000|Personal and Professional Discovery||1 hr. (1, 0)|
+|1000|Personal and Professional Discovery||1 hour (1,0)|
 |---|---|---|---|
 ||Designed to increase the student’s success in the professional arena by assisting the student in|||
 ||obtaining the emotional intelligence skills necessary to reach his/her potential. Topics include coping|||
 ||with stress, adapting to change, developing interpersonal relationships and intrapersonal skills, and|||
 ||recognizing how emotional intelligence affects personal and professional success and leadership skills.|||
-|1050|Accounting Fundamentals|2|hrs. (2, 0)|
+|1050|Accounting Fundamentals|2|hours (2,0)|
 ||Prerequisite to Managerial Accounting (LEAD 3300) and Managerial Finance (LEAD 3350). Offers|||
 ||basic information on fnancial statements resulting from the accounting processes that are used by|||
 ||owners, investors, and employees. Effective accounting demands an understanding of accounting|||
 ||terms. Will help students become informed users of accounting information.|||
-|1100|Introduction to Business Environments|3|hrs. (3, 0)|
+|1100|Introduction to Business Environments|3|hours (3,0)|
 ||Introduces functional areas of business, tracing the evolution of business forms, the role of government|||
 ||and society, relationships between administrators and employees, ethical issues, and globalization of|||
 ||world markets.|||
-|1200|Management Foundations|3|hrs. (3, 0)|
+|1200|Management Foundations|3|hours (3,0)|
 ||A study of management as it pertains to the dynamics of leadership, strategic planning, and|||
 ||controlling of resources.|||
-|2200 |Issues in Human Resource Management|3|hrs. (3, 0)|
+|2200 |Issues in Human Resource Management|3|hours (3,0)|
 ||Focuses upon the primary functions of human resources management, increasing the effectiveness|||
 ||and contributions of employees in the attainment of organizational goals and objectives. Topics include|||
 ||strategic planning, organizational goals, job descriptions and evaluations, human resources selection|||
 ||techniques, and labor/employee relations.|||
-|2300 |Social Problems and Their Impact on the Workplace|3|hrs. (3, 0)|
+|2300 |Social Problems and Their Impact on the Workplace|3|hours (3,0)|
 ||Presents an analysis of major contemporary social problems, especially in the United States. Particular|||
 ||attention is given to the problems of poverty, racism, sexism, drug and alcohol abuse, and illiteracy, and|||
 ||their impact on the contemporary workplace. Consideration is given to diverse sociological perspectives|||
 ||with regard to these problems and their causes, consequences, and solutions._Applies to the Social &_|||
 ||_Behavioral Ways of Knowing [Raven Core] component of the Liberal Arts Core Curriculum._|||
-|2400 |Organization Ethics|3|hrs. (3, 0)|
+|2400 |Organization Ethics|3|hours (3,0)|
 ||Provides instruction in systematically applying standard moral and ethical approaches in analyzing|||
 ||issues, problems, and cases.|||
-|2410|Global Issues|3|hrs. (3, 0)|
+|2410|Global Issues|3|hours (3,0)|
 ||Helps the adult learner acquire knowledge and become aware of the increasing interdependence of|||
 ||the world and the global nature of contemporary issues. Essentially seeks to help adult learners to|||
 ||think beyond their immediate surroundings and see themselves as part of a larger community.|||
-|2590 |Management Foundations Capstone|3|hrs. (3, 0)|
+|2590 |Management Foundations Capstone|3|hours (3,0)|
 ||Offers a discussion of selected topics of current issues in management. There will be a written and|||
 ||oral presentation of a management project involving the application of management concepts and|||
-||principles.CONSENT:Departmental permission.|||
-|3000 |Professional Development and Applied Ethics|3|hrs. (3, 0)|
+||principles.Consent:Departmental permission.|||
+|3000 |Professional Development and Applied Ethics|3|hours (3,0)|
 ||Introduces students to personal and professional development through an on-going process by|||
 ||which an individual can begin to strategically identify their distinctive value to self and to others.|||
 ||Encompasses various theoretical, conceptual and emerging practical frameworks of ethical|||
 ||personal and professional development today, in an effort to develop confdent, compassionate, and|||
 ||professional difference-making leaders. Students will discover, develop, defne and communicate|||
 ||their unique purpose through their personal and professional brand.|||
-|3100|Introduction to Information Systems and Analysis of Data|3|hrs. (3, 0)|
+|3100|Introduction to Information Systems and Analysis of Data|3|hours (3,0)|
 ||Introduces students to information systems and the analysis of data. Contemporary information|||
 ||systems and how they add value at the individual level and at the global, organizational level.|||
 ||Students will focus on the key components of information systems: people, hardware, data, and|||
 ||network technologies. Students will develop a business application using database, spreadsheet,|||
 ||and web development tools._Applies to the Quantitative Reasoning [Raven Core] component of the_|||
 ||_Liberal Arts Core Curriculum._|||
-|3220 |Leadership in Nonprofts|3|hrs. (3, 0)|
+|3220 |Leadership in Nonprofts|3|hours (3,0)|
 ||Designed to further the professional development of leaders in the nonproft sector. Students will|||
 ||gain a richer understanding of how to integrate organizational mission with economic strategy and|||
 ||the importance of developing a strong network with a diverse array of nonproft leaders. Learners will|||
 ||form a personal plan of action for leading a nonproft that addresses key organizational and strategic|||
 ||challenges.|||
 
-
-
 Anderson University Undergraduate Catalog 2025-26 
 
 134 
 
-## LEAD (cont.) 
-
 |EAD (|cont.)||
 |---|---|---|
-|3240 |Culture and Gender in Leadership|3 hrs. (3, 0)|
+|3240 |Culture and Gender in Leadership|3 hours (3,0)|
 ||Intended to help learners better understand the challenges women face as they obtain and sustain||
 ||leadership roles within society today. Learners will examine how women have gained access to||
 ||powerful leadership positions; why men have more access than women; and how, as current and||
 ||future leaders, both males and females can eliminate barriers within their own areas of infuence that||
 ||discourage access for women in leadership.||
-|3260 |Confict Resolution|3 hrs. (3, 0)|
+|3260 |Confict Resolution|3 hours (3,0)|
 ||Introduces students to confict resolution through an ongoing process by which an individual can||
 ||begin to understand the various types of confict and comprehend how to attempt to resolve confict.||
 ||Encompasses various theoretical, conceptual and emerging practical frameworks of confict||
 ||resolution today. Designed to develop confdent, compassionate, and professional difference-making||
 ||leaders. Students will discover, develop, and confdently engage with critical issues related confict||
 ||resolution in the context of their own unique identity.||
-|3280 |Project Management|3 hrs. (3, 0)|
+|3280 |Project Management|3 hours (3,0)|
 ||Discusses the factors necessary for successful project management, including concepts, needs||
 ||identifcation, project manager, teams, project communications, project planning and scheduling,||
 ||control and cost performance. Project management software tools will also be utilized as part of the||
 ||course.||
-|3300 |Managerial Accounting|3 hrs. (3, 0)|
+|3300 |Managerial Accounting|3 hours (3,0)|
 ||Presents the fnancial tools available to the manager in decision-making. It includes a study of income||
 ||statements, balance sheets, cash fow budgets, changes in fnancial position, and ratio analysis.||
 ||Emphasis is on reading and understanding accounting and fnancial documents rather than on their||
 ||preparation.||
-|3350 |Managerial Finance|3 hrs. (3, 0)|
+|3350 |Managerial Finance|3 hours (3,0)|
 ||Focuses on the areas of corporate fnance needed by adult learners, even if they are not planning a||
 ||fnance career. The study of fnance provides a number of tools and reports that aid in determining||
 ||which long-term investments to make, where the fnancing will come from, and how to manage||
 ||collecting from customers and paying suppliers. Capital budgeting, capital structure, and working||
 ||capital management will be studied in detail.||
-|3400 |Managerial Economics|3 hrs. (3, 0)|
+|3400 |Managerial Economics|3 hours (3,0)|
 ||An analysis of the principles of economics necessary to equip managers and supervisors for effective||
 ||decision-making and leadership. Specifc economic concepts will be applied to problem-solving in the||
 ||manager’s workplace.||
-|3500 |Managerial Marketing|3 hrs. (3, 0)|
+|3500 |Managerial Marketing|3 hours (3,0)|
 ||Principles of marketing that need to be understood by managers in all areas in order to develop and||
 ||utilize effective marketing practices are examined. Concepts of our global economy, including major||
 ||social, psychological, and political infuences, will be explored and their marketing implications||
 ||considered from a manager’s perspective.||
-|3510|Buyer Behavior|3 hrs. (3, 0)|
+|3510|Buyer Behavior|3 hours (3,0)|
 ||Exposure to numerous theories from psychology, sociology, economics, education, and marketing to||
 ||explain why and how consumers buy the products and services that they do. Buyer behavior will be||
 ||integrated into the large discipline of marketing to illustrate the marketing concept and marketing||
 ||orientation of putting the customer frst.||
-|3550 |Legal Environments of Business|3 hrs. (3, 0)|
+|3550 |Legal Environments of Business|3 hours (3,0)|
 ||Prepares students to evaluate the legal risks associated with business activity. Students will study||
 ||topics including the legal system, alternative dispute resolution, the trial process, contracts, tort law,||
 ||real property, enterprise liability, product liability, international law, business risks, intellectual||
 ||property, and legal forms of business.||
-|3570 |Developing a Mentoring Culture|3 hrs. (3, 0)|
+|3570 |Developing a Mentoring Culture|3 hours (3,0)|
 ||Attempts to help individuals within organizations of every type to build a framework that supports||
 ||and sustains organizational mentoring. Peer mentoring, mentoring forums, and team mentoring are||
 ||becoming common-place in organizations and today’s leader needs to be knowledgeable of the||
 ||process and reasoning behind it.||
-|4000 |Group and Organizational Dynamics|3 hrs. (3, 0)|
+|4000 |Group and Organizational Dynamics|3 hours (3,0)|
 ||A study of group behavior and how group functioning impacts organization effectiveness, with||
 ||emphasis on decision-making and confict resolution. Students develop strategies for effcient and||
 ||productive group management and determine which tasks are best handled within a group setting.||
-
-
 
 Anderson University Undergraduate Catalog 2025-26 
 
 135 
 
-## LEAD (cont.)vvvvvvvvvvvvvvvv 
-
 |EAD (|cont.)vvvvvvvvvvvvvvvv||
 |---|---|---|
-|4100|Communicating Within Organizations|3 hrs. (3, 0)|
+|4100|Communicating Within Organizations|3 hours (3,0)|
 ||Investigates the role of communication in creating a productive organizational environment. Aids||
 ||students in developing and strengthening communication skills by focusing on interpersonal, group,||
 ||and presentation skills.||
-|4200 |A Systems Approach to Organizational Change|3 hrs. (3, 0)|
+|4200 |A Systems Approach to Organizational Change|3 hours (3,0)|
 ||Students examine the formal and informal functions of organizations and analyze an agency or||
 ||organization based on a systems model. Students will also analyze and solve organizational problems||
 ||using a step-by-step method. This analysis will be applied to students’ work-related research projects.||
-|4300 |Strategic Planning|3 hrs. (3, 0)|
+|4300 |Strategic Planning|3 hours (3,0)|
 ||Introduces students to various management planning models and techniques and applies these to||
 ||business cases. Stresses the concepts of strategic planning and strategic management.||
-|4400 |Personal Values and Organizational Ethics|3 hrs. (3, 0)|
+|4400 |Personal Values and Organizational Ethics|3 hours (3,0)|
 ||Several major ethical theories will be reviewed. Students examine personal values through reading||
 ||and workplace analysis to formulate management accountability, human rights, and a reasonable||
 ||lifestyle in the contemporary world.||
-|4500 |Service Leadership|3 hrs. (3, 0)|
+|4500 |Service Leadership|3 hours (3,0)|
 ||Helps learners implement concepts of Robert Greenleaf’s servant leadership as vital in the workplace.||
 ||An understanding of service leadership empowers leaders as they implement concepts of being a||
 ||leader who is servant frst. Learners will become more competent, capable and compassionate leaders||
 ||as they learn to help others while leading.||
-|4550 |Diversity and Intercultural Humility|3 hrs. (3, 0)|
+|4550 |Diversity and Intercultural Humility|3 hours (3,0)|
 ||Helps students understand their own values and beliefs and those of others in the context of a larger,||
 ||complex world. Encompasses various theoretical, conceptual and emerging practical frameworks of||
 ||diversity and intercultural understanding. Designed to develop leaders with an ability to understand,||
@@ -7979,24 +7669,22 @@ Anderson University Undergraduate Catalog 2025-26
 ||building sustainable organizations that leverage diversity, promote inclusion, and enable productive||
 ||collaboration in an increasingly cross-cultural context._Applies to the Global Ways of Knowing [AU_||
 ||_Experience] component of theLiberal Arts Core Curriculum._||
-|4900 |Seminar in Ethics and Leadership|3 hrs. (3, 0)|
+|4900 |Seminar in Ethics and Leadership|3 hours (3,0)|
 ||Senior capstone course designed to encourage students to seriously consider their individual||
 ||responsibilities to the organization and to society. Students will develop a better understanding of||
 ||their natural leadership style and will be presented strategies to improve leadership effectiveness.||
-||EXPECTATION:Students should take this class during their fnal semester.||
-|4910|Professional Seminar|3 hrs. (3, 0)|
+||Expectation:Students should take this class during their fnal semester.||
+|4910|Professional Seminar|3 hours (3,0)|
 ||Helps learners to be professionally ready, whether re-entering the job market or bettering a career.||
 ||Includes the completion of a professional portfolio comprised of the learner’s professional picture,||
 ||résumé, letters of recommendation, leadership philosophy, strengths testing results, personal mission||
 ||statement, and fnal review of a service project.||
-|4990 |Action Research Project|3 hrs. (3, 0)|
+|4990 |Action Research Project|3 hours (3,0)|
 ||A major research effort designed to enhance knowledge in an area related to one’s work or community,||
 ||to provide research skills, and to assist in effective decision-making. Statistical analysis concepts and||
 ||methods assist the student in identifying a problem area, collecting data, proposing a solution and||
-||measuring results. Each student gives an oral report of project fndings.CONSENT:Departmental||
+||measuring results. Each student gives an oral report of project fndings.Consent:Departmental||
 ||permission required.||
-
-
 
 Anderson University Undergraduate Catalog 2025-26 
 
@@ -8028,7 +7716,7 @@ All who wish to major in nursing must be formally admitted to the School of Nurs
 
 Students applying for admission to the major in the sophomore year must meet the following criteria and will be considered on a competitive and space-available basis: 
 
-- Grade of C or above in PSYC 2000; BIOL 2410, 2420; NURS 2140 
+- Grade of C or above in PSYC 2000; BIOL 2410,2420; NURS 2140 
 
 - Cumulative grade point average of 3.2 or higher 
 
@@ -8042,7 +7730,7 @@ Students applying for admission to the major in the sophomore year must meet the
 
 ## Acceptance for Transfer Students 
 
-- Completion of a grade of C or above in PSYC 2000; BIOL 2410, 2420 (BIOL 2410 and 2420 must be taken at the same institution), or the equivalent transfer courses 
+- Completion of a grade of C or above in PSYC 2000; BIOL 2410,2420 (BIOL 2410 and 2420 must be taken at the same institution), or the equivalent transfer courses 
 
 - NURS 2140 (may be taken concurrently with NURS 2241, NURS 2340, and NURS 2270 with SON dean’s permission). NURS 2140 must be successfully completed to progress to 3000-level nursing courses. 
 
@@ -8076,17 +7764,17 @@ Anderson University Undergraduate Catalog 2025-26
 
 - Prerequisite courses must be completed with a grade of C or above, prior to the clinical phase of the program. Prerequisite courses (or the equivalent transfer course) include: 
 
-   - BIOL 2410 Anatomy/Physiology (4 hrs.) 
+   - BIOL 2410 Anatomy/Physiology (4 hours) 
 
-   - BIOL 2420 Anatomy/Physiology II (4 hrs.) 
+   - BIOL 2420 Anatomy/Physiology II (4 hours) 
 
-   - PSYC 2000 General Psychology (3 hrs.) 
+   - PSYC 2000 General Psychology (3 hours) 
 
-   - PSYC 2510 Developmental Psychology (4 hrs.) 
+   - PSYC 2510 Developmental Psychology (4 hours) 
 
-   - CHEM 1000 Intro to Chemistry (4 hrs.) 
+   - CHEM 1000 Intro to Chemistry (4 hours) 
 
-   - BIOL 2230 Microbes and Disease (4 hrs.) 
+   - BIOL 2230 Microbes and Disease (4 hours) 
 
 - Submission of a School of Nursing application, resume, two references, and an interview. 
 
@@ -8096,17 +7784,17 @@ Anderson University Undergraduate Catalog 2025-26
 
 * _castlebranch.com_ 
 
-## BACHELOR OF SCIENCE IN NURSING (83 hrs.) 
+## BACHELOR OF SCIENCE IN NURSING (83 hours) 
 
-Nursing Foundation (60 hrs.) 
+Nursing Foundation (60 hours) 
 
-●​ NURS 2140, 2231, 2250, 2241, 2270, 2340 ●​ NURS 3351, 3361, 3391 
+●​ NURS 2140,2231,2250,2241,2270,2340 ●​ NURS 3351,3361,3391 
 
-●​ NURS 4451, 4470, 4510, 4521, 4950, 4960, 4970 
+●​ NURS 4451,4470,4510,4521,4950,4960,4970 
 
-Supportive Sciences (23 hrs.) 
+Supportive Sciences (23 hours) 
 
-●​ BIOL 2230, 2410, 2420 ●​ PSYC 2000, 2510 ●​ CHEM 1000 
+●​ BIOL 2230,2410,2420 ●​ PSYC 2000,2510 ●​ CHEM 1000 
 
 Liberal Arts Requirements (see Liberal Arts Framework in this catalog) 
 
@@ -8116,118 +7804,110 @@ _The AUSON strongly recommends NURS 2130 be taken before entering the major._
 
 |NURS |Courses||
 |---|---|---|
-|1210|Nutrition for Healthy Living|2 hrs. (2, 0)|
+|1210|Nutrition for Healthy Living|2 hours (2,0)|
 ||Explores principles of nutrition as they relate to physical ftness. Content includes important nutritional||
 ||elements and their relationship to maintaining health. Required activities include personal health||
 ||assessment skills, nutritional assessment, and aerobic activities. Not required but highly recommended||
 ||for nursing majors._Applies to the Personal Wellness [AU Experience] component of theLiberal Arts Core_||
-||_Curriculum._ OFFERED: Sem. I, II.||
-|2130|Is Nursing for me?|1 hr. (1, 0)|
+||_Curriculum._ Offered: Semester I, II.||
+|2130|Is Nursing for me?|1 hour (1,0)|
 ||Discussion of history and contemporary issues of nursing and their impact on current nursing practice is||
 ||included in study. Relationship between the nursing major, the liberal arts, and support science courses||
 ||will be explored. Designed to assist students in determining if nursing is the correct career choice. Not||
-||required but highly recommended for nursing majors.PREREQUISITE: Freshman or Sophomore status.||
-||OFFERED: Sem. I.||
-
-
+||required but highly recommended for nursing majors.Prerequisite: Freshman or Sophomore status.||
+||Offered: Semester I.||
 
 Anderson University Undergraduate Catalog 2025-26 
 
 138 
 
-## NURS (cont.) 
+## 2140 Introduction to Nursing 2 hours (2,0) 
 
-## 2140 Introduction to Nursing 2 hrs. (2, 0) 
+Introduces the practice of nursing from the perspective of the profession. Focuses on understanding nursing terminology, roles, socialization, values, rights, and responsibilities. Expanding on historical influences develops a working knowledge of current healthcare delivery and legal concerns. May be taken concurrently with NURS 2241 with the dean’s approval. Offered : Semester II. 
 
-Introduces the practice of nursing from the perspective of the profession. Focuses on understanding nursing terminology, roles, socialization, values, rights, and responsibilities. Expanding on historical influences develops a working knowledge of current healthcare delivery and legal concerns. May be taken concurrently with NURS 2241 with the dean’s approval. OFFERED : Sem. II. 
+2170 Skills and Procedures Boot Camp 2 hours (1,1-13) Introduces novice nursing students to basic skills and procedures in preparation for clinical experiences. Skills and procedures obtained in this course include: The Health Insurance Portability and Accountability Act (HIPAA) training, and the protection of patient’s rights, infection control, handwashing, Personal Protective Equipment (PPE), fire safety, patient safety and ergonomics (ambulation, active and passive range of motion, restraints), communications skills, and vital signs: blood pressure, temperature, pulse, respirations, pulse oximetry, pain, height and weight). Additional skills and procedures include: activities of daily Living (ADL’s) (positioning/turning/transfers/ restraints, personal hygiene, bed making, proper feeding techniques, skin care, pressure prevention), care of assistive devices (hearing aids, artificial eyes, eyeglasses, and dentures), and the use of compression stockings. Expectation : For students with no prior patient care and health care training (Certified Nursing Assistant, Emergency Medical Technician, or Licensed Practical Nurse). Grade : CR/NC. Offered : Semester I. 
 
-2170 Skills and Procedures Boot Camp 2 hrs. (1, 1-13) Introduces novice nursing students to basic skills and procedures in preparation for clinical experiences. Skills and procedures obtained in this course include: The Health Insurance Portability and Accountability Act (HIPAA) training, and the protection of patient’s rights, infection control, handwashing, Personal Protective Equipment (PPE), fire safety, patient safety and ergonomics (ambulation, active and passive range of motion, restraints), communications skills, and vital signs: blood pressure, temperature, pulse, respirations, pulse oximetry, pain, height and weight). Additional skills and procedures include: activities of daily Living (ADL’s) (positioning/turning/transfers/ restraints, personal hygiene, bed making, proper feeding techniques, skin care, pressure prevention), care of assistive devices (hearing aids, artificial eyes, eyeglasses, and dentures), and the use of compression stockings. EXPECTATION : For students with no prior patient care and health care training (Certified Nursing Assistant, Emergency Medical Technician, or Licensed Practical Nurse). GRADE : CR/NC. OFFERED : Sem. I. 
+- 2231 Fundamentals I 5 hours (4,3-45 clinical hours) Introduces student to the nursing process through the AUSON Conceptual Framework focusing on individuals, families, communities, and populations. Students learn to conduct comprehensive and focused physical, behavioral, psychological, spiritual, socioeconomic, and environmental assessments of health and illness utilizing developmentally and culturally appropriate approaches. Basic psychomotor skills for delivery of efficient, safe, and compassionate care introduced and utilized with patients as students are considered novices and exhibit concrete thinking. Expectation : Admission to the program. Prerequisite : BIOL 2410,2420; PSYC 2000. Corequisite : NURS 2250, PSYC 2510, BIOL 2230. Offered : Semester I. 
 
-- 2231 Fundamentals I 5 hrs. (4, 3-45 clinical hrs.) Introduces student to the nursing process through the AUSON Conceptual Framework focusing on individuals, families, communities, and populations. Students learn to conduct comprehensive and focused physical, behavioral, psychological, spiritual, socioeconomic, and environmental assessments of health and illness utilizing developmentally and culturally appropriate approaches. Basic psychomotor skills for delivery of efficient, safe, and compassionate care introduced and utilized with patients as students are considered novices and exhibit concrete thinking. EXPECTATION : Admission to the program. PREREQUISITE : BIOL 2410, 2420; PSYC 2000. COREQUISITE : NURS 2250, PSYC 2510, BIOL 2230. OFFERED : Sem. I. 
+- 2241 Fundamentals II 5 hours (3,6-90 clinical hours) 
 
-- 2241 Fundamentals II 5 hrs. (3, 6-90 clinical hrs.) 
+   - Builds on the content of Fundamentals I in the continuing study of individuals, families, communities, and populations through use of the AUSON Conceptual Framework. The clinical component continues the development of comprehensive and focused physical, behavioral, psychological, spiritual, socioeconomic, and environmental assessments of health and illness utilizing developmentally and culturally appropriate approaches. Basic psychomotor skills for the delivery of efficient, safe, and compassionate care continue to be introduced and utilized with patients as students are considered novices and exhibit concrete thinking. Begins the study of the preparation and administration of medication in a safe care environment that results in high-quality patient outcomes. Prerequisite : NURS 2231,2250; PSYC 2510, BIOL 2230. Corequisite: CHEM 1000, NURS 2340. Offered : Semester II. 
 
-   - Builds on the content of Fundamentals I in the continuing study of individuals, families, communities, and populations through use of the AUSON Conceptual Framework. The clinical component continues the development of comprehensive and focused physical, behavioral, psychological, spiritual, socioeconomic, and environmental assessments of health and illness utilizing developmentally and culturally appropriate approaches. Basic psychomotor skills for the delivery of efficient, safe, and compassionate care continue to be introduced and utilized with patients as students are considered novices and exhibit concrete thinking. Begins the study of the preparation and administration of medication in a safe care environment that results in high-quality patient outcomes. PREREQUISITE : NURS 2231, 2250; PSYC 2510, BIOL 2230. COREQUISITE: CHEM 1000, NURS 2340. OFFERED : Sem. II. 
+## 2250 Foundational Strategies for NCLEX Success 1 hour (1,0) 
 
-## 2250 Foundational Strategies for NCLEX Success 1 hr. (1, 0) 
+Focuses on foundational nursing concepts toward developing a framework for critical thinking and National Council Licensure Exam (NCLEX) test taking strategies. Utilizes test-taking resources to improve critical thinking and analyzing test questions. Students will develop strategies for studying, including applying course content into NCLEX questions, as well as strategies for managing test anxiety and for increasing test-taking skills. Offered : Semester I. 
 
-Focuses on foundational nursing concepts toward developing a framework for critical thinking and National Council Licensure Exam (NCLEX) test taking strategies. Utilizes test-taking resources to improve critical thinking and analyzing test questions. Students will develop strategies for studying, including applying course content into NCLEX questions, as well as strategies for managing test anxiety and for increasing test-taking skills. OFFERED : Sem. I. 
+## 2270 Pathophysiological Basis for Pharmacology in Nursing 4 hours (3.0,2-30 lab hours) 
 
-## 2270 Pathophysiological Basis for Pharmacology in Nursing 4 hrs. (3.0, 2-30 lab hrs.) 
+Builds on the content and experiences of the introductory nursing courses. Includes consideration of individuals, families, communities, and populations through the use of the AUSON Conceptual Framework. Partners with the Fundamental course to continue the study of preparation and administration of medication in a safe care environment that results in high-quality patient outcomes. Course covers physiological processes including absorption, distribution, metabolism, and excretion of drugs. Drug action and interactions will also be discussed. Appropriate dosage calculation must be demonstrated by the student. Prerequisite : NURS 2231, PSYC 2510, BIOL 2230. Corequisite : CHEM 1000, NURS 2241. Offered : Semester II. 
 
-Builds on the content and experiences of the introductory nursing courses. Includes consideration of individuals, families, communities, and populations through the use of the AUSON Conceptual Framework. Partners with the Fundamental course to continue the study of preparation and administration of medication in a safe care environment that results in high-quality patient outcomes. Course covers physiological processes including absorption, distribution, metabolism, and excretion of drugs. Drug action and interactions will also be discussed. Appropriate dosage calculation must be demonstrated by the student. PREREQUISITE : NURS 2231, PSYC 2510, BIOL 2230. COREQUISITE : CHEM 1000, NURS 2241. OFFERED : Sem. II. 
-
-2340 Personal and Community Health Nursing 2 hrs. (2, 0) Uses the AUSON Conceptual Framework to analyze risks to health for individuals and population groups in the community setting. Students will learn strategies in primary, secondary, and tertiary prevention to apply to community health needs. Topics include environmental health issues, poverty, health disparities, equity, and the social determinants of health. PREREQUISITE : NURS 2231, 2250; PSYC 2510, BIOL 2230. COREQUISITE : CHEM 1000, NURS 2241. OFFERED : Sem. II. 
+2340 Personal and Community Health Nursing 2 hours (2,0) Uses the AUSON Conceptual Framework to analyze risks to health for individuals and population groups in the community setting. Students will learn strategies in primary, secondary, and tertiary prevention to apply to community health needs. Topics include environmental health issues, poverty, health disparities, equity, and the social determinants of health. Prerequisite : NURS 2231,2250; PSYC 2510, BIOL 2230. Corequisite : CHEM 1000, NURS 2241. Offered : Semester II. 
 
 Anderson University Undergraduate Catalog 2025-26 
 
 139 
 
-## NURS (cont.) 
+## 3351 Adult Health I 6 hours (3,9-135 clinical hours) 
 
-## 3351 Adult Health I 6 hrs. (3, 9-135 clinical hrs.) 
+Builds on the content of 2000-level nursing courses and support courses. Focuses on the application of the AUSON Conceptual Framework and nursing process for patients, families, and communities. Implementation of evidence-based nursing interventions for managing acute and chronic care of patients and promoting health is included in study. Basic psychomotor skills for the delivery of efficient, safe, and compassionate care continue to be introduced and utilized with patients as students now function as advanced beginners and are to apply critical/ creative-thinking strategies. Prerequisite : CHEM 1000; NURS 2241,2340,2270. Offered : Semester I. 
 
-Builds on the content of 2000-level nursing courses and support courses. Focuses on the application of the AUSON Conceptual Framework and nursing process for patients, families, and communities. Implementation of evidence-based nursing interventions for managing acute and chronic care of patients and promoting health is included in study. Basic psychomotor skills for the delivery of efficient, safe, and compassionate care continue to be introduced and utilized with patients as students now function as advanced beginners and are to apply critical/ creative-thinking strategies. PREREQUISITE : CHEM 1000; NURS 2241, 2340, 2270. OFFERED : Sem. I. 
+## 3361 Adult Health II 6 hours (3,9-135 clinical hours) 
 
-## 3361 Adult Health II 6 hrs. (3, 9-135 clinical hrs.) 
+- Builds upon the content and experiences from Adult Health 1. Emphasis on application of the AUSON Conceptual Framework and nursing process with individuals, families, communities, and populations. Implementation of evidence-based nursing interventions for managing acute and chronic care of patients and promoting health. Emphasizes communication with all members of the health-care team, including patient and patient’s support network. Practical experiences focus on increasing clinical reasoning skills. The application of critical/creative thinking is used as students practice as advanced beginners. Prerequisite : NURS 3351. Corequisite : NURS 3391. Offered : Semester II. 
 
-- Builds upon the content and experiences from Adult Health 1. Emphasis on application of the AUSON Conceptual Framework and nursing process with individuals, families, communities, and populations. Implementation of evidence-based nursing interventions for managing acute and chronic care of patients and promoting health. Emphasizes communication with all members of the health-care team, including patient and patient’s support network. Practical experiences focus on increasing clinical reasoning skills. The application of critical/creative thinking is used as students practice as advanced beginners. PREREQUISITE : NURS 3351. COREQUISITE : NURS 3391. OFFERED : Sem. II. 
+## 3391 Evidence-Based Research 3 hours (3,0) 
 
-## 3391 Evidence-Based Research 3 hrs. (3, 0) 
+- Introduces nursing research with an in-depth study of the steps of the research process. Analysis of nursing research studies will occur. Explores research design and application of evidence-based practice methodology. Students critique research articles and develop a proposal related to a topic of significance to the practice of nursing. It is recommended that the math requirement be met prior to enrolling in the course. Prerequisite : NURS 3351 and ENGL 1120 or RN License. Corequisite : NURS 3361. Offered : Semester II. 
 
-- Introduces nursing research with an in-depth study of the steps of the research process. Analysis of nursing research studies will occur. Explores research design and application of evidence-based practice methodology. Students critique research articles and develop a proposal related to a topic of significance to the practice of nursing. It is recommended that the math requirement be met prior to enrolling in the course. PREREQUISITE : NURS 3351 and ENGL 1120 or RN License. COREQUISITE : NURS 3361. OFFERED : Sem. II. 
-
-3400 Nursing Remediation 1-6 hrs. (arranged) 
+3400 Nursing Remediation 1-6 hours (arranged) 
 
 Offered to nursing students who have been absent for more than one semester from their last clinical experience. Remediation may include, but is not limited to: ATI resources, simulation, and appropriate skills level check off. 
 
-3850 Practicum in Nursing 1-3 hrs. (arranged) 
+3850 Practicum in Nursing 1-3 hours (arranged) 
 
-Individualized study, clinical experiences, research, and/or project. CONSENT : Dean. REPEAT : May be repeated. OFFERED : Sem. I, II. 
+Individualized study, clinical experiences, research, and/or project. Consent : Dean. Repeat : May be repeated. Offered : Semester I, II. 
 
-4451 Adult Health III 7 hrs. (4, 9-135 clinical hrs.) 
+4451 Adult Health III 7 hours (4,9-135 clinical hours) 
 
-- Builds upon the 2000- and 3000-level nursing courses and support courses. Focused application of the AUSON Conceptual Framework and nursing process with clients with complex medical issues. Patient care includes individuals, families, communities, and populations. Integration of evidence-based nursing interventions is required in the design of nursing systems. Students come to the course as advanced beginners, and through the integration of creative/critical judgment processes of analysis/synthesis, the development of competence in practice begins. PREREQUISITE : NURS 3361, 3391. COREQUISITE : NURS 4470. OFFERED : Sem. I. 
+- Builds upon the 2000- and 3000-level nursing courses and support courses. Focused application of the AUSON Conceptual Framework and nursing process with clients with complex medical issues. Patient care includes individuals, families, communities, and populations. Integration of evidence-based nursing interventions is required in the design of nursing systems. Students come to the course as advanced beginners, and through the integration of creative/critical judgment processes of analysis/synthesis, the development of competence in practice begins. Prerequisite : NURS 3361,3391. Corequisite : NURS 4470. Offered : Semester I. 
 
-4470 Seminar in Nursing 4 hrs. (4, 0) 
+4470 Seminar in Nursing 4 hours (4,0) 
 
-Professional standards of moral, ethical, and legal conduct are discussed. Students assume accountability for personal and professional behaviors by reflecting on one’s own beliefs and values as they relate to professional practice. Students identify personal, professional, and environmental risks that impact personal and professional choices on vulnerable populations. PREREQUISITE : NURS 3361, 3391. COREQUISITE : NURS 4451. OFFERED : Sem. I. 
+Professional standards of moral, ethical, and legal conduct are discussed. Students assume accountability for personal and professional behaviors by reflecting on one’s own beliefs and values as they relate to professional practice. Students identify personal, professional, and environmental risks that impact personal and professional choices on vulnerable populations. Prerequisite : NURS 3361,3391. Corequisite : NURS 4451. Offered : Semester I. 
 
-4510 Entry into Professional Nursing Practice 1 hr. (1, 0) 
+4510 Entry into Professional Nursing Practice 1 hour (1,0) 
 
-Builds upon foundational strategies in preparation for the NCLEX exam and entry into professional practice. Students will examine and review computerized test-taking strategies, carefully analyzing any issues related to test-taking abilities and completing focus reviews and other NCLEX preparation resources. The process for licensure application and job-seeking strategies will also be discussed. PREREQUISITE : NURS 4451, 4470. COREQUISITE : NURS 4521, 4950, 4960, 4970. 
+Builds upon foundational strategies in preparation for the NCLEX exam and entry into professional practice. Students will examine and review computerized test-taking strategies, carefully analyzing any issues related to test-taking abilities and completing focus reviews and other NCLEX preparation resources. The process for licensure application and job-seeking strategies will also be discussed. Prerequisite : NURS 4451,4470. Corequisite : NURS 4521,4950,4960,4970. 
 
-4521 Child Health 4 hrs. (3, 3-45 clinical hrs.) 
+4521 Child Health 4 hours (3,3-45 clinical hours) 
 
-Builds on the experiences of prior courses and required synthesis and analysis of all previously learned material as the student progresses into specialized content of caring for children and families within the AUSON Conceptual Framework. The roles of the pediatric nurse are examined within health promotion, health maintenance, and health restoration. Developmental and family-centered nursing care concepts are integrated with liberal arts knowledge to identify nursing care needs of children. PREREQUISITE : NURS 4451 ( Note : If a student has a _didactic_ failure in NURS 4451 they _may_ continue to NURS 4521. If a student has a _clinical_ failure in NURS 4451, the student _may not_ continue in NURS 4521); NURS 4470. COREQUISITE : NURS 4950, 4960, 4970. OFFERED : Sem. II. 
+Builds on the experiences of prior courses and required synthesis and analysis of all previously learned material as the student progresses into specialized content of caring for children and families within the AUSON Conceptual Framework. The roles of the pediatric nurse are examined within health promotion, health maintenance, and health restoration. Developmental and family-centered nursing care concepts are integrated with liberal arts knowledge to identify nursing care needs of children. Prerequisite : NURS 4451 ( Note : If a student has a _didactic_ failure in NURS 4451 they _may_ continue to NURS 4521. If a student has a _clinical_ failure in NURS 4451, the student _may not_ continue in NURS 4521); NURS 4470. Corequisite : NURS 4950,4960,4970. Offered : Semester II. 
 
 Anderson University Undergraduate Catalog 2025-26 
 
 140 
 
-## NURS (cont.) 
-
-4 hrs. (2, 6-90 clinical hrs.) 
+4 hours (2,6-90 clinical hours) 
 
 ## 4950 Intercultural Capstone 
 
-Emphasizes the value of human diversity in order to provide safe, high-quality care. Includes a discussion of the health care provider’s practice in a multicultural environment, providing culturally appropriate care across settings. Students are expected to immerse themselves in a culture other than their own through an intercultural experience. NOTE : Students should anticipate and plan for transportation costs and other expenses. CONSENT : Instructor. PREREQUISITE : NURS 4451, 4470. COREQUISITE : NURS 4521, 4960, 4970. SAME AS: PUBH 4950. OFFERED : Sem. II. 
+Emphasizes the value of human diversity in order to provide safe, high-quality care. Includes a discussion of the health care provider’s practice in a multicultural environment, providing culturally appropriate care across settings. Students are expected to immerse themselves in a culture other than their own through an intercultural experience. NOTE : Students should anticipate and plan for transportation costs and other expenses. Consent : Instructor. Prerequisite : NURS 4451,4470. Corequisite : NURS 4521,4960,4970. SAME AS: PUBH 4950. Offered : Semester II. 
 
-4960 Leadership Capstone 4 hrs. (2.5, 4.5-67.5 clinical hrs.) 
+4960 Leadership Capstone 4 hours (2.5,4.5-67.5 clinical hours) 
 
-Builds on previous nursing courses as the student moves toward becoming a competent generalist nurse, who designs, manages, coordinates, and provides care. Includes a practicum which allows the student to integrate new practice-related knowledge and skills. Critically analyzes leadership principles and management strategies and how they affect the organization and influence patient outcomes. Examines and applies total quality improvement processes and tools which impact patient safety and meet regulatory requirements. Analyzes the utilization and control of financial and human resources to promote quality patient care and optimize professional practice. Emphasizes the nurse as a consumer advocate. PREREQUISITE : NURS 4451, 4470. COREQUISITE : NURS 4521, 4950, 4970. OFFERED : Sem. II. 
+Builds on previous nursing courses as the student moves toward becoming a competent generalist nurse, who designs, manages, coordinates, and provides care. Includes a practicum which allows the student to integrate new practice-related knowledge and skills. Critically analyzes leadership principles and management strategies and how they affect the organization and influence patient outcomes. Examines and applies total quality improvement processes and tools which impact patient safety and meet regulatory requirements. Analyzes the utilization and control of financial and human resources to promote quality patient care and optimize professional practice. Emphasizes the nurse as a consumer advocate. Prerequisite : NURS 4451,4470. Corequisite : NURS 4521,4950,4970. Offered : Semester II. 
 
-4970 Clinical Capstone 2 hrs. (0.5, 4.5-67.5 clinical hrs.) 
+4970 Clinical Capstone 2 hours (0.5,4.5-67.5 clinical hours) 
 
-Building on prior nursing courses, students will have the opportunity to demonstrate competencies consistent with the program outcomes. In collaboration with the faculty and a preceptor in a chosen care setting, students will apply critical thinking, academic knowledge, and clinical skills in a real-life working environment. The purpose of this clinical immersion is for the student to understand expectations necessary to transition from student to novice nurse. PREREQUISITE : NURS 4451, 4470. COREQUISITE : NURS 4521, 4950, 4960. OFFERED : Sem. II. 
+Building on prior nursing courses, students will have the opportunity to demonstrate competencies consistent with the program outcomes. In collaboration with the faculty and a preceptor in a chosen care setting, students will apply critical thinking, academic knowledge, and clinical skills in a real-life working environment. The purpose of this clinical immersion is for the student to understand expectations necessary to transition from student to novice nurse. Prerequisite : NURS 4451,4470. Corequisite : NURS 4521,4950,4960. Offered : Semester II. 
 
 ## NURS _Electives_ 
 
-3560 Complementary and Alternative Therapies * 3 hrs. (3, 0) 
+3560 Complementary and Alternative Therapies * 3 hours (3,0) 
 
 Introduces students to different holistic therapeutic modalities such as massage and guided imagery. Explores herbal therapies as complementary and alternative to western traditional pharmacotherapies. Newer treatments in the areas of genomics, personalized medicine, and supplementary diagnostic procedures will also be investigated. 
 
-|3570 ||Emergency Room Nursing Care|3 hrs. (3,0)|
+|3570 ||Emergency Room Nursing Care|3 hours (3,0)|
 |---|---|---|---|
 |||Introduces students to the basics in emergency and trauma care for patients across the lifespan. Discusses||
 |||common emergent and critical care issues among patients found in an emergency department. Uses||
@@ -8237,10 +7917,8 @@ Introduces students to different holistic therapeutic modalities such as massage
 |||reviewed. Explores legal, ethical, and moral dilemmas that present commonly in the emergency||
 |||department. Focuses on appropriate collaboration and communication within the emergency department||
 |||team. Explores specifc assessments, equipment and concepts applied in critical care areas.||
-|||PREREQUISITE: CHEM 1000; NURS 2241, 2340, 2270.OFFERED: Sem. I.||
-|3580|Enriching Clinical Reasoning and Judgment *||3 hrs. (3, 0)|
-
-
+|||Prerequisite: CHEM 1000; NURS 2241,2340,2270.Offered: Semester I.||
+|3580|Enriching Clinical Reasoning and Judgment *||3 hours (3,0)|
 
 Utilizes current knowledge in assessment, anatomy, pathophysiology, and pharmacology to explore common patients, defining presenting symptoms such as shortness of breath, abdominal pain, and headache. Case studies allow students to further develop knowledge by exploring the primary patient problem supported by assessment findings, anatomy, and pathophysiology concepts. Utilizing clinical reasoning and judgment, students will explore nursing and pharmacological interventions in relation to the primary patient problem. Nursing systems thinking will be utilized to explore patient issues in relation to quality and safe care. Required for RNs who have been out of nursing practice for five years or more. 
 
@@ -8260,23 +7938,23 @@ The purpose of the Anderson University Engineering program is to educate highly 
 
 _All required courses within all engineering majors and complementary majors must be completed with a minimum grade of C-._ 
 
-## ENGINEERING CORE (49 hrs.) 
+## ENGINEERING CORE (49 hours) 
 
 The following core classes are required of all Civil, Computer, Electrical, Mechanical, and Mechatronics Engineering majors: 
 
 - CHEM 2110 
 
-- PHYS 2240, 2250 
+- PHYS 2240,2250 
 
-- MATH 2010, 2020, 3010, 3100 
+- MATH 2010,2020,3010,3100 
 
-- ENGR 2001, 2002, 2003, 2010, 2030, 2080, 2090, 2310, 4950, 4960 
+- ENGR 2001,2002,2003,2010,2030,2080,2090,2310,4950,4960 
 
 ## CIVIL ENGINEERING 
 
 Students in the civil engineering program will learn the principles and skills necessary to analyze and design systems for the physical environment, including public works like dams, levees, roads and bridges. Students will gain experience in areas of mechanics, hydraulic and hydrologic systems, structural analysis and design, surveying, and geotechnical engineering. Students will apply their knowledge through experiential learning in hands-on laboratory environments. Students will gain enough depth and breadth in their experience to be well prepared for entering the civil engineering profession. 
 
-## Educational Objectives: 
+## Educational Objectives 
 
 Graduates of the Civil Engineering program at Anderson University are expected to demonstrate: 
 
@@ -8288,17 +7966,17 @@ Graduates of the Civil Engineering program at Anderson University are expected t
 
 - Application of foundational engineering knowledge to continually improve their education and skills. 
 
-CIVIL ENGINEERING MAJOR, BACHELOR OF SCIENCE  (92 hrs.) 
+CIVIL ENGINEERING MAJOR, BACHELOR OF SCIENCE  (92 hours) 
 
 - 49-hour Engineering Core 
 
 - MATH 2120 
 
-- ENGR 2110, 3140, 3330, 3340, 3350, 3510, 4130, 4320, 4330, 4340, 4350, 4360 
+- ENGR 2110,3140,3330,3340,3350,3510,4130,4320,4330,4340,4350,4360 
 
 - At least 3 additional hours from ENGR 2xxx and above 
 
-- A 4-hour science elective from PHYS 1020, 1240, BIOL 1000, 2210, CPSC 2020 
+- A 4-hour science elective from PHYS 1020,1240, BIOL 1000,2210, CPSC 2020 
 
 Anderson University Undergraduate Catalog 2025-26 
 
@@ -8310,7 +7988,7 @@ Students in the ABET-accredited computer engineering program will learn the prin
 
 The Computer Engineering (BS) program is accredited by the Engineering Accreditation Commission of ABET, _www.abet.org_ , under the _General Criteria and Program Criteria for Electrical, Computer, Communications, Telecommunication(s) and Similarly Named Engineering Programs_ . 
 
-## Educational Objectives: 
+## Educational Objectives 
 
 Graduates of the Computer Engineering program at Anderson University are expected to demonstrate: 
 
@@ -8322,17 +8000,17 @@ Graduates of the Computer Engineering program at Anderson University are expecte
 
 - Application of foundational engineering knowledge to continually improve their education and skills. 
 
-## COMPUTER ENGINEERING MAJOR, BACHELOR OF SCIENCE  (91 hrs.) 
+## COMPUTER ENGINEERING MAJOR, BACHELOR OF SCIENCE  (91 hours) 
 
 - 49-hour Engineering Core 
 
-- MATH 2200, 4010 
+- MATH 2200,4010 
 
-- ENGR 2200, 3030, 3220, 3260, 3270, 3280, 4250 
+- ENGR 2200,3030,3220,3260,3270,3280,4250 
 
-- CPSC 2420, 2430, 2500, 4420 
+- CPSC 2420,2430,2500,4420 
 
-- At least 3 additional hours from ENGR 2110, 3080, 4020, CPSC 3410, 3520 
+- At least 3 additional hours from ENGR 2110,3080,4020, CPSC 3410,3520 
 
 ## ELECTRICAL ENGINEERING 
 
@@ -8340,7 +8018,7 @@ Students in the ABET-accredited electrical engineering program will learn the pr
 
 The Electrical Engineering (BS) program is accredited by the Engineering Accreditation Commission of ABET, www.abet.org, under the _General Criteria and Program Criteria for Electrical, Computer, Communications, Telecommunication(s) and Similarly Named Engineering Programs_ . 
 
-## Program Educational Objectives: 
+## Program Educational Objectives 
 
 Graduates of the Electrical Engineering program at Anderson University are expected to demonstrate: 
 
@@ -8352,17 +8030,17 @@ Graduates of the Electrical Engineering program at Anderson University are expec
 
 - Application of foundational engineering knowledge to continually improve their education and skills. 
 
-## ELECTRICAL ENGINEERING MAJOR, BACHELOR OF SCIENCE  (92 hrs.) 
+## ELECTRICAL ENGINEERING MAJOR, BACHELOR OF SCIENCE  (92 hours) 
 
 - 49-hour Engineering Core 
 
-- MATH 3020, 4010 
+- MATH 3020,4010 
 
-- ENGR 2200, 3030, 3220, 3230, 3240, 3260, 3270, 3280, 4230, 4240, 4250 
+- ENGR 2200,3030,3220,3230,3240,3260,3270,3280,4230,4240,4250 
 
 - CPSC 2420 
 
-- At least 3 additional hours from ENGR 2110, 3080, 3180, 4020 
+- At least 3 additional hours from ENGR 2110,3080,3180,4020 
 
 Anderson University Undergraduate Catalog 2025-26 
 
@@ -8374,7 +8052,7 @@ Students in the ABET-accredited mechanical engineering program will learn the pr
 
 The Mechanical Engineering (BS) program is accredited by the Engineering Accreditation Commission of ABET, www.abet.org, under the _General Criteria and Program Criteria for Mechanical and Similarly named Engineering Programs_ . 
 
-## Educational Objectives: 
+## Educational Objectives 
 
 Graduates of the Computer Engineering program at Anderson University are expected to demonstrate: 
 
@@ -8386,13 +8064,13 @@ Graduates of the Computer Engineering program at Anderson University are expecte
 
 - Application of foundational engineering knowledge to continually improve their education and skills. 
 
-## MECHANICAL ENGINEERING MAJOR, BACHELOR OF SCIENCE  (92 hrs.) 
+## MECHANICAL ENGINEERING MAJOR, BACHELOR OF SCIENCE  (92 hours) 
 
 - 49-hour Engineering Core 
 
 - MATH 3020 
 
-- ENGR 2070, 2110, 3030, 3110, 3140, 3150, 3160, 3180, 3190, 3510, 3850, 4110, 4130, 4140, 4160, 4320 
+- ENGR 2070,2110,3030,3110,3140,3150,3160,3180,3190,3510,3850,4110,4130,4140,4160,4320 
 
 - At least 3 hours from ENGR 3xxx or above 
 
@@ -8402,7 +8080,7 @@ Mechatronics Engineering is the multidisciplinary union of mechanical, electrica
 
 The Mechatronics Engineering (BS) program is accredited by the Engineering Accreditation Commission of ABET, www.abet.org, under the _General Criteria and Program Criteria for Mechanical and Similarly named Engineering Programs_ . 
 
-## Educational Objectives: 
+## Educational Objectives 
 
 Graduates of the Computer Engineering program at Anderson University are expected to demonstrate 
 
@@ -8414,13 +8092,13 @@ Graduates of the Computer Engineering program at Anderson University are expecte
 
 - Application of foundational engineering knowledge to continually improve their education and skills. 
 
-## MECHATRONICS ENGINEERING MAJOR, BACHELOR OF SCIENCE  (92 hrs.) 
+## MECHATRONICS ENGINEERING MAJOR, BACHELOR OF SCIENCE  (92 hours) 
 
 - 49-hour Engineering Core 
 
 - MATH 2120 OR MATH 3020 
 
-- ENGR 2110, 2200, 3030, 3110, 3140, 3150, 3220, 3280, 3510, 3850, 4020 
+- ENGR 2110,2200,3030,3110,3140,3150,3220,3280,3510,3850,4020 
 
 - CPSC 2020 OR 2500 
 
@@ -8438,55 +8116,55 @@ The Humanitarian Engineering Complementary Major and Minor are aimed at equippin
 
 The complementary major must be paired with existing engineering majors (CE, CpE, EE, ME, MxE), while the minor may be paired with any major. 
 
-## HUMANITARIAN ENGINEERING COMPLEMENTARY MAJOR  (47 hrs.) 
+## HUMANITARIAN ENGINEERING COMPLEMENTARY MAJOR  (47 hours) 
 
 - PHYS 2240 
 
-- MATH 2010, 2020 
+- MATH 2010,2020 
 
-- ENGR 2001, 2002, 2003, 2010, 2030, 2080, 2090, 3080, 4950, 4960 
+- ENGR 2001,2002,2003,2010,2030,2080,2090,3080,4950,4960 
 
 - Select 13 hours from: 
 
-   - BSNS 2710, 3120, 4480 
+   - BSNS 2710,3120,4480 
 
-   - CMIN 2000, 3910 
+   - CMIN 2000,3910 
 
    - ENGR 2060 
 
-   - PACT 2100, 2200, 2300, 2400 
+   - PACT 2100,2200,2300,2400 
 
-   - PHIL 2120, 3250 
+   - PHIL 2120,3250 
 
-   - PSYC 2000, 2100, 3200 
+   - PSYC 2000,2100,3200 
 
-   - RLGN 2130, 3040, 3120 
+   - RLGN 2130,3040,3120 
 
-   - SOCI 2020, 2100, 4350 
+   - SOCI 2020,2100,4350 
 
    - SPAN courses beyond 1020 or equivalent 
 
-## HUMANITARIAN ENGINEERING MINOR  (15-18 hrs.) 
+## HUMANITARIAN ENGINEERING MINOR  (15-18 hours) 
 
-- ENGR 2080, 2090, 3080 
+- ENGR 2080,2090,3080 
 
 - Select remaining 4-7 hours from: 
 
-   - BSNS 2710, 3120, 4480 
+   - BSNS 2710,3120,4480 
 
-   - CMIN 2000, 3910 
+   - CMIN 2000,3910 
 
    - ENGR 2060 
 
-   - PACT 2100, 2200, 2300, 2400 
+   - PACT 2100,2200,2300,2400 
 
-   - PHIL 2120, 3250 
+   - PHIL 2120,3250 
 
-   - PSYC 2000, 2100, 3200 
+   - PSYC 2000,2100,3200 
 
-   - RLGN 2130, 3040, 3120 
+   - RLGN 2130,3040,3120 
 
-   - SOCI 2020, 2100, 4350 
+   - SOCI 2020,2100,4350 
 
    - SPAN courses beyond 1020 or equivalent 
 
@@ -8494,50 +8172,46 @@ The complementary major must be paired with existing engineering majors (CE, CpE
 
 _For all courses numbered ENGR 2000 and above (except ENGR 2080), a laptop is required._ 
 
-|2001|Introduction to Engineering (Lecture)|1 hr. (1, 2)|
+|2001|Introduction to Engineering (Lecture)|1 hour (1,2)|
 |---|---|---|
 ||Introduces engineering students to the engineering design process, engineering decision making, and||
 ||engineering ethics. Students will engage in team-based projects, communicate in written, verbal, and visual||
 ||forms, and be introduced to the idea of calling within the engineering feld and the feld responsibility||
-||required of Christian engineers.COREQUISITE: ENGR 2002, 2003, and MATH 1220 or MATH 2010.OFFERED:||
-||Sem. I.||
-|2002 |Introduction to Mechanical and Civil Laboratory|1 hr. (0, 2)|
+||required of Christian engineers.Corequisite: ENGR 2002,2003, and MATH 1220 or MATH 2010.Offered:||
+||Semester I.||
+|2002 |Introduction to Mechanical and Civil Laboratory|1 hour (0,2)|
 ||Introduces students to mechanical engineering concepts and equipment. Key areas of interest are||
 ||measure-||
 ||ment, machining, welding, and other forms of manufacturing. Other topics include both 2-D and solid||
-||modeling, additive manufacturing, and laser cutting.COREQUISITE: MATH 1220 or MATH 2010.OFFERED:||
-||Sem. I.||
-|2003 |Introduction to Electrical and Computer Laboratory|1 hr. (0, 2)|
+||modeling, additive manufacturing, and laser cutting.Corequisite: MATH 1220 or MATH 2010.Offered:||
+||Semester I.||
+|2003 |Introduction to Electrical and Computer Laboratory|1 hour (0,2)|
 ||Students are exposed to a variety of topics in basic electronics and embedded systems fundamentals.||
 ||Provides hands-on experience for students to understand the operation of power supplies, function||
-||generators, oscilloscopes, and many basic electronic components.COREQUISITE: MATH 1220 or MATH 2010.||
-||OFFERED: Sem. I.||
-
-
+||generators, oscilloscopes, and many basic electronic components.Corequisite: MATH 1220 or MATH 2010.||
+||Offered: Semester I.||
 
 Anderson University Undergraduate Catalog 2025-26 
 
 145 
 
-## ENGR (cont.) 
-
 |NGR (|cont.)|
 |---|---|
-|2010|Statics<br>3 hrs. (3, 1)|
+|2010|Statics<br>3 hours (3,1)|
 ||Introduction to analyzing forces in isolated and connected rigid-body systems, as well as vector analysis,|
 ||forces, moments, resultants, two and three-dimensional equilibrium, trusses, beams, and frames. Emphasis on|
-||non-accelerating bodies and frames.PREREQUISITE: PHYS 2240, ENGR 2310 or CPSC 2020.OFFERED: Sem. I.|
-|2030 |Circuit Analysis<br>3 hrs. (2, 2)|
+||non-accelerating bodies and frames.Prerequisite: PHYS 2240, ENGR 2310 or CPSC 2020.Offered: Semester I.|
+|2030 |Circuit Analysis<br>3 hours (2,2)|
 ||Deals with the analysis of DC and AC electric circuits. Students will learn basic laws, analysis techniques, and|
 ||circuit theorems. Includes integrated laboratory experience that reinforces classroom content with hands-on|
-||experiments. Also makes extensive use of computer tools for circuit analysis.PREREQUISITE: ENGR 2003 or|
-||ENGR 2200.COREQUISITE: MATH 2020, ENGR 2310.OFFERED: Sem. I.|
-|2060 |Engineering Ethics<br>2 hrs. (2, 0)|
+||experiments. Also makes extensive use of computer tools for circuit analysis.Prerequisite: ENGR 2003 or|
+||ENGR 2200.Corequisite: MATH 2020, ENGR 2310.Offered: Semester I.|
+|2060 |Engineering Ethics<br>2 hours (2,0)|
 ||Challenges students to consider ethical implications implicit in the decisions made by engineers as they|
 ||design products ranging from automobiles, to healthcare devices, to software, to appliances. Much of the|
 ||course will be dedicated to case studies, and in doing so students will develop a structured methodology for|
-||engaging their profession with an ethically sound moral compass.OFFERED: Sem. II.|
-|2080 |Service through Engineering and Technology<br>3 hrs. (3, 0)|
+||engaging their profession with an ethically sound moral compass.Offered: Semester II.|
+|2080 |Service through Engineering and Technology<br>3 hours (3,0)|
 ||Introduction to humanitarian engineering and social entrepreneurship, focusing on challenges and|
 ||opportunities present throughout society. Frugal innovation and alternative resources are applied to these|
 ||challenges in under-developed and under-represented societies. Explanation is given to demonstrate the|
@@ -8545,254 +8219,240 @@ Anderson University Undergraduate Catalog 2025-26
 ||service learning with the effects and consequences therein. Foundational concepts in third-world|
 ||development, empowerment strategies, and cultural humility form a key part of this course to prepare|
 ||students for work in service of under-represented or under-developed societies._Applies to the Global Ways of_|
-||_Knowing [AU Experience] component of theLiberal Arts Core Curriculum._ OFFERED: Sem. I.|
-|2090 |Systems Engineering<br>3 hrs. (3, 0)|
+||_Knowing [AU Experience] component of theLiberal Arts Core Curriculum._ Offered: Semester I.|
+|2090 |Systems Engineering<br>3 hours (3,0)|
 ||Focuses on various aspects of systems engineering, including risk analysis, engineering economics, project|
 ||planning, and the product development lifecycle. Heavily project based._Applies to the Global Ways of Knowing_|
-||_[AU Experience] component of the Liberal Arts Core Curriculum._ OFFERED: Sem. II.|
-|2110|Dynamics<br>3 hrs. (3, 1)|
+||_[AU Experience] component of the Liberal Arts Core Curriculum._ Offered: Semester II.|
+|2110|Dynamics<br>3 hours (3,1)|
 ||Introduction to kinematic and kinetic analysis of particles, systems of particles, and rigid bodies; position,|
 ||velocity, acceleration, non-rotating and rotating frames of reference, Newton’s laws, work, energy, impulse,|
 ||momentum, conservative and nonconservative systems, as well as inertial and noninertial reference frames.|
-||PREREQUISITE: ENGR 2010.OFFERED: Sem. II.|
-|2200 |Foundations of Digital Electronics<br>2 hrs. (1, 2)|
+||Prerequisite: ENGR 2010.Offered: Semester II.|
+|2200 |Foundations of Digital Electronics<br>2 hours (1,2)|
 ||Introduction to circuit analysis, electronics, and digital logic. The laboratory exposes students to|
 ||implementation of circuits and instrumentation. Concludes with a brief introduction to single board computers.|
-||PREREQUISITE: CPSC 2030 or ENGR 2003.OFFERED: Sem. II.|
-|2310|Computational Problem Solving<br>3 hrs. (2, 2)|
+||Prerequisite: CPSC 2030 or ENGR 2003.Offered: Semester II.|
+|2310|Computational Problem Solving<br>3 hours (2,2)|
 ||Introduces the students to a high-level programming language and uses it to perform data analysis, data|
 ||manipulation, and complex data visualization. Problem solving is taught throughout the course by focusing on|
-||computational methods and interaction with the physical world.COREQUISITE: PHYS 2240 (waived if PHYS|
-||2140 was completed with a C- or better); MATH 2010.OFFERED: Sem. II.|
-|3030 |Signals and Controls<br>3 hrs. (3, 0)|
+||computational methods and interaction with the physical world.Corequisite: PHYS 2240 (waived if PHYS|
+||2140 was completed with a C- or better); MATH 2010.Offered: Semester II.|
+|3030 |Signals and Controls<br>3 hours (3,0)|
 ||Introduces modeling and analysis of dynamic systems as an application of differential equations. Also|
 ||introduces classical control techniques, including the analysis and design of linear time-invariant control|
 ||systems using frequency and time domain techniques. Makes extensive use of computer-aided simulations,|
-||analysis and design techniques.PREREQUISITE: ENGR 2030, 2310, MATH 3100.OFFERED: Sem. I.|
-|3070 |Engineering Thermodynamics I<br>3 hrs. (3, 0)|
+||analysis and design techniques.Prerequisite: ENGR 2030,2310, MATH 3100.Offered: Semester I.|
+|3070 |Engineering Thermodynamics I<br>3 hours (3,0)|
 ||Emphasis on engineering concepts related to classical thermodynamics. Provides the tools necessary to|
 ||design and analyze thermal systems and processes. Covers internal energy, enthalpy, entropy, and|
 ||conservation of energy. Also covers the cycles of Carnot, Otto, Diesel, Brayton, and Rankine, as well as|
-||variations  and modifcations to these cycles.PREREQUISITE: PHYS 2240, CHEM 2110.OFFERED: Sem. I.|
-|3080 |Engineering Design for Service<br>3 hrs. (1,4)|
+||variations  and modifcations to these cycles.Prerequisite: PHYS 2240, CHEM 2110.Offered: Semester I.|
+|3080 |Engineering Design for Service<br>3 hours (1,4)|
 ||Students will design and implement a project utilizing engineering skills to complete a service project.|
-||Prepares students to participate on a service trip and includes an experiential component for feld work<br>on a service trip specifc to the class projects.COREQUISITE: ENGR 2090.OFFERED: Sem II, 2025-26.|
-|3110|Kinematics and Robotics<br>3 hrs. (3, 0)|
+||Prepares students to participate on a service trip and includes an experiential component for feld work<br>on a service trip specifc to the class projects.Corequisite: ENGR 2090.Offered: Sem II, 2025-26.|
+|3110|Kinematics and Robotics<br>3 hours (3,0)|
 ||Focuses on analysis of position, velocity, and acceleration of various mechanisms, such as the slider-crank and|
 ||four-bar mechanisms. Students will be able to design kinematic mechanisms based on the user’s requirements|
 ||to achieve the ideal paths of the particular points of interest. The kinematics will be applied to manipulator|
-||analysis with an introduction to inverse kinematics.PREREQUISITE: ENGR 2110, MATH 3100.OFFERED: Sem. I.|
-
-
+||analysis with an introduction to inverse kinematics.Prerequisite: ENGR 2110, MATH 3100.Offered: Semester I.|
 
 Anderson University Undergraduate Catalog 2025-26 
 
 146 
 
-## ENGR (cont.) 
-
 |NGR (|cont.)||
 |---|---|---|
-|3140|Strength of Materials Laboratory|1 hr. (0, 2)|
+|3140|Strength of Materials Laboratory|1 hour (0,2)|
 ||Incorporates experiments to determine the properties of various materials, including strength, hardness,||
 ||toughness, and modulus. Students will perform experiments, analyze the data, and report their fndings. In<br>addition, introductory fnite element analysis with industry-standard software will be performed and||
-||compared with experimental data. Laboratory write-ups and technical reports are required.PREREQUISITE:||
-||ENGR 3510.OFFERED:Sem. I.||
-|3150|Kinematics Laboratory|1 hr. (0, 2)|
+||compared with experimental data. Laboratory write-ups and technical reports are required.Prerequisite:||
+||ENGR 3510.Offered:Semester I.||
+|3150|Kinematics Laboratory|1 hour (0,2)|
 ||Incorporates experiments and design exercises in linkages, gear trains, industrial-grade robots, and cam-||
 ||follower systems. Introductory simulation techniques to support both design and experimental work will||
-||also be introduced. Laboratory write-ups and technical reports are required.PREREQUISITE:ENGR 3110.||
-||OFFERED:Sem. I.||
-|3160|Vibrations<br>2|hrs. (2, 0)|
+||also be introduced. Laboratory write-ups and technical reports are required.Prerequisite:ENGR 3110.||
+||Offered:Semester I.||
+|3160|Vibrations<br>2|hours (2,0)|
 ||Introduces the time domain analysis of mechanical vibration including the free and forced response of||
 ||undamped and underdamped systems. Also includes the modeling and analysis of single and multiple||
 ||degrees of freedom mechanical systems and the design of damping and isolation systems. The course||
-||makes extensive use of computer-aided simulations for analysis and design.PREREQUISITE: ENGR 2110,||
-||MATH 3100.OFFERED: Sem. II, 2026-27.||
-|3180|Materials and Processes<br>3|hrs. (3, 0)|
+||makes extensive use of computer-aided simulations for analysis and design.Prerequisite: ENGR 2110,||
+||MATH 3100.Offered: Semester II, 2026-27.||
+|3180|Materials and Processes<br>3|hours (3,0)|
 ||An introduction to the science of engineering materials. The primary focus is on the relationships between||
 ||processing, structure, properties, and performance of metals, ceramics, polymers, and composites.||
 ||Students will learn to interpret stress-strain diagrams, phase diagrams, and isothermal transformation||
-||diagrams, and to evaluate the ftness of various materials for engineering applications.PREREQUISITE:||
-||CHEM 2110, PHYS 2240.OFFERED: Sem. II, 2025-26.||
-|3190|Engineering Thermodynamics II<br>2|hrs. (2, 0)|
+||diagrams, and to evaluate the ftness of various materials for engineering applications.Prerequisite:||
+||CHEM 2110, PHYS 2240.Offered: Semester II, 2025-26.||
+|3190|Engineering Thermodynamics II<br>2|hours (2,0)|
 ||Focuses on a deeper understanding of the thermodynamic theory and principles so that more complex||
 ||models can be introduced and applied. Covers real gas models, gas mixtures, psychrometry, combustion,||
-||equilibrium, and gas dynamics in supersonic domains.PREREQUISITE: ENGR 3070.OFFERED: Sem. II.||
-|3220 |Electronics<br>3|hrs. (2, 2)|
+||equilibrium, and gas dynamics in supersonic domains.Prerequisite: ENGR 3070.Offered: Semester II.||
+|3220 |Electronics<br>3|hours (2,2)|
 ||An introduction to semiconductor electronic devices and basic theory and application. Topics include semi-||
 ||conductor materials and diodes, diode circuits, feld-effect transistors (FETs), bipolar-junction transistors||
-||(BJTs), and discrete transistor amplifers.PREREQUISITE: ENGR 2030.OFFERED: Sem. I, 2026-27.||
-|3230 |Analog Circuit Design<br>3|hrs. (2, 2)|
+||(BJTs), and discrete transistor amplifers.Prerequisite: ENGR 2030.Offered: Semester I, 2026-27.||
+|3230 |Analog Circuit Design<br>3|hours (2,2)|
 ||Continuation of Electronics to include amplifer design and analysis including discrete and integrated circuit<br>topologies. Other topics include the design and analysis of differential amplifers, multi-stage amplifers, power<br>amplifers, op-amp circuits, feedback circuits, and the frequency response of amplifer circuits. Additional||
-||applications of electronics may be covered.PREREQUISITE: ENGR 3220, 3030.OFFERED: Sem. II, 2026-27.||
-|3240 |Electromagnetics I<br>3|hrs. (3, 0)|
+||applications of electronics may be covered.Prerequisite: ENGR 3220,3030.Offered: Semester II, 2026-27.||
+|3240 |Electromagnetics I<br>3|hours (3,0)|
 ||Engineering applications of vector calculus and Maxwell’s equations to electrostatic and magnetostatic,||
 ||boundary-value problems in electrostatic, and time varying felds, transmission lines, and single-stub||
-||matching.SAME AS:PHYS 4210.PREREQUISITE: MATH 3020, 3100, PHYS 2250.OFFERED: Sem. I. 2026-27.||
-|3250 |Electromagnetics II<br>3|hrs. (3, 0)|
+||matching.SAME AS:PHYS 4210.Prerequisite: MATH 3020,3100, PHYS 2250.Offered: Semester I. 2026-27.||
+|3250 |Electromagnetics II<br>3|hours (3,0)|
 ||Engineering applications of phasors and Maxwell’s equations to time varying felds and propagation of<br>uniform plane waves. Exercises introduce feld-plotting, transmission line concepts using waveguides.||
-||Introduction to the network analyzer, polarization, and waves.PREREQUISITE: ENGR 3240, ENGR 3030.||
-||OFFERED: With suffcient demand.||
-|3260 |Embedded Systems<br>3|hrs. (2, 3)|
+||Introduction to the network analyzer, polarization, and waves.Prerequisite: ENGR 3240, ENGR 3030.||
+||Offered: With suffcient demand.||
+|3260 |Embedded Systems<br>3|hours (2,3)|
 ||An introduction to the fundamentals of embedded systems, including microcontrollers, peripheral||
 ||interfacing, basic communications, interrupts, and real-time operating systems. Includes practical||
 ||laboratory experiences using serial and parallel interfaces of microcontrollers to communicate with sensors||
-||and actuators.PREREQUISITE: ENGR 3270.OFFERED: Sem. II, 2025-26.||
-|3270 |Digital Logic<br>3|hrs. (2, 3)|
+||and actuators.Prerequisite: ENGR 3270.Offered: Semester II, 2025-26.||
+|3270 |Digital Logic<br>3|hours (2,3)|
 ||An introduction to the fundamental concepts of digital logic design covers design techniques in which logic||
 ||gates are used to design digital components. A hardware description language (HDL) will be used to model||
 ||digital circuits. The lab component of the course will involve design and implementation using discrete logic||
-||gates and FPGAs.PREREQUISITE: ENGR 2003 or ENGR 2200; and MATH 2010 or MATH 2200.OFFERED:||
-||Sem. I, 2025-26.||
-|3280 |Microcontrollers<br>3|hrs. (2, 2)|
+||gates and FPGAs.Prerequisite: ENGR 2003 or ENGR 2200; and MATH 2010 or MATH 2200.Offered:||
+||Semester I, 2025-26.||
+|3280 |Microcontrollers<br>3|hours (2,2)|
 ||Students learn how to program microcontrollers to perform basic tasks, make use of timers, interrupts, and||
 ||communicate between embedded devices using serial communication. Students may also be introduced to||
-||memory allocation and handling, real-time operating systems (RTOS), and device drivers.PREREQUISITE:||
-||CPSC 2500 and ENGR 2003 or ENGR 2200.OFFERED: Sem. I, 2025-26.||
-
-
+||memory allocation and handling, real-time operating systems (RTOS), and device drivers.Prerequisite:||
+||CPSC 2500 and ENGR 2003 or ENGR 2200.Offered: Semester I, 2025-26.||
 
 Anderson University Undergraduate Catalog 2025-26 
 
 147 
 
-## ENGR (cont.) 
-
 |NGR (|cont.)||
 |---|---|---|
-|3330 |Geotechnical Engineering<br>3|hrs. (2, 2)|
+|3330 |Geotechnical Engineering<br>3|hours (2,2)|
 ||Focuses on the properties and analysis of soils used in engineering. Topics include soil classifcation,||
 ||compaction, swelling and shrinkage as well as the implication of soil for civil engineering design. The lab||
-||provides hands-on experiments intended to reinforce and verify lecture content.PREREQUISITE: MATH||
-||2020.OFFERED: Sem. I, 2026-27.||
-|3340 |Structural Analysis<br>3|hrs. (3, 0)|
+||provides hands-on experiments intended to reinforce and verify lecture content.Prerequisite: MATH||
+||2020.Offered: Semester I, 2026-27.||
+|3340 |Structural Analysis<br>3|hours (3,0)|
 ||Covers analyses of structural systems. Particular topics include defections, superposition, and the analysis||
-||of determinate beams, trusses and frames and indeterminate beams and forms.PREREQUISITE:  ENGR||
-||3510.OFFERED: Sem. I.||
-|3350 |Surveying<br>3|hrs. (2, 2)|
+||of determinate beams, trusses and frames and indeterminate beams and forms.Prerequisite:  ENGR||
+||3510.Offered: Semester I.||
+|3350 |Surveying<br>3|hours (2,2)|
 ||Introduction to surveying instruments, methods, and related computer applications. Includes instruction in||
-||measurement techniques, mapping, and surveying computations.PREREQUISITE: MATH 2020; ENGR 2002.||
-||OFFERED: Sem. I, 2025-26.||
-|3510|Solid Mechanics<br>3 hr. (3, 0)||
+||measurement techniques, mapping, and surveying computations.Prerequisite: MATH 2020; ENGR 2002.||
+||Offered: Semester I, 2025-26.||
+|3510|Solid Mechanics<br>3 hour (3,0)||
 ||Covers deformation analysis for determining stresses and strains. Topics include elasticity, plasticity,||
 ||bending, fracture, buckling, and thermal stresses. Analysis of diverse structures under various loading||
-||conditions will be considered.PREREQUISITE: ENGR 2010.OFFERED: Sem. II.||
-|3850 |Engineering Projects Laboratory<br>1 hr. (0, 2)||
+||conditions will be considered.Prerequisite: ENGR 2010.Offered: Semester II.||
+|3850 |Engineering Projects Laboratory<br>1 hour (0,2)||
 ||Provides students, from all levels, practical engineering experiences in the laboratory and feld setting.||
 ||Students will develop problem solving and engineering design skills as they work on engineering projects||
-||alongside the instructor.REPEAT: May be repeated for credit.PREREQUISITE: ENGR 2001, 2002, 2003; or||
-||consent of instructor.OFFERED: Sem. I, II.v||
-|4020 |Mechatronics System Design<br>4|hrs. (3, 2)|
+||alongside the instructor.Repeat: May be repeated for credit.Prerequisite: ENGR 2001,2002,2003; or||
+||consent of instructor.Offered: Semester I, II.v||
+|4020 |Mechatronics System Design<br>4|hours (3,2)|
 ||Mechatronics is the multidisciplinary union of mechanical, electrical, and computer engineering. It employs||
 ||knowledge from these disciplines to explore mechanics, electrical sensing, control, and actuation, and||
 ||computer programming of mechatronic devices. Students will design, build and program electromechanical||
 ||devices to autonomously perform specifc tasks. Students may also gain experience with Programmable||
-||Logic Controllers for industrial control applications.PREREQUISITE: ENGR 2030 or 2200 and ENGR 2310.||
-||OFFERED: Sem. II, 2025-26.||
-|4030 |Advanced Control<br>3|hrs. (3, 0)|
+||Logic Controllers for industrial control applications.Prerequisite: ENGR 2030 or 2200 and ENGR 2310.||
+||Offered: Semester II, 2025-26.||
+|4030 |Advanced Control<br>3|hours (3,0)|
 ||Covers linear state space control including full state feedback and observer-based design. May also include||
 ||an introduction to topics including robust control, optimal control, adaptive control, digital control or||
-||nonlinear control.PREREQUISITE: ENGR 3030.OFFERED: With suffcient demand.||
-|4050 |Data Communications<br>3|hrs. (3, 0)|
+||nonlinear control.Prerequisite: ENGR 3030.Offered: With suffcient demand.||
+|4050 |Data Communications<br>3|hours (3,0)|
 ||Low level communication protocols and design considerations such as congestion control, collision||
 ||detection and avoidance, multiple access schemes (e.g., CDMA, FDMA, TDMA). Applied information theory||
 ||such as forward error correction codes, erasure codes, channel capacity, and data compression.||
 ||Connections are drawn between the OSI networking stack and topics covered in this course.||
-||PREREQUISITE: MATH 2200, 4010, and ENGR 3030 or CPSC 2500.OFFERED: With suffcient demand.||
-|4110|Machine Design<br>3|hrs. (3, 0)|
+||Prerequisite: MATH 2200,4010, and ENGR 3030 or CPSC 2500.Offered: With suffcient demand.||
+|4110|Machine Design<br>3|hours (3,0)|
 ||Addresses the machine part design process from the nature of design to prediction of possible failure of||
 ||machine parts based on force and stress analysis and estimated defection, and materials properties. Other||
-||considerations can be included, such as the manufacturing aspect in the part design.PREREQUISITE:||
-||ENGR 3110, 3510.OFFERED: Sem. II.||
-|4120|Computational Mechanics<br>3|hrs. (3, 0)|
+||considerations can be included, such as the manufacturing aspect in the part design.Prerequisite:||
+||ENGR 3110,3510.Offered: Semester II.||
+|4120|Computational Mechanics<br>3|hours (3,0)|
 ||Utilizes the numerical capabilities of the modern computer to simulate physical phenomena. Topics include||
 ||the fnite-element method, fnite-difference schemes, and optimization techniques. Introduces round-off||
-||errors and error propagation, as well as convergence determination.PREREQUISITE: ENGR 2310, 3510, and||
-||4130.OFFERED: With suffcient demand.||
-|4130|Fluid Mechanics<br>3|hrs. (3, 0)|
+||errors and error propagation, as well as convergence determination.Prerequisite: ENGR 2310,3510, and||
+||4130.Offered: With suffcient demand.||
+|4130|Fluid Mechanics<br>3|hours (3,0)|
 ||Covers the principles of fuid fow, conservation of mass, conservation of momentum, and conservation of||
 ||energy via integral, differential, and dimensional analysis methods. Students will apply these principles to||
 ||laminar and turbulent fow in internal, external, and open channel fow confgurations. A brief introduction||
-||to compressible fow is also included.PREREQUISITE: ENGR 2110, MATH 3100.OFFERED: Sem. I.||
-|4140 |Thermal Properties Laboratory|1 hr. (0,2)|
+||to compressible fow is also included.Prerequisite: ENGR 2110, MATH 3100.Offered: Semester I.||
+|4140 |Thermal Properties Laboratory|1 hour (0,2)|
 ||Incorporates hands-on experience of topics in heat/mass transfer. Specifc topics covered include||
 ||conduction, convection, convective mass transfer, and radiation. Also introduces simulation topics in fnite||
 ||element analysis of thermal systems. Measurements of energy generation, temperature, and heat transfer||
 ||are conducted with appropriate equipment. Laboratory write-ups and technical reports are required.||
-||PREREQUISITE:ENGR 4130.COREQUISITE:ENGR 3190, 4160.OFFERED:Sem. II.||
-
-
+||Prerequisite:ENGR 4130.Corequisite:ENGR 3190,4160.Offered:Semester II.||
 
 Anderson University Undergraduate Catalog 2025-26 
 
 148 
 
-## ENGR (cont.) 
-
 |NGR (|cont.)|||
 |---|---|---|---|
-|4160|Heat and Mass Transfer|3|hrs. (3, 0)|
+|4160|Heat and Mass Transfer|3|hours (3,0)|
 ||Covers heat transfer processes including conduction, convection, and thermal radiation. Students will apply|||
 ||principles of conservation to thermal energy systems to solve steady-state and transient problems both|||
 ||analytically and computationally. Includes a brief introduction to commercial fnite element software.|||
-||PREREQUISITE: ENGR 3070, 4130.OFFERED: Sem. I, 2025-26; Sem. II, 2026-27.|||
-|4230 |Power Systems|2|hrs. (2, 0)|
+||Prerequisite: ENGR 3070,4130.Offered: Semester I, 2025-26; Semester II, 2026-27.|||
+|4230 |Power Systems|2|hours (2,0)|
 ||Introduces the fundamentals of theory and operation of electromechanical devices, including magnetic|||
 ||circuits, transformers as well as DC and AC rotating machines. Principles of electrical power generation,|||
 ||transmission, and distribution, three-phase power circuits, and power system analysis are also discussed.|||
-||PREREQUISITE: ENGR 2030, 3030.OFFERED: Sem. II, 2025-26.|||
-|4240 |Communications Theory|3|hrs. (3, 0)|
+||Prerequisite: ENGR 2030,3030.Offered: Semester II, 2025-26.|||
+|4240 |Communications Theory|3|hours (3,0)|
 ||Fundamental components in communications systems are covered. Emphasis on the effect of noise in|||
 ||a system and how to mitigate its effect on transmission and receiving. System design and integration is|||
 ||utilized to understand the practical nature of development of such systems. Aspects include the utilization|||
 ||of automatic gain control and phase lock loops. Modulation techniques such as amplitude modulation,|||
-||frequency modulation, and quadrature modulation are covered.PREREQUISITE: ENGR 3030, MATH 4010.|||
-||OFFERED: Sem. II, 2025-26.|||
-|4250 |Digital Signal Processing|3|hrs. (3, 0)|
+||frequency modulation, and quadrature modulation are covered.Prerequisite: ENGR 3030, MATH 4010.|||
+||Offered: Semester II, 2025-26.|||
+|4250 |Digital Signal Processing|3|hours (3,0)|
 ||Focuses on the sampling and reconstruction of continuous signals via digital systems. The z-transform is|||
 ||used for FIR and IIR flter design. Relation between the z-transform and fourier transform is utilized for|||
 ||further signal analysis. The DFT and FFT are covered, as well as algorithmic implementations and utilization|||
 ||for flter design. Nyquist-Shannon sampling theorem, decimation, and interpolation are also covered. Signal|||
-||processing flters and algorithms are implemented on CPUs, DSPs, and/or FPGAs.PREREQUISITE: ENGR|||
-||3030, MATH 4010.OFFERED: Sem. II, 2026-27.|||
-|4320 |Fluid Mechanics Lab||1 hr. (0, 2)|
+||processing flters and algorithms are implemented on CPUs, DSPs, and/or FPGAs.Prerequisite: ENGR|||
+||3030, MATH 4010.Offered: Semester II, 2026-27.|||
+|4320 |Fluid Mechanics Lab||1 hour (0,2)|
 ||Incorporates hands-on experience of topics in applied fuid mechanics. Designed to enhance students’|||
 ||understanding of experimental methods and the application of basic fuid mechanics concepts.  Specifc|||
 ||topics covered include hydrostatic and hydrodynamic forces, fow visualization, fow measurement, energy|||
 ||loss in pipes and fttings, turbomachinery, lift and drag measurement, orifce and free-jet fow, and fow|||
-||over weirs. Laboratory write-ups and technical reports are required.PREREQUISITE: ENGR 4130.OFFERED:|||
-||Sem. II.|||
-|4330 |Water Resources Engineering|3|hrs. (3, 0)|
+||over weirs. Laboratory write-ups and technical reports are required.Prerequisite: ENGR 4130.Offered:|||
+||Semester II.|||
+|4330 |Water Resources Engineering|3|hours (3,0)|
 ||Focuses on the hydrologic aspects of water, including an introduction to hydraulics and hydrology. Students|||
-||will both analyze and design water resource systems.PREREQUISITE: ENGR 4130.OFFERED: Sem. II,|||
+||will both analyze and design water resource systems.Prerequisite: ENGR 4130.Offered: Semester II,|||
 ||2026-27.|||
-|4340 |Structural Design (concrete)|3|hrs. (3, 0)|
+|4340 |Structural Design (concrete)|3|hours (3,0)|
 ||Presents an approach to the design and analysis of concrete structural members including rectangular|||
-||sections for bending and shear, column design, and reinforced concrete using rebar.PREREQUISITE: ENGR|||
-||3340.OFFERED: Sem. II, 2025-26.|||
-|4350 |Structural Design (steel)|3|hrs. (3, 0)|
+||sections for bending and shear, column design, and reinforced concrete using rebar.Prerequisite: ENGR|||
+||3340.Offered: Semester II, 2025-26.|||
+|4350 |Structural Design (steel)|3|hours (3,0)|
 ||Presents an approach to the Load and Resistance Factor Design (LRFD) methodology for steel structural|||
-||members in tension, compressing, bending and connections.PREREQUISITE: ENGR 3340.OFFERED: Sem.|||
+||members in tension, compressing, bending and connections.Prerequisite: ENGR 3340.Offered: Semester|||
 ||II, 2026-27.|||
-|4360 |Transportation Engineering|3|hrs. (3, 0)|
+|4360 |Transportation Engineering|3|hours (3,0)|
 ||Introduces transportation engineering with a focus on highway design and traffc analysis. Covers|||
 ||design of highways, pavement design, traffc fow, traffc surveys, highway capacity and level of|||
-||service analysis.PREREQUISITE: ENGR 3350.OFFERED: With suffcient demand.|||
-|4950 |Engineering Senior Design I|2|hrs. (0, 4)|
+||service analysis.Prerequisite: ENGR 3350.Offered: With suffcient demand.|||
+|4950 |Engineering Senior Design I|2|hours (0,4)|
 ||Applications of design principles to a capstone engineering project. Team-based projects include|||
 ||developing design specifcations, conceptual designs, and fnal designs. Project requirements include|||
 ||signifcant oral and written communication components. Examples of projects include inter-collegiate|||
-||competition, industry-sponsored applied research, and service projects.PREREQUISITE: Senior|||
-||standing; engineering major; ENGR 2090.OFFERED: Sem. I.|||
-|4960 |Engineering Senior Design II|2|hrs. (0, 4)|
+||competition, industry-sponsored applied research, and service projects.Prerequisite: Senior|||
+||standing; engineering major; ENGR 2090.Offered: Semester I.|||
+|4960 |Engineering Senior Design II|2|hours (0,4)|
 ||Building on ENGR 4950. Applications of design principles to a capstone engineering project. Projects|||
 ||are team based and include developing design specifcations, conceptual designs, and fnal designs.|||
 ||Project requirements include signifcant oral and written communication components. Students are|||
-||required to attempt the Fundamentals of Engineering exam.PREREQUISITE: ENGR 4950.OFFERED:|||
-||Sem. II.|||
-
-
+||required to attempt the Fundamentals of Engineering exam.Prerequisite: ENGR 4950.Offered:|||
+||Semester II.|||
 
 Anderson University Undergraduate Catalog 2025-26 
 
@@ -8828,9 +8488,9 @@ Every Exercise Science major chooses one of three concentrations:
 
 - Sports Performance - for those students desiring to pursue careers in strength and conditioning, personal training, health/wellness coordinators, community health centers, and senior adult fitness programs. 
 
-## EXERCISE SCIENCE MAJOR  (70 hrs.) 
+## EXERCISE SCIENCE MAJOR  (70 hours) 
 
-Core Requirements (58 hrs.) : 
+Core Requirements (58 hours) : 
 
 - BIOL 2410 Human Anatomy and Physiology I (4) 
 
@@ -8888,9 +8548,9 @@ Anderson University Undergraduate Catalog 2025-26
 
 150 
 
-## _Exercise Science Majors must also complete one of the following Concentrations (12 hrs.):_ 
+## _Exercise Science Majors must also complete one of the following Concentrations (12 hours)_ 
 
-## Clinical Exercise Physiology Concentration: 
+## Clinical Exercise Physiology Concentration 
 
 - EXSC 4050 EKG and Cardiovascular Disease (3) 
 
@@ -8910,7 +8570,7 @@ Anderson University Undergraduate Catalog 2025-26
 
    - BIOL 2040 Personal and Community Health (3) 
 
-## Pre-Health Concentration: 
+## Pre-Health Concentration 
 
 - 12 hours from: 
 
@@ -8938,7 +8598,7 @@ Anderson University Undergraduate Catalog 2025-26
 
    - PEHS 1550 Care and Prevention of Injuries and Illnesses (3) 
 
-## Sports Performance Concentration: 
+## Sports Performance Concentration 
 
 - EXSC 4010 Advanced Resistance Training and Conditioning (3) 
 
@@ -8962,11 +8622,11 @@ Anderson University Undergraduate Catalog 2025-26
 
    - SPRL 3300 Management of Sport Facilities and Events (3) 
 
-## NUTRITION MINOR   (16 hrs.) 
+## NUTRITION MINOR   (16 hours) 
 
 The nutrition minor is an ideal minor to accompany majors within the Department of Kinesiology and other science majors at Anderson University. The minor is designed to provide a sound background in nutrition but without courses that stress clinical chemistry and dietetics. A minor in nutrition is an excellent choice for students who wish to enter the fitness, medical, health, and human services-related professions. It will strengthen the academic component of coursework in these fields and contribute to students becoming more effective practitioners. 
 
-## Required Courses: 
+## Required Courses 
 
 - EXSC 2140 Nutrition in Health and Disease (4) 
 
@@ -8986,21 +8646,21 @@ Anderson University Undergraduate Catalog 2025-26
 
 The sport and recreational leadership major prepares students to work in recreation and sports centers, with athletic programs, at camps, and/or in YMCAs, churches, businesses, etc. The goal of this major is to help young people find their niche in the sport and recreation industry. Students will take a common core of classes and then gain knowledge and experiences in specific areas of sport and recreation programming, management, business, and leadership. 
 
-## SPORT & RECREATIONAL LEADERSHIP MAJOR (52 hrs.) 
+## SPORT & RECREATIONAL LEADERSHIP MAJOR (52 hours) 
 
-- SPRL 1350, 2450, 2550, 3150, 3250, 3300, 4850 
+- SPRL 1350,2450,2550,3150,3250,3300,4850 
 
-- PETE 1300, 2250, 3720, 4900 
+- PETE 1300,2250,3720,4900 
 
-- PEHS 1450, 3340, 3410 
+- PEHS 1450,3340,3410 
 
-- EXSC 1530, 2580 
+- EXSC 1530,2580 
 
 - ACCT 2010 
 
-- BSNS 2710, 2810 
+- BSNS 2710,2810 
 
-## SPORT & RECREATIONAL LEADERSHIP MINOR  (16-17 hrs.) 
+## SPORT & RECREATIONAL LEADERSHIP MINOR  (16-17 hours) 
 
 The sport and recreational leadership minor provides students in other majors with a relevant option regarding sports, physical activity, and recreation, which may enhance their career pathway. Through the intentional selection of courses within the sport and recreational leadership major, students may be prepared to work in recreation centers, sports facilities, churches, and camps. 
 
@@ -9008,19 +8668,19 @@ The sport and recreational leadership minor provides students in other majors wi
 
 - PEHS 1450 
 
-- SPRL 1350, 2450, 2550, 3150 
+- SPRL 1350,2450,2550,3150 
 
 - One course selected from the following options: 
 
-   - PETE 3720, 4900 
+   - PETE 3720,4900 
 
-   - SPRL 3300, 4850 
+   - SPRL 3300,4850 
 
-## ATHLETIC COACHING MINOR (15 hrs.) 
+## ATHLETIC COACHING MINOR (15 hours) 
 
 The athletic coaching minor is a non-teaching program that offers students the opportunity to learn requisite skills to become coaches in a youth-sport setting. 
 
-## Coaching core (10-11 hrs.) 
+## Coaching core (10-11 hours) 
 
 - PEHS 1450 
 
@@ -9030,17 +8690,17 @@ The athletic coaching minor is a non-teaching program that offers students the o
 
 - PEHS 2340 or 3340 
 
-- 1 hour from PEHS 1200 and 1 hour from any coaching theory class (PEHS 3030, 3040, 3050, 3060, 3070, 3080) 
+- 1 hour from PEHS 1200 and 1 hour from any coaching theory class (PEHS 3030,3040,3050,3060,3070,3080) 
 
 - -OR-  2 hours from any two coaching theory classes 
 
-## Electives (4-5 hrs.) 
+## Electives (4-5 hours) 
 
-- PEHS 1060, 2020, 2040, 2260, 2340, 3030, 3050, 3060, 3070, 3080, 3340, 3410 
+- PEHS 1060,2020,2040,2260,2340,3030,3050,3060,3070,3080,3340,3410 
 
 - EXSC 2580 
 
-- SPRL 1350, 2550, 3300 
+- SPRL 1350,2550,3300 
 
 Students may earn only 1 hour of PEHS 2260 credit for the minor. 
 
@@ -9058,294 +8718,272 @@ Anderson University Undergraduate Catalog 2025-26
 
 ## PEHS Courses 
 
-|1000|Fitness and Wellness for Life|2 hrs. (1, 2)|
+|1000|Fitness and Wellness for Life|2 hours (1,2)|
 |---|---|---|
 ||Provides a base upon which students may build healthy bodies through the understanding of and||
 ||participation in ftness and leisure activities. Surveys key ftness/wellness concepts in the lecture||
 ||portion of class._Applies to the Personal Wellness [AU Experience] component of the Liberal Arts Core_||
-||_Curriculum._ OFFERED: Sem. I, II, Summer.||
+||_Curriculum._ Offered: Semester I, II, Summer.||
 |_Activity_|_Program:_||
-|1060|Weight Training|1 hr. (0, 2)|
-|1100|Beginning Swimming|1 hr. (0, 2)|
-|1130|Scuba|1 hr. (0, 2)|
+|1060|Weight Training|1 hour (0,2)|
+|1100|Beginning Swimming|1 hour (0,2)|
+|1130|Scuba|1 hour (0,2)|
 ||Earn Scuba Educators International Open Water Diver certifcation through these education-oriented||
 ||classes which occur in both the classroom and pool. Required course fee covers full certifcation cost.||
-||GRADE: CR/NC.OFFERED: With suffcient demand.||
-|1150|Badminton|1 hr. (0, 2)|
-||NOTE: Six-week class only; meets daily.OFFERED:Sem. I.||
-|1190|Mind-Body Fitness|1 hr. (0, 2)|
+||Grade: CR/NC.Offered: With suffcient demand.||
+|1150|Badminton|1 hour (0,2)|
+||NOTE: Six-week class only; meets daily.Offered:Semester I.||
+|1190|Mind-Body Fitness|1 hour (0,2)|
 ||Provides opportunity to experience yoga-like stretches and poses while learning deep- breathing||
-||relaxation techniques and centering activities.OFFERED: With suffcient demand.||
-|1200|Co-Curricular Activity|1 hr. (0, 2)|
+||relaxation techniques and centering activities.Offered: With suffcient demand.||
+|1200|Co-Curricular Activity|1 hour (0,2)|
 ||Provides academic credit for participation in intercollegiate sports, including cheerleading. Credit must||
-||be taken in the primary semester of competition. Does not count toward PEHS major or minor.GRADE:||
-||CR/NC.REPEAT: May be repeated in a different activity (total credit not to exceed 2 hrs.).||
-|2000 |Intermediate Swimming|1 hr. (0, 2)|
-|2020 |American Red Cross Lifeguarding|1 hr. (0, 2)|
+||be taken in the primary semester of competition. Does not count toward PEHS major or minor.Grade:||
+||CR/NC.Repeat: May be repeated in a different activity (total credit not to exceed 2 hours).||
+|2000 |Intermediate Swimming|1 hour (0,2)|
+|2020 |American Red Cross Lifeguarding|1 hour (0,2)|
 ||Instruction in the American Red Cross lifeguarding program, which can lead to ARC certifcation.||
-||EXPECTATION: Swimming profciency at ARC Level VII.||
-|2040 |Water Safety Instructor|1 hr. (0, 2)|
+||Expectation: Swimming profciency at ARC Level VII.||
+|2040 |Water Safety Instructor|1 hour (0,2)|
 ||Provides instruction in the American Red Cross water safety program, which can lead to ARC||
-||certifcation.EXPECTATION: Swimming profciency at ARC Level VII.||
-|2260 |Advanced Conditioning for Sports Performance|1 hr. (0, 3)|
+||certifcation.Expectation: Swimming profciency at ARC Level VII.||
+|2260 |Advanced Conditioning for Sports Performance|1 hour (0,3)|
 ||Provides instruction in and supervision of planned, ongoing exercises and training regimens (strength,||
 ||anaerobic, and aerobic) for the purpose of sports performance enhancement. Open to all students.||
-||REPEAT: May be repeated (total credit not to exceed 4 hours).GRADE: CR/NC.OFFERED: Every||
+||Repeat: May be repeated (total credit not to exceed 4 hours).Grade: CR/NC.Offered: Every||
 ||semester according to sport (_NOTE__: Weeks and days the class meets vary by section and semester_).||
 |_General_|_Education Electives:_||
-|1450|First Aid|2 hrs. (2, 1)|
+|1450|First Aid|2 hours (2,1)|
 ||Students earn American Red Cross Responding to Emergencies certifcation upon successful||
-||completion (includes frst aid, community CPR, and AED).OFFERED: Sem. I, II.||
-|1550|Care and Prevention of Injuries and Illnesses|3 hrs. (2, 1)|
+||completion (includes frst aid, community CPR, and AED).Offered: Semester I, II.||
+|1550|Care and Prevention of Injuries and Illnesses|3 hours (2,1)|
 ||Introduces the basic concepts of prevention and care of injuries and illnesses including emergency||
-||procedures.OFFERED: Sem. I.||
-|2340 |Psychology of Coaching|2 hrs. (2, 0)|
+||procedures.Offered: Semester I.||
+|2340 |Psychology of Coaching|2 hours (2,0)|
 ||Applies scientifc principles to coaching at different levels of competition. Discusses motivation,||
-||personality differences, communication, and the effect of winning and losing.OFFERED: Sem. I.||
-|3030 |Techniques of Coaching Volleyball|1 hr. (1, 1)|
-||OFFERED: Sem. I, 2025-26||
-|3040 |Techniques of Coaching Soccer|1 hr. (1, 1)|
-||OFFERED: Sem. I, 2025-26||
-|3050 |Techniques of Coaching Football|1 hr. (1, 1)|
-||OFFERED: Sem. II, 2025-26||
-|3060 |Techniques of Coaching Track|1 hr. (1, 1)|
-||OFFERED: Sem. II, 2026-27||
-
-
+||personality differences, communication, and the effect of winning and losing.Offered: Semester I.||
+|3030 |Techniques of Coaching Volleyball|1 hour (1,1)|
+||Offered: Semester I, 2025-26||
+|3040 |Techniques of Coaching Soccer|1 hour (1,1)|
+||Offered: Semester I, 2025-26||
+|3050 |Techniques of Coaching Football|1 hour (1,1)|
+||Offered: Semester II, 2025-26||
+|3060 |Techniques of Coaching Track|1 hour (1,1)|
+||Offered: Semester II, 2026-27||
 
 Anderson University Undergraduate Catalog 2025-26 
 
 153 
 
-## PEHS (cont.) 
-
 |EHS (|cont.)|||
 |---|---|---|---|
-|3070 |Techniques of Coaching Basketball||1 hr. (1, 1)|
-||OFFERED: Sem. II, 2025-26|||
-|3080 |Techniques of Coaching Baseball||1 hr. (1, 1)|
-||OFFERED: Sem. I, 2026-27|||
-|3340 |Sociology of Sport|3|hrs. (3, 0)|
+|3070 |Techniques of Coaching Basketball||1 hour (1,1)|
+||Offered: Semester II, 2025-26|||
+|3080 |Techniques of Coaching Baseball||1 hour (1,1)|
+||Offered: Semester I, 2026-27|||
+|3340 |Sociology of Sport|3|hours (3,0)|
 ||Examines sports and their part in the lives of people, communities, and our society. Encourages students|||
 ||to ask critical questions regarding how sports impact the world in which we live. Investigates the|||
-||infuence of sports on children, gender, race, social class, media, the economy, and religion.OFFERED:|||
-||Sem. II.|||
-|3410|Sports Administration|3|hrs. (3, 0)|
+||infuence of sports on children, gender, race, social class, media, the economy, and religion.Offered:|||
+||Semester II.|||
+|3410|Sports Administration|3|hours (3,0)|
 ||Develops skills in the organization and administration of interscholastic athletics, including philosophy,|||
-||scheduling, budget, equipment care, awards, legal aspects, and facilities.OFFERED: Sem. II.|||
+||scheduling, budget, equipment care, awards, legal aspects, and facilities.Offered: Semester II.|||
 
-
-
-## _Exercise Science Professional Program:_ 
+## _Exercise Science Professional Program_ 
 
 ## EXSC Courses 
 
-|1360|Introduction to Exercise Science|2 hrs. (2, 0)|
+|1360|Introduction to Exercise Science|2 hours (2,0)|
 |---|---|---|
 ||Explores the discipline and sub-disciplines represented within exercise science. Examination of the||
 ||historical and cultural aspects of exercise science as well as current trends and future developments,||
-||including professional development and certifcation._Fee required._ OFFERED: Sem. I.||
-|1530|Principles of Strength and Conditioning|3 hrs. (2, 0)|
+||including professional development and certifcation._Fee required._ Offered: Semester I.||
+|1530|Principles of Strength and Conditioning|3 hours (2,0)|
 ||Investigates the physiological background, techniques/methods necessary to develop effective and||
 ||appropriate strength and conditioning programs for various populations. Analyzes nutrition, age, gender,||
-||test selection, and program design.OFFERED: Sem. II.||
-|2140|Nutrition in Health and Disease|4 hrs. (3, 2)|
+||test selection, and program design.Offered: Semester II.||
+|2140|Nutrition in Health and Disease|4 hours (3,2)|
 ||Introductory view of the relationship between nutrition and disease. Covers the methodology used to||
 ||determine nutritional and health status and how evidence is gathered to determine links between||
 ||nutrition and the prevention of specifc diseases and conditions, such as cardiovascular disease, cancer,||
 ||diabetes, obesity, gastrointestinal disorders, and osteoporosis are covered in depth. Emphasis on the||
 ||scientifc method and how scientifc processes allow these facts to be known._Applies to the Scientifc_||
-||_Ways of Knowing [Raven Core] component of the Liberal Arts Core Curriculum._ OFFERED: Sem. I, II, Summer.||
-|2440 |Stress Management|3 hrs. (3, 1)|
+||_Ways of Knowing [Raven Core] component of the Liberal Arts Core Curriculum._ Offered: Semester I, II, Summer.||
+|2440 |Stress Management|3 hours (3,1)|
 ||Investigates stressors in the personal, work, and social environments and the interconnectedness of||
 ||health and stress. Discusses the physiological aspects of the stress response. Explores various coping||
 ||strategies for stress management._Applies to the Personal Wellness [AU Experience] component of the_||
-||_Liberal Arts Core Curriculum._ OFFERED: Sem. I.||
-|2455 |Foundations of Exercise Leadership|3 hrs. (3, 0)|
+||_Liberal Arts Core Curriculum._ Offered: Semester I.||
+|2455 |Foundations of Exercise Leadership|3 hours (3,0)|
 ||Emphasizes fundamentals necessary to design safe and appropriate cardiovascular and strength||
 ||training programs for personal-training clients based on exercise prescription principles. Develops||
-||applicable teaching methodology in various activity and lecture situations._Fee required._ OFFERED: Sem.||
+||applicable teaching methodology in various activity and lecture situations._Fee required._ Offered: Semester||
 ||II.||
-|2550 |Health, Exercise, and Aging<br>2 hrs. (2, 0)||
+|2550 |Health, Exercise, and Aging<br>2 hours (2,0)||
 ||Examines the health-related physiological dimensions of aging and the role of lifestyle activity and||
-||exercise as strategy for coping with the changes. LAST OFFERED: 2023-24.||
-|2580 |Sports Nutrition|3 hrs. (2, 1)|
+||exercise as strategy for coping with the changes. LAST Offered: 2023-24.||
+|2580 |Sports Nutrition|3 hours (2,1)|
 ||Explores principles of nutrition as they relate to athletes and athletic competition, including the role of||
 ||athletic trainers and coaches in implementing sound sports nutrition programs to promote optimal||
 ||health and performance for athletes. Includes topics such as pre-event and post-event meal planning,||
 ||nutritional assessment, nutritional counseling, carbohydrate loading, electrolyte drinks, ergogenic aids,||
 ||protein and vitamin supplementation, recognition of eating disorders, and physiological aspects of||
-||nutrition as they relate to athletic competition._Fee required._ OFFERED: Sem. I, II.||
-|3100|Eating Disorders|3 hrs. (3, 0)|
+||nutrition as they relate to athletic competition._Fee required._ Offered: Semester I, II.||
+|3100|Eating Disorders|3 hours (3,0)|
 ||Analysis of factors involved in etiology, assessment, medical consequences, treatment, and prevention||
-||of eating disorders.OFFERED: Sem. II.||
-
-
+||of eating disorders.Offered: Semester II.||
 
 Anderson University Undergraduate Catalog 2025-26 
 
 154 
 
-## EXSC (cont.) 
-
-|3200 |Nutrition in the Life Cycle<br>3 hrs. (3, 0)|
+|3200 |Nutrition in the Life Cycle<br>3 hours (3,0)|
 |---|---|
 ||Addresses specifc nutritional needs at various stages of the human life cycle: lactation, infancy,|
 ||childhood, adolescence, and adulthood, including old age. The most common nutritional concerns, their|
 ||relationship to food choices and health status, and strategies to enhance well-being at each stage of the|
-||life cycle are emphasized.PREREQUISITE: EXSC 2140 or EXSC 2580.OFFERED: Summer.|
-|3300 |Health Implications of Obesity<br>3 hrs. (3, 0)|
+||life cycle are emphasized.Prerequisite: EXSC 2140 or EXSC 2580.Offered: Summer.|
+|3300 |Health Implications of Obesity<br>3 hours (3,0)|
 ||A study of obesity with special emphasis on diet, nutrition, and exercise. Modes of prevention and|
-||treatment will also be discussed.PREREQUISITE: EXSC 2140 or EXSC 2580.OFFERED: Summer.|
-|3470 |Physiology of Exercise I<br>4 hrs. (3, 2)|
+||treatment will also be discussed.Prerequisite: EXSC 2140 or EXSC 2580.Offered: Summer.|
+|3470 |Physiology of Exercise I<br>4 hours (3,2)|
 ||Studies physiological changes in the human organism as a result of physical exercise, including|
 ||immediate and chronic responses of the body to exercise, physiological limitations to exercise, and|
 ||limitations of present physiological knowledge for total understanding of exercise response. Practical|
-||applications of physiology to coaching and teaching._Fee required._ PREREQUISITE: BIOL 2420.|
-||OFFERED: Sem. I.|
-|3480 |Physiology of Exercise II<br>4 hrs. (3, 2)|
+||applications of physiology to coaching and teaching._Fee required._ Prerequisite: BIOL 2420.|
+||Offered: Semester I.|
+|3480 |Physiology of Exercise II<br>4 hours (3,2)|
 ||An advanced course in the area of exercise and human performance. Which provides further in-depth|
 ||examination of the physiological mechanisms responsible for both the acute and chronic changes which|
-||occur with exercise._Fee required._ PREREQUISITE: EXSC 3470.OFFERED: Sem. II.|
-|3520 |Biomechanics I<br>4 hrs. (3, 2)|
+||occur with exercise._Fee required._ Prerequisite: EXSC 3470.Offered: Semester II.|
+|3520 |Biomechanics I<br>4 hours (3,2)|
 ||Examines the scientifc principles basic to human motion: both anatomical and biomechanical. Includes|
-||laboratory experience.PREREQUISITE: BIOL 2410.OFFERED: Sem. I.|
-|3530 |Biomechanics II<br>4 hrs. (3, 2)|
+||laboratory experience.Prerequisite: BIOL 2410.Offered: Semester I.|
+|3530 |Biomechanics II<br>4 hours (3,2)|
 ||Continues to explore and apply biomechanical principles to human movement through lecture and|
 ||laboratory experiences. Topics include the Newtonian mechanics, kinematics, and kinetics of human|
-||motion through applied knowledge of anatomy and physics.PREREQUISITE: EXSC 3520.OFFERED:|
-||Sem. II.|
-|4010|Advanced Resistance Training and Conditioning<br>3 hrs. (3, 0)|
+||motion through applied knowledge of anatomy and physics.Prerequisite: EXSC 3520.Offered:|
+||Semester II.|
+|4010|Advanced Resistance Training and Conditioning<br>3 hours (3,0)|
 ||Analyzes advanced principles of skeletal muscle physiology and bioenergetics in the application of|
 ||strength training and conditioning programs designed for athletes and recreational exercisers.|
-||PREREQUISITE: EXSC 1530.OFFERED: Sem. II.|
-|4050 |EKG and Cardiovascular Disease<br>3 hrs. (2,1)|
+||Prerequisite: EXSC 1530.Offered: Semester II.|
+|4050 |EKG and Cardiovascular Disease<br>3 hours (2,1)|
 ||Introduction to the basic principles and interpretation of the electrocardiograph (EKG) as it relates to|
 ||clinical and ftness programs. Students learn how to record EKGs, vital signs, recognize cardiac rhythms|
 ||and will learn the importance of an EKG and how EKG rhythms provide important data for the diagnosis|
 ||of heart conditions. Will cover the many risk factors associated with coronary artery disease and the|
-||management and treatment of cardiovascular disease.PREREQUISITE: EXSC 3470.OFFERED: Sem. II,|
+||management and treatment of cardiovascular disease.Prerequisite: EXSC 3470.Offered: Semester II,|
 ||2026-27 (alternating years, unless suffcient demand).|
-|4150|Exercise Testing and Prescription<br>4 hrs. (3, 2)|
+|4150|Exercise Testing and Prescription<br>4 hours (3,2)|
 ||Provides an in-depth study of the theoretical basis and applied knowledge required for graded exercise|
 ||testing and individualized exercise prescription. Includes electrocardiograph techniques/interpretation,|
 ||pharmacological considerations, test data interpretation, and emergency procedures._Fee required_.|
-||PREREQUISITE: EXSC 3480.OFFERED: Sem. II.|
-|4160|Clinical Experience in Exercise Testing and Prescription<br>1 hr. (0, 2)|
+||Prerequisite: EXSC 3480.Offered: Semester II.|
+|4160|Clinical Experience in Exercise Testing and Prescription<br>1 hour (0,2)|
 ||Provides laboratory experiences designed to present and refne skills in conducting various health|
 ||ftness assessments (e.g. resting and exercise blood pressure, body composition, submaximal aerobic|
 ||capacity, maximal graded exercise stress tests, EKG placement, and rhythm recognition). Students will|
 ||demonstrate the ability to prescribe physical activity and exercise programs to maintain and promote|
 ||good health. The implications of test results and application to exercise prescription will be discussed.|
-||_Fee required._ PREREQUISITE: Exercise science major; EXSC 4150.OFFERED: Sem. I, II.|
-|4650 |Independent Research in Exercise Science<br>1-3 hrs. (0, 3)|
+||_Fee required._ Prerequisite: Exercise science major; EXSC 4150.Offered: Semester I, II.|
+|4650 |Independent Research in Exercise Science<br>1-3 hours (0,3)|
 ||Provides opportunity for independently executed investigations, normally by students with|
-||upper-division standing.REPEAT: May be repeated (total credit not to exceed 6 hours).OFFERED: Every|
+||upper-division standing.Repeat: May be repeated (total credit not to exceed 6 hours).Offered: Every|
 ||semester as needed.|
-|4800 |Internship in Exercise Science<br>4 hrs. (arranged)|
+|4800 |Internship in Exercise Science<br>4 hours (arranged)|
 ||Intended for students to observe and gain practical experience in a professional environment in which they|
 ||plan to work as a career. Students are required to complete 4 internship credits before graduation._Fee_|
-||_required._ CONSENT: Instructor.PREREQUISITE: EXSC 4150.GRADE: CR/NC.REPEAT: May be repeated.|
-||OFFERED: Every semester as needed.|
-
-
+||_required._ Consent: Instructor.Prerequisite: EXSC 4150.Grade: CR/NC.Repeat: May be repeated.|
+||Offered: Every semester as needed.|
 
 Anderson University Undergraduate Catalog 2025-26 
 
 155 
 
-## EXSC (cont.) 
-
 |XSC (|cont.)|
 |---|---|
-|4850 |Practicum in Exercise Science<br>1-4 hrs. (arranged)|
+|4850 |Practicum in Exercise Science<br>1-4 hours (arranged)|
 ||Provides opportunity for independent work or feld experience in settings of personal training, agencies,|
-||or clinics in the exercise science feld.CONSENT: Instructor.PREREQUISITE: Exercise science major;|
-||sophomore standing.REPEAT: May be repeated (total credit not to exceed 8 hours).GRADE: CR/NC.|
-||OFFERED: Every semester as needed.|
-|4910|Research in Exercise Science<br>3 hrs. (3, 0)|
+||or clinics in the exercise science feld.Consent: Instructor.Prerequisite: Exercise science major;|
+||sophomore standing.Repeat: May be repeated (total credit not to exceed 8 hours).Grade: CR/NC.|
+||Offered: Every semester as needed.|
+|4910|Research in Exercise Science<br>3 hours (3,0)|
 ||The need for quality evidence-based practice is growing in all allied health professions. Students must|
 ||be prepared to understand and utilize the evidence related to all aspects of professional practice. A|
 ||variety of research methods will be discussed, including both qualitative and quantitative. Students will|
-||begin a yearlong independent research project.PREREQUISITE: EXSC 4150.OFFERED: Sem. I.|
-|4920 |Seminar in Exercise Science<br>3 hrs. (2, 0)|
+||begin a yearlong independent research project.Prerequisite: EXSC 4150.Offered: Semester I.|
+|4920 |Seminar in Exercise Science<br>3 hours (2,0)|
 ||Investigates selected topics of current interest in exercise and health science. Capstone course in|
 ||exercise science. Requires a written and oral presentation of a creative project involving either applied,|
 ||experimental, or library research._Fee required._PREREQUISITE: Exercise science major; senior standing;|
-||EXSC 4910.OFFERED: Sem. II.|
+||EXSC 4910.Offered: Semester II.|
 |ETE Courses||
-|1300|Introduction to Sports, Physical Activity, and Recreation<br>2 hrs. (2, 1)|
+|1300|Introduction to Sports, Physical Activity, and Recreation<br>2 hours (2,1)|
 ||Introduces foundational concepts in sports, physical activity, physical education, and recreation,|
 ||including historical and philosophical orientations, current issues, and career opportunities._Fee_|
-||_required._ OFFERED: Sem. II.|
-|2250 |Motor Behavior<br>3 hrs. (3, 0)|
+||_required._ Offered: Semester II.|
+|2250 |Motor Behavior<br>3 hours (3,0)|
 ||Examines the forces that infuence the acquisition of motor skill and movement patterns. Surveys|
 ||growth and development patterns. Identifes characteristics of skilled movement forms. Reviews factors|
 ||which impact the learning of skills like knowledge of results and performance. Discusses motivational|
-||patterns and sport interests. Surveys the sub discipline of motor learning.OFFERED: Sem. II.|
-|3720 |Sports, Physical Activity, and Recreation for Special Populations<br>3 hrs. (3, 0)|
+||patterns and sport interests. Surveys the sub discipline of motor learning.Offered: Semester II.|
+|3720 |Sports, Physical Activity, and Recreation for Special Populations<br>3 hours (3,0)|
 ||Introduces students to a variety of physical, mental, and emotional disabilities, including characteristics|
 ||and behavior patterns. Physical activities and recreational activities, which are developmentally|
 ||appropriate for all age groups and populations will be discussed, including their physical and social|
-||benefts.OFFERED: Sem. II.|
-|4900 |Technology Applications in Sport, Physical Activity, and Recreation<br>2 hrs. (2, 1)|
+||benefts.Offered: Semester II.|
+|4900 |Technology Applications in Sport, Physical Activity, and Recreation<br>2 hours (2,1)|
 ||Investigates and applies techniques and practice in the use of technology-based media, which supports|
 ||and enhances sport, physical activity, and recreation programs. Emphasizes computer and smartphone|
 ||applications that support teaching, coaching, and recreation (e.g., databases, PowerPoint, screencast,|
-||geocaching, etc.).OFFERED: Sem. I.|
-
-
+||geocaching, etc.).Offered: Semester I.|
 
 ## PETE Courses 
 
-## _Sport and Recreational Leadership Program:_ 
+## _Sport and Recreational Leadership Program_ 
 
 SPRL Courses 
 
-|1350|Physical Activity Cluster I - Focus on Team Sports|3 hrs. (0, 4)|
+|1350|Physical Activity Cluster I - Focus on Team Sports|3 hours (0,4)|
 |---|---|---|
 ||Develops content knowledge and instructional skills in selected team sports such as basketball, team||
 ||handball, football, soccer, volleyball, softball, and ultimate. Emphasizes skill development, instructional||
-||strategies, rules and strategies, management, and assessment._Fee Required._ OFFERED: Sem. I.||
-|2450 |Physical Activity Cluster III - Focus on Recreational Activities & Outdoor Pursuits|3 hrs.  (0, 4)|
+||strategies, rules and strategies, management, and assessment._Fee Required._ Offered: Semester I.||
+|2450 |Physical Activity Cluster III - Focus on Recreational Activities & Outdoor Pursuits|3 hours  (0,4)|
 ||Develops content knowledge and instructional skills in recreational and outdoor activities such as||
 ||archery, golf, bowling, badminton, pickleball, tennis, Frisbee golf, adventure education, and outdoor||
 ||pursuits. Emphasizes skill development, instructional strategies, rules and strategies, and management.||
-||_Fee required._ OFFERED: Sem. II.||
-|2550 |Youth and Adult Sports Programming|2 hrs. (2, 1)|
+||_Fee required._ Offered: Semester II.||
+|2550 |Youth and Adult Sports Programming|2 hours (2,1)|
 ||Introduces planning, programming, and implementation of sports programs for youth and adults within||
-||such organizations as recreation centers, YMCAs, churches, camps, and businesses.OFFERED: Sem. I.||
-
-
+||such organizations as recreation centers, YMCAs, churches, camps, and businesses.Offered: Semester I.||
 
 Anderson University Undergraduate Catalog 2025-26 
 
 156 
 
-## SPRL (cont.) 
-
 |PRL (|cont.)|
 |---|---|
-|3150|Recreational Leadership<br>2 hrs. (2, 0)|
+|3150|Recreational Leadership<br>2 hours (2,0)|
 ||Examines the essential elements and basic principles of organization and leadership of recreational and|
 ||leisure programs, including planning and conducting organized programs in private and public agencies.|
 ||Special emphasis will be given to the role of face-to-face leadership within recreational organizations.|
-||OFFERED: Sem. I.|
-|3250 |Legal Aspects of Sport and Recreation<br>3 hrs. (3, 0)|
+||Offered: Semester I.|
+|3250 |Legal Aspects of Sport and Recreation<br>3 hours (3,0)|
 ||An examination of the laws and policies governing the various aspects of sport and sport business and|
 ||their relationship to personal and professional ethics. The role of regulatory commissions and|
-||organizations in sport will be explored.OFFERED: Sem. II.|
-|3300 |Management of Sport Facilities and Events<br>3 hrs. (3, 0)|
+||organizations in sport will be explored.Offered: Semester II.|
+|3300 |Management of Sport Facilities and Events<br>3 hours (3,0)|
 ||Designed to give students information and knowledge on the operation and management of athletic and|
 ||recreational facilities. In addition, event planning, sponsorship, budgeting, management, and evaluation|
-||of athletic and recreational events will be emphasized._Fee required._ OFFERED: Sem. II.|
-|4850 |Practicum in Sport and Recreational Leadership<br>3 hrs. (arranged)|
+||of athletic and recreational events will be emphasized._Fee required._ Offered: Semester II.|
+|4850 |Practicum in Sport and Recreational Leadership<br>3 hours (arranged)|
 ||Introduces planning, programming, and implementation of sports programs for youth and adults within|
-||such organizations as recreation centers, YMCAs, churches, camps, and businesses.PREREQUISITE:|
-||Sport and recreational leadership major; junior standing.CONSENT: Instructor.REPEAT: May be|
-||repeated (total credit not to exceed 6 hours).GRADE: CR/NC.OFFERED: Every semester as needed.|
-
-
+||such organizations as recreation centers, YMCAs, churches, camps, and businesses.Prerequisite:|
+||Sport and recreational leadership major; junior standing.Consent: Instructor.Repeat: May be|
+||repeated (total credit not to exceed 6 hours).Grade: CR/NC.Offered: Every semester as needed.|
 
 Anderson University Undergraduate Catalog 2025-26 
 
@@ -9401,9 +9039,9 @@ Overall and major GPA expectations increase to 3.0 to be admitted to the profess
 
 ## PRE-ADMISSION 
 
-- Overall GPA of 2.5 required for admission to EDUC 2030, 2170, 2200, 2460, and 2860 
+- Overall GPA of 2.5 required for admission to EDUC 2030,2170,2200,2460, and 2860 
 
-- Completion of EDUC 2000, 2100, and 2110 with grades of C or better 
+- Completion of EDUC 2000,2100, and 2110 with grades of C or better 
 
 - Completion of SPED 2400 with a grade of C or better 
 
@@ -9415,7 +9053,7 @@ Elementary education majors must apply and be admitted to the teacher preparatio
 
 - Overall and major GPA must be 2.75 or higher. 
 
-- The following courses completed with a grade less than C must be repeated: any EDUC course; any SPED course; ENGL 1110, 1120. 
+- The following courses completed with a grade less than C must be repeated: any EDUC course; any SPED course; ENGL 1110,1120. 
 
 - Elementary education majors must also earn a C or higher in MATH 1100 and MATH 1110, but completion of these courses with a C or better is not required prior to admission to the program. 
 
@@ -9495,15 +9133,15 @@ Anderson University Undergraduate Catalog 2025-26
 
 160 
 
-## ELEMENTARY EDUCATION MAJOR  (102 hrs.) 
+## ELEMENTARY EDUCATION MAJOR  (102 hours) 
 
-- EDUC 2000, 2030, 2100, 2110, 2170, 2200, 2460, 2520, 2730, 3120, 3300, 4120, 4125, 4310, 4320, 4850, 4910 
+- EDUC 2000,2030,2100,2110,2170,2200,2460,2520,2730,3120,3300,4120,4125,4310,4320,4850,4910 
 
-- SPED 2400, 2500, 2550, 3120, 3200 
+- SPED 2400,2500,2550,3120,3200 
 
 - MUED 2110 
 
-- EDUC 4010 Student Teaching (10 hrs.; may be repeated up to a maximum of 20 hrs.) 
+- EDUC 4010 Student Teaching (10 hours; may be repeated up to a maximum of 20 hours) 
 
 - EDUC 4930 Leadership Seminar in Character Education 
 
@@ -9527,9 +9165,9 @@ Anderson University Undergraduate Catalog 2025-26
 
 In addition to the Department of Teacher Education requirements below, candidates must complete requirements for their specific secondary teaching programs. 
 
-## SECONDARY TEACHER PREPARATION PROGRAM CORE   (43 hrs.) 
+## SECONDARY TEACHER PREPARATION PROGRAM CORE   (43 hours) 
 
-- EDUC 2000, 2100, 2110, 2460, 2520, 2860, 3000, 3100, 3120, 4710, 4715 
+- EDUC 2000,2100,2110,2460,2520,2860,3000,3100,3120,4710,4715 
 
 - SPED 2400 
 
@@ -9545,7 +9183,7 @@ Requirements for the secondary teaching programs listed below may be found in th
 
 - Social Studies Teaching major (History) 
 
-## ALL GRADE MUSIC TEACHING (GRADES P-12) 
+## ALL Grade MUSIC TEACHING (GRADES P-12) 
 
 Requirements for the music education program may be found in the catalog section listed below. 
 
@@ -9557,11 +9195,11 @@ Students who seek non-teaching careers related to the education of children or y
 
 ## BACHELOR OF ARTS IN EDUCATION MAJOR (NON-LICENSE) 
 
-- 30 hours (subject to change) from approved DTE courses that include the following: o EDUC 2000, 2030, 2100, 2110, 2170, 2200, 2460, 2520; SPED 2400 o EDUC 4810 (4-hour internship) 
+- 30 hours (subject to change) from approved DTE courses that include the following: o EDUC 2000,2030,2100,2110,2170,2200,2460,2520; SPED 2400 o EDUC 4810 (4-hour internship) 
 
 ## EDUCATION MINOR 
 
-- 16 hours from approved DTE courses that include the following: o EDUC 2000, 2100, 2110, 2460, 4810 o SPED 2400 
+- 16 hours from approved DTE courses that include the following: o EDUC 2000,2100,2110,2460,4810 o SPED 2400 
 
 Anderson University Undergraduate Catalog 2025-26 
 
@@ -9571,7 +9209,7 @@ Anderson University Undergraduate Catalog 2025-26
 
 - 15 hours from approved DTE courses that include the following: 
 
-   - SPED 2400, 2500, 2550, 3120, 3200 
+   - SPED 2400,2500,2550,3120,3200 
 
 ## READING SPECIALIST WITH TRAINING IN DYSLEXIA 
 
@@ -9581,7 +9219,7 @@ Anderson University is approved by the Indiana Department of Education to prepar
 
 - All 15 credits are embedded in the elementary education major; however, teacher candidates must pass a competency requirement to complete the program and earn this designation. 
 
-   - EDUC 2200, 2730, 3300, 4850, 4910 
+   - EDUC 2200,2730,3300,4850,4910 
 
    - SPED 3120 
 
@@ -9599,13 +9237,13 @@ The Transition to Teaching Program is a 12-month intensive program of educationa
 
 All courses are in alignment with Indiana Educator Standards (REPA 3 developmental and content standards), Council for the Accreditation of Educator Preparation (CAEP) Standards, the Interstate New Teacher Assessment and Support Consortium (InTASC) Principles, the International Society for Technology in Education (ISTE) Standards, and the Indiana Office of Educator Licensing. 
 
-## ELEMENTARY (K-6) TEACHING LICENSURE (24 hrs.) 
+## ELEMENTARY (K-6) TEACHING LICENSURE (24 hours) 
 
-●​ EDUC 4200, 4210, 4215, 4220, 4221, 4222, 4231, 4232, 4240, 4260, 4280 
+●​ EDUC 4200,4210,4215,4220,4221,4222,4231,4232,4240,4260,4280 
 
-## SECONDARY (5-12) TEACHING LICENSURE (18 hrs.) 
+## SECONDARY (5-12) TEACHING LICENSURE (18 hours) 
 
-- EDUC 4200, 4210, 4215, 4250, 4251, 4240, 4260, 4280 
+- EDUC 4200,4210,4215,4250,4251,4240,4260,4280 
 
 Anderson University Undergraduate Catalog 2025-26 
 
@@ -9613,88 +9251,84 @@ Anderson University Undergraduate Catalog 2025-26
 
 ## EDUC Courses 
 
-2000 Teaching as a Profession 2 hrs. (arranged) 
+2000 Teaching as a Profession 2 hours (arranged) 
 
-Designed for the prospective teacher education candidate to examine and understand one’s values, beliefs, motivations, and goals; to be aware of and able to evaluate one’s personal learning characteristics; to be knowledgeable about the developmental stages in becoming a teacher; the history of education in the United States; and to develop a view of education as related to self, students, teachers, schools, community, the teaching profession, foundations, reform, and the future. Draws heavily upon class participation, classroom observations, research, and oral and written communication skills. Completion with a C or better required for all elementary and secondary education majors. Requires 10 hours of field experience. OFFERED : Sem. I, II. 
+Designed for the prospective teacher education candidate to examine and understand one’s values, beliefs, motivations, and goals; to be aware of and able to evaluate one’s personal learning characteristics; to be knowledgeable about the developmental stages in becoming a teacher; the history of education in the United States; and to develop a view of education as related to self, students, teachers, schools, community, the teaching profession, foundations, reform, and the future. Draws heavily upon class participation, classroom observations, research, and oral and written communication skills. Completion with a C or better required for all elementary and secondary education majors. Requires 10 hours of field experience. Offered : Semester I, II. 
 
-2030 Learning and Teaching Mathematics in the Elementary Classroom 3 hrs. (arranged) 
+2030 Learning and Teaching Mathematics in the Elementary Classroom 3 hours (arranged) 
 
-Develops content and pedagogical knowledge through state and national standards for the development and delivery of a well-designed, standards-based mathematics curriculum. Course activities include presentation of instructional materials, methods, and assessment related to elementary school mathematics. Completion with a  C or better required for all elementary education majors. Field experiences may be offered or required. PREREQUISITE : 2.5 overall GPA; MATH 1100, 1110; EDUC 2000, 2100, 2110. EXPECTATION : Grade of C or better in MATH 1100, 1110. OFFERED : Sem. I. 
+Develops content and pedagogical knowledge through state and national standards for the development and delivery of a well-designed, standards-based mathematics curriculum. Course activities include presentation of instructional materials, methods, and assessment related to elementary school mathematics. Completion with a  C or better required for all elementary education majors. Field experiences may be offered or required. Prerequisite : 2.5 overall GPA; MATH 1100,1110; EDUC 2000,2100,2110. Expectation : Grade of C or better in MATH 1100,1110. Offered : Semester I. 
 
-||2100, 2110.EXPECTATION: Grade of C or better in MATH 1100, 1110.OFFERED: Sem. I.||
+||2100,2110.Expectation: Grade of C or better in MATH 1100,1110.Offered: Semester I.||
 |---|---|---|
-|2100|Child and Adolescent Development|3 hrs. (3,0)|
+|2100|Child and Adolescent Development|3 hours (3,0)|
 |The primary focus is on characteristics of growth and development of young children through adolescence,|||
 ||including physical, psychological, social, cognitive, and emotional aspects. Completion with a grade of C|or|
-||better required for all education majors. No feld experience required.OFFERED: Sem. I, II.||
-|2110|Educational Psychology: Learning in the Schools|3 hrs. (3, 0)|
+||better required for all education majors. No feld experience required.Offered: Semester I, II.||
+|2110|Educational Psychology: Learning in the Schools|3 hours (3,0)|
 |Introduces the application of psychological principles to the challenges of teaching and learning. Examines|||
 ||the theoretical and applied aspects of learning, motivation, human development, and measurement and||
 ||evaluation. Completion with a grade of C or better required for all education majors. No feld experience||
 ||required._Applies to the Social & Behavioral Ways of Knowing [Raven Core] component of the Liberal Arts Core_||
-||_Curriculum._ SAME AS:PSYC 2110.OFFERED: Sem. I, II.||
-|2170|Teaching I: Curriculum and Instruction for Early Childhood<br>4 hrs. (arranged)||
+||_Curriculum._ SAME AS:PSYC 2110.Offered: Semester I, II.||
+|2170|Teaching I: Curriculum and Instruction for Early Childhood<br>4 hours (arranged)||
 
+Focus on curriculum development and planning for kindergarten and primary grades, with emphasis on standards-based teaching and the use of developmentally appropriate strategies. Highlights distinctive aspects of instructing young children, including an introduction to classroom organization and management. Completion with a grade of C or better required for all elementary education majors. Requires 20 hours of field experience. Prerequisite : 2.5 overall GPA; EDUC 2000,2100,2110. Offered : Semester II. 
 
+- 2200 Foundations of Reading Instruction 3 hours (3,0) Foundations of reading science are presented, including the Simple View of Reading (SVR), Scarborough’s Reading Rope, the five essential elements of reading (phonemic awareness, phonics, fluency, vocabulary, and comprehension) and language domains. Developmental progressions in reading, including systematic scope and sequences for phonological awareness and phonics, inform instruction. Teacher candidates learn how to promote effective word recognition skills in beginning and early readers. Research-based strategies in phonemic awareness, phonics, and fluency instruction are studied and applied. Candidates complete training in a scientifically-based intervention, emphasizing systematic and explicit phonics instruction. Prepares candidates for the IDOE-required science of reading literacy endorsement (passing score on additional Praxis exam required). Completion with a grade of C or better required for all elementary education majors. No field experience required. Prerequisite : 2.5 overall GPA; EDUC 2000,2100,2110,2170; SPED 2400. Offered : Semester I. 
 
-Focus on curriculum development and planning for kindergarten and primary grades, with emphasis on standards-based teaching and the use of developmentally appropriate strategies. Highlights distinctive aspects of instructing young children, including an introduction to classroom organization and management. Completion with a grade of C or better required for all elementary education majors. Requires 20 hours of field experience. PREREQUISITE : 2.5 overall GPA; EDUC 2000, 2100, 2110. OFFERED : Sem. II. 
+2460 Teaching in a Diverse Society 3 hours (3,0) 
 
-- 2200 Foundations of Reading Instruction 3 hrs. (3, 0) Foundations of reading science are presented, including the Simple View of Reading (SVR), Scarborough’s Reading Rope, the five essential elements of reading (phonemic awareness, phonics, fluency, vocabulary, and comprehension) and language domains. Developmental progressions in reading, including systematic scope and sequences for phonological awareness and phonics, inform instruction. Teacher candidates learn how to promote effective word recognition skills in beginning and early readers. Research-based strategies in phonemic awareness, phonics, and fluency instruction are studied and applied. Candidates complete training in a scientifically-based intervention, emphasizing systematic and explicit phonics instruction. Prepares candidates for the IDOE-required science of reading literacy endorsement (passing score on additional Praxis exam required). Completion with a grade of C or better required for all elementary education majors. No field experience required. PREREQUISITE : 2.5 overall GPA; EDUC 2000, 2100, 2110, 2170; SPED 2400. OFFERED : Sem. I. 
+Emphasis on the ways candidates will encounter diversity, including cultural and linguistic diversity, in educational settings. Explores changing demographics of schools, cultural competence, and defining one’s cultural self. Attention to how teacher candidates can support diverse learners by understanding and implementing culturally relevant pedagogical practices. Introduces strategies for instruction and engaging in culturally relevant teaching to meet the needs of all students. Completion with a grade of C or better required for all elementary and secondary education majors. No field experience required. Prerequisite : 2.5 overall GPA; EDUC 2000,2100,2110. Offered : Semester I, II. 
 
-2460 Teaching in a Diverse Society 3 hrs. (3, 0) 
+2520 Technology in the Classroom 2 hours (2,0) 
 
-Emphasis on the ways candidates will encounter diversity, including cultural and linguistic diversity, in educational settings. Explores changing demographics of schools, cultural competence, and defining one’s cultural self. Attention to how teacher candidates can support diverse learners by understanding and implementing culturally relevant pedagogical practices. Introduces strategies for instruction and engaging in culturally relevant teaching to meet the needs of all students. Completion with a grade of C or better required for all elementary and secondary education majors. No field experience required. PREREQUISITE : 2.5 overall GPA; EDUC 2000, 2100, 2110. OFFERED : Sem. I, II. 
-
-2520 Technology in the Classroom 2 hrs. (2, 0) 
-
-Increases the teacher candidate’s awareness of technology concepts and tools as a means of providing differential instruction in a student-centered classroom. The use of current technologies is framed within the ISTE Standards, sound learning theory, proven pedagogical principles, and current professional standards. Provides opportunities to develop skills and perceptivity in selecting, applying, integrating, and managing instructional technology in the K-12 classroom. Completion with a grade of C or better required for elementary and secondary education majors. No field experience required. OFFERED : Sem. I, II. 
+Increases the teacher candidate’s awareness of technology concepts and tools as a means of providing differential instruction in a student-centered classroom. The use of current technologies is framed within the ISTE Standards, sound learning theory, proven pedagogical principles, and current professional standards. Provides opportunities to develop skills and perceptivity in selecting, applying, integrating, and managing instructional technology in the K-12 classroom. Completion with a grade of C or better required for elementary and secondary education majors. No field experience required. Offered : Semester I, II. 
 
 Anderson University Undergraduate Catalog 2025-26 
 
 163 
 
-## EDUC (cont.) 
+2730 Field Experiences in Reading Processes 1 hour (arranged) Completion with a grade of C or better required for all elementary education majors. Requires 15 hours of field experience. Expectation : Admission to teacher preparation program (TPP) required. Prerequisite : EDUC 2200. Corequisite : EDUC 3300. Offered : Semester II. 
 
-2730 Field Experiences in Reading Processes 1 hr. (arranged) Completion with a grade of C or better required for all elementary education majors. Requires 15 hours of field experience. EXPECTATION : Admission to teacher preparation program (TPP) required. PREREQUISITE : EDUC 2200. COREQUISITE : EDUC 3300. OFFERED : Sem. II. 
-
-||PREREQUISITE: EDUC 2200.COREQUISITE: EDUC 3300.OFFERED: Sem. II.|
+||Prerequisite: EDUC 2200.Corequisite: EDUC 3300.Offered: Semester II.|
 |---|---|
-|2850 |Practicum in Leadership Skills<br>2 hrs. (1, 2)|
+|2850 |Practicum in Leadership Skills<br>2 hours (1,2)|
 |Introduction to training assertiveness, communication, helping, and negotiation skills. Students receive||
 ||direct feedback on their performance and gain experience in co-leadership and team building. Required|
-||for youth leadership [complementary] majors.CONSENT: Instructor.PREREQUISITE: PSYC 2100.|
-||GRADE: CR/NC.SAME AS:PSYC/SOCI 2850.OFFERED: Sem. I, II.|
-|2860 |Practicum in Secondary Education<br>2 hrs. (arranged)|
+||for youth leadership [complementary] majors.Consent: Instructor.Prerequisite: PSYC 2100.|
+||Grade: CR/NC.SAME AS:PSYC/SOCI 2850.Offered: Semester I, II.|
+|2860 |Practicum in Secondary Education<br>2 hours (arranged)|
 |Emphasizes curriculum and lesson planning for middle and high school classrooms. Completion with a||
 ||grade of C or better required for secondary education majors. Requires 15 hours of feld experience.|
-||PREREQUISITE: 2.5 overall GPA.OFFERED: Sem. I.|
-|3000 |Teaching Literacy Skills in Middle and High School Content Areas<br>3 hrs. (arranged)|
+||Prerequisite: 2.5 overall GPA.Offered: Semester I.|
+|3000 |Teaching Literacy Skills in Middle and High School Content Areas<br>3 hours (arranged)|
 |Candidates will engage in a comprehensive exploration of literacy development, encompassing reading,||
 ||writing, speaking, listening, academic standards, literacy frameworks, content-literacy, disciplinary-|
 ||literacy, "teaching on the diagonal," and strategies for academically-diverse learners. Emphasizes the|
 ||development of a literacy action plan that integrates effective instructional approaches, refective practice,|
 ||and inclusive learning environments. Completion with a grade of C or better required for secondary|
-||education majors.  Field experiences may be offered or required.EXPECTATION: Admission to teacher|
-||preparation program (TPP) required.PREREQUISITE: 2.75 overall GPA.OFFERED: Sem. I.|
-|3100|The Middle School in the United States<br>3 hrs. (arranged)|
+||education majors.  Field experiences may be offered or required.Expectation: Admission to teacher|
+||preparation program (TPP) required.Prerequisite: 2.75 overall GPA.Offered: Semester I.|
+|3100|The Middle School in the United States<br>3 hours (arranged)|
 |Designed to provide educators with effective teaching strategies tailored to the unique needs of young||
 ||adolescent students in the United States. Through an exploration of physical, emotional, social, and|
 ||intellectual changes characterizing this developmental stage, students will learn to implement|
 ||developmentally appropriate instruction that engages and motivates middle school students. Emphasizes|
 ||historical patterns and the philosophical underpinnings of the middle school movement, offering insights|
 ||into pedagogical strategies for this age group. Completion with a grade of C or better required for|
-||secondary education majors. Requires 30 hours of feld experience.EXPECTATION: Admission to teacher|
-||preparation program (TPP) required.PREREQUISITE: 2.75 overall GPA.OFFERED: Sem. II.|
-|3120|Educational Assessment for the Classroom Teacher<br>3 hrs. (3, 0)|
+||secondary education majors. Requires 30 hours of feld experience.Expectation: Admission to teacher|
+||preparation program (TPP) required.Prerequisite: 2.75 overall GPA.Offered: Semester II.|
+|3120|Educational Assessment for the Classroom Teacher<br>3 hours (3,0)|
 |Prepares teacher candidates with a strong knowledge base about assessments and their use in today’s||
 ||classroom. Teacher candidates will learn what assessment is, when and how to use a variety of assessment|
 ||strategies, how to create assessments, ways to interpret and analyze data and results, and how to use|
 ||these interpretations to inform their teaching practice and impact on student learning. Through refective|
 ||writing, candidates will evaluate their understanding of assessment in the classroom and their growth in|
 ||the appropriate use of assessment strategies. Completion with a grade of C or better required for all|
-||education majors. No feld experience required.EXPECTATION: Admission to teacher preparation program|
-||(TPP) required.PREREQUISITE: 2.75 overall GPA.OFFERED: Sem. I, II.|
-|3300 |Research-Based Reading Methods: Instruction, Intervention, & Assessment<br>3 hrs.(3,0)|
+||education majors. No feld experience required.Expectation: Admission to teacher preparation program|
+||(TPP) required.Prerequisite: 2.75 overall GPA.Offered: Semester I, II.|
+|3300 |Research-Based Reading Methods: Instruction, Intervention, & Assessment<br>3 hours(3,0)|
 |Assessments aligned with reading science, including oral reading fuency and nonsense word reading||
 ||measures, are administered and interpreted to inform initial and ongoing instruction. Teacher candidates|
 ||learn a scientifcally based one-on-one intervention for primary-grade students experiencing diffculty|
@@ -9703,153 +9337,141 @@ Anderson University Undergraduate Catalog 2025-26
 ||and text structures, and instructional contexts for building knowledge and vocabulary. Prepares|
 ||candidates for the IDOE-required science of reading literacy endorsement (passing score on additional|
 ||Praxis exam required). Completion with a grade of C or better required for all elementary education|
-||majors.EXPECTATION: Admission to teacher preparation program (TPP) required.PREREQUISITE: 2.75|
-||overall GPA; EDUC 2200.COREQUISITE: EDUC 2730.OFFERED: Sem. II.|
-|3550 |Intercultural Education<br>3 hrs. (3, 1)|
+||majors.Expectation: Admission to teacher preparation program (TPP) required.Prerequisite: 2.75|
+||overall GPA; EDUC 2200.Corequisite: EDUC 2730.Offered: Semester II.|
+|3550 |Intercultural Education<br>3 hours (3,1)|
 |Introduces theory and practice of intercultural communication, cross-cultural and international||
 ||experiences, and teaching with a global perspective. Emphasizes understanding and respect for cultural,|
 ||racial, geographical, and religious differences and the impact these differences have on|
 ||educational/teaching theories and practices. Runs concurrent with EDUC TRI-S participation where|
 ||working with children and educators is the primary focus._Applies to the Global Ways of Knowing [AU_|
 ||_Experience] component of theLiberal Arts Core Curriculum._Grade of C or better required for education|
-||majors.OFFERED: Summer.|
-
-
+||majors.Offered: Summer.|
 
 Anderson University Undergraduate Catalog 2025-26 
 
 164 
 
-## EDUC (cont.) 
-
-4010 Student Teaching 10 hrs. (arranged) Observation, participation, and teaching in the school setting for 10-16 weeks on a full-day basis. Student teachers are expected to participate in all aspects of school responsibilities as part of the professional semester. Completion with a grade of C or better required for all education majors. REQUIREMENTS : See the _Admission to Student Teaching_ section in this catalog, the _Teacher Education_ 
+4010 Student Teaching 10 hours (arranged) Observation, participation, and teaching in the school setting for 10-16 weeks on a full-day basis. Student teachers are expected to participate in all aspects of school responsibilities as part of the professional semester. Completion with a grade of C or better required for all education majors. REQUIREMENTS : See the _Admission to Student Teaching_ section in this catalog, the _Teacher Education_ 
 
 ||REQUIREMENTS: See the _Admission to Student Teaching_section in this catalog, the _Teacher Education_|
 |---|---|
-||_Handbook_,and the_Student Teaching Handbook_ for the most up-to-date guidance.EXPECTATION:|
-||Admission to professional semester required.PREREQUISITE: Senior standing; completion of 114|
-||hours; 3.0 GPA (overall and major).REPEAT: May be repeated (total credit may not exceed 20 hrs.).|
-||CONSENT: Department.OFFERED: Sem. I, II.|
-|4120|Organization and Management for the Elementary Classroom<br>3 hrs. (arranged)|
+||_Handbook_,and the_Student Teaching Handbook_ for the most up-to-date guidance.Expectation:|
+||Admission to professional semester required.Prerequisite: Senior standing; completion of 114|
+||hours; 3.0 GPA (overall and major).Repeat: May be repeated (total credit may not exceed 20 hours).|
+||Consent: Department.Offered: Semester I, II.|
+|4120|Organization and Management for the Elementary Classroom<br>3 hours (arranged)|
 |Culminating experience designed to allow teacher candidates to integrate the skills of teaching with||
 ||effective classroom management techniques. Emphasis on classroom management, lesson design, and|
 ||classroom culture. A practicum experience is embedded and merged with the coursework to focus on|
 ||managing the learning environment in order to enhance student success. Completion with a grade of C|
 ||or better required for all elementary education majors. Requires 60 hours of feld experience.|
-||EXPECTATION: Admission to teacher preparation program (TPP) required.PREREQUISITE: 3.0 GPA|
-||(overall and major).COREQUISITE: EDUC 4125, 4320.OFFERED: Sem. I.|
-|4125|Professional Semester Preparation Seminar - Elementary<br>1 hr. (1,0)|
+||Expectation: Admission to teacher preparation program (TPP) required.Prerequisite: 3.0 GPA|
+||(overall and major).Corequisite: EDUC 4125,4320.Offered: Semester I.|
+|4125|Professional Semester Preparation Seminar - Elementary<br>1 hour (1,0)|
 |Prepares elementary education teacher candidates for a successful transition into the professional||
 ||semester and student teaching. Through a combination of academic, practical, and dispositional|
 ||assessments and instruction tailored to their unique needs as future elementary education teachers,|
 ||candidates will be equipped with the skills and knowledge necessary for a rewarding career in|
 ||education. Completion with a grade of C or better required for all elementary education majors. No|
-||feld experience required.EXPECTATION: Admission to teacher preparation program (TPP) required.|
-||PREREQUISITE: 3.0 GPA (overall and major).COREQUISITE: EDUC 4120.OFFERED: Sem. I.|
-|4310|Integrated Teaching II: Language Arts and Social Studies<br>4 hrs. (arranged)|
+||feld experience required.Expectation: Admission to teacher preparation program (TPP) required.|
+||Prerequisite: 3.0 GPA (overall and major).Corequisite: EDUC 4120.Offered: Semester I.|
+|4310|Integrated Teaching II: Language Arts and Social Studies<br>4 hours (arranged)|
 |Integrative approach to the teaching of language arts and social studies in the classroom. Using||
 ||children’s literature as a framework, teacher candidates develop curriculum, instructional, and|
 ||assessment strategies that are research-based and framed within national and state standards.|
 ||Emphasis on differentiation of learning to meet individual student needs. Completion with a grade|
 ||of C or better required for all elementary education majors. Requires 20 hours of feld experience.|
-||EXPECTATION: Admission to teacher preparation program (TPP) required.PREREQUISITE: 2.75|
-||overall GPA.OFFERED: Sem. II.|
-|4320 |Integrated Teaching III: Exploring STEM in the Elementary Classroom<br>4 hrs. (arranged)|
+||Expectation: Admission to teacher preparation program (TPP) required.Prerequisite: 2.75|
+||overall GPA.Offered: Semester II.|
+|4320 |Integrated Teaching III: Exploring STEM in the Elementary Classroom<br>4 hours (arranged)|
 |Prepares elementary teacher candidates for successful teaching of STEM in the classroom, using an||
 ||integrative, hands-on approach. Designed to provide candidates with the pedagogical knowledge,|
 ||skills, and opportunities for application in clinical settings. Emphasis on promoting inquiry-based|
 ||learning using national and state standards. Candidates focus on planning, teaching, and assessing|
 ||STEM lessons in elementary classrooms. Completion with a grade of C or better required for all|
-||elementary education majors. Requires 20 hours of feld experience.EXPECTATION: Admission to|
-||teacher preparation program (TPP) required.PREREQUISITE: 3.0 GPA (overall and major); EDUC 2030.|
-||COREQUISITE: EDUC 4120.OFFERED: Sem. I.|
-|4710|Management, Organization, and Methods in the Secondary Classroom<br>3 hrs. (arranged)|
+||elementary education majors. Requires 20 hours of feld experience.Expectation: Admission to|
+||teacher preparation program (TPP) required.Prerequisite: 3.0 GPA (overall and major); EDUC 2030.|
+||Corequisite: EDUC 4120.Offered: Semester I.|
+|4710|Management, Organization, and Methods in the Secondary Classroom<br>3 hours (arranged)|
 |Focuses on strategies to meet the special needs of young adolescent and young adult students.||
 ||Physical, emotional, social, and intellectual issues are a foundation for developmentally appropriate|
 ||instruction. Designed as a sequel to the middle school course, this course emphasizes classroom|
 ||management, lesson design, and classroom culture. A practicum experience is embedded and merged|
 ||with the coursework to focus on managing the learning environment in order to enhance student|
 ||success. Completion with a grade of C or better required for secondary and P-12 education majors.|
-||Requires 60 hours of feld experience.EXPECTATION: Admission to teacher preparation program|
-||(TPP) required. PREREQUISITE: 3.0 GPA (overall and major).COREQUISITE: EDUC 4715; HIST 4700 or|
-||ENGL 4700 or MATH 4700 or MUED 3130.OFFERED: Sem. I.|
-|4715|Professional Semester Preparation Seminar - Secondary & P-12<br>1 hr. (1,0)|
+||Requires 60 hours of feld experience.Expectation: Admission to teacher preparation program|
+||(TPP) required. Prerequisite: 3.0 GPA (overall and major).Corequisite: EDUC 4715; HIST 4700 or|
+||ENGL 4700 or MATH 4700 or MUED 3130.Offered: Semester I.|
+|4715|Professional Semester Preparation Seminar - Secondary & P-12<br>1 hour (1,0)|
 |Prepares secondary and P-12 teacher candidates for a successful transition into the professional semester||
 ||and student teaching. Through a combination of academic, practical, and dispositional assessments and|
 ||instruction tailored to their unique needs as future secondary and P-12 teachers, candidates will be|
 ||equipped with the skills and knowledge necessary for a rewarding career in education. Completion with a|
 ||grade of C or better required for all secondary and P-12 education majors. No feld experience required.|
-||EXPECTATION: Admission to teacher preparation program (TPP) required.PREREQUISITE: 3.0 GPA (overall|
-||and major).COREQUISITE: EDUC 4710.OFFERED: Sem. I.|
-
-
+||Expectation: Admission to teacher preparation program (TPP) required.Prerequisite: 3.0 GPA (overall|
+||and major).Corequisite: EDUC 4710.Offered: Semester I.|
 
 Anderson University Undergraduate Catalog 2025-26 
 
 165 
 
-## EDUC (cont.) 
+4800 Internship in Youth Leadership 2 hours (1,2) 
 
-4800 Internship in Youth Leadership 2 hrs. (1, 2) 
+Opportunity for youth leadership [complementary] majors to practice training and presentation skills and content learned in prior courses in an applied setting relevant to the student’s career or personal goals. Required for youth leadership [complementary] majors. Consent : Department. Prerequisite : PSYC 4210. Grade : CR/NC. SAME AS: PSYC/SOCI 4800. Offered : Semester II. 
 
-Opportunity for youth leadership [complementary] majors to practice training and presentation skills and content learned in prior courses in an applied setting relevant to the student’s career or personal goals. Required for youth leadership [complementary] majors. CONSENT : Department. PREREQUISITE : PSYC 4210. GRADE : CR/NC. SAME AS: PSYC/SOCI 4800. OFFERED : Sem. II. 
-
-||4210.GRADE: CR/NC.SAME AS:PSYC/SOCI 4800.OFFERED: Sem. II.|
+||4210.Grade: CR/NC.SAME AS:PSYC/SOCI 4800.Offered: Semester II.|
 |---|---|
-|4810|Educational Internship<br>1-6 hrs. (arranged)|
-|Meets special needs for independent study and internship in professional education.GRADE: CR/NC.||
-||CONSENT: Department.REPEAT: May be repeated (total credits not to exceed 6 hrs.).OFFERED: As|
+|4810|Educational Internship<br>1-6 hours (arranged)|
+|Meets special needs for independent study and internship in professional education.Grade: CR/NC.||
+||Consent: Department.Repeat: May be repeated (total credits not to exceed 6 hours).Offered: As|
 ||needed.|
 
+4850 Reading Clinic 4 hours (arranged) 
 
+- An intensive clinical practicum designed to strengthen the teacher candidate’s skills in providing scientifically-based intervention services to students with significant reading difficulties/disabilities, including dyslexia. Candidates work with one to three students reading significantly below grade level. Instructional time is followed by reflection and discussion focusing on student profiles of reading development/disability, instructional strategies, and responsiveness to intervention and necessary modifications. Candidates write educational reports and/or hold conferences with parents addressing the participant’s current level of performance and recommended instructional support. Completion with a grade of C or better required for all elementary education majors. Requires 30 hours of field experience. Expectation : Admission to teacher preparation program (TPP) required. Prerequisite : EDUC 2200,2730,3300. Offered : Semester I. 
 
-4850 Reading Clinic 4 hrs. (arranged) 
+- 4910 Reading Research Seminar 1 hour (1,0) Teacher candidates complete online coursework in dyslexia screening, identification, and intervention and write a case study to determine if a student's reading skills are consistent with a dyslexic profile. The Simple View of Reading (SVR) theory and the International Dyslexia Association’s (IDA) definition of dyslexia provide the framework for the characteristic profile of dyslexia applied in the case study. Candidates learn evidence-based practices for teaching early writing skills and how to review curricular materials for alignment with the science of reading. Completion with a grade of C or better required for all elementary education majors. No field experience required. Expectation : Admission to teacher preparation program (TPP) required. Prerequisite : EDUC 4850. Offered : Semester II. 
 
-- An intensive clinical practicum designed to strengthen the teacher candidate’s skills in providing scientifically-based intervention services to students with significant reading difficulties/disabilities, including dyslexia. Candidates work with one to three students reading significantly below grade level. Instructional time is followed by reflection and discussion focusing on student profiles of reading development/disability, instructional strategies, and responsiveness to intervention and necessary modifications. Candidates write educational reports and/or hold conferences with parents addressing the participant’s current level of performance and recommended instructional support. Completion with a grade of C or better required for all elementary education majors. Requires 30 hours of field experience. EXPECTATION : Admission to teacher preparation program (TPP) required. PREREQUISITE : EDUC 2200, 2730, 3300. OFFERED : Sem. I. 
+4930 Leadership Seminar in Character Education 2 hours (2,0) 
 
-- 4910 Reading Research Seminar 1 hr. (1, 0) Teacher candidates complete online coursework in dyslexia screening, identification, and intervention and write a case study to determine if a student's reading skills are consistent with a dyslexic profile. The Simple View of Reading (SVR) theory and the International Dyslexia Association’s (IDA) definition of dyslexia provide the framework for the characteristic profile of dyslexia applied in the case study. Candidates learn evidence-based practices for teaching early writing skills and how to review curricular materials for alignment with the science of reading. Completion with a grade of C or better required for all elementary education majors. No field experience required. EXPECTATION : Admission to teacher preparation program (TPP) required. PREREQUISITE : EDUC 4850. OFFERED : Sem. II. 
-
-4930 Leadership Seminar in Character Education 2 hrs. (2, 0) 
-
-- Required of all teacher candidates during their clinical practice experience. Designed as a study in leadership and the dynamics of character for teachers as classroom and school leaders. Examines critical issues for educators such as the learning environment, professionalism, school relations, and dispositions of classroom leadership. Presented in a seminar format with teacher candidates engaging in assigned readings, reflection, discussion, candidate-led presentations, research, and specific facets of performance. Completion with a grade of C or better required for all elementary and secondary education majors. EXPECTATION : Admission to professional semester required. CONSENT : Department. COREQUISITE : EDUC 4010. OFFERED : Sem. I, II. 
+- Required of all teacher candidates during their clinical practice experience. Designed as a study in leadership and the dynamics of character for teachers as classroom and school leaders. Examines critical issues for educators such as the learning environment, professionalism, school relations, and dispositions of classroom leadership. Presented in a seminar format with teacher candidates engaging in assigned readings, reflection, discussion, candidate-led presentations, research, and specific facets of performance. Completion with a grade of C or better required for all elementary and secondary education majors. Expectation : Admission to professional semester required. Consent : Department. Corequisite : EDUC 4010. Offered : Semester I, II. 
 
 ## EDUC Courses (T2T) 
 
-## 4200 The Profession of Teaching 3 hrs. (arranged) 
+## 4200 The Profession of Teaching 3 hours (arranged) 
 
 - Through coursework, teacher candidates will develop insights to the culture and nature of instruction in K-12 classrooms, as well as an understanding of how to establish a community of learners through group norms, self-identification, and discussion of the five areas of holistic behaviors for optimal productivity. They will also develop an understanding of the principles of learning and student development as related to planning curriculum, learning activities, modes of delivery, and instructional pacing to meet the needs of each learner. Completion with a grade of C or better required for both elementary and secondary tracks. Virtual field experiences and observations may be offered or required. 
 
-4210 Psychology of Teaching 3 hrs. (3, 0) 
+4210 Psychology of Teaching 3 hours (3,0) 
 
 Addresses the most significant concepts, principles, theories, methodologies, and issues in the field of educational psychology and child development. Coursework requires teacher candidates to develop and apply an understanding of pedagogy by analyzing and integrating the science of learning with the art of teaching. The usage of technological formats to enhance learning will be addressed. Completion with a grade of C or better required for both elementary and secondary tracks. No field experience required. 
 
-4215 Exceptional Learners 1 hr. (arranged) 
+4215 Exceptional Learners 1 hour (arranged) 
 
-Overview of characteristics and educational needs of students with mild disabilities. Historical, legal, and social perspectives will be considered. Teacher candidates study language, processing, behavioral, social, and academic issues that interfere with the academic achievement of students. The course objective is to provide the knowledge needed to work with students with mild disabilities in inclusive classrooms and in the community. Completion with a grade of C or better required for elementary and secondary tracks. Virtual field experiences and observations may be offered or required. PREREQUISITE : EDUC 4200, 4210. 
+Overview of characteristics and educational needs of students with mild disabilities. Historical, legal, and social perspectives will be considered. Teacher candidates study language, processing, behavioral, social, and academic issues that interfere with the academic achievement of students. The course objective is to provide the knowledge needed to work with students with mild disabilities in inclusive classrooms and in the community. Completion with a grade of C or better required for elementary and secondary tracks. Virtual field experiences and observations may be offered or required. Prerequisite : EDUC 4200,4210. 
 
 Anderson University Undergraduate Catalog 2025-26 
 
 166 
 
-## EDUC T2T (cont.) 
-
-4220 Differentiated Curriculum & Instruction: Mathematics 1 hr. (arranged) 
+4220 Differentiated Curriculum & Instruction: Mathematics 1 hour (arranged) 
 
 Elementary education candidates will articulate clear learning objectives and instructional strategies using a repertoire of flexible teaching and learning approaches: addressing current curriculum and student standards, using aspects of students’ background knowledge, diverse representations, and social/legal issues relating to special populations, and monitoring students’ understanding of content through a variety of means. Teacher candidates will study curriculum topics by examining the organization, materials, and resources of mathematics content and the implications for using them. Completion with a grade of C or better required for elementary track. Requires 3 hours of field experience. 
 
-## 4221 Differentiated Curriculum & Instruction: STEM 1 hr. (arranged) Elementary education candidates study curriculum topics of science, technology, engineering, and mathematics (STEM) by examining the organization, materials, and resources of each content area and the implications for use in a classroom setting. Focus on integration of concepts and the pedagogical implications of interdisciplinary instruction. Selection of teaching and learning strategies such as modeling, cooperative learning, guided activities, use of journals, graphic organizers, and the inquiry method. Completion with a grade of C or better required for elementary track. Requires 3 hours of field experience. 4222 Differentiated Curriculum & Instruction: Social Studies 1 hr. (arranged) Elementary education candidates will study the scope and sequence and the pedagogical implications of interdisciplinary instruction using social studies concepts. Organization, resources, and materials for the teaching of social studies will be addressed. Focus on integration with children’s literature, as well as instructional differentiation for individual learning needs in the classroom. Completion with a grade of C or better required for elementary track. Requires 3 hours of field experience. 4231 Foundations of Reading Instruction (T2T - Elementary) 3 hrs. (arranged) 
+## 4221 Differentiated Curriculum & Instruction STEM 1 hour (arranged) Elementary education candidates study curriculum topics of science, technology, engineering, and mathematics (STEM) by examining the organization, materials, and resources of each content area and the implications for use in a classroom setting. Focus on integration of concepts and the pedagogical implications of interdisciplinary instruction. Selection of teaching and learning strategies such as modeling, cooperative learning, guided activities, use of journals, graphic organizers, and the inquiry method. Completion with a grade of C or better required for elementary track. Requires 3 hours of field experience. 4222 Differentiated Curriculum & Instruction Social Studies 1 hour (arranged) Elementary education candidates will study the scope and sequence and the pedagogical implications of interdisciplinary instruction using social studies concepts. Organization, resources, and materials for the teaching of social studies will be addressed. Focus on integration with children’s literature, as well as instructional differentiation for individual learning needs in the classroom. Completion with a grade of C or better required for elementary track. Requires 3 hours of field experience. 4231 Foundations of Reading Instruction (T2T - Elementary) 3 hours (arranged) 
 
 Foundations of reading science are presented, including the Simple View of Reading (SVR), Scarborough’s Reading Rope, the five essential elements of reading (phonemic awareness, phonics, fluency, vocabulary, and comprehension), and language domains. Developmental progressions in reading, including systematic scope and sequences for phonological awareness and phonics, inform instruction. Teacher candidates learn how to promote effective word recognition skills in beginning and early readers. Research-based strategies in phonemic awareness, phonics, and fluency instruction are studied and applied.  Candidates continue studying reading science, including explicit instruction in comprehension, analysis of language and text structures, and instructional contexts for building knowledge and vocabulary. \Prepares candidates for the IDOE-required science of reading literacy endorsement (passing score on additional Praxis exam required). Completion with a grade of C or better required for elementary track. No field experience required. 
 
-4232 Research-Based Reading Methods: Instruction, Intervention, & Assessment (T2T - Elementary) 3 hrs. (arranged) Assessments aligned with reading science, including oral reading fluency and nonsense word reading measures, are administered and interpreted to inform initial and ongoing instruction. Candidates complete training in a scientifically-based intervention for primary-grade students experiencing difficulty learning to read. The intervention addresses all five essential areas of reading with an emphasis on systematic and explicit phonics instruction. Candidates learn evidence-based practices for teaching early writing skills and how to review curricular materials for alignment with the science of reading. Prepares candidates for the IDOE-required science of reading literacy endorsement (passing score on additional Praxis exam required). Completion with a grade of C or better required for elementary track. Requires 9 hours of field experience. 
+4232 Research-Based Reading Methods: Instruction, Intervention, & Assessment (T2T - Elementary) 3 hours (arranged) Assessments aligned with reading science, including oral reading fluency and nonsense word reading measures, are administered and interpreted to inform initial and ongoing instruction. Candidates complete training in a scientifically-based intervention for primary-grade students experiencing difficulty learning to read. The intervention addresses all five essential areas of reading with an emphasis on systematic and explicit phonics instruction. Candidates learn evidence-based practices for teaching early writing skills and how to review curricular materials for alignment with the science of reading. Prepares candidates for the IDOE-required science of reading literacy endorsement (passing score on additional Praxis exam required). Completion with a grade of C or better required for elementary track. Requires 9 hours of field experience. 
 
-2 hrs. (1, 0) 
+2 hours (1,0) 
 
 ## 4240 Multidimensional Assessment for Student Learning 
 
 Prepares teacher candidates with a strong knowledge base about assessments and their use in today’s classroom. Candidates will learn what assessment is, when and how to use a variety of assessment strategies, how to create assessments, ways to interpret and analyze the data and results, and how to use these interpretations to inform their teaching practice and impact on student learning. Through reflective writing, candidates will evaluate their understanding of assessment in the classroom and growth in the appropriate use of a variety of assessment strategies. Completion with a grade of C or better required for both elementary and secondary track. No field experience required. 
 
-## 4250 Reading in the Content Areas (T2T - Secondary) 2 hrs. (arranged) 
+## 4250 Reading in the Content Areas (T2T - Secondary) 2 hours (arranged) 
 
 Teacher candidates will engage in a comprehensive exploration of literacy development, encompassing reading, writing, speaking, listening, academic standards, literacy frameworks, content-literacy, disciplinary-literacy, "teaching on the diagonal," and strategies for academically-diverse learners. Emphasizes the development of a literacy action plan that integrates effective instructional approaches, reflective practice, and inclusive learning environments. Completion with a grade of C or better required for secondary track. Requires 9 hours of field experience. 
 
@@ -9857,17 +9479,15 @@ Anderson University Undergraduate Catalog 2025-26
 
 167 
 
-## EDUC T2T (cont.) 
+- 4251 Development of Middle/High School Instruction (T2T - Secondary) 1 hour (arranged) Designed to provide educators with effective teaching strategies tailored to the unique needs of young adolescent students in the United States. Through an exploration of physical, emotional, social, and intellectual changes characterizing this developmental stage, teacher candidates will learn to implement developmentally appropriate instruction that engages and motivates middle school students. Completion with a grade of C or better required for secondary track. Requires 9 hours of field experience. 
 
-- 4251 Development of Middle/High School Instruction (T2T - Secondary) 1 hr. (arranged) Designed to provide educators with effective teaching strategies tailored to the unique needs of young adolescent students in the United States. Through an exploration of physical, emotional, social, and intellectual changes characterizing this developmental stage, teacher candidates will learn to implement developmentally appropriate instruction that engages and motivates middle school students. Completion with a grade of C or better required for secondary track. Requires 9 hours of field experience. 
+4260 Creating an Environment for Student Learning 2 hours (arranged) 
 
-4260 Creating an Environment for Student Learning 2 hrs. (arranged) 
-
-Teacher candidates will analyze and reflect on the essential elements and plans to create an environment that promotes student learning. They will learn how to create a classroom climate that attends to interpersonal relations, motivational strategies, questioning techniques, school expectations, rules, routines, and procedures. Focus on developing responses to individual and cultural diversity, nonverbal communication skills, establishing and maintaining consistent standards of classroom behavior, and making the classroom environment as safe and conducive to learning as possible. Completion with a grade of C or better required for both elementary and secondary track. Requires 60 hours of field experience. 4280 Student Teaching (Clinical Practice) 4 hrs. (arranged) Observation, participation, and teaching in the school setting for 10-16 weeks on a full-day basis. Student teachers are expected to participate in all aspects of school responsibilities as part of the professional semester. Completion with a grade of C or better required for both elementary and secondary track. REQUIREMENTS : See the DTE Handbook for T2T for up-to-date guidance. EXPECTATION : Admission to professional semester. PREREQUISITE : Overall GPA of 3.0. 
+Teacher candidates will analyze and reflect on the essential elements and plans to create an environment that promotes student learning. They will learn how to create a classroom climate that attends to interpersonal relations, motivational strategies, questioning techniques, school expectations, rules, routines, and procedures. Focus on developing responses to individual and cultural diversity, nonverbal communication skills, establishing and maintaining consistent standards of classroom behavior, and making the classroom environment as safe and conducive to learning as possible. Completion with a grade of C or better required for both elementary and secondary track. Requires 60 hours of field experience. 4280 Student Teaching (Clinical Practice) 4 hours (arranged) Observation, participation, and teaching in the school setting for 10-16 weeks on a full-day basis. Student teachers are expected to participate in all aspects of school responsibilities as part of the professional semester. Completion with a grade of C or better required for both elementary and secondary track. REQUIREMENTS : See the DTE Handbook for T2T for up-to-date guidance. Expectation : Admission to professional semester. Prerequisite : Overall GPA of 3.0. 
 
 ## SPED Courses 
 
-|2400 |Introduction to Mild Disabilities<br>3 hrs. (3, 0)|
+|2400 |Introduction to Mild Disabilities<br>3 hours (3,0)|
 |---|---|
 ||An overview of defnitions, characteristics, and educational needs of students with mild disabilities.|
 ||Includes cultural, language, behavioral, social, and academic factors that interfere with academic|
@@ -9876,8 +9496,8 @@ Teacher candidates will analyze and reflect on the essential elements and plans 
 ||for all students majoring in other felds but who are earning a special education minor. Grade of C or|
 ||better required for all education majors. Field experiences may be offered or required._Applies to the Civil_|
 ||_Discourse & Confict Transformation [AU Experience] component of theLiberal Arts Core Curriculum._|
-||OFFERED: Sem. I, II.|
-|2500 |Technology for the Diverse Learner<br>3 hrs. (3, 0)|
+||Offered: Semester I, II.|
+|2500 |Technology for the Diverse Learner<br>3 hours (3,0)|
 ||Assists pre-service educators to develop the skills needed to successfully integrate technology|
 ||throughout their professional practice. The ability to customize learning activities for all students,|
 ||including those with exceptionalities, is the hallmark of differentiated instruction. Effective assistive|
@@ -9885,36 +9505,32 @@ Teacher candidates will analyze and reflect on the essential elements and plans 
 ||to learn but also provides a means by which to deliver individually designed instruction. Required for|
 ||all students majoring in other felds but who are earning a special education minor. Completion with a|
 ||grade of C or better required for all elementary education majors. Field experiences may be offered or|
-||required.PREREQUISITE: SPED 2400.OFFERED: Sem. I.|
-|2550 |Characteristics of Emotional and Behavioral Disorders of Children and Youth<br>3 hrs. (arranged)|
+||required.Prerequisite: SPED 2400.Offered: Semester I.|
+|2550 |Characteristics of Emotional and Behavioral Disorders of Children and Youth<br>3 hours (arranged)|
 ||Explores the characteristics of children and youth with emotional and behavioral disorders. Criteria|
 ||and process of identifying students who may warrant special education services for emotional and|
 ||behavioral disorders (EBD) are also rigorously considered. Familiarizes teacher candidates with|
 ||current theories for understanding EBD as well as perspectives on best practices for providing an|
 ||optimal learning context for students identifed with EBD.  Required for all students majoring in other|
 ||felds but who are earning a special education minor. Completion with a grade of C or better required|
-||for all elementary education majors. Requires 15 hours of feld experience.PREREQUISITE: SPED|
-||2400.OFFERED: Sem. II.|
-|3120|Special Education Assessment for the Classroom Teacher<br>3 hrs. (arranged)|
+||for all elementary education majors. Requires 15 hours of feld experience.Prerequisite: SPED|
+||2400.Offered: Semester II.|
+|3120|Special Education Assessment for the Classroom Teacher<br>3 hours (arranged)|
 ||Explores educational assessment practices for students with mild disabilities. Familiarizes teacher|
 ||candidates with the administration and interpretation of formal and informal educational assessment|
 ||instruments used for instructional decision-making and provision of services to students with special|
 ||educational needs. Required for all students majoring in other felds but who are earning a special|
 ||education minor. Completion with a grade of C or better required for all elementary education majors.|
-||Requires 30 hours of feld experience.EXPECTATION: Admission to the teacher preparation program|
-||(TPP) required.PREREQUISITE: 2.75 overall GPA; SPED 2400, 2500, 2550.OFFERED: Sem. I.|
-
-
+||Requires 30 hours of feld experience.Expectation: Admission to the teacher preparation program|
+||(TPP) required.Prerequisite: 2.75 overall GPA; SPED 2400,2500,2550.Offered: Semester I.|
 
 Anderson University Undergraduate Catalog 2025-26 
 
 168 
 
-## SPED (cont.) 
+3200 Classroom Instruction for Mild Disabilities 3 hours (arranged) 
 
-3200 Classroom Instruction for Mild Disabilities 3 hrs. (arranged) 
-
-Examines techniques for making and implementing data-driven decisions for educating students with mild disabilities. Development of instructionally sound individualized education programs (IEPs) and implementation in the least restrictive environment for students will be emphasized. Teacher candidates will learn to develop appropriate instruction and accommodations to provide access to the general curriculum for students with disabilities. Required for all students majoring in other fields but who are earning a special education minor. Completion with a grade of C or better required for all elementary education majors. Requires 60 hours of field experience. EXPECTATION : Admission to the teacher preparation program (TPP) required. PREREQUISITE : SPED 2400, 2500, 2550, 3120; 2.75 overall GPA. OFFERED : Sem. II. 
+Examines techniques for making and implementing data-driven decisions for educating students with mild disabilities. Development of instructionally sound individualized education programs (IEPs) and implementation in the least restrictive environment for students will be emphasized. Teacher candidates will learn to develop appropriate instruction and accommodations to provide access to the general curriculum for students with disabilities. Required for all students majoring in other fields but who are earning a special education minor. Completion with a grade of C or better required for all elementary education majors. Requires 60 hours of field experience. Expectation : Admission to the teacher preparation program (TPP) required. Prerequisite : SPED 2400,2500,2550,3120; 2.75 overall GPA. Offered : Semester II. 
 
 Anderson University Undergraduate Catalog 2025-26 
 
@@ -9944,7 +9560,7 @@ Students seeking two or more majors in the department (including complementary m
 
 ## CHRISTIAN MINISTRIES EXPERIENTIAL EDUCATION 
 
-The Christian ministries and youth ministries majors also offer experiential education in ministry, including internships (CMIN 2810, 4810, 4860) and experiential courses (CMIN 3340, 4650, 4910) offered in conjunction with agencies such as Intern Academy, Remerge (Atlanta, GA), or Urban Studies in cities like Chicago or Indianapolis and the Heart Institute in Florida. CMIN 3340, 4810, or 4860 will meet the experiential component of the liberal arts requirements for the Christian ministries major, the Christian ministries complementary major, and the youth ministries major. 
+The Christian ministries and youth ministries majors also offer experiential education in ministry, including internships (CMIN 2810,4810,4860) and experiential courses (CMIN 3340,4650,4910) offered in conjunction with agencies such as Intern Academy, Remerge (Atlanta, GA), or Urban Studies in cities like Chicago or Indianapolis and the Heart Institute in Florida. CMIN 3340,4810, or 4860 will meet the experiential component of the liberal arts requirements for the Christian ministries major, the Christian ministries complementary major, and the youth ministries major. 
 
 ## BACHELOR OF ARTS + MASTER OF DIVINITY 5-YEAR (4+1) DEGREES 
 
@@ -9966,37 +9582,13 @@ Anderson University Undergraduate Catalog 2025-26
 
 The Christian ministries major is designed to prepare students to serve as Christian leaders and servants in the world. It offers undergraduate study of ministry which may lead to: (1) lay ministry while pursuing another profession; (2) a position of leadership in ministry in a local congregation, a church-related organization, or a related field; or (3) graduate study in ministry. This major is intended to be a first step in a plan of lifelong learning for ministry. Courses in the Christian ministries major include biblical and theological studies as well as ministry courses involving skill development in core ministry tasks, the exploration of various ministry options, and supervised practical experience. 
 
-## CHRISTIAN MINISTRIES MAJOR  (46 hrs.) 
+## CHRISTIAN MINISTRIES MAJOR  (46 hours) 
 
 This major is designed for students desiring to enter ministry upon graduation, but who might choose to continue their studies later, and for students entering seminary immediately upon graduation. Courses in this major encourage ministry practice and informed reflection on that practice, giving students both depth and breadth of preparation. 
 
-- 18 hours from departmental core courses: BIBL 2000, 2050; RLGN 2000, 2130, 3040, 3060 
+- 18 hours from departmental core courses: BIBL 2000,2050; RLGN 2000,2130,3040,3060 
 
-- 15 hours from ministry core courses: CMIN 2000, 3050, 3080, 3910, 4250 
-
-- 4 hours selected from the following internship courses: 
-
-   - CMIN 4860 
-
-   - CMIN 3340 + CMIN 2810 
-
-   - MUSC 3800 + CMIN 2810 
-
-- 9 hours selected from the following: 
-
-   - BIBL, CMIN, PACT, PHIL, or RLGN captioned courses 
-
-   - MUSC 3150, 3160, or 3800 
-
-## YOUTH MINISTRIES MAJOR  (49 hrs.) 
-
-- 18 hours from departmental core courses: BIBL 2000, 2050; RLGN 2000, 2130, 3040, 3060 
-
-- 6 hours from ministry core courses: CMIN 2000, 4250 
-
-- 6 additional hours from ministry core courses: CMIN 3050, 3080, or 3910 
-
-- 6 hours from youth ministry courses: CMIN 2260, 3260 
+- 15 hours from ministry core courses: CMIN 2000,3050,3080,3910,4250 
 
 - 4 hours selected from the following internship courses: 
 
@@ -10010,15 +9602,39 @@ This major is designed for students desiring to enter ministry upon graduation, 
 
    - BIBL, CMIN, PACT, PHIL, or RLGN captioned courses 
 
-   - MUSC 3150, 3160, or 3800 
+   - MUSC 3150,3160, or 3800 
+
+## YOUTH MINISTRIES MAJOR  (49 hours) 
+
+- 18 hours from departmental core courses: BIBL 2000,2050; RLGN 2000,2130,3040,3060 
+
+- 6 hours from ministry core courses: CMIN 2000,4250 
+
+- 6 additional hours from ministry core courses: CMIN 3050,3080, or 3910 
+
+- 6 hours from youth ministry courses: CMIN 2260,3260 
+
+- 4 hours selected from the following internship courses: 
+
+   - CMIN 4860 
+
+   - CMIN 3340 + CMIN 2810 
+
+   - MUSC 3800 + CMIN 2810 
+
+- 9 hours selected from the following: 
+
+   - BIBL, CMIN, PACT, PHIL, or RLGN captioned courses 
+
+   - MUSC 3150,3160, or 3800 
 
 _The student may wish to join this major with the Youth Leadership Complementary Major (Psychology Dept.)._ 
 
-## MINISTRY STUDIES ONLINE MAJOR  (34 hrs.) 
+## MINISTRY STUDIES ONLINE MAJOR  (34 hours) 
 
 The major in Ministry Studies is an online major that is designed for either adult or traditional age students who are participants in formal residency-based partnerships. The major offers courses in biblical, theological, ethical, historical, and practical areas of ministry preparation and theological education. It will enable students to develop the foundational skills and knowledge needed for vocations in church ministry and other ministry contexts. The BA degree with a major in Ministry Studies requires the completion of the university’s Liberal Arts Core Requirements, which adult education students may take online as part of the total 120 credit hours that are required for the BA degree. 
 
-## Introductory Courses (9 hrs.) 
+## Introductory Courses (9 hours) 
 
 - BIBL 2000 - Introduction to the Bible (3) 
 
@@ -10026,7 +9642,7 @@ The major in Ministry Studies is an online major that is designed for either adu
 
 - RLGN 1100 - Introduction to Spiritual Formation (3) 
 
-## Experiential Ministry and Theology courses (10 hrs.) 
+## Experiential Ministry and Theology courses (10 hours) 
 
 - CMIN 4860 - Practicum in Ministry (4) 
 
@@ -10038,9 +9654,9 @@ Anderson University Undergraduate Catalog 2025-26
 
 171 
 
-One course from EACH of the following categories (15 hrs.) 
+One course from EACH of the following categories (15 hours) 
 
-- Biblical Studies (3 hrs.) 
+- Biblical Studies (3 hours) 
 
 o BIBL 2050 - Methods of Biblical Exegesis (3) 
 
@@ -10050,7 +9666,7 @@ o BIBL 2050 - Methods of Biblical Exegesis (3)
 
 o RLGN 2150 - Hermeneutics (3) 
 
-- Church History (3 hrs.) 
+- Church History (3 hours) 
 
    - HIST/RLGN 3060: History of Christianity (3) 
 
@@ -10058,13 +9674,13 @@ o RLGN 2150 - Hermeneutics (3)
 
 o RLGN 3300: Beginnings of Christianity (3) 
 
-- Christian Ethics (3 hrs.) 
+- Christian Ethics (3 hours) 
 
    - RLGN 2130 - Introduction to Christian Ethics (3) 
 
    - RLGN 3120 - Current Issues in Christian Ethics (3) 
 
-- Educational Ministry (3 hrs.) 
+- Educational Ministry (3 hours) 
 
    - CMIN 2260: Educational Ministry with Youth (3) 
 
@@ -10072,7 +9688,7 @@ o CMIN 3260: Leading, Teaching, and Discipling Youth (3)
 
 o CMIN 3910: Ministry Seminar (3) 
 
-- Practices of Ministry (3 hrs.) 
+- Practices of Ministry (3 hours) 
 
 o CMIN 2270: Faith and Worship (3) 
 
@@ -10082,23 +9698,23 @@ o CMIN 2270: Faith and Worship (3)
 
 ## COMPLEMENTARY MAJORS 
 
-## CHRISTIAN MINISTRIES COMPLEMENTARY MAJOR  (28 hrs.) 
+## CHRISTIAN MINISTRIES COMPLEMENTARY MAJOR  (28 hours) 
 
 The Christian ministries complementary major may be taken only in conjunction with another major. This approach strengthens students’ preparation for servanthood in today’s world by connecting theological, biblical, and ministerial knowledge with students’ bases of knowledge. It offers the opportunity to prepare for ministry while also preparing for another profession and gives students a broad base in preparation for graduate study in ministry. 
 
-- BIBL 2000, BIBL 2050; RLGN 2130, 3040, 3060 
+- BIBL 2000, BIBL 2050; RLGN 2130,3040,3060 
 
 - CMIN 2000 
 
-- 3 hours from CMIN 3050, 3080, or 3910 
+- 3 hours from CMIN 3050,3080, or 3910 
 
-- At least 1 hour from CMIN 2810, 4860 or 3340 
+- At least 1 hour from CMIN 2810,4860 or 3340 
 
 - 3 additional hours from CMIN-captioned courses 
 
 - 3 additional hours from upper-division courses offered by the department 
 
-## CHRISTIAN SPIRITUAL FORMATION COMPLEMENTARY MAJOR  (28-30 hrs.) 
+## CHRISTIAN SPIRITUAL FORMATION COMPLEMENTARY MAJOR  (28-30 hours) 
 
 This complementary major may be taken only in conjunction with another major. It is designed to aid students in becoming complete and mature disciples of Jesus Christ by integrating their Christian faith with academic knowledge from their particular major and from the field of Christian spirituality. The major will include questions of worldview, interdisciplinary approaches to Christian spirituality, and departmental offerings aimed towards developing a holistic understanding of God, the world, and self. Students will study the history, theology, and practices of major figures in Christian spirituality and how to apply that knowledge to serve as Christian leaders in their professional lives and in society-at-large. 
 
@@ -10110,7 +9726,7 @@ This complementary major may be taken only in conjunction with another major. It
 
    - RLGN 4960 
 
-- Three of the following interdisciplinary courses (7-9 hrs.): 
+- Three of the following interdisciplinary courses (7-9 hours): 
 
    - ENGL 2580 
 
@@ -10122,7 +9738,7 @@ This complementary major may be taken only in conjunction with another major. It
 
    - PSYC 3200 
 
-- One course from each of the following categories (12 hrs.): 
+- One course from each of the following categories (12 hours): 
 
    - Scripture : BIBL 2150 or BIBL/RLGN 3000 
 
@@ -10138,15 +9754,15 @@ Anderson University Undergraduate Catalog 2025-26
 
 ## MINORS 
 
-## BIBLICAL STUDIES MINOR  (15 hrs.) 
+## BIBLICAL STUDIES MINOR  (15 hours) 
 
-- BIBL 2000, 2050, RLGN 2150 
+- BIBL 2000,2050, RLGN 2150 
 
 - 6 hours from BIBL courses (Christian Ministry majors with this minor will need 9 hours of BIBL courses due to the requirement of 12 hours of unduplicated courses.) 
 
-BIBL 2110, 2120, 2210, 2220 may be applied toward the minor. 
+BIBL 2110,2120,2210,2220 may be applied toward the minor. 
 
-## CHRISTIAN MINISTRIES MINOR  (16 hrs.) 
+## CHRISTIAN MINISTRIES MINOR  (16 hours) 
 
 - CMIN 2000 
 
@@ -10156,7 +9772,7 @@ BIBL 2110, 2120, 2210, 2220 may be applied toward the minor.
 
 - 3 upper-division hours from additional courses offered by the department 
 
-## CHRISTIAN SPIRITUAL FORMATION MINOR  (15 hrs.) 
+## CHRISTIAN SPIRITUAL FORMATION MINOR  (15 hours) 
 
 The Christian Spiritual Formation (CSF) minor is designed for students who are interested in CSF but who are unable to take the CSF complementary major.  The CSF minor includes the three core courses of the complementary major, but it allows students to choose two courses that most interest them from the categories of Reason, Tradition, Scripture, and Experience. 
 
@@ -10172,7 +9788,7 @@ The Christian Spiritual Formation (CSF) minor is designed for students who are i
 
    - Experience : CMIN 3340; RLGN 3100 
 
-## ETHICS MINOR  (15 hrs.) 
+## ETHICS MINOR  (15 hours) 
 
 The ethics minor is designed to provide additional depth and strength in the critical study of moral and ethical deliberations and is particularly focused on continuing moral concerns facing humans, their institutions, and the wider creation. The ethics minor is designed to strengthen the knowledge base of departmental majors but may also complement the interests of students in other majors. 
 
@@ -10182,7 +9798,7 @@ The ethics minor is designed to provide additional depth and strength in the cri
 
 - COMM 3200 may be applied 
 
-## HISTORY OF CHRISTIANITY MINOR  (15 hrs.) 
+## HISTORY OF CHRISTIANITY MINOR  (15 hours) 
 
 The history of Christianity minor aims to provide further understanding and appreciation of the nature, role, and diversity of Christian experience throughout history as well as reflection on the role and ability of the church’s past to inform its present and future. This minor is intended to strengthen the historical and contextual understanding of departmental majors but may also be of interest to students in other majors. 
 
@@ -10190,15 +9806,15 @@ The history of Christianity minor aims to provide further understanding and appr
 
 - 3 courses from RLGN 2250, RLGN 2270, RLGN/HIST 3135, RLGN 3300, RLGN/HIST 3420 
 
-## PHILOSOPHY MINOR  (15 hrs.) 
+## PHILOSOPHY MINOR  (15 hours) 
 
 Courses in philosophy involve students in relative consideration of the nature of humanity, society, morality, religion, the arts, and the natural world. These courses contribute to the liberal arts education in two basic ways: they help students understand and assess beliefs that are integral to their views of human existence, and they are meant to enable students to acquire philosophical skills and materials that enrich and integrate the study of other disciplines. Essential to the success of each course is an atmosphere of openness to diverse viewpoints and a respect for the high standards of critical thinking. 
 
 - 15 hours from PHIL courses 
 
-## RELIGION MINOR  (15 hrs.) 
+## RELIGION MINOR  (15 hours) 
 
-- RLGN 2000, 3060, 3320 
+- RLGN 2000,3060,3320 
 
 - Remaining hours from RLGN-captioned courses not applied to liberal arts requirements. 
 
@@ -10208,261 +9824,245 @@ Anderson University Undergraduate Catalog 2025-26
 
 ## BIBL Courses 
 
-|2000 |Introduction to the Bible<br>3 hrs. (3, 0)|
+|2000 |Introduction to the Bible<br>3 hours (3,0)|
 |---|---|
 ||Historical and literary study of the Hebrew Bible and the New Testament as Scripture. Introductory|
 ||course surveying historical contexts, varieties of literature, and development and expression of|
 ||theology of these writings._Applies to the Biblical Literacy [AU Experience] component of the Liberal Arts_|
-||_Core Curriculum._ OFFERED:Sem. I, II.|
-|2050 |Methods in Biblical Exegesis<br>3 hrs. (3, 0)|
+||_Core Curriculum._ Offered:Semester I, II.|
+|2050 |Methods in Biblical Exegesis<br>3 hours (3,0)|
 ||Introduction to methods, resources, and practice of exegesis of both the Hebrew Bible and the New|
 ||Testament. Practical application of current exegetical methodologies to biblical texts. Biblical|
-||languages not required.EXPECTATION:ENGL 1120.PREREQUISITE:ENGL 1120, BIBL 2000.|
-||OFFERED: Sem I Online|
-|2110|Beginning Hebrew I<br>4 hrs. (4, 0)|
+||languages not required.Expectation:ENGL 1120.Prerequisite:ENGL 1120, BIBL 2000.|
+||Offered: Sem I Online|
+|2110|Beginning Hebrew I<br>4 hours (4,0)|
 ||Study of the basic principles of biblical Hebrew grammar and syntax, with reading and writing|
 ||exercises with an emphasis on understanding the culture of the text’s production and reception.|
-||Acquisition of a basic vocabulary of 150-200 words is expected.OFFERED:Sem I Online.|
-|2120|Beginning Hebrew II<br>4 hrs. (4, 0)|
+||Acquisition of a basic vocabulary of 150-200 words is expected.Offered:Sem I Online.|
+|2120|Beginning Hebrew II<br>4 hours (4,0)|
 ||Continuation of Beginning Hebrew I. Study of biblical Hebrew grammar and syntax, with reading and|
 ||translation of selected narrative passages and an emphasis on understanding the culture of the text’s|
 ||production and reception. Second-year Hebrew is strongly recommended after this course for facility in|
-||the Hebrew text of the Hebrew Bible.PREREQUISITE:BIBL 2110 or equivalent.OFFERED:Sem II Online.|
-|2150|Theological Interpretation of the Bible<br>3 hrs. (3, 0)|
+||the Hebrew text of the Hebrew Bible.Prerequisite:BIBL 2110 or equivalent.Offered:Sem II Online.|
+|2150|Theological Interpretation of the Bible<br>3 hours (3,0)|
 ||Study of the approach to biblical interpretation known as “theological interpretation,” including its|
 ||history and the context for its resurgence, major voices in its discourse, and refection on its|
-||contemporary practice.OFFERED:With suffcient demand.|
-|2210|Beginning Greek I<br>4 hrs. (4, 0)|
+||contemporary practice.Offered:With suffcient demand.|
+|2210|Beginning Greek I<br>4 hours (4,0)|
 ||Basic principles of grammar, with reading and writing exercises. Acquisition of basic vocabulary.|
 ||Reading in selected passages with an emphasis on understanding the culture of the text’s production|
-||and reception. Foundational for any further work in Greek (biblical or classical).OFFERED:With|
+||and reception. Foundational for any further work in Greek (biblical or classical).Offered:With|
 ||suffcient demand.|
-|2220 |Beginning Greek II<br>4 hrs. (4, 0)|
+|2220 |Beginning Greek II<br>4 hours (4,0)|
 ||Continuation of Beginning Greek I. Basic principles of grammar, with reading and writing exercises.|
 ||Acquisition of basic vocabulary. Reading in selected passages. Foundational for any further work in|
-||Greek (biblical or classical).PREREQUISITE:BIBL 2210 or equivalent.OFFERED:With suffcient demand.|
-|2900 |Honors Seminar<br>2-4 hrs. (arranged)|
-||CONSENT:Department chair.OFFERED:With suffcient demand.|
-|3000 |History of Biblical Interpretation<br>3 hrs. (3, 0)|
+||Greek (biblical or classical).Prerequisite:BIBL 2210 or equivalent.Offered:With suffcient demand.|
+|2900 |Honors Seminar<br>2-4 hours (arranged)|
+||Consent:Department chair.Offered:With suffcient demand.|
+|3000 |History of Biblical Interpretation<br>3 hours (3,0)|
 ||A historically based study of the ways in which Christians have interpreted the Bible. Considers the|
 ||diversity of Christian interpretation as well as the development of Christianity as the biblical text was|
-||interpreted over time.PREREQUISITE:BIBL 2000; upper-division standing.SAME AS:RLGN 3000.|
-||OFFERED:With suffcient demand.|
-|3110|Intermediate Hebrew<br>3 hrs. (3, 0)|
+||interpreted over time.Prerequisite:BIBL 2000; upper-division standing.SAME AS:RLGN 3000.|
+||Offered:With suffcient demand.|
+|3110|Intermediate Hebrew<br>3 hours (3,0)|
 ||Consists of reading selected passages of the Hebrew Bible for the purpose of acquiring a large|
-||vocabulary and general facility in interpretation of Hebrew texts.PREREQUISITE:BIBL 2120.|
-||OFFERED:With suffcient demand.|
-|3120|Hebrew Exegesis<br>3 hrs. (3, 0)|
+||vocabulary and general facility in interpretation of Hebrew texts.Prerequisite:BIBL 2120.|
+||Offered:With suffcient demand.|
+|3120|Hebrew Exegesis<br>3 hours (3,0)|
 ||Continuation of reading of selected passages of the Hebrew Bible, with special attention given to|
 ||exegesis. The student will also research and write a major exegetical study of a Hebrew Bible passage,|
-||based on the Hebrew text.PREREQUISITE:BIBL 3110.OFFERED:With suffcient demand.|
-|3210|Advanced Greek I<br>3 hrs. (3, 0)|
+||based on the Hebrew text.Prerequisite:BIBL 3110.Offered:With suffcient demand.|
+|3210|Advanced Greek I<br>3 hours (3,0)|
 ||Translation of New Testament and other selected Hellenistic texts. Emphasis on grammar review and|
-||study of syntax to introduce students to basic principles of exegesis.PREREQUISITE:BIBL 2220.|
-||OFFERED:Sem. I (with suffcient demand).|
-|3220 |Advanced Greek II<br>3 hrs. (3, 0)|
+||study of syntax to introduce students to basic principles of exegesis.Prerequisite:BIBL 2220.|
+||Offered:Semester I (with suffcient demand).|
+|3220 |Advanced Greek II<br>3 hours (3,0)|
 ||Continuation of BIBL 3210. Translation of New Testament and Hellenistic texts. May also include Greek|
 ||texts from the classical period. Emphasis on more extensive application of principles of exegesis.|
-||PREREQUISITE:BIBL 3210.OFFERED:Sem. II (with suffcient demand).|
-
-
+||Prerequisite:BIBL 3210.Offered:Semester II (with suffcient demand).|
 
 Anderson University Undergraduate Catalog 2025-26 
 
 174 
 
-## BIBL (cont.) 
-
 |IBL (c|ont.)|ont.)||
 |---|---|---|---|
-|3310|Archaeological History of the Ancient Near East||3 hrs. (3, 0)|
+|3310|Archaeological History of the Ancient Near East||3 hours (3,0)|
 ||Principles, problems, and contributions of archaeology|as related to ancient civilizations from Sumer to||
 ||fall of Rome._Applies to the Global Ways of Knowing [AU_|_Experience] component of theLiberal Arts Core_||
-||_Curriculum._ OFFERED:With suffcient demand.|||
-|334x |The Gospels||3 hrs. (3, 0)|
+||_Curriculum._ Offered:With suffcient demand.|||
+|334x |The Gospels||3 hours (3,0)|
 ||Study of the background of the Gospels and current exegesis of specifc Gospels, rotating among the|||
-||individual synoptic Gospels and the Gospel of John.PREREQUISITE:BIBL 2000.REPEAT:May be|||
+||individual synoptic Gospels and the Gospel of John.Prerequisite:BIBL 2000.Repeat:May be|||
 ||repeated under a different number.|||
-||3341  Matthew|3 hrs. (3, 0)||
-||3342  Mark|3 hrs. (3, 0)||
-||3344  John|3 hrs. (3, 0)||
-||3345  Luke|3 hrs. (3, 0)||
-|335x |Pauline Letters||3 hrs. (3, 0)|
+||3341  Matthew|3 hours (3,0)||
+||3342  Mark|3 hours (3,0)||
+||3344  John|3 hours (3,0)||
+||3345  Luke|3 hours (3,0)||
+|335x |Pauline Letters||3 hours (3,0)|
 ||Study of the background, purpose, content, teachings, and exegesis of individual letters or meaningful|||
-||clusters of letters.PREREQUISITE:BIBL 2000.REPEAT:May be repeated under a different number.|||
-||3351  Romans|3 hrs. (3, 0)||
-||3352  I/II Corinthians|3 hrs. (3, 0)||
-||3353  I/II Thessalonians|3 hrs. (3, 0)||
-||3354  Galatians|3 hrs. (3, 0)||
-||3355  Prison Letters|3 hrs. (3, 0)||
-||3356  Pastorals|3 hrs. (3, 0)||
-|336x |General Writings||3 hrs. (3, 0)|
+||clusters of letters.Prerequisite:BIBL 2000.Repeat:May be repeated under a different number.|||
+||3351  Romans|3 hours (3,0)||
+||3352  I/II Corinthians|3 hours (3,0)||
+||3353  I/II Thessalonians|3 hours (3,0)||
+||3354  Galatians|3 hours (3,0)||
+||3355  Prison Letters|3 hours (3,0)||
+||3356  Pastorals|3 hours (3,0)||
+|336x |General Writings||3 hours (3,0)|
 ||Study of the New Testament writings including the general letters and Acts, exploring the background,|||
-||purpose, and current exegesis of single books or meaningful clusters.PREREQUISITE:BIBL 2000.|||
-||REPEAT:May be repeated under a different number.|||
-||3361  James/Peter/Jude|3 hrs. (3, 0)||
-||3362  Acts of the Apostles|3 hrs. (3, 0)||
-||3363  Hebrews|3 hrs. (3, 0)||
-||3364  Johannine Literature|3 hrs. (3, 0)||
-|337x |The Pentateuch||3 hrs. (3, 0)|
+||purpose, and current exegesis of single books or meaningful clusters.Prerequisite:BIBL 2000.|||
+||Repeat:May be repeated under a different number.|||
+||3361  James/Peter/Jude|3 hours (3,0)||
+||3362  Acts of the Apostles|3 hours (3,0)||
+||3363  Hebrews|3 hours (3,0)||
+||3364  Johannine Literature|3 hours (3,0)||
+|337x |The Pentateuch||3 hours (3,0)|
 ||Study of the books of the Pentateuch in terms of the background, setting, formation, and current|||
-||exegesis of the individual books or as a meaningful cluster.PREREQUISITE:BIBL 2000.REPEAT:May|||
+||exegesis of the individual books or as a meaningful cluster.Prerequisite:BIBL 2000.Repeat:May|||
 ||be repeated under a different number.|||
-||3371  Genesis|3 hrs. (3, 0)||
-||3372  Exodus|3 hrs. (3, 0)||
-||3373  Deuteronomy|3 hrs. (3, 0)||
-|338x |Former and Latter Prophets||3 hrs. (3, 0)|
+||3371  Genesis|3 hours (3,0)||
+||3372  Exodus|3 hours (3,0)||
+||3373  Deuteronomy|3 hours (3,0)||
+|338x |Former and Latter Prophets||3 hours (3,0)|
 ||Rise, development, and signifcance of prophecy in the|Hebrew Bible with study of individual prophetic||
 ||books or meaningful clusters of books regarding background, purpose, and current exegesis.|||
-||PREREQUISITE:BIBL 2000.REPEAT:May be repeated|under a different number.||
-||3381  Isaiah/Jeremiah/Ezekiel|3 hrs. (3, 0)||
-||3382  Hosea/Amos|3 hrs. (3, 0)||
-||3383  Former Prophets: 1-2 Kings|3 hrs. (3, 0)||
-||3384  Isaiah|3 hrs. (3, 0)||
-||3385  Former Prophets: 1-2 Samuel|3 hrs. (3, 0)||
-||3386  Former Prophets: Joshua/Judges|3 hrs. (3, 0)||
-|339x |Hebrew Bible Writings||3 hrs. (3, 0)|
+||Prerequisite:BIBL 2000.Repeat:May be repeated|under a different number.||
+||3381  Isaiah/Jeremiah/Ezekiel|3 hours (3,0)||
+||3382  Hosea/Amos|3 hours (3,0)||
+||3383  Former Prophets: 1-2 Kings|3 hours (3,0)||
+||3384  Isaiah|3 hours (3,0)||
+||3385  Former Prophets: 1-2 Samuel|3 hours (3,0)||
+||3386  Former Prophets: Joshua/Judges|3 hours (3,0)||
+|339x |Hebrew Bible Writings||3 hours (3,0)|
 
+Study of the writings section of the Hebrew Bible examining individual books or meaningful clusters regarding background, purpose, content, and interpretation. Prerequisite: BIBL 2000. Repeat: May be repeated under a different number. 
 
-
-Study of the writings section of the Hebrew Bible examining individual books or meaningful clusters regarding background, purpose, content, and interpretation. PREREQUISITE: BIBL 2000. REPEAT: May be repeated under a different number. 
-
-|3391|Psalms|3 hrs. (3, 0)|
+|3391|Psalms|3 hours (3,0)|
 |---|---|---|
-|3392|Wisdom Literature|3 hrs. (3, 0)|
-|3393|Ecclesiastes|3 hrs. (3, 0)|
-|3394|Esther/Daniel|3 hrs. (3, 0)|
-|3395|Ezra/Nehemiah|3 hrs. (3, 0)|
-
-
+|3392|Wisdom Literature|3 hours (3,0)|
+|3393|Ecclesiastes|3 hours (3,0)|
+|3394|Esther/Daniel|3 hours (3,0)|
+|3395|Ezra/Nehemiah|3 hours (3,0)|
 
 Anderson University Undergraduate Catalog 2025-26 
 
 175 
 
-## BIBL (cont.) 
-
 |BIBL (c|ont.)||
 |---|---|---|
-|3410|Images of Jesus Then and Now|3 hrs. (3, 0)|
+|3410|Images of Jesus Then and Now|3 hours (3,0)|
 ||An examination of the New Testament’s images of Jesus and their transformations in different cultures.||
 ||Emphasis on how different images of Jesus entail corresponding lifestyles and worldviews.||
 ||Comparisons of images of Jesus with selected focal images from other religions (such as Allah or the||
 ||Tao) show the images’ structural importance for religious systems and cultures._Applies to the Christian_||
-||_Ways of Knowing [AU Experience] component of theLiberal Arts Core Curriculum._ PREREQUISITE:BIBL||
-||2000; upper-division standing.OFFERED:Sem. I, II.||
-|3420 |New Testament Ethics|3 hrs. (3, 0)|
+||_Ways of Knowing [AU Experience] component of theLiberal Arts Core Curriculum._ Prerequisite:BIBL||
+||2000; upper-division standing.Offered:Semester I, II.||
+|3420 |New Testament Ethics|3 hours (3,0)|
 ||Exegetical study of the ethical teachings of Jesus and Paul. Secondary emphasis on the Johannine||
 ||writings. An overview of the major ethical systems (such as Deontology and Consequentialism),||
 ||discussions of moral issues (such as abortion), and an examination of how the teachings of the New||
-||Testament, and of the Bible in general, have been used in making moral decisions.PREREQUISITE:||
-||BIBL 2000.OFFERED:With suffcient demand.||
-|3520 |Apocalyptic Literature|3 hrs. (3, 0)|
+||Testament, and of the Bible in general, have been used in making moral decisions.Prerequisite:||
+||BIBL 2000.Offered:With suffcient demand.||
+|3520 |Apocalyptic Literature|3 hours (3,0)|
 ||An examination of the nature and purpose of Judeo-Christian writings of the apocalyptic genre from||
 ||the perspectives of scholarly exegesis of selected apocalyptic passages from the Hebrew Bible||
 ||(Daniel), the Apocrypha, the Pseudepigrapha, and the New Testament. Particular emphasis on the||
-||Apocalypse of John.PREREQUISITE:BIBL 2000, 2050.OFFERED:With suffcient demand.||
-|3900 |Honors Seminar<br>2-4|hrs. (arranged)|
-||CONSENT:Department chair.OFFERED:With suffcient demand.||
-|4650 |Independent Study<br>2-4|hrs. (arranged)|
-||Individual study, investigation, research, or project.CONSENT:Department chair.<br>REPEAT:May be repeated.||
-|4900 |Honors Seminar<br>2-4|hrs. (arranged)|
-||CONSENT:Department chair.OFFERED:With suffcient demand.||
-|4910|Seminar<br>1-4|hrs. (arranged)|
-||Special areas of study and research in Old and New Testaments.PREREQUISITE:BIBL 2000.||
-||REPEAT: May be taken twice under a different topic.OFFERED:With suffcient demand.||
+||Apocalypse of John.Prerequisite:BIBL 2000,2050.Offered:With suffcient demand.||
+|3900 |Honors Seminar<br>2-4|hours (arranged)|
+||Consent:Department chair.Offered:With suffcient demand.||
+|4650 |Independent Study<br>2-4|hours (arranged)|
+||Individual study, investigation, research, or project.Consent:Department chair.<br>Repeat:May be repeated.||
+|4900 |Honors Seminar<br>2-4|hours (arranged)|
+||Consent:Department chair.Offered:With suffcient demand.||
+|4910|Seminar<br>1-4|hours (arranged)|
+||Special areas of study and research in Old and New Testaments.Prerequisite:BIBL 2000.||
+||Repeat: May be taken twice under a different topic.Offered:With suffcient demand.||
 |CMIN Courses|||
-|2000 |Introduction to Christian Ministry|3 hrs. (3, 0)|
+|2000 |Introduction to Christian Ministry|3 hours (3,0)|
 ||Entry-level course for students interested in ministry. Focuses on competency in ministry practices||
-||and theological perspectives on ministry.OFFERED:Sem. I.||
-|2260 |Educational Ministry with Youth|3 hrs. (3, 0)|
+||and theological perspectives on ministry.Offered:Semester I.||
+|2260 |Educational Ministry with Youth|3 hours (3,0)|
 ||Approaches to planning and leading youth ministry in the local church. Focus on teaching/learning||
 ||biblical, theological, and skill foundations for youth ministry that encourage adolescent faith||
-||formation.OFFERED:2026-27.||
-|2270 |Faith and Worship|3 hrs. (3, 0)|
+||formation.Offered:2026-27.||
+|2270 |Faith and Worship|3 hours (3,0)|
 ||Understanding Christian worship through consideration of its biblical and historical backgrounds and||
 ||through observation of its current practice. Experience in planning and conducting worship in a variety||
-||of settings.OFFERED:Sem II, 2025-26.||
-|2810|Ministry Exploration|1 hr. (arranged)|
+||of settings.Offered:Sem II, 2025-26.||
+|2810|Ministry Exploration|1 hour (arranged)|
 ||Students will complete in-service ministry exploration in conjunction with a designated supervisor in||
-||an approved ministry setting.CONSENT:Consent of the instructor.GRADE:CR/NC.OFFERED:Sem. I,||
+||an approved ministry setting.Consent:Consent of the instructor.Grade:CR/NC.Offered:Semester I,||
 ||II; Summer.||
-|2900 |Honors Seminar<br>2-4|hrs. (arranged)|
-||CONSENT:Department chair.OFFERED:With suffcient demand.||
-|3050 |Homiletics|3 hrs. (3, 0)|
+|2900 |Honors Seminar<br>2-4|hours (arranged)|
+||Consent:Department chair.Offered:With suffcient demand.||
+|3050 |Homiletics|3 hours (3,0)|
 ||A study of the preparation and delivery of sermons, contemporary methods of sermon building, and||
-||the spiritual formation of the preacher.PREREQUISITE:BIBL 2000, CMIN 2000.SAME AS:PAST 5500.||
-||OFFERED:Sem. II Online.||
-|3080 |Pastoral Care and Counseling|3 hrs. (3, 0)|
+||the spiritual formation of the preacher.Prerequisite:BIBL 2000, CMIN 2000.SAME AS:PAST 5500.||
+||Offered:Semester II Online.||
+|3080 |Pastoral Care and Counseling|3 hours (3,0)|
 ||A foundational pastoral care course exploring the multi-faceted dimensions of pastoral ministry in||
 ||building healthy faith communities, caring for people in need, and leading a ministry of reconciliation.||
-||PREREQUISITE:CMIN 2000.SAME AS:PAST 6370.OFFERED:Sem. I.||
-
-
+||Prerequisite:CMIN 2000.SAME AS:PAST 6370.Offered:Semester I.||
 
 Anderson University Undergraduate Catalog 2025-26 
 
 176 
 
-## CMIN (cont.) 
-
 |MIN (|cont.)|
 |---|---|
-|3260 |Leading, Teaching, and Discipling Youth<br>3 hrs. (3, 0)|
+|3260 |Leading, Teaching, and Discipling Youth<br>3 hours (3,0)|
 ||Explores the foundations and praxis of evangelism, discipleship, and leadership in the context of|
 ||youth ministry. Includes attention to adolescent development and materials and methods for|
-||teaching-learning with youth.SAME AS:PAST 6160.OFFERED:2026-27.|
-|3340 |The Community of Faith in an Urban Culture<br>3 hrs. (3, 0)|
+||teaching-learning with youth.SAME AS:PAST 6160.Offered:2026-27.|
+|3340 |The Community of Faith in an Urban Culture<br>3 hours (3,0)|
 ||This course is taught in the context of a city experience — some years within the US and other years|
 ||overseas. Students experience frsthand the church’s response to traffcking, homelessness, hunger,|
-||drug addiction, racism, unemployment, etc.CONSENT:Instructor.GRADE:CR/NC.SAME AS:INTS|
-||6010.OFFERED:Sem. I & II Online; Summer in person with travel to Atlanta.|
-|3900 |Honors Seminar<br>2-4 hrs. (arranged)|
-||CONSENT:Department chair.OFFERED:With suffcient demand.|
-|3910|Ministry Seminar<br>3 hrs. (3, 0)|
+||drug addiction, racism, unemployment, etc.Consent:Instructor.Grade:CR/NC.SAME AS:INTS|
+||6010.Offered:Semester I & II Online; Summer in person with travel to Atlanta.|
+|3900 |Honors Seminar<br>2-4 hours (arranged)|
+||Consent:Department chair.Offered:With suffcient demand.|
+|3910|Ministry Seminar<br>3 hours (3,0)|
 ||Addresses issues important to ministry in multiple settings. A variety of ministry practices become the|
 ||means by which to explore the many dimensions of the focal issue(s). Topics include hunger and|
 ||poverty, justice and reconciliation, life commitments and transitions, leadership and organizational life,|
-||and loss, illness, and end of life.PREREQUISITE:CMIN 2000; BIBL 2000.REPEAT:May be repeated as|
-||long as the topic is different (total credit not to exceed 6 hours).OFFERED:Sem. I.|
-|4250 |Theology in a Ministry Context<br>3 hrs. (3, 0)|
+||and loss, illness, and end of life.Prerequisite:CMIN 2000; BIBL 2000.Repeat:May be repeated as|
+||long as the topic is different (total credit not to exceed 6 hours).Offered:Semester I.|
+|4250 |Theology in a Ministry Context<br>3 hours (3,0)|
 ||In this capstone course required for Christian Ministries and Youth Ministries majors, students draw|
 ||upon methods of congregational study, practical theology, and ministry experience to identify and|
 ||address selected issues within a particular congregation. Includes written and oral presentations of|
-||ministry-related research.EXPECTATION:Completion of all internship hours and CMIN-captioned|
-||courses required by one’s major.PREREQUISITE:CMIN 4810.OFFERED:Sem. II.|
-|4650 |Independent Study<br>1-4 hrs. (arranged)|
-||Individualized study, investigation, research, or project.CONSENT:Department chair.|
-|4810|Internship<br>1-4 hrs. (arranged)|
+||ministry-related research.Expectation:Completion of all internship hours and CMIN-captioned|
+||courses required by one’s major.Prerequisite:CMIN 4810.Offered:Semester II.|
+|4650 |Independent Study<br>1-4 hours (arranged)|
+||Individualized study, investigation, research, or project.Consent:Department chair.|
+|4810|Internship<br>1-4 hours (arranged)|
 ||Students will complete in-service ministry training in conjunction with a designated supervisor in|
 ||an approved ministry setting. The internship may be summer placement or concurrent part-time|
-||placement during the school year.CONSENT:Instructor.PREREQUISITE:CMIN 2000.REPEAT:|
-||May be repeated.GRADE:CR/NC.SAME AS:THFE 7810.OFFERED:Sem. I, II, Summer.|
-|4860 |Practicum in Ministry<br>1-4 hrs. (arranged)|
+||placement during the school year.Consent:Instructor.Prerequisite:CMIN 2000.Repeat:|
+||May be repeated.Grade:CR/NC.SAME AS:THFE 7810.Offered:Semester I, II, Summer.|
+|4860 |Practicum in Ministry<br>1-4 hours (arranged)|
 ||Field education experience involving intentional refection on and review of one’s ministry practice.|
 ||Requires the instructor’s prior approval of a site and site supervisor. To be completed within no|
-||more than two academic terms.  CONSENT: Instructor. PREREQUISITE: CMIN 2000. REPEAT: May|
-||be repeated. GRADE: CR/NC. OFFERED: Sem. I, II, Summer.|
-|4900 |Honors Seminar<br>2-4 hrs. (arranged)|
-||CONSENT:Department chair.OFFERED:With suffcient demand.|
+||more than two academic terms.  Consent: Instructor. Prerequisite: CMIN 2000. Repeat: May|
+||be repeated. Grade: CR/NC. Offered: Semester I, II, Summer.|
+|4900 |Honors Seminar<br>2-4 hours (arranged)|
+||Consent:Department chair.Offered:With suffcient demand.|
 |HIL Courses||
-|2000 |Introduction to Philosophy<br>3 hrs. (3, 0)|
+|2000 |Introduction to Philosophy<br>3 hours (3,0)|
 ||An introduction to the important questions, ideas, and fgures in the Western philosophical tradition|
-||from both topical and historical perspectives.OFFERED:2026-27.|
-|2120|Ethics<br>3 hrs. (3, 0)|
+||from both topical and historical perspectives.Offered:2026-27.|
+|2120|Ethics<br>3 hours (3,0)|
 ||Classical and contemporary considerations of moral issues and nature and status of ethical theory.|
 ||_Applies to the Civil Discourse & Confict Transformation [AU Experience] component of theLiberal Arts_|
-||_Core Curriculum._ OFFERED:Sem. I, 2025-26.|
-|2240 |Contemporary Philosophy<br>4 hrs. (4, 0)|
-||Twentieth-century philosophical movements and philosophers from Sartre to Wittgenstein.OFFERED:|
+||_Core Curriculum._ Offered:Semester I, 2025-26.|
+|2240 |Contemporary Philosophy<br>4 hours (4,0)|
+||Twentieth-century philosophical movements and philosophers from Sartre to Wittgenstein.Offered:|
 ||With suffcient demand.|
-|3010|History of Political Thought<br>3 hrs. (3, 0)|
+|3010|History of Political Thought<br>3 hours (3,0)|
 ||Examination of major works in the development of political thought from ancient Greece through the|
 ||20th century. Theorists studied include Plato, Aristotle, Machiavelli, Hobbes, Locke, Rousseau, and Mill.|
 ||Particular emphasis is placed on the practical consequences of ideas for leaders in politics and society.|
-||PREREQUISITE:Sophomore standing.SAME AS:HIST/POSC 3010.OFFERED:Sem. II 2025-26.|
-
-
+||Prerequisite:Sophomore standing.SAME AS:HIST/POSC 3010.Offered:Semester II 2025-26.|
 
 PHIL Courses 
 
@@ -10470,88 +10070,82 @@ Anderson University Undergraduate Catalog 2025-26
 
 177 
 
-## PHIL (cont.) 
-
-|3200 |Nineteenth-Century Philosophy<br>3 hrs. (3, 0)|
+|3200 |Nineteenth-Century Philosophy<br>3 hours (3,0)|
 |---|---|
 ||Particular emphasis on Kant, rise of German Idealism, and dominant fgures through Nietzsche.|
-||OFFERED:With suffcient demand.|
-|3250 |Ethics and Morality for Professionals<br>3 hrs. (3, 0)|
+||Offered:With suffcient demand.|
+|3250 |Ethics and Morality for Professionals<br>3 hours (3,0)|
 ||An introduction to Western ethical traditions and particularly to critical thinking about moral experience|
 ||within Christianity. From classical perspectives in Christian ethics, students will practice using resources|
 ||(such as the Bible) to develop their own ethical code, system of values, and constructive approaches by|
 ||which they would resolve ethical dilemmas and conficts. Special focus on teaching moral reasoning as a|
 ||skill for professionals, particularly for Christian leaders, to resolve moral dilemmas in society and in|
 ||organizations (both the proft and not-for-proft sectors)._Applies to the Civil Discourse & Confict_|
-||_Transformation [AU Experience] component of the Liberal Arts Core Curriculum._ PREREQUISITE:|
-||Upper-division standing.SAME AS:RLGN 3250.OFFERED:Sem. I.|
-|4910|Seminar<br>3 hrs. (3, 0)|
-||Selected philosophers and philosophical problems.REPEAT:May be taken twice with different topics.|
-||OFFERED:With suffcient demand.|
+||_Transformation [AU Experience] component of the Liberal Arts Core Curriculum._ Prerequisite:|
+||Upper-division standing.SAME AS:RLGN 3250.Offered:Semester I.|
+|4910|Seminar<br>3 hours (3,0)|
+||Selected philosophers and philosophical problems.Repeat:May be taken twice with different topics.|
+||Offered:With suffcient demand.|
 |RLGN Courses||
-|1100|Introduction to Spiritual Formation<br>3 hrs. (3, 0)|
+|1100|Introduction to Spiritual Formation<br>3 hours (3,0)|
 ||Study of the history, theology, and practice of spiritual formation. Combines traditional academic study|
 ||with practical experiences of spiritual formation. Introductory course for the Christian Spiritual|
 ||Formation complementary major._Applies to the Personal Wellness [AU Experience] component of the_|
-||_Liberal Arts Core Curriculum._ OFFERED:Sem. I, II.|
-|2000 |Introduction to Religion<br>3 hrs. (3, 0)|
+||_Liberal Arts Core Curriculum._ Offered:Semester I, II.|
+|2000 |Introduction to Religion<br>3 hours (3,0)|
 ||Introduction to the nature of religion as it is understood critically in contemporary thought. Viewpoints,|
 ||including historical, anthropological, sociological, psychological, philosophical, and phenomenological|
 ||studies of religion, will be surveyed. Brief introduction to the history of the study of religion is included.|
-||OFFERED:2026-27.|
-|2130|Introduction to Christian Ethics<br>3 hrs. (3, 0)|
+||Offered:2026-27.|
+|2130|Introduction to Christian Ethics<br>3 hours (3,0)|
 ||Introduction to the nature, sources, and diversity of Christian ethics understood as the deliberate|
 ||refection on the Christian moral life. Particular attention given to how Jesus and the church as a moral|
 ||community of faith provide basic guidance in forming individuals capable of determining questions of|
-||right and wrong, good and evil.PREREQUISITE:BIBL 2000.OFFERED:2026-27.|
-|2150|Hermeneutics: The Practice of Interpreting<br>3 hrs. (3, 0)|
+||right and wrong, good and evil.Prerequisite:BIBL 2000.Offered:2026-27.|
+|2150|Hermeneutics: The Practice of Interpreting<br>3 hours (3,0)|
 ||Sustained refection on the practice of interpreting, understood to be a necessary activity in all of|
 ||human life. Primary attention is given to the art of interpreting texts — including biblical texts as well|
 ||as those of theology, philosophy, ethics, history, and others, both ancient and contemporary.|
-||PREREQUISITE:BIBL 2000.OFFERED:With suffcient demand.|
-|2270 |Church of God Heritage<br>4 hrs. (4, 0)|
+||Prerequisite:BIBL 2000.Offered:With suffcient demand.|
+|2270 |Church of God Heritage<br>4 hours (4,0)|
 ||Sociohistorical treatment of the Church of God (Anderson, Ind.). Emphasis on dynamic factors|
-||infuencing direction of change.PREREQUISITE:BIBL 2000.SAME AS:CHIS 6010.OFFERED:Sem I.|
-|2310|Faith, Fantasy, and Christian Formation<br>3 hrs. (3, 0)|
+||infuencing direction of change.Prerequisite:BIBL 2000.SAME AS:CHIS 6010.Offered:Sem I.|
+|2310|Faith, Fantasy, and Christian Formation<br>3 hours (3,0)|
 ||Explores how literature, such as The Chronicles of Narnia and The Lord of the Rings, helps to stir our|
 ||imagination, shape our faith, and form our lives to make a lasting difference in this world. Examines|
 ||both the fction and friendship of C.S. Lewis and J.R.R. Tolkien to discover how faith is formed in the|
-||matrix of the stories that shape our lives.OFFERED:With suffcient demand.|
-|2410|Where am I? Faith and Cosmology<br>3 hrs. (3, 0)|
+||matrix of the stories that shape our lives.Offered:With suffcient demand.|
+|2410|Where am I? Faith and Cosmology<br>3 hours (3,0)|
 ||Explores the development of cosmologies in the Western world from early Egyptian and Greek|
 ||cosmologies to the modern scientifc ones of Newton and Einstein. A comparison of these cosmologies|
 ||with foundational themes in Jewish and Christian cosmology. Students will assess their own worldview,|
-||noting how their views lay the ground-work for their Christian spiritual formation.OFFERED:With|
+||noting how their views lay the ground-work for their Christian spiritual formation.Offered:With|
 ||suffcient demand.|
-|2430 |Who am I? Theological Anthropology<br>3 hrs. (3, 0)|
+|2430 |Who am I? Theological Anthropology<br>3 hours (3,0)|
 ||Study of theological anthropology from a biblical and historical perspective. Students will analyze|
 ||their own understanding of what it means to be human and the theological vision that underlies their|
 ||functional anthropology. Focus on the infuence of theological understanding of the self as it relates to|
-||the worldview question: Who are we?OFFERED:With suffcient demand.|
-|2900 |Honors Seminar<br>2-4 hrs. (arranged)|
-||CONSENT:Department chair.OFFERED:With suffcient demand.|
-
-
+||the worldview question: Who are we?Offered:With suffcient demand.|
+|2900 |Honors Seminar<br>2-4 hours (arranged)|
+||Consent:Department chair.Offered:With suffcient demand.|
 
 Anderson University Undergraduate Catalog 2025-26 
 
 178 
 
-## RLGN (cont.) 
-
 |LGN (|cont.)||
 |---|---|---|
-|3000 |History of Biblical Interpretation|3 hrs. (3, 0)|
+|3000 |History of Biblical Interpretation|3 hours (3,0)|
 ||Historically based study of the ways in which Christians have interpreted the Bible. Considers the||
 ||diversity of Christian interpretation as well as the development of Christianity as the biblical text was||
-||interpreted over time.PREREQUISITE:BIBL 2000; upper-division standing.SAME AS:BIBL 3000.||
-||OFFERED:With suffcient demand.||
-|3010|Faith in Context|3 hrs. (3, 0)|
+||interpreted over time.Prerequisite:BIBL 2000; upper-division standing.SAME AS:BIBL 3000.||
+||Offered:With suffcient demand.||
+|3010|Faith in Context|3 hours (3,0)|
 ||Faith always emerges in multiple contexts, including cultural, developmental, and religious. Students||
 ||will examine personal experiences with faith, the faith experiences of their families of origin, and||
 ||contemporary North American expressions of popular religion and spirituality._Applies to the Christian_||
-||_Ways of Knowing [AU Experience] component of theLiberal Arts Core Curriculum._ OFFERED:Sem. I, II.||
-|3020 |Christianity and Social Justice|3 hrs. (3, 0)|
+||_Ways of Knowing [AU Experience] component of theLiberal Arts Core Curriculum._ Offered:Semester I, II.||
+|3020 |Christianity and Social Justice|3 hours (3,0)|
 ||The call to “do justice, love mercy, and walk humbly with your God” is deeply rooted in Christian faith.||
 ||Just what this element of Christian commitment means in lived experience, however, is neither||
 ||consistently interpreted nor universally applied. Affords students the opportunity to explore in some||
@@ -10561,38 +10155,38 @@ Anderson University Undergraduate Catalog 2025-26
 ||Christian tradition have understood the relationship between faith and social justice. The goal of the||
 ||course is to introduce students to the complexities of each social justice issue, to encourage them to||
 ||consider ways in which Christian faith commitments intersect with concerns about the issue, and to||
-||prompt them to develop a lifelong engagement with these concerns.OFFERED:With suffcient||
+||prompt them to develop a lifelong engagement with these concerns.Offered:With suffcient||
 ||demand.||
-|3040 |Introduction to Christian Theology|3 hrs. (3, 0)|
+|3040 |Introduction to Christian Theology|3 hours (3,0)|
 ||Beginnings in theology: province and methods of theology, doctrines of God, human nature, Christ,||
-||the church, and eschatology.PREREQUISITE:BIBL 2000.OFFERED:Sem II.||
-|3060 |History of Christianity|3 hrs. (3, 0)|
+||the church, and eschatology.Prerequisite:BIBL 2000.Offered:Sem II.||
+|3060 |History of Christianity|3 hours (3,0)|
 ||Comprehensive survey of the history of Christianity. An effort is made to trace main lines of||
 ||development and to understand them in light of their inner dynamics and general environment.||
-||SAME AS:HIST 3060.OFFERED:Sem. I.||
-|3100|Christian Understandings of Human Experience|3 hrs. (3, 0)|
+||SAME AS:HIST 3060.Offered:Semester I.||
+|3100|Christian Understandings of Human Experience|3 hours (3,0)|
 ||Investigation of perennial human experiences of intimacy, spirit, community, hope, revelation, and||
 ||search for truth and reconciliation. Acquaints students with biblical-Christian interpretation of these||
-||experiences.PREREQUISITE:Upper-division standing.OFFERED:With suffcient demand.||
-|3120|Current Issues in Christian Ethics|3 hrs. (3, 0)|
+||experiences.Prerequisite:Upper-division standing.Offered:With suffcient demand.||
+|3120|Current Issues in Christian Ethics|3 hours (3,0)|
 ||A critical examination of Christian refections and decision-making on moral and ethical issues in||
 ||contemporary life. “Christian,” as used in this course, seeks particularly to take Jesus and the church||
 ||seriously in defning, describing, and illuminating the nature and content of moral issues. The course||
 ||examines varying approaches to Christian moral decision-making, with a view to shaping sound||
 ||responses to several current moral issues confronting human beings and creation._Applies to the Civil_||
 ||_Discourse & Confict Transformation [AU Experience] component of the Liberal Arts Core Curriculum._||
-||OFFERED:With suffcient demand.||
-|3135|Medievalism and Reform: Europe from Charlemagne to Luther|3 hrs. (3, 0)|
+||Offered:With suffcient demand.||
+|3135|Medievalism and Reform: Europe from Charlemagne to Luther|3 hours (3,0)|
 ||European civilization beginning with the medieval recovery from Rome’s collapse to the Reformation||
 ||and the age of religious wars. Treating the millennium between the Carolingian monarchs and the age||
 ||of the great reformers, the course examines the emergence of new states, the frst Agricultural||
 ||Revolution, the creation of the vibrant culture of Christendom, the Crusades and Black Death, and the||
 ||burst of cultural, political and economic vitality characteristic of the Renaissance and Reformation.||
-||SAME AS:HIST 3135.OFFERED:With suffcient demand.||
-|3170|Sociology of Religion|3 hrs. (3, 0)|
-||Sociological factors infuencing expression of religion.SAME AS:SOCI 3170.OFFERED:With||
+||SAME AS:HIST 3135.Offered:With suffcient demand.||
+|3170|Sociology of Religion|3 hours (3,0)|
+||Sociological factors infuencing expression of religion.SAME AS:SOCI 3170.Offered:With||
 ||suffcient demand.||
-|3250 |Ethics and Morality for Professionals|3 hrs. (3, 0)|
+|3250 |Ethics and Morality for Professionals|3 hours (3,0)|
 ||Introduces Western ethical traditions, particularly to critical thinking about moral experience within||
 ||Christianity. From classical perspectives in Christian ethics, students will practice using resources||
 ||(such as the Bible) to develop their own ethical code, system of values, and constructive approaches||
@@ -10600,51 +10194,45 @@ Anderson University Undergraduate Catalog 2025-26
 ||reasoning as a skill for professionals, particularly for Christian leaders, to resolve moral dilemmas in||
 ||society and in organizations (both proft and not‐for‐proft sectors)._Applies to the Civil Discourse &_||
 ||_Confict Transformation [AU Experience] component of the Liberal Arts Core Curriculum._||
-||PREREQUISITE:Upper-division standing.SAME AS:PHIL 3250.OFFERED:Sem. I.||
-
-
+||Prerequisite:Upper-division standing.SAME AS:PHIL 3250.Offered:Semester I.||
 
 Anderson University Undergraduate Catalog 2025-26 
 
 179 
 
-## RLGN (cont.) 
-
 |LGN (|cont.)|
 |---|---|
-|3300 |Beginnings of Christianity<br>3 hrs. (3, 0)|
+|3300 |Beginnings of Christianity<br>3 hours (3,0)|
 ||Study of the origin and development of Christianity within its Jewish and Greco-Roman environments|
 ||through the fourth-century Trinitarian debates. Special attention to the ways Christians answered the|
-||questions “Who is God?” “Who is Jesus?” “Who are we?” and “How should we live?”PREREQUISITE:|
-||BIBL 2000.OFFERED:Sem I.|
-|3320 |World Religions<br>3 hrs. (3, 0)|
+||questions “Who is God?” “Who is Jesus?” “Who are we?” and “How should we live?”Prerequisite:|
+||BIBL 2000.Offered:Sem I.|
+|3320 |World Religions<br>3 hours (3,0)|
 ||Introduction to the major tenets and cultural expressions of selected religions, such as Islam, Taoism,|
 ||Buddhism, Jainism, Hinduism, Judaism, and Christianity. Religions are compared and contrasted|
 ||thematically, structurally, and culturally. Emphasis is placed on the interdependence of religions and|
 ||cultures, and on what it means to be a responsible citizen in a globalized world.SAME AS:HIST 3320.|
-||OFFERED:With suffcient demand.|
-|3420 |American Religious History<br>3 hrs. (3, 0)|
+||Offered:With suffcient demand.|
+|3420 |American Religious History<br>3 hours (3,0)|
 ||Comprehensive survey of diverse American religious experiences in the past and present. A study of|
 ||various historic forms of Christianity, Judaism, Eastern faiths, and indigenous American religions, as|
-||well as unifying religious forces, such as “civil religion.”SAME AS:HIST 3420.OFFERED:2026-27.|
-|3900 |Honors Seminar<br>2-4 hrs. (arranged)|
-||CONSENT:Department chair.OFFERED:With suffcient demand.|
-|4650 |Independent Study<br>2-4 hrs. (arranged)|
-||Individualized study, investigation, research, or project.CONSENT:Department chair.<br>REPEAT:May be repeated.|
-|4900 |Honors Seminar<br>2-4 hrs. (arranged)|
-||CONSENT:Department chair.OFFERED:With suffcient demand.|
-|4910|Seminar<br>1-4 hrs. (arranged)|
-||Special areas of study, research, or feld work under departmental direction.CONSENT:|
-||Department chair.REPEAT:May be repeated (total credit not to exceed 8 hours).OFFERED:Sem. I.|
-|4960 |Capstone Course: Spiritual Formation Through Work, Calling, and Holiness<br>3 hrs. (3, 0)|
+||well as unifying religious forces, such as “civil religion.”SAME AS:HIST 3420.Offered:2026-27.|
+|3900 |Honors Seminar<br>2-4 hours (arranged)|
+||Consent:Department chair.Offered:With suffcient demand.|
+|4650 |Independent Study<br>2-4 hours (arranged)|
+||Individualized study, investigation, research, or project.Consent:Department chair.<br>Repeat:May be repeated.|
+|4900 |Honors Seminar<br>2-4 hours (arranged)|
+||Consent:Department chair.Offered:With suffcient demand.|
+|4910|Seminar<br>1-4 hours (arranged)|
+||Special areas of study, research, or feld work under departmental direction.Consent:|
+||Department chair.Repeat:May be repeated (total credit not to exceed 8 hours).Offered:Semester I.|
+|4960 |Capstone Course: Spiritual Formation Through Work, Calling, and Holiness<br>3 hours (3,0)|
 ||Study of the spiritual approach of Christian praxis through the lens of vocational holiness. Students|
 ||will consider various understandings of holiness across a variety of Christian traditions. Priority is|
 ||given to understanding, analyzing, and applying the principle of vocational holiness that seeks to|
-||conceive of all of life as falling within the domain of holiness.PREREQUISITE:RLGN 1100 and 20 or|
-||more hours of coursework in the CSF major or instructor approval.OFFERED:With suffcient|
+||conceive of all of life as falling within the domain of holiness.Prerequisite:RLGN 1100 and 20 or|
+||more hours of coursework in the CSF major or instructor approval.Offered:With suffcient|
 ||demand.|
-
-
 
 Anderson University Undergraduate Catalog 2025-26 
 
@@ -10656,55 +10244,51 @@ _Program Director: Dr. Varner_
 
 The Peace & Conflict Transformation (PACT) program at Anderson University is committed to addressing issues of peacemaking and the transformation of conflict on four distinct, but overlapping levels: Peace with God, Peace with Self, Peace with Neighbor, and Peace with the Other. The PACT minor is available to all students as a complement to any major. Students taking the PACT minor will engage in relevant issues through an interdisciplinary approach involving courses offered by departments across the Anderson University curriculum. 
 
-PEACE & CONFLICT TRANSFORMATION MINOR  (16-17 hrs.) 
+PEACE & CONFLICT TRANSFORMATION MINOR  (16-17 hours) 
 
-|Foundation(6 hrs.):|||
+|Foundation(6 hours):|||
 |---|---|---|
 |● PACT 2100 (2)|||
 |● PACT 2200 (2)|||
 |● PACT 2400 (2)|||
-|Interpersonal(3-4 hrs.) from:|||
+|Interpersonal(3-4 hours) from:|||
 |● CMIN 3340 (3)|||
 |● PSYC 2100 (4)|||
-|Global(3 hrs.) from:|||
+|Global(3 hours) from:|||
 |● POSC 2020 (3)|||
 |● POSC 3360 (3)|||
-|Elective(3 hrs.) from:|||
+|Elective(3 hours) from:|||
 |● BSNS 3230 (3)|● ENGL 3580 (3)|● PHIL 3210 (3)|
 |● CRIM 3010 (3)|● HIST 3190 (3)|● POSC 3300 (3), 3310 (3)|
 |● DANC 3000 (3)|● MLAN 2000 (4)|● RLGN 3020 (3), 3120 (3), 3320 (3)|
 |● ECON 2010 (3), 3190 (3)|● PACT 2300 (2)|● SOCI 2010 (3), 2020 (3), 3400 (3)|
-|Experiential(1 hr.):|||
-
-
+|Experiential(1 hour):|||
 
 ●​ A 1-hour service or internship experience (requires formal approval by the PACT Director) 
 
 |PACT Courses|PACT Courses||
 |---|---|---|
-|2100|Introduction to Peace and Confict Transformation|2 hrs. (2, 0)|
+|2100|Introduction to Peace and Confict Transformation|2 hours (2,0)|
 ||Introduces the interdisciplinary work of peace and confict transformation. Includes examination from||
 ||several perspectives of confict at several levels (e.g., interpersonal, racial, global, etc.) as well as inquiry||
 ||into the relationships between them. Considers various models by which peace and reconciliation are||
 ||pursued and encourages critical self-understanding through action and refection._Applies to the Civil_||
 ||_Discourse & Confict Transformation [AU Experience] component of theLiberal Arts Core Curriculum._||
-||OFFERED: Sem. I.||
-|2200 |Peacemakers Past and Present|2 hrs. (2, 0)|
+||Offered: Semester I.||
+|2200 |Peacemakers Past and Present|2 hours (2,0)|
 ||Survey of prominent fgures from several felds who have contributed signifcantly to understanding||
 ||peace and confict transformation. Emphasizes the fgures’ writings (whether fction, nonfction, poetry,||
 ||sermons, speeches, letters, etc.) and encourages critical self-expression through writing and speech.||
-||OFFERED: 2026-27.||
-|2300 |Peace, Confict, and Religion|2 hrs. (2, 0)|
+||Offered: 2026-27.||
+|2300 |Peace, Confict, and Religion|2 hours (2,0)|
 ||Studies the role played by religion in situations of confict and the pursuit of peace. Includes||
 ||consideration of specifc religious traditions, texts, fgures, movements, and events, and encourages||
-||critical self-refection through observation and inquiry.OFFERED: With suffcient demand.||
-|2400 |Principles and Practices of Confict Transformation|2 hrs. (2, 0)|
+||critical self-refection through observation and inquiry.Offered: With suffcient demand.||
+|2400 |Principles and Practices of Confict Transformation|2 hours (2,0)|
 ||Engagement with a variety of principles and practices developed and employed in selected endeavors||
 ||(e.g., counseling, mediation, negotiation, racial reconciliation, diplomacy, etc.). Encourages self-||
-||appropriation through research, presentation, and critique.PREREQUISITE: PACT 2100.OFFERED:||
-||Sem. II.||
-
-
+||appropriation through research, presentation, and critique.Prerequisite: PACT 2100.Offered:||
+||Semester II.||
 
 Anderson University Undergraduate Catalog 2025-26 
 
@@ -10808,7 +10392,7 @@ The Anderson University advising program has been designed to encourage and empo
 
 - continually reflect on and evaluate the appropriateness of their current academic and professionaldevelopment plan, and modify the plan as goals may change and circumstances require. 
 
-## Student’s Role in the Advising Process: 
+## Student’s Role in the Advising Process 
 
 To get the best results, students should take an active role in the process, keeping the following information in mind when doing scheduling or other progression planning:  Accept responsibility for their academic performance; prepare for each appointment by reviewing progress made, preparing the schedule they think they’ll need, and compiling a list of any questions they might have; and to: 
 
@@ -10822,7 +10406,7 @@ To get the best results, students should take an active role in the process, kee
 
 - Document completion of professional development experiences through their advisor’s Canvas advising page. 
 
-## Advisor’s Role in the Process: 
+## Advisor’s Role in the Process 
 
 Students may expect their advisor—as their partner in the advising process—to: 
 
