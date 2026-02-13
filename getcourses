@@ -14,14 +14,12 @@ def scrape_table_to_markdown(url, drop_cols):
         for df in tables:
             df = df.fillna('')
             df.columns = df.columns.astype(str)
-            df.columns = [c.replace('nan', '') for c in df.columns]
             lower_cols = df.columns.str.lower()
             to_drop = [
                 c for c in df.columns
                 if c.lower() in [d.lower() for d in drop_cols]
             ]
             df_filtered = df.drop(columns=to_drop)
-            df = df.replace('nan', '', regex=True)
             cleaned_markdown.append(df_filtered.to_markdown(index=False))
 
         return '\n\n'.join(cleaned_markdown)
