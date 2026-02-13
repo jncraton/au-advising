@@ -42,6 +42,7 @@ drop_sections = [
 
 to_title_case = [
   "PREREQUISITE",
+  "COREQUISITE",
   "OFFERED",
   "EXPECTATION",
   "CONSENT",
