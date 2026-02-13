@@ -73,6 +73,8 @@ for file in sys.argv[1:]:
   text = re.sub(rf'\bhrs\.', "hours", text)
   text = re.sub(rf'\bhr\.', "hour", text)
 
+  text = re.sub(r"\.\n", "\n", text)
+
   tokens = count_tokens(text, tokenizer)
   print(f"{file} bytes: {initial_size} => {len(text)} tokens: {initial_tokens} => {tokens}", file=sys.stderr)
 
