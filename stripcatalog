@@ -61,7 +61,7 @@ for file in sys.argv[1:]:
   for heading in drop_sections:
     text = re.sub(r"(#{1,6})\s*(" + heading + r")\s*\n(.*?)(?=(?:\n^#{1,6}\s)|\Z)", "", text, flags=re.I|re.M|re.DOTALL)
 
-  text = re.sub(r"^#+ UNIVERSITY TRUSTEES.*", "", text, flags=re.I|re.DOTALL)
+  text = re.sub(r"#+ UNIVERSITY TRUSTEES.*", "", text, flags=re.I|re.DOTALL)
 
   text = re.sub(r"#+.*cont\..*", "", text, flags=re.I)
 
