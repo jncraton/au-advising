@@ -1,360 +1,360 @@
-UNDERGRADUATE CATALOG _2025-2026_ 
+UNDERGRADUATE CATALOG _2025-2026_
 
-## INSTITUTIONAL ASSESSMENT 
+## INSTITUTIONAL ASSESSMENT
 
-In its efforts to continuously improve the quality of instruction at Anderson University and meet the requirements of the Higher Learning Commission, the university has elected to engage in outcome-based assessment activities. These endeavors are embedded into the courses and occur at the institutional level addressing the liberal arts curriculum as well as the departmental level evaluating the outcomes of the major. Data generated from these assessment activities are analyzed and recommendations developed to improve the educational activities of the university. 
+In its efforts to continuously improve the quality of instruction at Anderson University and meet the requirements of the Higher Learning Commission, the university has elected to engage in outcome-based assessment activities. These endeavors are embedded into the courses and occur at the institutional level addressing the liberal arts curriculum as well as the departmental level evaluating the outcomes of the major. Data generated from these assessment activities are analyzed and recommendations developed to improve the educational activities of the university
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-7 
+7
 
-## Academic Degrees 
+## Academic Degrees
 
-## DEGREE PROGRAMS 
+## DEGREE PROGRAMS
 
-The undergraduate division of the university offers the Bachelor of Arts degree, the Bachelor of Science degree, the Bachelor of Science in Nursing degree, and the Bachelor of Music degree to students completing a prescribed four-year course of study, and the Associate of Arts or Associate of Science degree to students completing a prescribed two-year course of study. 
+The undergraduate division of the university offers the Bachelor of Arts degree, the Bachelor of Science degree, the Bachelor of Science in Nursing degree, and the Bachelor of Music degree to students completing a prescribed four-year course of study, and the Associate of Arts or Associate of Science degree to students completing a prescribed two-year course of study
 
-While the university makes every effort to assist students through the academic advising system, the final responsibility for meeting all academic and graduation requirements rests with each student. The catalog under which the student enters and/or graduates serves as the official record of admission, academic, and graduation requirements. 
+While the university makes every effort to assist students through the academic advising system, the final responsibility for meeting all academic and graduation requirements rests with each student. The catalog under which the student enters and/or graduates serves as the official record of admission, academic, and graduation requirements
 
-To earn an Anderson University degree, students must be in residence at the university for the last 24 hours applicable to the degree. Under some circumstances, and with special permission, a maximum of 6 hours of the final 24 hours may be taken elsewhere. If the coursework taken at another institution falls within the last 24 hours, a petition to take hours out-of-residence must accompany the request to take courses elsewhere. Contact the _University Registrar_ for more information. 
+To earn an Anderson University degree, students must be in residence at the university for the last 24 hours applicable to the degree. Under some circumstances, and with special permission, a maximum of 6 hours of the final 24 hours may be taken elsewhere. If the coursework taken at another institution falls within the last 24 hours, a petition to take hours out-of-residence must accompany the request to take courses elsewhere. Contact the _University Registrar_ for more information
 
-## ASSOCIATE’S DEGREE 
+## ASSOCIATE’S DEGREE
 
-- Complete a minimum of 60 hours, as specified in the departmental concentration listing. Distribution of a portion of these hours must be in the liberal arts program as specified by the program department. 
+- Complete a minimum of 60 hours, as specified in the departmental concentration listing. Distribution of a portion of these hours must be in the liberal arts program as specified by the program department
 
-- Determine a departmental concentration of specific courses in an area of study. 
+- Determine a departmental concentration of specific courses in an area of study
 
-- Achieve a minimum GPA of 2.0. 
+- Achieve a minimum GPA of 2.0
 
-- Achieve a minimum GPA of 2.0 for all courses specified in the area of concentration. 
+- Achieve a minimum GPA of 2.0 for all courses specified in the area of concentration
 
-- All full-time students must attend chapel/convocation each semester in residence. 
+- All full-time students must attend chapel/convocation each semester in residence
 
-- Meet residence requirements listed elsewhere. 
+- Meet residence requirements listed elsewhere
 
-It is the responsibility of the student to plan for and complete graduation requirements. Students with questions should consult with the appropriate academic advisor, the _Offce of the Registrar_ , or college dean. 
+It is the responsibility of the student to plan for and complete graduation requirements. Students with questions should consult with the appropriate academic advisor, the _Offce of the Registrar_ , or college dean
 
-## ASSOCIATE’S DEGREE AS SECOND DEGREE 
+## ASSOCIATE’S DEGREE AS SECOND DEGREE
 
-A student already holding a degree from another institution may earn an associate degree from Anderson University under the following guidelines: 
+A student already holding a degree from another institution may earn an associate degree from Anderson University under the following guidelines:
 
-- Adequate work must be done at Anderson University to provide a satisfactory basis for evaluating student performance. 
+- Adequate work must be done at Anderson University to provide a satisfactory basis for evaluating student performance
 
-- Adherence to the general associate degree requirements as stated in the catalog. 
+- Adherence to the general associate degree requirements as stated in the catalog
 
-- All requirements for the specific associate degree must be met. 
+- All requirements for the specific associate degree must be met
 
-- Completion of a minimum of 18 hours, all of which must be earned at Anderson University. 
+- Completion of a minimum of 18 hours, all of which must be earned at Anderson University
 
-- No more than 6 hours of a previous degree may be used in building the associate degree concentration. 
+- No more than 6 hours of a previous degree may be used in building the associate degree concentration
 
-- Any elective hours needed to complete the minimum should be supportive of the concentration area. 
+- Any elective hours needed to complete the minimum should be supportive of the concentration area
 
-Individuals holding an Associate of Arts degree from Anderson University may not earn a second Associate of Arts degree. Students desiring to pursue an additional concentration should consult with the _Offce of the Registrar_ . 
+Individuals holding an Associate of Arts degree from Anderson University may not earn a second Associate of Arts degree. Students desiring to pursue an additional concentration should consult with the _Offce of the Registrar_
 
-## BACHELOR’S DEGREE 
+## BACHELOR’S DEGREE
 
-- Complete 120 hours. 
+- Complete 120 hours
 
-- Achieve a minimum GPA of 2.0 (out of 4.0). 
+- Achieve a minimum GPA of 2.0 (out of 4.0)
 
-- Complete requirements of all components in the liberal arts program (see the _Liberal Arts Framework_ section in this catalog). 
+- Complete requirements of all components in the liberal arts program (see the _Liberal Arts Framework_ section in this catalog)
 
-- Declare a major, as specified in the departmental listing, with a minimum overall GPA of 2.0 in the major. 
+- Declare a major, as specified in the departmental listing, with a minimum overall GPA of 2.0 in the major
 
-- All full-time students must attend chapel/convocation each semester in residence. 
+- All full-time students must attend chapel/convocation each semester in residence
 
-- Meet residence requirements (see the _Academic Policies_ section of this catalog). 
+- Meet residence requirements (see the _Academic Policies_ section of this catalog)
 
-It is the responsibility of the student to plan for and complete graduation requirements. Students with questions should confer with their academic advisor, the _Offce of the Registrar_ , or dean of the appropriate college. 
+It is the responsibility of the student to plan for and complete graduation requirements. Students with questions should confer with their academic advisor, the _Offce of the Registrar_ , or dean of the appropriate college
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-8 
+8
 
-## BACHELOR’S DEGREE AS SECOND DEGREE 
+## BACHELOR’S DEGREE AS SECOND DEGREE
 
-Students already holding a bachelor’s degree from another institution may earn the Bachelor of Arts degree, the Bachelor of Science in Nursing, the Bachelor of Music, or the Bachelor of Science degree from Anderson University by completing a minimum of 30 additional hours. Complete the core curriculum requirements for the degree sought, and complete all the requirements for the major field of study. A different degree and major must be chosen from the previous degree; not more than 12 hours from the previous degree may be used in building the new major. A projected program for the Anderson University degree should be planned by the student and advisor and approved by the University Registrar no later than the third week of the semester in which the work is begun. 
+Students already holding a bachelor’s degree from another institution may earn the Bachelor of Arts degree, the Bachelor of Science in Nursing, the Bachelor of Music, or the Bachelor of Science degree from Anderson University by completing a minimum of 30 additional hours. Complete the core curriculum requirements for the degree sought, and complete all the requirements for the major field of study. A different degree and major must be chosen from the previous degree; not more than 12 hours from the previous degree may be used in building the new major. A projected program for the Anderson University degree should be planned by the student and advisor and approved by the University Registrar no later than the third week of the semester in which the work is begun
 
-Students holding a bachelor’s degree from Anderson University may pursue a second bachelor’s degree by completing the requirements listed above. Students holding a BA, BS, BMUS, or BSN degree from Anderson University may not earn a second degree, but they may earn additional majors after graduation. Students holding other Anderson University bachelor’s degrees may earn additional majors after graduation but must complete all liberal arts requirements that normally accompany the new major. Students desiring to pursue additional majors and/or minors should consult the _Offce of the Registrar_ . 
+Students holding a bachelor’s degree from Anderson University may pursue a second bachelor’s degree by completing the requirements listed above. Students holding a BA, BS, BMUS, or BSN degree from Anderson University may not earn a second degree, but they may earn additional majors after graduation. Students holding other Anderson University bachelor’s degrees may earn additional majors after graduation but must complete all liberal arts requirements that normally accompany the new major. Students desiring to pursue additional majors and/or minors should consult the _Offce of the Registrar_
 
-## TWO DEGREES CONCURRENTLY 
+## TWO DEGREES CONCURRENTLY
 
-Students who wish to earn any two degrees (BA, BS, BMUS, or BSN) concurrently must accumulate 30 semester hours of credit beyond the 120 credit hours required for the first degree. In addition, they must fulfill the liberal arts core requirements for both degrees and the requirements for the major in each degree program. 
+Students who wish to earn any two degrees (BA, BS, BMUS, or BSN) concurrently must accumulate 30 semester hours of credit beyond the 120 credit hours required for the first degree. In addition, they must fulfill the liberal arts core requirements for both degrees and the requirements for the major in each degree program
 
-Note:  A second degree is not awarded to students who are pursuing a complementary major. 
+Note:  A second degree is not awarded to students who are pursuing a complementary major
 
-## Campus Facilities 
+## Campus Facilities
 
-## ACADEMIC AND ADMINISTRATIVE FACILITIES 
+## ACADEMIC AND ADMINISTRATIVE FACILITIES
 
-- Black Bird Media Lab :  Houses a professional-grade TV studio and control room, cyclorama green screen, editing suites, screening room, offices, and production gear room designed to inspire innovation and bring visionary projects to life for the cinema media arts major. 
+- Black Bird Media Lab :  Houses a professional-grade TV studio and control room, cyclorama green screen, editing suites, screening room, offices, and production gear room designed to inspire innovation and bring visionary projects to life for the cinema media arts major
 
-- Decker Hall : Houses executive and administrative offices, the Center for Student Life, the Center for Spiritual & Intercultural Life, Information Technology Services, the Mail Distribution Center, Work Life Engagement (human resources), the esports lab, the Center for Security Studies and Cyber Defense (CSSCD), Campus Police & Security, as well as the academic departments of Computer Science & Mathematics, Social Sciences (including the Situation Room), Teacher Education (including an on-site Reading Clinic), and the Falls School of Business (including the Star Trading Room). 
+- Decker Hall : Houses executive and administrative offices, the Center for Student Life, the Center for Spiritual & Intercultural Life, Information Technology Services, the Mail Distribution Center, Work Life Engagement (human resources), the esports lab, the Center for Security Studies and Cyber Defense (CSSCD), Campus Police & Security, as well as the academic departments of Computer Science & Mathematics, Social Sciences (including the Situation Room), Teacher Education (including an on-site Reading Clinic), and the Falls School of Business (including the Star Trading Room)
 
-- Edwards Hall : Houses the Adam W. Miller Chapel, classrooms, faculty and administrative offices for the School of Theology & Christian Ministry, and “The Common Place” (student lounge). 
+- Edwards Hall : Houses the Adam W. Miller Chapel, classrooms, faculty and administrative offices for the School of Theology & Christian Ministry, and “The Common Place” (student lounge)
 
-- Hartung Hall : Houses Counseling Services, as well as several offices and classrooms, laboratories, a lecture hall, and the academic departments of Engineering, Natural Sciences, Psychology, and the School of Nursing. 
+- Hartung Hall : Houses Counseling Services, as well as several offices and classrooms, laboratories, a lecture hall, and the academic departments of Engineering, Natural Sciences, Psychology, and the School of Nursing
 
-- Krannert Hall : Houses classrooms, laboratories, practice and rehearsal rooms, recital venues, a MIDI lab, a recording studio, faculty studios, and the Wilson Gallery, as well as the School of Music & Performing Arts and the Department of Humanities. The first floor of the facility houses the engineering center, including lab facilities for engineering students. 
+- Krannert Hall : Houses classrooms, laboratories, practice and rehearsal rooms, recital venues, a MIDI lab, a recording studio, faculty studios, and the Wilson Gallery, as well as the School of Music & Performing Arts and the Department of Humanities. The first floor of the facility houses the engineering center, including lab facilities for engineering students
 
-- Robert A. Nicholson University Library : A merger of the Wilson (undergraduate) and Byrd (seminary) libraries; the Nicholson Library houses the university’s library collections, computer labs, group study rooms, the Office of Academic Success, the Kissinger Academic Center for Excellence (KACE), Student Accessibility Services (SAS), the Center for Career & Calling, the _Scholar’s Nest_ Honors Commons, the Archives for Anderson University and the Church of God (Anderson, Ind.), the Elizabeth & James York Reading Room, and various special collections. 
+- Robert A. Nicholson University Library : A merger of the Wilson (undergraduate) and Byrd (seminary) libraries; the Nicholson Library houses the university’s library collections, computer labs, group study rooms, the Office of Academic Success, the Kissinger Academic Center for Excellence (KACE), Student Accessibility Services (SAS), the Center for Career & Calling, the _Scholar’s Nest_ Honors Commons, the Archives for Anderson University and the Church of God (Anderson, Ind.), the Elizabeth & James York Reading Room, and various special collections
 
-- Welcome Center : Connected to Decker Hall; houses the offices of Admission, Financial Aid & Scholarships, the University Registrar, and the Executive Director for Student Success. 
+- Welcome Center : Connected to Decker Hall; houses the offices of Admission, Financial Aid & Scholarships, the University Registrar, and the Executive Director for Student Success
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-9 
+9
 
-## AUDITORIUMS AND PERFORMANCE FACILITIES 
+## AUDITORIUMS AND PERFORMANCE FACILITIES
 
-- Byrum Hall : Historic campus landmark once used for basketball games and physical education classes; currently houses a 530-seat proscenium theatre. 
+- Byrum Hall : Historic campus landmark once used for basketball games and physical education classes; currently houses a 530-seat proscenium theatre
 
-- Reardon Auditorium : Used primarily for chapel/convocation, performance events, and conferences, and also serves as the venue for commencement exercises. Seats 2,200. 
+- Reardon Auditorium : Used primarily for chapel/convocation, performance events, and conferences, and also serves as the venue for commencement exercises. Seats 2,200
 
-- York Performance Hall and Galleries : Attached to Krannert Hall; serves as performance venue for student, faculty, and guest artist recitals. Seats 320 guests plus orchestra space for 45 and a choir loft for 75. Contains the Jeeninga Museum of Near Eastern and Biblical Archeology and the Scheierman Gallery (Warner Sallman Collection). 
+- York Performance Hall and Galleries : Attached to Krannert Hall; serves as performance venue for student, faculty, and guest artist recitals. Seats 320 guests plus orchestra space for 45 and a choir loft for 75. Contains the Jeeninga Museum of Near Eastern and Biblical Archeology and the Scheierman Gallery (Warner Sallman Collection)
 
-## RECREATIONAL FACILITIES 
+## RECREATIONAL FACILITIES
 
-- Athletic Complex : Includes Macholtz Stadium (football, outdoor track and field), Don Brandon Field (baseball), Raven Softball Field, and tennis courts. 
+- Athletic Complex : Includes Macholtz Stadium (football, outdoor track and field), Don Brandon Field (baseball), Raven Softball Field, and tennis courts
 
-- Bennett Natatorium : Connected to Kardatzke Wellness Center; houses a six-lane, collegiate-size swimming pool and men’s and women’s locker areas. Houses the men’s and women’s swimming and diving teams. 
+- Bennett Natatorium : Connected to Kardatzke Wellness Center; houses a six-lane, collegiate-size swimming pool and men’s and women’s locker areas. Houses the men’s and women’s swimming and diving teams
 
-- Kardatzke Wellness Center : Connected to O. C. Lewis Gymnasium and Bennett Natatorium; houses a large field house, weight room, fitness center, indoor tracks, athletic training facilities, classrooms, intercollegiate athletics offices, and the academic Department of Kinesiology. 
+- Kardatzke Wellness Center : Connected to O. C. Lewis Gymnasium and Bennett Natatorium; houses a large field house, weight room, fitness center, indoor tracks, athletic training facilities, classrooms, intercollegiate athletics offices, and the academic Department of Kinesiology
 
-- O. C. Lewis Gymnasium : Connected to Kardatzke Wellness Center; houses intercollegiate athletic facilities for men’s and women’s basketball and volleyball. 
+- O. C. Lewis Gymnasium : Connected to Kardatzke Wellness Center; houses intercollegiate athletic facilities for men’s and women’s basketball and volleyball
 
-- Fridley Soccer Field : Home of the Raven men’s and women’s soccer teams. 
+- Fridley Soccer Field : Home of the Raven men’s and women’s soccer teams
 
-## RESIDENTIAL FACILITIES 
+## RESIDENTIAL FACILITIES
 
-- Dunn Hall : Houses undergraduate men. 
+- Dunn Hall : Houses undergraduate men
 
-- Fair Commons : Apartment-style living for upper level undergraduate students. 
+- Fair Commons : Apartment-style living for upper level undergraduate students
 
-- Martin Hall : Houses undergraduate women. 
+- Martin Hall : Houses undergraduate women
 
-- Morrison Hall : Houses undergraduate women. 
+- Morrison Hall : Houses undergraduate women
 
-- Smith Hall : Houses undergraduate men. 
+- Smith Hall : Houses undergraduate men
 
-## OTHER FACILITIES 
+## OTHER FACILITIES
 
-- Boyes House : Home of the Anderson University president and his family. 
+- Boyes House : Home of the Anderson University president and his family
 
-- Morrison House : Houses the offices of facilities management partner HES. 
+- Morrison House : Houses the offices of facilities management partner HES
 
-- Olt Student Center : Houses the Marketplace and the Raven’s Haven (dining venues), Mocha Joe’s (coffee bar), private dining rooms, The Alley (student lounge), the AU Campus Store, and the Student Engagement and Student Government Association offices. 
+- Olt Student Center : Houses the Marketplace and the Raven’s Haven (dining venues), Mocha Joe’s (coffee bar), private dining rooms, The Alley (student lounge), the AU Campus Store, and the Student Engagement and Student Government Association offices
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-10 
+10
 
-Campus Map 
+Campus Map
 
 ==> picture [468 x 613] intentionally omitted <==
 
-_Image 1- Campus Map_ 
+_Image 1- Campus Map_
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-11 
+11
 
-## Admission and Financial Information 
+## Admission and Financial Information
 
-## ADMISSION POLICY (UNDERGRADUATE) 
+## ADMISSION POLICY (UNDERGRADUATE)
 
-Anderson University seeks to admit students who are interested in higher education from a Christian faith perspective and have demonstrated potential for completing the academic degree they plan to pursue. This policy speaks to general admission to the university and not academic program specific admission which is handled separately by the respective departments. 
+Anderson University seeks to admit students who are interested in higher education from a Christian faith perspective and have demonstrated potential for completing the academic degree they plan to pursue. This policy speaks to general admission to the university and not academic program specific admission which is handled separately by the respective departments
 
-Behavior that is inconsistent with university standards may result in revocation of admission. Note also that the admission decision may be held until after resolution of any pending legal charges against an applicant have been resolved. 
+Behavior that is inconsistent with university standards may result in revocation of admission. Note also that the admission decision may be held until after resolution of any pending legal charges against an applicant have been resolved
 
-## ADMISSION REQUIREMENTS (DOMESTIC) 
+## ADMISSION REQUIREMENTS (DOMESTIC)
 
-- Application for admission online or through the _Common App_ (no application fee required) 
+- Application for admission online or through the _Common App_ (no application fee required)
 
-- Official high school transcript with completion of Standard Core 40, Core 40 with Honors, Core 40 with Technical Honors Diploma; however, an initial admission decision may be made using an unofficial transcript. 
+- Official high school transcript with completion of Standard Core 40, Core 40 with Honors, Core 40 with Technical Honors Diploma; however, an initial admission decision may be made using an unofficial transcript
 
-- Optional SAT/ACT or CLT Test scores (We accept self-reported scores, the student score report, official scores from testing center or scores listed on your official high school transcript) 
+- Optional SAT/ACT or CLT Test scores (We accept self-reported scores, the student score report, official scores from testing center or scores listed on your official high school transcript)
 
-Factors given consideration in the admission decision include previous academic performance in high school or college, academic ability as indicated by the SAT/ACT/CLT, GPA, class rank, weighted GPAs, college prep curriculum, other factors such as character; work ethic; community, school, and church involvement, and other personal or extenuating circumstances. 
+Factors given consideration in the admission decision include previous academic performance in high school or college, academic ability as indicated by the SAT/ACT/CLT, GPA, class rank, weighted GPAs, college prep curriculum, other factors such as character; work ethic; community, school, and church involvement, and other personal or extenuating circumstances
 
-Final high school transcripts showing a date of graduation are required to be sent to Anderson University from the school directly to verify completion and legitimacy. If a transcript is called into question, a letter from the high school certifying graduation and or credits may be required. 
+Final high school transcripts showing a date of graduation are required to be sent to Anderson University from the school directly to verify completion and legitimacy. If a transcript is called into question, a letter from the high school certifying graduation and or credits may be required
 
-Admission decisions may include the following: 
+Admission decisions may include the following:
 
-- Admit with Distinction & Invited to participate in Honors Day: ≥ 3.75 GPA 
+- Admit with Distinction & Invited to participate in Honors Day: ≥ 3.75 GPA
 
-- Admit with Distinction: >3.5 
+- Admit with Distinction: >3.5
 
-- Standard Admission: ≥ 2.75 GPA 
+- Standard Admission: ≥ 2.75 GPA
 
-- Alpha Admit: Students may be admitted into the _Alpha Program_ by the Admission Leadership or the Admission Committee. Such students may be only minimally prepared to meet the rigors of college-level coursework, but show promise. The Alpha Program provides students with academic support and skills development necessary for college success.  Students admitted into the Alpha Program are limited to 12-15 hours during their first semester and are assigned to enroll in LART 1010 (Strategies for Academic Success), a 3 credit-hour class focused on academic student and life skills necessary for college success. 
+- Alpha Admit: Students may be admitted into the _Alpha Program_ by the Admission Leadership or the Admission Committee. Such students may be only minimally prepared to meet the rigors of college-level coursework, but show promise. The Alpha Program provides students with academic support and skills development necessary for college success.  Students admitted into the Alpha Program are limited to 12-15 hours during their first semester and are assigned to enroll in LART 1010 (Strategies for Academic Success), a 3 credit-hour class focused on academic student and life skills necessary for college success
 
-- Deny: Students denied admission who wish to reapply at a later date are recommended to complete one semester of full-time study at a regionally accredited community college, with a minimum of 12 non-remedial credits earned with a 2.0 or higher grade point average. 
+- Deny: Students denied admission who wish to reapply at a later date are recommended to complete one semester of full-time study at a regionally accredited community college, with a minimum of 12 non-remedial credits earned with a 2.0 or higher grade point average
 
-## FIRST-TIME FRESHMEN 
+## FIRST-TIME FRESHMEN
 
-At Anderson University, we practice a holistic application review. We consider each student’s background, academic credentials and personal story. Anderson University maintains a rolling admission cycle. Applicants are encouraged to apply early to maximize institutional scholarship opportunities. 
+At Anderson University, we practice a holistic application review. We consider each student’s background, academic credentials and personal story. Anderson University maintains a rolling admission cycle. Applicants are encouraged to apply early to maximize institutional scholarship opportunities
 
-A requirement to become degree-seeking at AU is to provide evidence of high school completion. A standard high school diploma, or successful completion of the General Education Development test (GED®) or of a Home School Program of Study required for admission. 
+A requirement to become degree-seeking at AU is to provide evidence of high school completion. A standard high school diploma, or successful completion of the General Education Development test (GED®) or of a Home School Program of Study required for admission
 
-Anderson University has elected to employ a test-optional admission process. The test-optional alternative allows for the consideration of student strengths that may be demonstrated in areas other than standardized test scores. 
+Anderson University has elected to employ a test-optional admission process. The test-optional alternative allows for the consideration of student strengths that may be demonstrated in areas other than standardized test scores
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-12 
+12
 
-## INTERNATIONAL STUDENTS 
+## INTERNATIONAL STUDENTS
 
-Undergraduate international students should meet the same academic requirements for admission as other students. International student application materials are are as follows: 
+Undergraduate international students should meet the same academic requirements for admission as other students. International student application materials are are as follows:
 
-## Requirements for Admission to Anderson University (International) 
+## Requirements for Admission to Anderson University (International)
 
-- Application for admission online or through the Common App (application fee required) 
+- Application for admission online or through the Common App (application fee required)
 
-## Official Transcript Requirements 
+## Official Transcript Requirements
 
-To ensure your application is complete, please follow these guidelines for submitting official high school, college, or university transcripts: 
+To ensure your application is complete, please follow these guidelines for submitting official high school, college, or university transcripts:
 
-- Language : Transcripts must be in English. 
+- Language : Transcripts must be in English
 
-- Grade Point Average (GPA) : Transcripts must include a calculated GPA. 
+- Grade Point Average (GPA) : Transcripts must include a calculated GPA
 
-- Foreign Credential Evaluation (FCE) : 
+- Foreign Credential Evaluation (FCE) :
 
-   - ○​ If your transcripts are from an institution outside the United States, they must be evaluated by an official Foreign Credential Evaluation (FCE) service. 
+   - ○​ If your transcripts are from an institution outside the United States, they must be evaluated by an official Foreign Credential Evaluation (FCE) service
 
-   - ○​ The FCE must be conducted by a member of the National Association of Credential Evaluation Services (NACES) . For more information, visit the _NACES_ website. 
+   - ○​ The FCE must be conducted by a member of the National Association of Credential Evaluation Services (NACES) . For more information, visit the _NACES_ website
 
-   - ○​ The evaluation must be course-by-course to ensure accurate assessment of academic qualifications. 
+   - ○​ The evaluation must be course-by-course to ensure accurate assessment of academic qualifications
 
-   - ○​ All costs associated with FCE services are the student’s responsibility. 
+   - ○​ All costs associated with FCE services are the student’s responsibility
 
-## English Proficiency 
+## English Proficiency
 
-- Students are required to show English Proficiency and must choose one of the following test providers: 
+- Students are required to show English Proficiency and must choose one of the following test providers:
 
-   - IBT _TOEFL_ (Internet-Based) = minimum score of 78 
+   - IBT _TOEFL_ (Internet-Based) = minimum score of 78
 
-   - PBT TOEFL (Paper-Based) = minimum  score of 564 
+   - PBT TOEFL (Paper-Based) = minimum  score of 564
 
-   - CBT TOEFL (Computer-Based) = minimum score of 210 
+   - CBT TOEFL (Computer-Based) = minimum score of 210
 
-   - Essentials TOEFL = minimum score of 8 or higher MAY be considered 
+   - Essentials TOEFL = minimum score of 8 or higher MAY be considered
 
-   - _IELTS_ = Minimum  Requirement: 6.0 
+   - _IELTS_ = Minimum  Requirement: 6.0
 
-   - _Duolingo_ = Minimum Requirement: 105 
+   - _Duolingo_ = Minimum Requirement: 105
 
-- English proficiency may be waived if: 
+- English proficiency may be waived if:
 
-   - A student resides  in a primarily English-speaking country. View our full list of included countries _HERE_ . 
+   - A student resides  in a primarily English-speaking country. View our full list of included countries _HERE_
 
-   - A student’s high school education was taught in English. 
+   - A student’s high school education was taught in English
 
-   - A copy of applicant’s passport 
+   - A copy of applicant’s passport
 
-Credits earned through educational institutions located outside of the United States will be considered for acceptance after an appropriate evaluation. Educational institutions must be recognized by the Ministry of Education (or other accrediting body) of the respective country in order for credit to be accepted. Students may be required to send their documents to an evaluation agency for a course-by-course evaluation report. An official copy of this report should be sent directly to the Anderson University Registrar. This report will be reviewed to determine acceptable transfer credit. 
+Credits earned through educational institutions located outside of the United States will be considered for acceptance after an appropriate evaluation. Educational institutions must be recognized by the Ministry of Education (or other accrediting body) of the respective country in order for credit to be accepted. Students may be required to send their documents to an evaluation agency for a course-by-course evaluation report. An official copy of this report should be sent directly to the Anderson University Registrar. This report will be reviewed to determine acceptable transfer credit
 
-## Completing the Immigration Status/Application Form I-20 
+## Completing the Immigration Status/Application Form I-20
 
-International applicants to Anderson University must submit a copy of their passport, an affidavit of support, and evidence of financial ability as instructed by the AU Admission Office. Anderson University will process the documentation, create the Form I-20 in the U.S. Citizenship and Immigration Services (SEVIS) portal, and provide a copy of the Form I-20 to the applicant. 
+International applicants to Anderson University must submit a copy of their passport, an affidavit of support, and evidence of financial ability as instructed by the AU Admission Office. Anderson University will process the documentation, create the Form I-20 in the U.S. Citizenship and Immigration Services (SEVIS) portal, and provide a copy of the Form I-20 to the applicant
 
-The estimated total cost used on the Form I-20 for undergraduate students combines the cost of tuition, room, board, fees, books, and incidentals. Once the applicant receives the Form I-20 from Anderson University, the applicant must pay the SEVIS fee and then schedule an appointment with the nearest U.S. embassy or consulate to apply for a visa. Once this appointment has been scheduled, the information should be shared with the AU Admission team. 
+The estimated total cost used on the Form I-20 for undergraduate students combines the cost of tuition, room, board, fees, books, and incidentals. Once the applicant receives the Form I-20 from Anderson University, the applicant must pay the SEVIS fee and then schedule an appointment with the nearest U.S. embassy or consulate to apply for a visa. Once this appointment has been scheduled, the information should be shared with the AU Admission team
 
-## APPEALING THE ADMISSION DECISION 
+## APPEALING THE ADMISSION DECISION
 
-Any student who is denied admission or readmission, or is granted a conditional admission or readmission, may appeal that decision by filing a written request for review. The student should include with that request any additional supporting information not previously available, particularly information of an academic nature. Admission appeals should be submitted to the Office of Admission for review by the Admission Committee. No appeals will be processed or granted after the first day of classes. 
+Any student who is denied admission or readmission, or is granted a conditional admission or readmission, may appeal that decision by filing a written request for review. The student should include with that request any additional supporting information not previously available, particularly information of an academic nature. Admission appeals should be submitted to the Office of Admission for review by the Admission Committee. No appeals will be processed or granted after the first day of classes
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-13 
+13
 
-## AUDIT ENROLLMENT 
+## AUDIT ENROLLMENT
 
-Auditing a class at Anderson University is a policy extended to full and part time Anderson students  as a means of enriching degree seeking students. Please see the _Auditing a Course_ section in the _Academic Policies_ section for more details about how to audit a class. 
+Auditing a class at Anderson University is a policy extended to full and part time Anderson students  as a means of enriching degree seeking students. Please see the _Auditing a Course_ section in the _Academic Policies_ section for more details about how to audit a class
 
-## DUAL ENROLLMENT ADMISSION ( _LAUNCH Program_ ) 
+## DUAL ENROLLMENT ADMISSION ( _LAUNCH Program_ )
 
-Anderson University offers a dual enrollment program (called LAUNCH) that provides opportunities to high school students who wish to supplement and enrich their secondary school programs. Enrollment is permitted on a space-available basis in courses at a special dual enrollment rate. Depending on the class, there could be an additional class fee or textbook cost. The LAUNCH program is not available for online courses. Placement exams may be required. 
+Anderson University offers a dual enrollment program (called LAUNCH) that provides opportunities to high school students who wish to supplement and enrich their secondary school programs. Enrollment is permitted on a space-available basis in courses at a special dual enrollment rate. Depending on the class, there could be an additional class fee or textbook cost. The LAUNCH program is not available for online courses. Placement exams may be required
 
-To be eligible to participate in the program, typically students must be high school juniors and seniors who have at least a 3.0 GPA, are recommended by their high school guidance counselor, and who agree to abide by the Lifestyle Statement at Anderson University. Individual cases, however, may be evaluated based on exceptional merit. 
+To be eligible to participate in the program, typically students must be high school juniors and seniors who have at least a 3.0 GPA, are recommended by their high school guidance counselor, and who agree to abide by the Lifestyle Statement at Anderson University. Individual cases, however, may be evaluated based on exceptional merit
 
-A dual-enrolled student may enroll for a maximum of six credit hours per semester (typically two classes), not to exceed a total of 24 hours for the program.  Full credit is awarded for all courses satisfactorily completed according to the university’s established requirements and procedures. Failure to maintain satisfactory academic progress, defined as a grade of C or higher in a dual enrollment course within the Launch program, may result in dismissal from the program. 
+A dual-enrolled student may enroll for a maximum of six credit hours per semester (typically two classes), not to exceed a total of 24 hours for the program.  Full credit is awarded for all courses satisfactorily completed according to the university’s established requirements and procedures. Failure to maintain satisfactory academic progress, defined as a grade of C or higher in a dual enrollment course within the Launch program, may result in dismissal from the program
 
-Anderson University retains the final right of approval for all aspects of the dual enrollment program. Should the student enroll following high school graduation, the grade earned in their classes as a dual enrollment student at Anderson University will be applied to their University grade point average. Dual enrollment students can request both official and unofficial transcripts from the University Registrar's Office to provide to their high school counselors for credit purposes. 
+Anderson University retains the final right of approval for all aspects of the dual enrollment program. Should the student enroll following high school graduation, the grade earned in their classes as a dual enrollment student at Anderson University will be applied to their University grade point average. Dual enrollment students can request both official and unofficial transcripts from the University Registrar's Office to provide to their high school counselors for credit purposes
 
-## DEFERRAL AND GAP YEAR POLICY 
+## DEFERRAL AND GAP YEAR POLICY
 
-A gap year is defined as a full academic year taken off, most commonly between high school and college, to pursue personal growth, professional experience, service, or travel. Anderson University permits admitted students to request a deferral of enrollment until the beginning of the next academic year. 
+A gap year is defined as a full academic year taken off, most commonly between high school and college, to pursue personal growth, professional experience, service, or travel. Anderson University permits admitted students to request a deferral of enrollment until the beginning of the next academic year
 
-## Request Process 
+## Request Process
 
-Students seeking to defer admission must submit the official Deferral Request Form no later than two weeks before the first day of classes for the term to which they were originally admitted. Requests submitted after this deadline will not be considered, and a new application will be required for future enrollment. 
+Students seeking to defer admission must submit the official Deferral Request Form no later than two weeks before the first day of classes for the term to which they were originally admitted. Requests submitted after this deadline will not be considered, and a new application will be required for future enrollment
 
-Deferral requests may be subject to program-specific limitations. Some academic programs admit students only during designated terms or may close to new applicants, making deferral unavailable in those cases. 
+Deferral requests may be subject to program-specific limitations. Some academic programs admit students only during designated terms or may close to new applicants, making deferral unavailable in those cases
 
-## Enrollment and Financial Aid Implications 
+## Enrollment and Financial Aid Implications
 
-Students who have already taken steps toward enrollment—such as registering for classes or applying for housing— must formally cancel any arrangements prior to the deferral. Financial aid packages do not carry over and will be recalculated for the new entry term in accordance with federal, state, and institutional policies. 
+Students who have already taken steps toward enrollment—such as registering for classes or applying for housing— must formally cancel any arrangements prior to the deferral. Financial aid packages do not carry over and will be recalculated for the new entry term in accordance with federal, state, and institutional policies
 
-If, during the deferral period, the student enrolls in any postsecondary coursework and earns academic credit, the deferral will be nullified. The student must then reapply as a transfer applicant and submit official transcripts from each institution attended. This includes academic credit earned through the _Community College of the Air Force_ . 
+If, during the deferral period, the student enrolls in any postsecondary coursework and earns academic credit, the deferral will be nullified. The student must then reapply as a transfer applicant and submit official transcripts from each institution attended. This includes academic credit earned through the _Community College of the Air Force_
 
-## Contact 
+## Contact
 
-Questions regarding deferrals may be directed to the Office of Admission at 765-641-4080 or _info@anderson.edu_ . 
+Questions regarding deferrals may be directed to the Office of Admission at 765-641-4080 or _info@anderson.edu_
 
-## ENROLLMENT DEPOSIT 
+## ENROLLMENT DEPOSIT
 
-Anderson University requires a $200 enrollment deposit from students planning to attend AU. The full, one-time, $200 enrollment deposit is applied directly to the student’s university student account toward the cost of tuition. National Decision Day for colleges and universities is May 1 each year. The Anderson University enrollment deposit is fully refundable until May 1. Anderson University understands that some students and their families may be facing financial challenges and paying a $200 enrollment deposit may not be possible. Students may apply for a deposit waiver by contacting their admission counselor. 
+Anderson University requires a $200 enrollment deposit from students planning to attend AU. The full, one-time, $200 enrollment deposit is applied directly to the student’s university student account toward the cost of tuition. National Decision Day for colleges and universities is May 1 each year. The Anderson University enrollment deposit is fully refundable until May 1. Anderson University understands that some students and their families may be facing financial challenges and paying a $200 enrollment deposit may not be possible. Students may apply for a deposit waiver by contacting their admission counselor
 
-## FELONIES 
+## FELONIES
 
-Anderson University is committed to creating a safe learning environment and as such, complies with federal safety requirements. In addition, the university requires all applicants who have been convicted of a felony or have a pending felony charge to disclose such information. Students who are charged with or convicted of a felony following admission are required to immediately report the charge or conviction to the Office of Admission or to the Center for Student Life. 
+Anderson University is committed to creating a safe learning environment and as such, complies with federal safety requirements. In addition, the university requires all applicants who have been convicted of a felony or have a pending felony charge to disclose such information. Students who are charged with or convicted of a felony following admission are required to immediately report the charge or conviction to the Office of Admission or to the Center for Student Life
 
-Information regarding felony convictions or pending charges will be reviewed and a recommendation made regarding applicant’s enrollment suitability. If the university discovers an undisclosed felony or pending felony charge, the Office of Admission reserves the right to revoke admission, even if the student has matriculated into current student status. 
+Information regarding felony convictions or pending charges will be reviewed and a recommendation made regarding applicant’s enrollment suitability. If the university discovers an undisclosed felony or pending felony charge, the Office of Admission reserves the right to revoke admission, even if the student has matriculated into current student status
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-14 
+14
 
-## MARKETING, RECRUITING, AND ADVERTISING 
+## MARKETING, RECRUITING, AND ADVERTISING
 
-As a member of the _National Association for College Admission Counselors_ (NACAC), Anderson University follows the NACAC Code of Ethics and Professional Practices in the recruitment of all students. In addition to following NACAC’s Code of Ethics and Professional Practices, Anderson University will ensure compliance with program integrity requirements consistent with the regulations issued by the Department of Education (34 C.F.R 668.71-668.75 and 668.14) related to restrictions on misrepresentation, recruitment, and payment of incentive compensation. This applies to the educational institution itself and its agents including third party lead generators, marketing firms, or companies that own or operate the educational institutions. 
+As a member of the _National Association for College Admission Counselors_ (NACAC), Anderson University follows the NACAC Code of Ethics and Professional Practices in the recruitment of all students. In addition to following NACAC’s Code of Ethics and Professional Practices, Anderson University will ensure compliance with program integrity requirements consistent with the regulations issued by the Department of Education (34 C.F.R 668.71-668.75 and 668.14) related to restrictions on misrepresentation, recruitment, and payment of incentive compensation. This applies to the educational institution itself and its agents including third party lead generators, marketing firms, or companies that own or operate the educational institutions
 
-## READMISSION 
+## READMISSION
 
-Students planning to return to Anderson University after an absence must complete a readmission form, which can be obtained online at _anderson.edu/admissions_ . 
+Students planning to return to Anderson University after an absence must complete a readmission form, which can be obtained online at _anderson.edu/admissions_
 
-- Official transcripts of all college work taken since the last date of attendance at Anderson University must be submitted. 
+- Official transcripts of all college work taken since the last date of attendance at Anderson University must be submitted
 
-- All students applying for readmission must be approved by a committee process before readmission can be granted. 
+- All students applying for readmission must be approved by a committee process before readmission can be granted
 
-## TRANSFER STUDENTS 
+## TRANSFER STUDENTS
 
-Anderson University welcomes applications from transfer students. Full-time transfer admission is generally reserved for students: 
+Anderson University welcomes applications from transfer students. Full-time transfer admission is generally reserved for students:
 
-- who have attended another institution after high school graduation, and 
+- who have attended another institution after high school graduation, and
 
-- who have earned 12 or more transferable hours of 100 level courses or higher with a minimum 2.0 grade point average. 
+- who have earned 12 or more transferable hours of 100 level courses or higher with a minimum 2.0 grade point average
 
-In determining eligibility for hours of full-time enrollment, Anderson University evaluates the candidate’s high school and university records and related educational experiences. Students with less than 12 hours of transferable credit of 100-level courses may be considered for full-time transfer enrollment based on exceptional high school and college credentials, time since last college attendance, and life experiences. 
+In determining eligibility for hours of full-time enrollment, Anderson University evaluates the candidate’s high school and university records and related educational experiences. Students with less than 12 hours of transferable credit of 100-level courses may be considered for full-time transfer enrollment based on exceptional high school and college credentials, time since last college attendance, and life experiences
 
-- Applicants with 12 college credits earned below a 2.0 grade point average will be considered for admission by committee. If the committee concludes that the student is admissible, the student will be admitted on probation and limited to enrolling in 12 credit hours per semester for at least one semester or until a 2.0 grade point average is achieved at Anderson University 
+- Applicants with 12 college credits earned below a 2.0 grade point average will be considered for admission by committee. If the committee concludes that the student is admissible, the student will be admitted on probation and limited to enrolling in 12 credit hours per semester for at least one semester or until a 2.0 grade point average is achieved at Anderson University
 
-- Transcripts from ALL post-secondary institutions attended must be submitted, regardless of whether credits were earned or the student withdrew prior to credit being awarded. 
+- Transcripts from ALL post-secondary institutions attended must be submitted, regardless of whether credits were earned or the student withdrew prior to credit being awarded
 
-- Official transcripts are those that are received by Anderson University directly from the institution(s) awarding the original credit. Official transcripts are used for admission purposes only and are not returnable or transferable. An initial transfer admission decision may be made using an unofficial transcript. 
+- Official transcripts are those that are received by Anderson University directly from the institution(s) awarding the original credit. Official transcripts are used for admission purposes only and are not returnable or transferable. An initial transfer admission decision may be made using an unofficial transcript
 
-- Official transcripts will be evaluated for credit transfer upon receipt. Courses earning a C- or better from regionally accredited institutions will be evaluated for credit by the Office of the University Registrar. Anderson University is part of the _Core Transfer Library_ for students to do a preliminary self-assessment of transferable credits. 
+- Official transcripts will be evaluated for credit transfer upon receipt. Courses earning a C- or better from regionally accredited institutions will be evaluated for credit by the Office of the University Registrar. Anderson University is part of the _Core Transfer Library_ for students to do a preliminary self-assessment of transferable credits
 
-- The admission committee reserves the right to conditionally admit students transferring with a grade point average below 2.0 on academic probation with a limit of 12 hours per semester for one semester or until a 2.0 grade point average is achieved. These students will be assigned an academic success coach upon matriculation to the university. 
+- The admission committee reserves the right to conditionally admit students transferring with a grade point average below 2.0 on academic probation with a limit of 12 hours per semester for one semester or until a 2.0 grade point average is achieved. These students will be assigned an academic success coach upon matriculation to the university
 
-## FEES 
+## FEES
 
-All students have the benefit of a scholarship since they do not pay the full cost of their education. The Church of God (Anderson, Ind.), alumni, businesses, industries, foundations, and private donors contribute substantially to underwrite the education cost of each student attending Anderson University. 
+All students have the benefit of a scholarship since they do not pay the full cost of their education. The Church of God (Anderson, Ind.), alumni, businesses, industries, foundations, and private donors contribute substantially to underwrite the education cost of each student attending Anderson University
 
-The following charges are the basic budget costs per semester for the 2025-26 academic year: 
+The following charges are the basic budget costs per semester for the 2025-26 academic year:
 
 |Tuition|$18,800|
 |---|---|
@@ -363,225 +363,225 @@ The following charges are the basic budget costs per semester for the 2025-26 ac
 |Fees|650|
 |Total|$26,110|
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-15 
+15
 
-This budget provides admission as a full-time student enrolled for 12-18 hours. Students are also responsible for field trip costs. Room rent is based on two people per room in most regular university residence halls. Residential freshmen, sophomores, and juniors are required to purchase a meal plan. 
+This budget provides admission as a full-time student enrolled for 12-18 hours. Students are also responsible for field trip costs. Room rent is based on two people per room in most regular university residence halls. Residential freshmen, sophomores, and juniors are required to purchase a meal plan
 
-The university meal plan offers students various dining options around campus, including the _Marketplace_ (main cafeteria), _Raven’s Haven_ (Chick-fil-A), _Mocha Joe’s_ (student-run coffee venue), _Just Baked_ (hot food vending machine) and _Create_ (grab and go). Menu selection and hours of service vary to accommodate students’ needs and schedules. Additional information can be found at _dineoncampus.com/anderson_ . 
+The university meal plan offers students various dining options around campus, including the _Marketplace_ (main cafeteria), _Raven’s Haven_ (Chick-fil-A), _Mocha Joe’s_ (student-run coffee venue), _Just Baked_ (hot food vending machine) and _Create_ (grab and go). Menu selection and hours of service vary to accommodate students’ needs and schedules. Additional information can be found at _dineoncampus.com/anderson_
 
-In addition to these basic costs, students should budget $2,500-$3,000 each semester for books, additional meals, and incidental expenses. Stated rates are subject to change. 
+In addition to these basic costs, students should budget $2,500-$3,000 each semester for books, additional meals, and incidental expenses. Stated rates are subject to change
 
-Although all tuition, room, and board charges are due and can be paid at the beginning of each semester, monthly payment plans are available. Information regarding payment plans is sent to all new and returning students. Additional information may be requested by email _studentaccounts@anderson.edu_ , by phone (765) 641-4001, or by visiting the Business Office (Decker Hall lower level). 
+Although all tuition, room, and board charges are due and can be paid at the beginning of each semester, monthly payment plans are available. Information regarding payment plans is sent to all new and returning students. Additional information may be requested by email _studentaccounts@anderson.edu_ , by phone (765) 641-4001, or by visiting the Business Office (Decker Hall lower level)
 
-Special fees and other rates may be found on the university website. 
+Special fees and other rates may be found on the university website
 
-## FINANCIAL AID 
+## FINANCIAL AID
 
-Financial aid is offered to Anderson University students through a combination of aid programs available from institutional, federal, state, and local sources. Students receive individual financial aid offers based on their financial aid eligibility from these sources. The financial aid offer is generally made up of two components of aid: non-repayable assistance (grants or scholarships) and self-help assistance (student loans and employment). 
+Financial aid is offered to Anderson University students through a combination of aid programs available from institutional, federal, state, and local sources. Students receive individual financial aid offers based on their financial aid eligibility from these sources. The financial aid offer is generally made up of two components of aid: non-repayable assistance (grants or scholarships) and self-help assistance (student loans and employment)
 
-To be considered for need-based institutional, federal, or state financial assistance, students must submit a _Free Application for Federal Student Aid_ (FAFSA). Financial aid is awarded annually. The FAFSA typically opens each year on October 1. Aid requests are considered throughout the school year from the available funds remaining. Students should include the University’s school code ( 001785 ) to ensure that the Office of Financial Aid and Scholarships is able to determine their financial aid eligibility. To be eligible for state of Indiana scholarships and grants, the FAFSA must be submitted by the state of Indiana deadline (typically April 15) prior to the beginning of the fall semester. Additional documentation may be requested in order to process a student financial aid. 
+To be considered for need-based institutional, federal, or state financial assistance, students must submit a _Free Application for Federal Student Aid_ (FAFSA). Financial aid is awarded annually. The FAFSA typically opens each year on October 1. Aid requests are considered throughout the school year from the available funds remaining. Students should include the University’s school code ( 001785 ) to ensure that the Office of Financial Aid and Scholarships is able to determine their financial aid eligibility. To be eligible for state of Indiana scholarships and grants, the FAFSA must be submitted by the state of Indiana deadline (typically April 15) prior to the beginning of the fall semester. Additional documentation may be requested in order to process a student financial aid
 
-Occasionally, students may find it necessary to vary their enrollment status (i.e., changing from full time to part time). Because eligibility of financial aid programs is related directly to enrollment status, students should consult with the _Offce of Financial Aid and Scholarships_ to learn what effect, if any, their contemplated change will have on their financial aid. 
+Occasionally, students may find it necessary to vary their enrollment status (i.e., changing from full time to part time). Because eligibility of financial aid programs is related directly to enrollment status, students should consult with the _Offce of Financial Aid and Scholarships_ to learn what effect, if any, their contemplated change will have on their financial aid
 
-Federal regulations mandate that colleges and universities establish standards of Satisfactory Academic Progress (SAP) for students who receive federal financial aid. In order to maintain a consistent policy for all students receiving financial assistance, Anderson University has adopted these same standards in the administration of all institutionally awarded funds as well. A review of a student’s SAP status will be made at the end of each semester, including a summer term if the student is enrolled in a  summer term. 
+Federal regulations mandate that colleges and universities establish standards of Satisfactory Academic Progress (SAP) for students who receive federal financial aid. In order to maintain a consistent policy for all students receiving financial assistance, Anderson University has adopted these same standards in the administration of all institutionally awarded funds as well. A review of a student’s SAP status will be made at the end of each semester, including a summer term if the student is enrolled in a  summer term
 
-- Maximum Number of Attempted Hours. Students are eligible to receive financial aid, provided all other requirements of the SAP Policy have been met, so long as the number of attempted hours does not exceed 150% of the number of hours required for their degree. Transfer hours that apply towards the degree will be considered as attempted hours. Once a student’s number of attempted hours exceeds 150% of the number of hours required for their degree, or if it is no longer mathematically possible for the student to complete their degree within the maximum number of attempted hours allowed, the student will be denied eligibility for financial aid. 
+- Maximum Number of Attempted Hours. Students are eligible to receive financial aid, provided all other requirements of the SAP Policy have been met, so long as the number of attempted hours does not exceed 150% of the number of hours required for their degree. Transfer hours that apply towards the degree will be considered as attempted hours. Once a student’s number of attempted hours exceeds 150% of the number of hours required for their degree, or if it is no longer mathematically possible for the student to complete their degree within the maximum number of attempted hours allowed, the student will be denied eligibility for financial aid
 
-- Minimum Cumulative Grade Point Average (GPA) Required. Students are eligible to receive financial aid, provided all other requirements of the SAP Policy have been met, so long as they maintain the minimum cumulative GPA as listed below. Students who fall below the minimum cumulative GPA will be placed on a “Warning” status for financial aid. 
+- Minimum Cumulative Grade Point Average (GPA) Required. Students are eligible to receive financial aid, provided all other requirements of the SAP Policy have been met, so long as they maintain the minimum cumulative GPA as listed below. Students who fall below the minimum cumulative GPA will be placed on a “Warning” status for financial aid
 
-Students on a Warning status must increase their cumulative GPA to meet SAP eligibility requirements by the end of the following semester. If SAP eligibility requirements are not met at the end of the following semester, the student will be denied their eligibility for financial aid. (See Financial Aid Appeals below).  Withdrawn classes and transfer credits are not used in the determination of the student’s grade point average. Repeated classes will be used in the determination of the grade point average. Any Incomplete (I) that is changed to another grade will be reviewed at the next semester review. 
+Students on a Warning status must increase their cumulative GPA to meet SAP eligibility requirements by the end of the following semester. If SAP eligibility requirements are not met at the end of the following semester, the student will be denied their eligibility for financial aid. (See Financial Aid Appeals below).  Withdrawn classes and transfer credits are not used in the determination of the student’s grade point average. Repeated classes will be used in the determination of the grade point average. Any Incomplete (I) that is changed to another grade will be reviewed at the next semester review
 
-## Hours Earned Minimum Cumulative GPA 
+## Hours Earned Minimum Cumulative GPA
 
-- 1-29 completed credit hours = 1.60 minimum GPA 30-59 hours completed credit hours = 1.80 minimum GPA 
+- 1-29 completed credit hours = 1.60 minimum GPA 30-59 hours completed credit hours = 1.80 minimum GPA
 
-- 60 or more completed credit hours = 2.00 minimum GPA 
+- 60 or more completed credit hours = 2.00 minimum GPA
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-16 
+16
 
-- Minimum Number of Earned Hours Required. Students are eligible to receive financial aid, provided all other requirements of the SAP Policy have been met, so long as they earn at least 67% of attempted hours. Students who do not earn at least 67% of their attempted hours will be placed on a “Warning” status for financial aid. Students on a Warning status must meet SAP eligibility requirements by the end of the following semester. If SAP eligibility requirements are not met at the end of the following semester, the student will be denied their eligibility for financial aid. (See Financial Aid Appeals below). Withdrawn classes in which students receive a grade of “W” (withdraw), repeated classes, classes in which they have Incompletes (I), and transfer credits are all considered attempted hours. Any Incomplete (I) that is changed to another grade will be reviewed at the next semester review. 
+- Minimum Number of Earned Hours Required. Students are eligible to receive financial aid, provided all other requirements of the SAP Policy have been met, so long as they earn at least 67% of attempted hours. Students who do not earn at least 67% of their attempted hours will be placed on a “Warning” status for financial aid. Students on a Warning status must meet SAP eligibility requirements by the end of the following semester. If SAP eligibility requirements are not met at the end of the following semester, the student will be denied their eligibility for financial aid. (See Financial Aid Appeals below). Withdrawn classes in which students receive a grade of “W” (withdraw), repeated classes, classes in which they have Incompletes (I), and transfer credits are all considered attempted hours. Any Incomplete (I) that is changed to another grade will be reviewed at the next semester review
 
-Students who fail to meet SAP are not eligible to receive financial aid but are eligible for reinstatement of their financial aid following the completion of at least twelve (12) credit hours and by earning at least a 2.0 GPA for those hours. Such coursework can be completed at any accredited college or university. To request reinstatement of eligibility students will be required to submit a copy of their most recent transcript which shows the completion of at least twelve (12) credit hours with at least a 2.0 GPA along with an approved academic plan. 
+Students who fail to meet SAP are not eligible to receive financial aid but are eligible for reinstatement of their financial aid following the completion of at least twelve (12) credit hours and by earning at least a 2.0 GPA for those hours. Such coursework can be completed at any accredited college or university. To request reinstatement of eligibility students will be required to submit a copy of their most recent transcript which shows the completion of at least twelve (12) credit hours with at least a 2.0 GPA along with an approved academic plan
 
-A student may appeal under any condition that constitutes an extenuating and/or mitigating circumstance and where such circumstances contributed to their failure to meet the university’s standard of SAP. 
+A student may appeal under any condition that constitutes an extenuating and/or mitigating circumstance and where such circumstances contributed to their failure to meet the university’s standard of SAP
 
-Additional policies and procedures are available from the Office of Financial Aid and Scholarships or online at _https://anderson.edu/admissions/fnancial-aid/resources/_ . 
+Additional policies and procedures are available from the Office of Financial Aid and Scholarships or online at _https://anderson.edu/admissions/fnancial-aid/resources/_
 
-## REFUND POLICY 
+## REFUND POLICY
 
-Students withdrawing from all classes after classes have begun or reducing the number of hours carried may be entitled to a reduction in charges for tuition, housing and meals. Reductions for withdrawals or schedule revisions occurring on or before the end of: 
+Students withdrawing from all classes after classes have begun or reducing the number of hours carried may be entitled to a reduction in charges for tuition, housing and meals. Reductions for withdrawals or schedule revisions occurring on or before the end of:
 
-- first week of classes — 90% reduction 
+- first week of classes — 90% reduction
 
-- second week of classes — 90% reduction 
+- second week of classes — 90% reduction
 
-- third week of classes — 75% reduction 
+- third week of classes — 75% reduction
 
-- fourth week of classes — no reduction 
+- fourth week of classes — no reduction
 
-Adjustments are based upon the date of official withdrawal. Official withdrawal from all classes must be requested by completing and submitting a Withdrawal/Not Returning form. 
+Adjustments are based upon the date of official withdrawal. Official withdrawal from all classes must be requested by completing and submitting a Withdrawal/Not Returning form
 
-Reductions are based on charges made to students and not the amount paid on the students’ accounts. There is no reduction of any charges for students who have been dismissed or suspended for disciplinary reasons. Proportional adjustments may be made for summer sessions and those classes where the start dates are not part of the standard term dates. 
+Reductions are based on charges made to students and not the amount paid on the students’ accounts. There is no reduction of any charges for students who have been dismissed or suspended for disciplinary reasons. Proportional adjustments may be made for summer sessions and those classes where the start dates are not part of the standard term dates
 
-Questions concerning the policy for complete withdrawal should be directed to the Dean of Student Life. Questions of adjustment for reducing the number of hours should be directed to the Office of the University Registrar. 
+Questions concerning the policy for complete withdrawal should be directed to the Dean of Student Life. Questions of adjustment for reducing the number of hours should be directed to the Office of the University Registrar
 
-## VETERANS BENEFITS 
+## VETERANS BENEFITS
 
-Anderson University attempts to make a good-faith effort to comply with Executive Order 13607: establishing principles of excellence for educational institutions serving service members, veterans, spouses, and other family members. These principles were established to strengthen oversight, enforcement, and accountability of education programs and to ensure all service members, veterans, and their families have the necessary information they need to make informed decisions concerning their educational goals. In addition, we advise service members to speak with an education services officer or counselor within their military service prior to enrolling at the university. 
+Anderson University attempts to make a good-faith effort to comply with Executive Order 13607: establishing principles of excellence for educational institutions serving service members, veterans, spouses, and other family members. These principles were established to strengthen oversight, enforcement, and accountability of education programs and to ensure all service members, veterans, and their families have the necessary information they need to make informed decisions concerning their educational goals. In addition, we advise service members to speak with an education services officer or counselor within their military service prior to enrolling at the university
 
-Anderson University complies with regulations of the State of Indiana Department of Veterans Affairs, Veterans Educational Unit, including approval of the university calendar, tuition and fees schedule, and the academic policies of the university. The university is authorized to enroll recipients of the Veterans Administration Educational benefits in regularly scheduled credit courses leading to standard college degrees. 
+Anderson University complies with regulations of the State of Indiana Department of Veterans Affairs, Veterans Educational Unit, including approval of the university calendar, tuition and fees schedule, and the academic policies of the university. The university is authorized to enroll recipients of the Veterans Administration Educational benefits in regularly scheduled credit courses leading to standard college degrees
 
-Inquiries concerning eligibility should be directed to the Department of Veterans Affairs. Individuals planning to study under one of the education chapters should receive approval before enrolling. More information is available online at _anderson.edu/registrar/veterans_ . 
+Inquiries concerning eligibility should be directed to the Department of Veterans Affairs. Individuals planning to study under one of the education chapters should receive approval before enrolling. More information is available online at _anderson.edu/registrar/veterans_
 
-## VA Chapter 31 and Chapter 33 Post 9/11 GI Bill®– Assessment of Late Fees . 
+## VA Chapter 31 and Chapter 33 Post 9/11 GI Bill®– Assessment of Late Fees
 
-In accordance with Title 38 US Code 3679 (e), Anderson University adopts the following provisions for any students using U.S. Department of Veterans Affairs (VA) Post 9/11 GI Bill® (Ch. 33) or Vocational Rehabilitation & Employment (Ch. 31) benefits, while payment to the institution is pending from the VA. Anderson University will not: 
+In accordance with Title 38 US Code 3679 (e), Anderson University adopts the following provisions for any students using U.S. Department of Veterans Affairs (VA) Post 9/11 GI Bill® (Ch. 33) or Vocational Rehabilitation & Employment (Ch. 31) benefits, while payment to the institution is pending from the VA. Anderson University will not:
 
-- Prevent the student’s enrollment; 
+- Prevent the student’s enrollment;
 
-- Assess a late penalty fee to the student; 
+- Assess a late penalty fee to the student;
 
-- Require the student to secure alternative or additional funding; 
+- Require the student to secure alternative or additional funding;
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-17 
+17
 
-   - Deny the student access to any resources (access to classes, libraries, or other institutional facilities) available to other students who have satisfied their tuition and fee bills to the institution. 
+   - Deny the student access to any resources (access to classes, libraries, or other institutional facilities) available to other students who have satisfied their tuition and fee bills to the institution
 
-- However, to qualify for this provision, such students are required to: 
+- However, to qualify for this provision, such students are required to:
 
-   - Produce the VA Certificate of Eligibility (COE) or Change of Program or Place of Training Form 22-1905. 
+   - Produce the VA Certificate of Eligibility (COE) or Change of Program or Place of Training Form 22-1905
 
-   - All students must submit a VA Education Benefit Request Form for each semester they intend to receive VA payments. Students’ classes won’t be certified to the VA unless they are enrolled in the classes. 
+   - All students must submit a VA Education Benefit Request Form for each semester they intend to receive VA payments. Students’ classes won’t be certified to the VA unless they are enrolled in the classes
 
-Current and admitted students who have questions about VA benefits may also address inquiries to the Office of the University Registrar or to the Office of Financial Aid and Scholarships. 
+Current and admitted students who have questions about VA benefits may also address inquiries to the Office of the University Registrar or to the Office of Financial Aid and Scholarships
 
-GI Bill® is a registered trademark of the U.S. Department of Veterans Affairs (VA). More information about education benefits offered by VA is available at the official U.S. government website at _https://www.benefts.va.gov/gibill_ . 
+GI Bill® is a registered trademark of the U.S. Department of Veterans Affairs (VA). More information about education benefits offered by VA is available at the official U.S. government website at _https://www.benefts.va.gov/gibill_
 
-## Academic Policies 
+## Academic Policies
 
-Please contact the _Offce of the Registrar_ for the most up-to-date information regarding academic policies. Further academic policy information is also available on the university website. 
+Please contact the _Offce of the Registrar_ for the most up-to-date information regarding academic policies. Further academic policy information is also available on the university website
 
-## ACADEMIC FORGIVENESS 
+## ACADEMIC FORGIVENESS
 
-The Academic Forgiveness Policy extends to a student who has been away from Anderson University for a period of at least five years and was not making satisfactory academic progress, meaning an overall GPA of less than 2.0. This is a one-time opportunity to establish a new GPA. 
+The Academic Forgiveness Policy extends to a student who has been away from Anderson University for a period of at least five years and was not making satisfactory academic progress, meaning an overall GPA of less than 2.0. This is a one-time opportunity to establish a new GPA
 
-The policy will not apply if a student has earned a degree, diploma, or certificate from another college or university. A student receiving academic forgiveness is not eligible for graduation honors. The student must not have been enrolled in any coursework for credit at Anderson for a minimum of five consecutive years prior to the point of requesting academic forgiveness. Students who earn grades of C-, D, F, or WF may request up to 15-semester credits. 
+The policy will not apply if a student has earned a degree, diploma, or certificate from another college or university. A student receiving academic forgiveness is not eligible for graduation honors. The student must not have been enrolled in any coursework for credit at Anderson for a minimum of five consecutive years prior to the point of requesting academic forgiveness. Students who earn grades of C-, D, F, or WF may request up to 15-semester credits
 
-Upon readmission to AU, the student must demonstrate academic ability by successfully completing 12 semester credits at the university, with no grades below a C. Students who meet these two conditions may petition in writing to the university registrar by completing an academic forgiveness application to have their grades forgiven and not computed in the grade point average and have the words “academic forgiveness” annotated on their record. 
+Upon readmission to AU, the student must demonstrate academic ability by successfully completing 12 semester credits at the university, with no grades below a C. Students who meet these two conditions may petition in writing to the university registrar by completing an academic forgiveness application to have their grades forgiven and not computed in the grade point average and have the words “academic forgiveness” annotated on their record
 
-Once the application for academic forgiveness has been approved and after consultation with the student, the Office of the Registrar will make the following adjustments to the student’s transcript: Up to 15 semester credits of coursework, to be selected by the student, will be rescinded prior to the point of academic forgiveness; however, course titles and grades from these courses will remain on the transcript. Calculation of the student’s GPA will not include grades for classes approved for forgiveness. For more information, contact the _Offce of the Registrar_ . 
+Once the application for academic forgiveness has been approved and after consultation with the student, the Office of the Registrar will make the following adjustments to the student’s transcript: Up to 15 semester credits of coursework, to be selected by the student, will be rescinded prior to the point of academic forgiveness; however, course titles and grades from these courses will remain on the transcript. Calculation of the student’s GPA will not include grades for classes approved for forgiveness. For more information, contact the _Offce of the Registrar_
 
-## ACADEMIC INTEGRITY 
+## ACADEMIC INTEGRITY
 
-Anderson University seeks to support and promote qualities of academic honesty and personal integrity and regards cheating, plagiarism and all other forms of academic dishonesty as serious offenses against the University community. Such offenses will be dealt with in an appropriate manner. 
+Anderson University seeks to support and promote qualities of academic honesty and personal integrity and regards cheating, plagiarism and all other forms of academic dishonesty as serious offenses against the University community. Such offenses will be dealt with in an appropriate manner
 
-Cheating or academic dishonesty is defined as the deception of others about one's own work or about the work of another. Examples of cheating include but are not limited to: 
+Cheating or academic dishonesty is defined as the deception of others about one's own work or about the work of another. Examples of cheating include but are not limited to:
 
-1. Submitting another's work as one's own or allowing another to submit one's work as though it were his or hers. 
+1. Submitting another's work as one's own or allowing another to submit one's work as though it were his or hers
 
-2. Failure to acknowledge properly authorities quoted, cited, or consulted in the preparation of written work (plagiarism). 
+2. Failure to acknowledge properly authorities quoted, cited, or consulted in the preparation of written work (plagiarism)
 
-3. The use of any resources during an examination without permission of the instructor. 
+3. The use of any resources during an examination without permission of the instructor
 
-4. The getting or giving of unauthorized help on assignments. 
+4. The getting or giving of unauthorized help on assignments
 
-5. Tampering with experimental data to obtain a "desired" result or creating results for experiments not done (dry labbing). 
+5. Tampering with experimental data to obtain a "desired" result or creating results for experiments not done (dry labbing)
 
-6. Tampering with or destroying the academic work of others. 
+6. Tampering with or destroying the academic work of others
 
-7. Submitting substantial portions of the same academic work for credit or honors more than once without permission of the present instructor. 
+7. Submitting substantial portions of the same academic work for credit or honors more than once without permission of the present instructor
 
-8. Lying about these or other academic matters. 
+8. Lying about these or other academic matters
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-18 
+18
 
-Students who are guilty of such academic violations can expect to be penalized. An instructor whose definition of cheating may differ from that stated above has the responsibility and obligation to inform students, in writing, at the beginning of the course. Those instructors who fail to do so have no basis for disciplinary action in instances of purported student dishonesty outside of the provisions stated above. 
+Students who are guilty of such academic violations can expect to be penalized. An instructor whose definition of cheating may differ from that stated above has the responsibility and obligation to inform students, in writing, at the beginning of the course. Those instructors who fail to do so have no basis for disciplinary action in instances of purported student dishonesty outside of the provisions stated above
 
-The course instructor shall have the authority to deal with instances of academic dishonesty within the framework of the following guidelines. 
+The course instructor shall have the authority to deal with instances of academic dishonesty within the framework of the following guidelines
 
-1. Faculty members must report any student who has significantly violated the policy on academic integrity to the Office of the Provost using the Academic Integrity Violation report form. Following two reports against a particular student, action will be initiated under provisions of the judicial code and may lead to dismissal of the student from the university. 
+1. Faculty members must report any student who has significantly violated the policy on academic integrity to the Office of the Provost using the Academic Integrity Violation report form. Following two reports against a particular student, action will be initiated under provisions of the judicial code and may lead to dismissal of the student from the university
 
-2. The maximum assessable penalty for a first offense shall not exceed double the original value of the assignment plus no option to make up the work in question. 
+2. The maximum assessable penalty for a first offense shall not exceed double the original value of the assignment plus no option to make up the work in question
 
-3. Alternate courses of action may include, but are not limited to, the following: 
+3. Alternate courses of action may include, but are not limited to, the following:
 
-   - a. Work may be redone for full or partial credit. 
+   - a. Work may be redone for full or partial credit
 
-   - b. Alternate assignments may be given for full or partial credit. 
+   - b. Alternate assignments may be given for full or partial credit
 
-   - c. Work may not be redone and no credit will be given for that particular assignment. 
+   - c. Work may not be redone and no credit will be given for that particular assignment
 
-The student has the right to appeal actions under this policy through the regular channels as established by the grade appeal process. 
+The student has the right to appeal actions under this policy through the regular channels as established by the grade appeal process
 
-Grounds for appeal are: 
+Grounds for appeal are:
 
-1. insufficient evidence of dishonesty; 
+1. insufficient evidence of dishonesty;
 
-2. penalties assessed in excess of those allowed under the above guidelines; or 
+2. penalties assessed in excess of those allowed under the above guidelines; or
 
-3. provisions of grade appeal cited in the Student Handbook. 
+3. provisions of grade appeal cited in the Student Handbook
 
-In all instances of academic dishonesty, instructors are urged to counsel offenders and, if necessary, refer them to the Provost for more extensive conversations. 
+In all instances of academic dishonesty, instructors are urged to counsel offenders and, if necessary, refer them to the Provost for more extensive conversations
 
-## ACADEMIC LEAVE OF ABSENCE 
+## ACADEMIC LEAVE OF ABSENCE
 
-Anderson University offers undergraduate students who are in good standing, as defined by Anderson University’s academic policy, and who are not subject to disciplinary action the opportunity to request an academic leave of absence. 
+Anderson University offers undergraduate students who are in good standing, as defined by Anderson University’s academic policy, and who are not subject to disciplinary action the opportunity to request an academic leave of absence
 
-The Leave of Absence Policy applies to: 
+The Leave of Absence Policy applies to:
 
-- students who are pursuing a degree from Anderson University but leave the university for a semester to participate in a study-abroad program, internship, or practicum, which is not done with an AU matriculation 
+- students who are pursuing a degree from Anderson University but leave the university for a semester to participate in a study-abroad program, internship, or practicum, which is not done with an AU matriculation
 
-- students who, due to circumstances beyond their control (such as the need to care for ill parents or the onset of a personal illness or military training), must suspend their enrollment in classes for a semester 
+- students who, due to circumstances beyond their control (such as the need to care for ill parents or the onset of a personal illness or military training), must suspend their enrollment in classes for a semester
 
-A leave of absence may be granted for one semester but, depending on the specific circumstances, may be granted for a full academic year if the student intends to return to Anderson University for the completion of their degree. To qualify, students must be in good academic and financial standing and must complete the required application forms. 
+A leave of absence may be granted for one semester but, depending on the specific circumstances, may be granted for a full academic year if the student intends to return to Anderson University for the completion of their degree. To qualify, students must be in good academic and financial standing and must complete the required application forms
 
-The academic records of students granted a leave of absence remain in an active status. While on academic leave of absence, the student retains the right to use some campus facilities such as the AU library, student counseling services, and career services. 
+The academic records of students granted a leave of absence remain in an active status. While on academic leave of absence, the student retains the right to use some campus facilities such as the AU library, student counseling services, and career services
 
-Due to Visa restrictions, international students are not eligible for academic leave and should consult with their Designated School Official (DSO). For more information, contact the Center for Student Life. 
+Due to Visa restrictions, international students are not eligible for academic leave and should consult with their Designated School Official (DSO). For more information, contact the Center for Student Life
 
-## ACADEMIC LOAD 
+## ACADEMIC LOAD
 
-A full-time academic load is 12-18 hours. Upon approval from their college dean, students with records of above-average academic performance may register at additional cost for additional hours. Summer school terms, international opportunity, or transfer work may not be used to establish a semester GPA. 
+A full-time academic load is 12-18 hours. Upon approval from their college dean, students with records of above-average academic performance may register at additional cost for additional hours. Summer school terms, international opportunity, or transfer work may not be used to establish a semester GPA
 
-The number of hours taken each semester is dependent upon a student’s GPA: 
+The number of hours taken each semester is dependent upon a student’s GPA:
 
-- Students with a 3.25 GPA may register for 19 hours 
+- Students with a 3.25 GPA may register for 19 hours
 
-- Students with a 3.5 GPA may register for 20 hours 
+- Students with a 3.5 GPA may register for 20 hours
 
-- Students with a 3.75 GPA may register for 21 hours 
+- Students with a 3.75 GPA may register for 21 hours
 
-These guidelines also apply to students who have earned 52 or more hours and whose cumulative GPAs at the time of registration meet the stated standards. The factors of previous academic achievement, types of courses to be taken, and demands of employment must also be recognized. 
+These guidelines also apply to students who have earned 52 or more hours and whose cumulative GPAs at the time of registration meet the stated standards. The factors of previous academic achievement, types of courses to be taken, and demands of employment must also be recognized
 
-## ACADEMIC NOTICE 
+## ACADEMIC NOTICE
 
-Students may be dropped from the university at any time when excessive class absences or academic performance indicates an inability or unwillingness to achieve normal progress toward a degree. Typically, however, students not in good academic standing are placed on academic notice for a maximum of two consecutive semesters. 
+Students may be dropped from the university at any time when excessive class absences or academic performance indicates an inability or unwillingness to achieve normal progress toward a degree. Typically, however, students not in good academic standing are placed on academic notice for a maximum of two consecutive semesters
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-19 
+19
 
-In general, students on academic notice may not participate in any extracurricular activities. The provost has the final authority over the conditions placed upon students on academic notice. 
+In general, students on academic notice may not participate in any extracurricular activities. The provost has the final authority over the conditions placed upon students on academic notice
 
-Before attending classes, students on academic notice are expected to sign an academic support contract with the director of educational support services. The contract may include, but is not limited to, such items as study assistance; restrictions on work commitments, housing, course load; being assigned to _LART 1000_ ; and class attendance. 
+Before attending classes, students on academic notice are expected to sign an academic support contract with the director of educational support services. The contract may include, but is not limited to, such items as study assistance; restrictions on work commitments, housing, course load; being assigned to _LART 1000_ ; and class attendance
 
-## ACADEMIC PROGRESSION 
+## ACADEMIC PROGRESSION
 
-Any student not achieving acceptable standards may be barred from returning to Anderson University for a period of at least one semester. Students who are readmitted after having been barred once are expected to attain a 2.0 current GPA in their next 12 hours and must continue to achieve or make substantial progress toward the stated minimum standards in order to continue. Readmitted students come in under academic notice status.  If the student is barred a second time, it will be for at least two years. Any subsequent readmission will be regarded as a final opportunity to continue studies at Anderson University. 
+Any student not achieving acceptable standards may be barred from returning to Anderson University for a period of at least one semester. Students who are readmitted after having been barred once are expected to attain a 2.0 current GPA in their next 12 hours and must continue to achieve or make substantial progress toward the stated minimum standards in order to continue. Readmitted students come in under academic notice status.  If the student is barred a second time, it will be for at least two years. Any subsequent readmission will be regarded as a final opportunity to continue studies at Anderson University
 
-The provost may request the Academic Review Committee to review and make recommendations regarding cases when necessary. Extenuating circumstances may justify the continuation of students whose cumulative GPA falls below the stated standards. 
+The provost may request the Academic Review Committee to review and make recommendations regarding cases when necessary. Extenuating circumstances may justify the continuation of students whose cumulative GPA falls below the stated standards
 
-## ACADEMIC STANDING 
+## ACADEMIC STANDING
 
-To remain in good academic standing, students must maintain the following standards: 
+To remain in good academic standing, students must maintain the following standards:
 
 |Hours Earned<br>GPA|Hours Earned<br>GPA|
 |---|---|
@@ -589,143 +589,143 @@ To remain in good academic standing, students must maintain the following standa
 |30-59|1.8|
 |60 or more|2.0|
 
-## ADVANCED PLACEMENT 
+## ADVANCED PLACEMENT
 
-Advanced placement and/or credit may be earned through placement examination for a maximum of 30 credits. The four examinations Anderson University recognizes, subject to approval by the academic departments, are: 
+Advanced placement and/or credit may be earned through placement examination for a maximum of 30 credits. The four examinations Anderson University recognizes, subject to approval by the academic departments, are:
 
-- the _College Board Advanced Placement (AP) Program_ 
+- the _College Board Advanced Placement (AP) Program_
 
-- the _College Level Examination Program (CLEP)_ 
+- the _College Level Examination Program (CLEP)_
 
-- the _Cambridge International Examinations_ (GCE A level) 
+- the _Cambridge International Examinations_ (GCE A level)
 
-- the _International Baccalaureate (IB) Program_ 
+- the _International Baccalaureate (IB) Program_
 
-Credit received by examination is tuition- free and applies toward graduation requirements. Contact the _Offce of the Registrar_ for additional information. 
+Credit received by examination is tuition- free and applies toward graduation requirements. Contact the _Offce of the Registrar_ for additional information
 
-## AUDITING A COURSE 
+## AUDITING A COURSE
 
-As a means of enrichment to the degree-seeking student, Anderson University recognizes the following ways of auditing a course: 
+As a means of enrichment to the degree-seeking student, Anderson University recognizes the following ways of auditing a course:
 
-1. Occasional class visitation : A student may wish to visit a class to hear a lecture and/or a discussion on a given topic. The instructor’s consent is the only necessary requirement. 
+1. Occasional class visitation : A student may wish to visit a class to hear a lecture and/or a discussion on a given topic. The instructor’s consent is the only necessary requirement
 
-2. Auditing one course without a fee : Any student registered for 12-18 hours who is making satisfactory academic progress may enroll in an additional class on an informal audit or recorded audit basis. 
+2. Auditing one course without a fee : Any student registered for 12-18 hours who is making satisfactory academic progress may enroll in an additional class on an informal audit or recorded audit basis
 
-   - A. Informal Audit : Infrequent attendance of a class with no course obligation. Although formal registration is not required, the student must have the written consent of the instructor. Permission forms are available in the _Offce of the Registrar_ . No record is made of the audit on the student’s permanent record. 
+   - A. Informal Audit : Infrequent attendance of a class with no course obligation. Although formal registration is not required, the student must have the written consent of the instructor. Permission forms are available in the _Offce of the Registrar_ . No record is made of the audit on the student’s permanent record
 
-   - B. Recorded Audit : Regular attendance with normal course obligations for the purpose of having the audit recorded on the student’s permanent record. In this situation, the student should follow these procedures: 
+   - B. Recorded Audit : Regular attendance with normal course obligations for the purpose of having the audit recorded on the student’s permanent record. In this situation, the student should follow these procedures:
 
-      - i. Register as an audit using the schedule of classes form or change of schedule form, signed by the advisor. 
+      - i. Register as an audit using the schedule of classes form or change of schedule form, signed by the advisor
 
-      - ii. Adhere to the instructor’s stated attendance policies. 
+      - ii. Adhere to the instructor’s stated attendance policies
 
-      - iii. Complete sufficient work of C- quality or better in order to have the audit recorded. 
+      - iii. Complete sufficient work of C- quality or better in order to have the audit recorded
 
-      - iv. Changes of schedules to or from an audit must be done no later than the end of the 5th week of the semester. 
+      - iv. Changes of schedules to or from an audit must be done no later than the end of the 5th week of the semester
 
-The course will be recorded on the student’s permanent record as an audit if the above conditions are met and the student does satisfactory work in the course. If the above conditions are not met, the instructor will notify the Office of the University Registrar and no record of the audit will be made. 
+The course will be recorded on the student’s permanent record as an audit if the above conditions are met and the student does satisfactory work in the course. If the above conditions are not met, the instructor will notify the Office of the University Registrar and no record of the audit will be made
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-20 
+20
 
-3. Auditing with payment of a fee : A student who does not meet the specific requirements as outlined above may, upon payment of the audit fee, audit a course as outlined under “A” or “B” above. Full-time students are entitled to audit one course per semester at no additional charge. Other students will be charged the current fee. 
+3. Auditing with payment of a fee : A student who does not meet the specific requirements as outlined above may, upon payment of the audit fee, audit a course as outlined under “A” or “B” above. Full-time students are entitled to audit one course per semester at no additional charge. Other students will be charged the current fee
 
-The courses will appear on the transcript with a grade of "AU" and will not count toward academic credit. Auditing is a policy privilege extended to full- and part-time AU students only. 
+The courses will appear on the transcript with a grade of "AU" and will not count toward academic credit. Auditing is a policy privilege extended to full- and part-time AU students only
 
-## CLASS ATTENDANCE 
+## CLASS ATTENDANCE
 
-Effective learning in a university requires the active involvement of both students and faculty. Students are expected to attend all classes unless prevented by extenuating circumstances. Inasmuch as students are responsible for the learning that may develop from both in-class and out-of-class experiences, they should anticipate absences for a good cause (such as varsity athletic trips, field trips, music, drama, and debate trips) and advise their instructors of such absences as far in advance as possible. 
+Effective learning in a university requires the active involvement of both students and faculty. Students are expected to attend all classes unless prevented by extenuating circumstances. Inasmuch as students are responsible for the learning that may develop from both in-class and out-of-class experiences, they should anticipate absences for a good cause (such as varsity athletic trips, field trips, music, drama, and debate trips) and advise their instructors of such absences as far in advance as possible
 
-Any absence from a class results in a loss of learning for the student. It is the student’s obligation to personally notify the individual course instructor(s) about any absence, in advance if possible. Students may be directly penalized only after the number of absences exceeds the number of class meeting hours per week. Where a student misses more than the number of classes stated above, the course instructor has the discretion to allow for the completion of missed work and to determine how such work will be evaluated, including possible penalties. 
+Any absence from a class results in a loss of learning for the student. It is the student’s obligation to personally notify the individual course instructor(s) about any absence, in advance if possible. Students may be directly penalized only after the number of absences exceeds the number of class meeting hours per week. Where a student misses more than the number of classes stated above, the course instructor has the discretion to allow for the completion of missed work and to determine how such work will be evaluated, including possible penalties
 
-## CLASS LEVEL IDENTIFICATION 
+## CLASS LEVEL IDENTIFICATION
 
-Class identification at Anderson University is determined as follows: 
+Class identification at Anderson University is determined as follows:
 
-- Freshman : A student who has completed fewer than 24 hours of college credit. 
+- Freshman : A student who has completed fewer than 24 hours of college credit
 
-- Sophomore : A student who has completed 24-51 hours of college credit. 
+- Sophomore : A student who has completed 24-51 hours of college credit
 
-- Junior : A student who has completed 52-87 hours of college credit. 
+- Junior : A student who has completed 52-87 hours of college credit
 
-- Senior : A student who has completed 88 or more hours of college credit. 
+- Senior : A student who has completed 88 or more hours of college credit
 
-- Lower-Division : Freshman and sophomore students. 
+- Lower-Division : Freshman and sophomore students
 
-- Upper-Division : Junior and senior students. 
+- Upper-Division : Junior and senior students
 
-- Part-time : A student carrying 1-11 hours. 
+- Part-time : A student carrying 1-11 hours
 
-- Special : Audit, guest student, or high school student. Also includes children or adults who are taking music lessons but are not enrolled in academic work at the university level. 
+- Special : Audit, guest student, or high school student. Also includes children or adults who are taking music lessons but are not enrolled in academic work at the university level
 
-## COURSE REPETITION 
+## COURSE REPETITION
 
-Students may repeat courses for which they received a C- or lower by simply re-enrolling in the same institutional courses. If students wish to repeat courses for which the departmental captions or numbers have changed, they must petition the university registrar. Furthermore, students may repeat courses for which they received a C or above by petitioning the dean of the college in which each course is offered to be granted an exception. The following rules apply in all cases: 
+Students may repeat courses for which they received a C- or lower by simply re-enrolling in the same institutional courses. If students wish to repeat courses for which the departmental captions or numbers have changed, they must petition the university registrar. Furthermore, students may repeat courses for which they received a C or above by petitioning the dean of the college in which each course is offered to be granted an exception. The following rules apply in all cases:
 
-- Students may repeat any given course a total of only two times during their academic career. 
+- Students may repeat any given course a total of only two times during their academic career
 
-- Withdrawal (W, WF, or AW) grade counts as an attempt, but it does not change the previous grade. 
+- Withdrawal (W, WF, or AW) grade counts as an attempt, but it does not change the previous grade
 
-- All previous grades received will remain on students’ academic records. 
+- All previous grades received will remain on students’ academic records
 
-- Only the most recent grade received will be used in calculating GPA. 
+- Only the most recent grade received will be used in calculating GPA
 
-- Credit hours earned toward graduation will be counted for only the most recent course taken. 
+- Credit hours earned toward graduation will be counted for only the most recent course taken
 
-This policy does not apply to Anderson University credit by examination or transfer credit. The course repetition policy does not apply to courses taken at other colleges or universities and transferred to Anderson University. 
+This policy does not apply to Anderson University credit by examination or transfer credit. The course repetition policy does not apply to courses taken at other colleges or universities and transferred to Anderson University
 
-## CREDIT HOUR POLICY 
+## CREDIT HOUR POLICY
 
-Anderson University’s definition of a credit hour formalizes compliance with federal and accreditation expectations and helps to provide consistency throughout the University. In general, academic courses constitute between 35-45 hours of learning engagement for each credit hour earned. For example, one credit is equivalent to 50 minutes (minimum) of class time (direct instruction) and a minimum of two hours of out of class student work per week. Therefore, a three-credit course will typically meet 150 minutes per week for 15 weeks (37.50 hours, direct faculty instruction). Credit hour guidelines for various modalities are as follows: 
+Anderson University’s definition of a credit hour formalizes compliance with federal and accreditation expectations and helps to provide consistency throughout the University. In general, academic courses constitute between 35-45 hours of learning engagement for each credit hour earned. For example, one credit is equivalent to 50 minutes (minimum) of class time (direct instruction) and a minimum of two hours of out of class student work per week. Therefore, a three-credit course will typically meet 150 minutes per week for 15 weeks (37.50 hours, direct faculty instruction). Credit hour guidelines for various modalities are as follows:
 
-## Classroom Instruction (Face-to-Face) 
+## Classroom Instruction (Face-to-Face)
 
-- Lecture/Seminar: Courses focus on principles, concepts or ideas, lecture, discussion and demonstration. A semester credit hour is earned across 15 weeks for three 50-minute sessions per week or two 75-minute sessions per week of direct faculty instruction with a minimum of two hours of student learning engagement outside of class per week throughout the semester. For example, a typical three-credit hour course meets for three, 50-minute sessions or two, 75-minute sessions a week for fifteen weeks. Most lecture and seminar courses are awarded 3 credits. 
+- Lecture/Seminar: Courses focus on principles, concepts or ideas, lecture, discussion and demonstration. A semester credit hour is earned across 15 weeks for three 50-minute sessions per week or two 75-minute sessions per week of direct faculty instruction with a minimum of two hours of student learning engagement outside of class per week throughout the semester. For example, a typical three-credit hour course meets for three, 50-minute sessions or two, 75-minute sessions a week for fifteen weeks. Most lecture and seminar courses are awarded 3 credits
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-21 
+21
 
-- Accelerated: Courses offered within the standard 15-week term but in an accelerated format (e.g. 7 or 8 weeks). The content and substantive learning outcomes are the same. These courses must meet the definition of standard lecture contact time and out of class engaged learning within the time frame the accelerated version is offered. 
+- Accelerated: Courses offered within the standard 15-week term but in an accelerated format (e.g. 7 or 8 weeks). The content and substantive learning outcomes are the same. These courses must meet the definition of standard lecture contact time and out of class engaged learning within the time frame the accelerated version is offered
 
-## Practical Application 
+## Practical Application
 
-- Laboratory: Courses where the major focus is on “hands on” experience to support student learning (use of equipment, activities, tools, machines generally found in a laboratory). One to two Laboratory credits represents a minimum of 1 hour per week of lecture or discussion plus a minimum of 2-4 hours of scheduled supervised or independent laboratory work. 
+- Laboratory: Courses where the major focus is on “hands on” experience to support student learning (use of equipment, activities, tools, machines generally found in a laboratory). One to two Laboratory credits represents a minimum of 1 hour per week of lecture or discussion plus a minimum of 2-4 hours of scheduled supervised or independent laboratory work
 
-- Studio: Courses taught as applied study on a private or semi-private basis. Students receive anywhere from one to two credits for applied music courses. Private instruction ranges from 30 to 60 minutes with independent practice as prescribed by the instructor. 
+- Studio: Courses taught as applied study on a private or semi-private basis. Students receive anywhere from one to two credits for applied music courses. Private instruction ranges from 30 to 60 minutes with independent practice as prescribed by the instructor
 
-- Internship/Field Experience: Courses developed for independent learning and the development and application of job related or practical skills in a particular discipline. These courses allow for observation, participation, and fieldwork, and are generally offered off campus. Internship time includes a combination of supervised time by approved experts outside the university, student assignments, and time supervised by a university instructor. 
+- Internship/Field Experience: Courses developed for independent learning and the development and application of job related or practical skills in a particular discipline. These courses allow for observation, participation, and fieldwork, and are generally offered off campus. Internship time includes a combination of supervised time by approved experts outside the university, student assignments, and time supervised by a university instructor
 
-- Practicum/Student Teaching: Courses developed for independent learning and the development and application of job-related or practical skills in a particular discipline. These courses allow for observation, participation, client evaluation, fieldwork, and are offered off campus. Internship time includes a combination of supervised time by approved experts outside the university, student assignments, and time supervised by a university instructor (see above). 
+- Practicum/Student Teaching: Courses developed for independent learning and the development and application of job-related or practical skills in a particular discipline. These courses allow for observation, participation, client evaluation, fieldwork, and are offered off campus. Internship time includes a combination of supervised time by approved experts outside the university, student assignments, and time supervised by a university instructor (see above)
 
-- Clinical Placement: Supervised experiences where students are afforded an opportunity to apply skills and techniques acquired from assessment and intervention-oriented course material. Number of hours varies by academic program based on clinical placement site hour requirements and student assignments (see above). An equivalent amount of work is required in courses and academic activities where direct instruction is not the primary mode of learning, such as independent study, and directed study, online, and hybrid courses. Credits will be awarded on the basis of documented learning objectives, expected learning outcomes, and student workload expectations within a specified period of academically engaged time. 
+- Clinical Placement: Supervised experiences where students are afforded an opportunity to apply skills and techniques acquired from assessment and intervention-oriented course material. Number of hours varies by academic program based on clinical placement site hour requirements and student assignments (see above). An equivalent amount of work is required in courses and academic activities where direct instruction is not the primary mode of learning, such as independent study, and directed study, online, and hybrid courses. Credits will be awarded on the basis of documented learning objectives, expected learning outcomes, and student workload expectations within a specified period of academically engaged time
 
-- Independent Study: Courses that permit a student to study a subject or topic in considerable depth beyond the scope of a regular course. Students meet periodically, as agreed upon with the faculty member, for the duration of the course. University faculty provides guidance, critique, and review of the student’s work. Students demonstrate competency through the completion of a final assessment either by submitting a final paper, project or portfolio, etc. as required by the faculty member. Credit hours are assigned based on approximately 35-45 hours of learning engagement per credit hour for the amount of activity associated with the course, faculty supervision, and amount of student outside work. 
+- Independent Study: Courses that permit a student to study a subject or topic in considerable depth beyond the scope of a regular course. Students meet periodically, as agreed upon with the faculty member, for the duration of the course. University faculty provides guidance, critique, and review of the student’s work. Students demonstrate competency through the completion of a final assessment either by submitting a final paper, project or portfolio, etc. as required by the faculty member. Credit hours are assigned based on approximately 35-45 hours of learning engagement per credit hour for the amount of activity associated with the course, faculty supervision, and amount of student outside work
 
-- Directed Study: Courses that are regular courses, not available in the semester and that the student has not been able to schedule in the regular sequence. Scope, assignments, and requirements for a directed study course are the same as for the regular course with the same course number, title, and description. Students meet with the instructor as arranged, completing approximately 35-45 hours of learning engagement per credit hour which may include face-to-face instruction, independent work, online discussion, and written assignments or tests. 
+- Directed Study: Courses that are regular courses, not available in the semester and that the student has not been able to schedule in the regular sequence. Scope, assignments, and requirements for a directed study course are the same as for the regular course with the same course number, title, and description. Students meet with the instructor as arranged, completing approximately 35-45 hours of learning engagement per credit hour which may include face-to-face instruction, independent work, online discussion, and written assignments or tests
 
-- Hybrid: A course is considered hybrid (or blended) when it is composed of both online learning and classroom learning and incorporates the best features of both environments to meet the learning objectives of the course. No less than 51% of the course is to be scheduled as face-to-face, and no more than 49% of the course is to be scheduled as online. For a three-credit course, no less than 76.50 minutes (1.275 hours) a week can be scheduled face-to-face and no more than 73.50 minutes (1.225 hours) per a week can be scheduled online equaling a total of 150 minutes of instruction per week. 
+- Hybrid: A course is considered hybrid (or blended) when it is composed of both online learning and classroom learning and incorporates the best features of both environments to meet the learning objectives of the course. No less than 51% of the course is to be scheduled as face-to-face, and no more than 49% of the course is to be scheduled as online. For a three-credit course, no less than 76.50 minutes (1.275 hours) a week can be scheduled face-to-face and no more than 73.50 minutes (1.225 hours) per a week can be scheduled online equaling a total of 150 minutes of instruction per week
 
-- Online (Asynchronous): Courses where “instructors and students do not meet in the same space”. Regardless of mode of instruction, courses should be consistent in terms of quality, assessment, learning outcomes, requirements, etc. as courses offered face-to-face with the same department prefix, number, and course title. Faculty must demonstrate active academic engagement through interactive methods, including but not limited to, interactive tutorials, group discussions, virtual study/project groups, discussion boards, chat rooms, etc. Simply logging on, either by faculty or students, does not constitute active student learning. Credit hours assigned to a course delivered online must equal the number of credit hours for the same course delivered face-to-face. 
+- Online (Asynchronous): Courses where “instructors and students do not meet in the same space”. Regardless of mode of instruction, courses should be consistent in terms of quality, assessment, learning outcomes, requirements, etc. as courses offered face-to-face with the same department prefix, number, and course title. Faculty must demonstrate active academic engagement through interactive methods, including but not limited to, interactive tutorials, group discussions, virtual study/project groups, discussion boards, chat rooms, etc. Simply logging on, either by faculty or students, does not constitute active student learning. Credit hours assigned to a course delivered online must equal the number of credit hours for the same course delivered face-to-face
 
-_Revised Expanded Policy: March 18,2019_ 
+_Revised Expanded Policy: March 18,2019_
 
-## DEAN’S LIST 
+## DEAN’S LIST
 
-Full-time students (enrolled in 12 or more _graded_ hours) who earn a semester GPA of 3.5 to 3.99 qualify for the Dean’s List. Full-time students who earn a perfect 4.0 semester GPA qualify for the Dean’s List with the additional honor of “Special Distinction.” 
+Full-time students (enrolled in 12 or more _graded_ hours) who earn a semester GPA of 3.5 to 3.99 qualify for the Dean’s List. Full-time students who earn a perfect 4.0 semester GPA qualify for the Dean’s List with the additional honor of “Special Distinction.”
 
-## GRADING 
+## GRADING
 
-## Grades, Hours, and Credit Points 
+## Grades, Hours, and Credit Points
 
-An “hour” is coursework equivalent to one class hour per week for a semester. A “credit point” is a measure of the quality of work performed. Credit points are figured only on work completed at Anderson University. 
+An “hour” is coursework equivalent to one class hour per week for a semester. A “credit point” is a measure of the quality of work performed. Credit points are figured only on work completed at Anderson University
 
-Grade reports are issued by the _Offce of the Registrar_ in the following terms: 
+Grade reports are issued by the _Offce of the Registrar_ in the following terms:
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-22 
+22
 
 |A, A-|Achievement of superior quality in course objectives|
 |---|---|
@@ -746,7 +746,7 @@ Anderson University Undergraduate Catalog 2025-26
 |CR|Work completed at a satisfactory level|
 |NC|Work completed at an unsatisfactory level|
 
-Students may withdraw from courses during the first five weeks without having a notation on their transcripts; they may withdraw with a recorded W after the fifth week but no later than the end of the 10th week. Students may change their registration to or from S/U during the first five weeks of the semester. No withdrawals or changes in registration are permitted after the 10th week. 
+Students may withdraw from courses during the first five weeks without having a notation on their transcripts; they may withdraw with a recorded W after the fifth week but no later than the end of the 10th week. Students may change their registration to or from S/U during the first five weeks of the semester. No withdrawals or changes in registration are permitted after the 10th week
 
 |Creditpoints per hour:|A|=|4.0|
 |---|---|---|---|
@@ -760,15 +760,15 @@ Students may withdraw from courses during the first five weeks without having a 
 |D+||=|1.33|
 |D||=|1.0|
 
-No credit points are given for courses bearing grades of CR, NC, S, U, F, I, W, WF, or AW. The credit point index is the ratio of the number of credit points earned to the number of hours attempted (excluding CR, NC, S, U, and W). No credit points are issued for transfer courses. 
+No credit points are given for courses bearing grades of CR, NC, S, U, F, I, W, WF, or AW. The credit point index is the ratio of the number of credit points earned to the number of hours attempted (excluding CR, NC, S, U, and W). No credit points are issued for transfer courses
 
-Mid-semester grades are available to all students online. Final semester grades are based on the work of the entire semester, which includes examinations and evaluations throughout the course. 
+Mid-semester grades are available to all students online. Final semester grades are based on the work of the entire semester, which includes examinations and evaluations throughout the course
 
-## Grade Point Average 
+## Grade Point Average
 
-Grade point average (GPA) is computed by dividing the total number of credit points accumulated in courses for which a grade of A, A-, B+, B, B-, C+, C, C-, D+, D, F, or WF was assigned by the total number of hours attempted in those courses. Courses for which a grade of IP, S, U, CR, NC, W, AW, or NR was assigned are not included in computing the GPA. 
+Grade point average (GPA) is computed by dividing the total number of credit points accumulated in courses for which a grade of A, A-, B+, B, B-, C+, C, C-, D+, D, F, or WF was assigned by the total number of hours attempted in those courses. Courses for which a grade of IP, S, U, CR, NC, W, AW, or NR was assigned are not included in computing the GPA
 
-When the course is repeated, only the hours and credit points for the latest grade assigned for that course are counted in the total hours attempted and total credit points. The following example shows how semester GPA and cumulative GPA are calculated: 
+When the course is repeated, only the hours and credit points for the latest grade assigned for that course are counted in the total hours attempted and total credit points. The following example shows how semester GPA and cumulative GPA are calculated:
 
 |Course|Hours Attempted|Grade|Credit Points|
 |---|---|---|---|
@@ -779,9 +779,9 @@ When the course is repeated, only the hours and credit points for the latest gra
 |HIST 2030|3|F|0.0|
 |Semester Total|16|32.68||
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-23 
+23
 
 |Previous Semesters|27|74.0|74.0|
 |---|---|---|---|
@@ -790,277 +790,277 @@ Anderson University Undergraduate Catalog 2025-26
 |÷  Hours Attempted:|16<br> ÷  Hours Attempted:||43|
 |<br>=  Semester GPA:|2.04|=  Cumulative GPA:|2.48|
 
-_The GPA is truncated (not rounded). For example, a 2.999 GPA is still a 2.99, NOT a 3.0._ 
+_The GPA is truncated (not rounded). For example, a 2.999 GPA is still a 2.99, NOT a 3.0._
 
-## Grade Appeal 
+## Grade Appeal
 
-At times, students might believe there is adequate reason for grade reconsideration. Students with such grievances have the right to make an appeal and receive a fair hearing. The following are the only grounds for which a course grade may be appealed: 
+At times, students might believe there is adequate reason for grade reconsideration. Students with such grievances have the right to make an appeal and receive a fair hearing. The following are the only grounds for which a course grade may be appealed:
 
-- An obvious error in the calculation of the grade 
+- An obvious error in the calculation of the grade
 
-- The assignment of a course grade to a particular student by application of more exacting or demanding standards than were applied to other students in the course 
+- The assignment of a course grade to a particular student by application of more exacting or demanding standards than were applied to other students in the course
 
-- The assignment of a course grade to a particular student on some basis other than performance in the course 
+- The assignment of a course grade to a particular student on some basis other than performance in the course
 
-- The assignment of a course grade by a substantial departure from the instructor’s previously announced standards. 
+- The assignment of a course grade by a substantial departure from the instructor’s previously announced standards
 
-The following procedure outlines the steps in the grade-appeal process: 
+The following procedure outlines the steps in the grade-appeal process:
 
-- STEP 1 :  Students are expected to attempt to resolve the issue through consultation with the instructor. The grade appeal process must be initiated by the student by email as soon as possible, but no later than 15 calendar days after grades have been posted by the University Registrar. Extenuating circumstances are possible in which it would not be feasible or advisable to register an appeal with the instructor. In such unusual circumstances, students may present their appeal directly to the chair of the department in which the course was offered. 
+- STEP 1 :  Students are expected to attempt to resolve the issue through consultation with the instructor. The grade appeal process must be initiated by the student by email as soon as possible, but no later than 15 calendar days after grades have been posted by the University Registrar. Extenuating circumstances are possible in which it would not be feasible or advisable to register an appeal with the instructor. In such unusual circumstances, students may present their appeal directly to the chair of the department in which the course was offered
 
-- STEP 2 :  Students who are unable to reach a satisfactory agreement with the instructor or who, for reasons stated previously, have not conferred with the instructor, may file a written petition by contacting the University Registrar. The University Registrar will direct the written petition to the appropriate department chair or program director, requesting the chair or director review the appeal. If the department chair is the instructor who issued the grade being appealed, then the written petition will be sent by the University Registrar to the appropriate college dean.  Such a petition is to be filed within five calendar days after the discussion with the instructor, or if the contact has been by email, within five calendar days following the receipt of the instructor’s reply. In filing appeals, students must state their appeal clearly, indicate the date(s) on which they consulted with the instructor, and state briefly their interpretation of the outcome of the discussion. 
+- STEP 2 :  Students who are unable to reach a satisfactory agreement with the instructor or who, for reasons stated previously, have not conferred with the instructor, may file a written petition by contacting the University Registrar. The University Registrar will direct the written petition to the appropriate department chair or program director, requesting the chair or director review the appeal. If the department chair is the instructor who issued the grade being appealed, then the written petition will be sent by the University Registrar to the appropriate college dean.  Such a petition is to be filed within five calendar days after the discussion with the instructor, or if the contact has been by email, within five calendar days following the receipt of the instructor’s reply. In filing appeals, students must state their appeal clearly, indicate the date(s) on which they consulted with the instructor, and state briefly their interpretation of the outcome of the discussion
 
-- STEP 3 :  Upon receiving a petition for a grade appeal, the department chair or program director might seek additional information from the student (through interview or by email) in an attempt to understand as fully as possible, the nature of and the justification for the appeal. The department chair or program director will then confer with the faculty member and, at his or her discretion, may talk with the instructor and student together. 
+- STEP 3 :  Upon receiving a petition for a grade appeal, the department chair or program director might seek additional information from the student (through interview or by email) in an attempt to understand as fully as possible, the nature of and the justification for the appeal. The department chair or program director will then confer with the faculty member and, at his or her discretion, may talk with the instructor and student together
 
-- STEP 4 :  If the department chair or program director is unable to resolve the issue to the student’s satisfaction, he or she will ask the chairperson of the Academic Policies & Appeals Committee to call a special meeting of the committee to review all the information available, to give a hearing to the student (through interview or by email) at the discretion of the committee, and also to the instructor. The committee may consult with other students who were in the same course and also with other faculty member(s) in the instructor’s department. 
+- STEP 4 :  If the department chair or program director is unable to resolve the issue to the student’s satisfaction, he or she will ask the chairperson of the Academic Policies & Appeals Committee to call a special meeting of the committee to review all the information available, to give a hearing to the student (through interview or by email) at the discretion of the committee, and also to the instructor. The committee may consult with other students who were in the same course and also with other faculty member(s) in the instructor’s department
 
-- STEP 5 :  When the Academic Policies & Appeals Committee has made a thorough review of the case and has reached a decision about the appeal presented, it shall make its decision and recommendations known, in writing, to the student, to the instructor of the course, to the college dean, and to the department chair or program director. The committee may make appropriate recommendations regarding procedures to the instructor. If a semester grade is in question, the committee may recommend to the instructor that a change of grade be considered. In unusual circumstances, the provost and college dean may initiate such a change if the instructor will not do so and there appears to be compelling reasons for such action. The decision of the committee is final. 
+- STEP 5 :  When the Academic Policies & Appeals Committee has made a thorough review of the case and has reached a decision about the appeal presented, it shall make its decision and recommendations known, in writing, to the student, to the instructor of the course, to the college dean, and to the department chair or program director. The committee may make appropriate recommendations regarding procedures to the instructor. If a semester grade is in question, the committee may recommend to the instructor that a change of grade be considered. In unusual circumstances, the provost and college dean may initiate such a change if the instructor will not do so and there appears to be compelling reasons for such action. The decision of the committee is final
 
-## Credit/Non-Credit Grading 
+## Credit/Non-Credit Grading
 
-Some courses are offered only as credit or non-credit. As such, they appear in the master schedule of classes with a CR/NC registration. The hours taken are credited toward graduation but will not be considered in determining the grade point average (or included in considering eligibility for the Dean’s List). 
+Some courses are offered only as credit or non-credit. As such, they appear in the master schedule of classes with a CR/NC registration. The hours taken are credited toward graduation but will not be considered in determining the grade point average (or included in considering eligibility for the Dean’s List)
 
-## Satisfactory/Unsatisfactory Grading 
+## Satisfactory/Unsatisfactory Grading
 
-In addition to registering for courses on a regular-grade basis, students also have the option of registering on a satisfactory/unsatisfactory (S/U) basis. 
+In addition to registering for courses on a regular-grade basis, students also have the option of registering on a satisfactory/unsatisfactory (S/U) basis
 
-The S/U option seeks to facilitate intellectual exploration in search of a major, in support of a major, or in pursuit of a personal interest; to offer the flexibility of a grading process which most appropriately relates to the objectives of a 
+The S/U option seeks to facilitate intellectual exploration in search of a major, in support of a major, or in pursuit of a personal interest; to offer the flexibility of a grading process which most appropriately relates to the objectives of a
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-24 
+24
 
-particular course; and to provide an opportunity, without grade-point consideration, for students to assess their own interests and abilities. This encourages greater communication between students and faculty concerning the meaning of evaluation. Conditions for taking classes satisfactory/unsatisfactory are as follows: 
+particular course; and to provide an opportunity, without grade-point consideration, for students to assess their own interests and abilities. This encourages greater communication between students and faculty concerning the meaning of evaluation. Conditions for taking classes satisfactory/unsatisfactory are as follows:
 
-- Choosing the S/U option is always at the student’s discretion. 
+- Choosing the S/U option is always at the student’s discretion
 
-- S/U options are limited to 12 hours for the student’s entire college career and a maximum of 4 hours taken S/U in any one semester. 
+- S/U options are limited to 12 hours for the student’s entire college career and a maximum of 4 hours taken S/U in any one semester
 
-- Liberal arts courses taken to meet liberal arts requirements may not be taken S/U. 
+- Liberal arts courses taken to meet liberal arts requirements may not be taken S/U
 
-- Courses in the academic major or minor or teacher certification programs may not be taken S/U once the major or minor or program has been declared. 
+- Courses in the academic major or minor or teacher certification programs may not be taken S/U once the major or minor or program has been declared
 
-- If a student subsequently elects to major in a discipline in which a course had been graded satisfactory, that course, but no other such courses may be counted toward the major or minor. 
+- If a student subsequently elects to major in a discipline in which a course had been graded satisfactory, that course, but no other such courses may be counted toward the major or minor
 
-- An S signifies a grade of C- or better and U a grade lower than C-. 
+- An S signifies a grade of C- or better and U a grade lower than C-
 
-- Courses taken on the S/U basis will not be considered in determining GPA. 
+- Courses taken on the S/U basis will not be considered in determining GPA
 
-Students should consult their advisors or the chair of the department in which they major regarding the desirability of taking courses S/U. The end of the fifth week is the last day for making a change in registration to or from S/U. 
+Students should consult their advisors or the chair of the department in which they major regarding the desirability of taking courses S/U. The end of the fifth week is the last day for making a change in registration to or from S/U
 
-## GRADUATION PROCEDURES 
+## GRADUATION PROCEDURES
 
-A student’s catalog expires 10 years after matriculation. If a catalog has expired, the requirements of the graduation catalog must be met. In matters of course standards, prerequisites, eligibility to continue, and other academic policies, students are subject to the regulations and procedures of the current academic year. 
+A student’s catalog expires 10 years after matriculation. If a catalog has expired, the requirements of the graduation catalog must be met. In matters of course standards, prerequisites, eligibility to continue, and other academic policies, students are subject to the regulations and procedures of the current academic year
 
-To graduate, students must be in good standing with the university and must have financial arrangements satisfactorily made with the Office of Financial Aid & Scholarships. All incomplete grades must be removed, all institutional examination results must be recorded, and all transfer credits from other institutions must be on file in the Office of the University Registrar. The university reserves the right to remove students from participation in commencement based on academic deficiencies and/or disciplinary actions as defined by the dean of student life at any time. Petitions to graduate in absentia must be filed with the university registrar at least three weeks prior to commencement. 
+To graduate, students must be in good standing with the university and must have financial arrangements satisfactorily made with the Office of Financial Aid & Scholarships. All incomplete grades must be removed, all institutional examination results must be recorded, and all transfer credits from other institutions must be on file in the Office of the University Registrar. The university reserves the right to remove students from participation in commencement based on academic deficiencies and/or disciplinary actions as defined by the dean of student life at any time. Petitions to graduate in absentia must be filed with the university registrar at least three weeks prior to commencement
 
-An Application for Graduation must be filed with the _Offce of the Registrar_ by the following deadlines to allow sufficient time for processing: 
+An Application for Graduation must be filed with the _Offce of the Registrar_ by the following deadlines to allow sufficient time for processing:
 
-- December and May graduates: by the last Friday in April 
+- December and May graduates: by the last Friday in April
 
-- August graduates: by the first Monday in October 
+- August graduates: by the first Monday in October
 
-## DIRECTED OR INDEPENDENT STUDY 
+## DIRECTED OR INDEPENDENT STUDY
 
-On occasion a student may need or desire to take a course out of schedule (i.e. Directed Study) or to do individual work on a project or topic (i.e. Independent Study) under the supervision of a faculty member. 
+On occasion a student may need or desire to take a course out of schedule (i.e. Directed Study) or to do individual work on a project or topic (i.e. Independent Study) under the supervision of a faculty member
 
-Directed Study : When a student is unable to take a required catalog course as regularly scheduled the student may petition to the faculty member to take the course as a Directed Study. The same course objectives are used with the only difference being that the student completes the course independently under the direction of the faculty member. 
+Directed Study : When a student is unable to take a required catalog course as regularly scheduled the student may petition to the faculty member to take the course as a Directed Study. The same course objectives are used with the only difference being that the student completes the course independently under the direction of the faculty member
 
-Independent Study : Students interested in pursuing academic credit for an individually constructed course under the supervision of a faculty member may request to develop an Independent Study syllabus. An Independent Study requires a syllabus/learning contract, mutually constructed by the student and faculty member, and must have permission from the faculty member, department chair, academic advisor, and dean. Students may schedule a maximum of 8 hours of independent study applicable to a major, 4 hours to a minor, and no more than 4 hours in a given semester. 
+Independent Study : Students interested in pursuing academic credit for an individually constructed course under the supervision of a faculty member may request to develop an Independent Study syllabus. An Independent Study requires a syllabus/learning contract, mutually constructed by the student and faculty member, and must have permission from the faculty member, department chair, academic advisor, and dean. Students may schedule a maximum of 8 hours of independent study applicable to a major, 4 hours to a minor, and no more than 4 hours in a given semester
 
-## INSTITUTIONAL EXAM 
+## INSTITUTIONAL EXAM
 
-Anderson University recognizes the need for student advancement according to ability and achievement. Therefore, students who are competent in a given subject by reason of their particular background or experience outside the university classroom may choose to receive credit by institutional examination. Examinations are to be taken prior to enrollment in the next level course. Not all courses, however, are appropriate for credit by institutional examination. 
+Anderson University recognizes the need for student advancement according to ability and achievement. Therefore, students who are competent in a given subject by reason of their particular background or experience outside the university classroom may choose to receive credit by institutional examination. Examinations are to be taken prior to enrollment in the next level course. Not all courses, however, are appropriate for credit by institutional examination
 
-Results from Anderson University institutional examinations are considered for purposes of advanced standing or advanced placement. 
+Results from Anderson University institutional examinations are considered for purposes of advanced standing or advanced placement
 
-Students must earn a grade of C- or above in the Anderson University institutional examinations to receive credit for the courses. Satisfactory-unsatisfactory (S/U) grading option is available as well as regular letter grades. Graduating seniors must have examination results on file in the _Offce of the Registrar_ by April 1 of their graduation year. 
+Students must earn a grade of C- or above in the Anderson University institutional examinations to receive credit for the courses. Satisfactory-unsatisfactory (S/U) grading option is available as well as regular letter grades. Graduating seniors must have examination results on file in the _Offce of the Registrar_ by April 1 of their graduation year
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-25 
+25
 
-## INTERNSHIPS 
+## INTERNSHIPS
 
-So as to comply with federal and state regulations and to address concerns for university liability, the University requires students to register for an internship prior to the start of the internship and within university deadlines. Granting credit for internships requires enrollment in the class during the semester/term in which participation in the internship occurs. If an internship extends to more than one semester or term, the student’s registration must reflect the credit hours earned each semester or term. This policy satisfies the need to limit university liability and to comply with governmental regulations concerning financial aid. 
+So as to comply with federal and state regulations and to address concerns for university liability, the University requires students to register for an internship prior to the start of the internship and within university deadlines. Granting credit for internships requires enrollment in the class during the semester/term in which participation in the internship occurs. If an internship extends to more than one semester or term, the student’s registration must reflect the credit hours earned each semester or term. This policy satisfies the need to limit university liability and to comply with governmental regulations concerning financial aid
 
-## LATIN HONORS 
+## LATIN HONORS
 
-Students earning a cumulative GPA of 3.7 or above will graduate cum laude; 3.8 and above, magna cum laude; and 3.9 and above, summa cum laude. Such honors are open only to students who have earned the qualifying GPA with a minimum of 60 hours at Anderson University. 
+Students earning a cumulative GPA of 3.7 or above will graduate cum laude; 3.8 and above, magna cum laude; and 3.9 and above, summa cum laude. Such honors are open only to students who have earned the qualifying GPA with a minimum of 60 hours at Anderson University
 
-## PROGRAM AND POLICY CHANGES 
+## PROGRAM AND POLICY CHANGES
 
-The schedule of classes for each academic year is published the preceding February. Both the master class schedule and this catalog are regarded as official statements of anticipated course offerings. The university reserves the right to change or cancel any course for which enrollment is less than six students or for which satisfactory arrangements cannot be made. 
+The schedule of classes for each academic year is published the preceding February. Both the master class schedule and this catalog are regarded as official statements of anticipated course offerings. The university reserves the right to change or cancel any course for which enrollment is less than six students or for which satisfactory arrangements cannot be made
 
-In addition to courses listed in the catalog, departments may offer special seminars or other courses, as the need arises, under the numbers 1600,2600,3600, and 4600. 
+In addition to courses listed in the catalog, departments may offer special seminars or other courses, as the need arises, under the numbers 1600,2600,3600, and 4600
 
-## RESIDENCY REQUIREMENT 
+## RESIDENCY REQUIREMENT
 
-To earn a degree from Anderson University, students must be in residence at the university for the last 24 hours applicable to the degree. Under some circumstances, and with special permission, a maximum of six hours of the final 24 hours may be taken elsewhere. Contact the _Offce of the Registrar_ for more information. 
+To earn a degree from Anderson University, students must be in residence at the university for the last 24 hours applicable to the degree. Under some circumstances, and with special permission, a maximum of six hours of the final 24 hours may be taken elsewhere. Contact the _Offce of the Registrar_ for more information
 
-## TRANSCRIPTS 
+## TRANSCRIPTS
 
-Students wanting transcripts of their university work must submit a written request to the _Offce of the Registrar_ , giving at least one week’s notice. The appropriate fee is to be included with the request. All financial obligations to the university must be arranged to the satisfaction of the Business Office before transcripts will be released directly to an individual. Transcripts may be sent directly to an employer,  potential employer, or an educational institution without financial obligations being met. Transcripts may be ordered online at _getmytranscript.org_ . 
+Students wanting transcripts of their university work must submit a written request to the _Offce of the Registrar_ , giving at least one week’s notice. The appropriate fee is to be included with the request. All financial obligations to the university must be arranged to the satisfaction of the Business Office before transcripts will be released directly to an individual. Transcripts may be sent directly to an employer,  potential employer, or an educational institution without financial obligations being met. Transcripts may be ordered online at _getmytranscript.org_
 
-## TRANSFER OF CREDIT FROM OTHER INSTITUTIONS 
+## TRANSFER OF CREDIT FROM OTHER INSTITUTIONS
 
-The _Offce of the Registrar_ will evaluate and determine the applicability of all college credits being transferred from other institutions. Students who transfer a substantial number of hours from other institutions are required to complete at least 50% of their majors, minors, or professional fields at Anderson University. Generally, credit is accepted without condition for courses with a grade of C- or above from traditional institutions holding either a regional or Council for Higher Education Accreditation (CHEA). Students should consult with the Office of the University Registrar concerning policy on acceptance of credit from non-traditional institutions and institutions not holding regional accreditation. 
+The _Offce of the Registrar_ will evaluate and determine the applicability of all college credits being transferred from other institutions. Students who transfer a substantial number of hours from other institutions are required to complete at least 50% of their majors, minors, or professional fields at Anderson University. Generally, credit is accepted without condition for courses with a grade of C- or above from traditional institutions holding either a regional or Council for Higher Education Accreditation (CHEA). Students should consult with the Office of the University Registrar concerning policy on acceptance of credit from non-traditional institutions and institutions not holding regional accreditation
 
-GPA is figured only on work completed at Anderson University. Grades for courses from other institutions do not transfer in. 
+GPA is figured only on work completed at Anderson University. Grades for courses from other institutions do not transfer in
 
-All international students seeking to transfer credit to the university from outside the United States are required to provide an official foreign credit evaluation (FCE) in English, including the cumulative grade point average. Anderson University will accept course-by-course foreign credential evaluations (FCE) from any National Association of Credential Evaluation Services (NACES) member. The international institution must be recognized by the country’s Ministry of Higher Education or equivalent government agency.  Note: All expenses associated with foreign transcript evaluations are the student’s responsibility. 
+All international students seeking to transfer credit to the university from outside the United States are required to provide an official foreign credit evaluation (FCE) in English, including the cumulative grade point average. Anderson University will accept course-by-course foreign credential evaluations (FCE) from any National Association of Credential Evaluation Services (NACES) member. The international institution must be recognized by the country’s Ministry of Higher Education or equivalent government agency.  Note: All expenses associated with foreign transcript evaluations are the student’s responsibility
 
-Transfer courses may be considered applicable to the liberal arts requirement for advanced writing or speech competency (writing/speaking-intensive) if either the transcript indicates that the course(s) were counted toward the other institution’s advanced writing or speaking-intensive requirements which meet or exceed Anderson University requirements (see requirements in the Liberal Arts Program section in this catalog), or the student can produce a syllabus that clearly shows how the course(s) satisfies Anderson University’s requirements. No more than 64 semester credit hours earned from an Associate Degree may be applied to any Anderson University baccalaureate degree. The transfer credit process can only be initiated for students who have applied to AU. 
+Transfer courses may be considered applicable to the liberal arts requirement for advanced writing or speech competency (writing/speaking-intensive) if either the transcript indicates that the course(s) were counted toward the other institution’s advanced writing or speaking-intensive requirements which meet or exceed Anderson University requirements (see requirements in the Liberal Arts Program section in this catalog), or the student can produce a syllabus that clearly shows how the course(s) satisfies Anderson University’s requirements. No more than 64 semester credit hours earned from an Associate Degree may be applied to any Anderson University baccalaureate degree. The transfer credit process can only be initiated for students who have applied to AU
 
-Associate of Arts and Associate of Science Degree Transfer Policy: 
+Associate of Arts and Associate of Science Degree Transfer Policy:
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-26 
+26
 
-Any student transferring to Anderson University from a regionally-accredited or CHEA-recognized college/ university with an Associate of Arts or Associate of Science degree and has completed at least 24 credits in the Liberal Arts will have satisfied the Anderson University Liberal Arts Core requirements with the noted exceptions of the religion requirements (Biblical Literacy and Christian Ways of Knowing) and the liberal arts requirements that are embedded in the majors (Writing-Intensive, Speaking-Intensive, and Experiential requirements). Associate degree transfer students must complete at least 60 hours at Anderson University and reach 120 credits to graduate. This policy only applies to students who hold an Associate Degree prior to matriculating to Anderson University. For more information, contact the _Offce of the Registrar_ . 
+Any student transferring to Anderson University from a regionally-accredited or CHEA-recognized college/ university with an Associate of Arts or Associate of Science degree and has completed at least 24 credits in the Liberal Arts will have satisfied the Anderson University Liberal Arts Core requirements with the noted exceptions of the religion requirements (Biblical Literacy and Christian Ways of Knowing) and the liberal arts requirements that are embedded in the majors (Writing-Intensive, Speaking-Intensive, and Experiential requirements). Associate degree transfer students must complete at least 60 hours at Anderson University and reach 120 credits to graduate. This policy only applies to students who hold an Associate Degree prior to matriculating to Anderson University. For more information, contact the _Offce of the Registrar_
 
-## Transfer of Credit – Current Students 
+## Transfer of Credit – Current Students
 
-Students currently enrolled at AU should obtain permission from the _University Registrar_ to take courses elsewhere if they intend to transfer that coursework to AU. Courses need to be taken at a regionally accredited college or university. 
+Students currently enrolled at AU should obtain permission from the _University Registrar_ to take courses elsewhere if they intend to transfer that coursework to AU. Courses need to be taken at a regionally accredited college or university
 
-A syllabus or catalog description from the other institution is required to determine the applicability of the intended coursework toward the liberal arts or program requirements. Students who have a declared major need departmental approval as well as approval from the University Registrar for a course to apply to the major or minor. 
+A syllabus or catalog description from the other institution is required to determine the applicability of the intended coursework toward the liberal arts or program requirements. Students who have a declared major need departmental approval as well as approval from the University Registrar for a course to apply to the major or minor
 
-A final grade of C- or above must be earned in order for transfer credit to be received. Grades for courses taken at other institutions will not appear on your AU transcript, but credit hours may count toward graduation requirements. The Anderson University Course Repetition Policy requires that the same course must be taken at AU to adjust the GPA. 
+A final grade of C- or above must be earned in order for transfer credit to be received. Grades for courses taken at other institutions will not appear on your AU transcript, but credit hours may count toward graduation requirements. The Anderson University Course Repetition Policy requires that the same course must be taken at AU to adjust the GPA
 
-## WITHDRAWAL FROM COURSES 
+## WITHDRAWAL FROM COURSES
 
-## Student-Initiated Withdrawal 
+## Student-Initiated Withdrawal
 
-Official withdrawal from all courses must be completed by submission of the appropriate form. The official withdrawal date will be the date that the form is submitted. In extenuating circumstances, a student may initiate complete withdrawal from all courses by phone or by letter to the _Offce of the Registrar_ . Questions about the policy for complete withdrawal should be directed to the _Offce of the Registrar_ . 
+Official withdrawal from all courses must be completed by submission of the appropriate form. The official withdrawal date will be the date that the form is submitted. In extenuating circumstances, a student may initiate complete withdrawal from all courses by phone or by letter to the _Offce of the Registrar_ . Questions about the policy for complete withdrawal should be directed to the _Offce of the Registrar_
 
-Students desiring to drop an individual course may do so by filling out the appropriate Etrieve form. Deadlines and drop fees should be noted. Questions regarding dropping a course should be directed to the student’s academic advisor or may be directed to the registrar’s office. 
+Students desiring to drop an individual course may do so by filling out the appropriate Etrieve form. Deadlines and drop fees should be noted. Questions regarding dropping a course should be directed to the student’s academic advisor or may be directed to the registrar’s office
 
-## University-Initiated Withdrawal 
+## University-Initiated Withdrawal
 
-The university has the authority to withdraw a student from the university and to revoke the student’s registration at any time during the academic year. There are two types of university-initiated withdrawals: 
+The university has the authority to withdraw a student from the university and to revoke the student’s registration at any time during the academic year. There are two types of university-initiated withdrawals:
 
-- WF (withdrawn failing) :  A grade of WF is assigned by the faculty at any time before the tenth week of the semester or by the dean of student life whenever it is deemed appropriate. The WF grade is assigned either when a student has stopped attending classes without officially withdrawing or when a student is withdrawn for disciplinary reasons. For purposes of GPA calculation, a WF is equivalent to an F. 
+- WF (withdrawn failing) :  A grade of WF is assigned by the faculty at any time before the tenth week of the semester or by the dean of student life whenever it is deemed appropriate. The WF grade is assigned either when a student has stopped attending classes without officially withdrawing or when a student is withdrawn for disciplinary reasons. For purposes of GPA calculation, a WF is equivalent to an F
 
-- AW (administrative withdrawal) : A grade of AW is assigned by the administration or by the dean of student life when circumstances do not warrant a failing grade or whenever it is deemed appropriate. The AW grade is not computed in the student’s GPA and therefore involves no academic penalty. The recording of this grade must be authorized by the University Registrar. 
+- AW (administrative withdrawal) : A grade of AW is assigned by the administration or by the dean of student life when circumstances do not warrant a failing grade or whenever it is deemed appropriate. The AW grade is not computed in the student’s GPA and therefore involves no academic penalty. The recording of this grade must be authorized by the University Registrar
 
-## STUDENT HANDBOOK 
+## STUDENT HANDBOOK
 
-In addition to academic policies, students are also expected to follow the campus policies and procedures contained in the Student Handbook which is published annually by the _Center for Student Life_ . The handbook also serves as a resource to connect students with faculty and staff working to help them succeed. Some of the policies included in the student handbook include: 
+In addition to academic policies, students are also expected to follow the campus policies and procedures contained in the Student Handbook which is published annually by the _Center for Student Life_ . The handbook also serves as a resource to connect students with faculty and staff working to help them succeed. Some of the policies included in the student handbook include:
 
-- Chapel Attendance 
+- Chapel Attendance
 
-- Residence Life 
+- Residence Life
 
-- Title IX 
+- Title IX
 
-- Housing 
+- Housing
 
-- Community Standards 
+- Community Standards
 
-There is additional information available in the handbook related to the following: 
+There is additional information available in the handbook related to the following:
 
-- Financial Aid 
+- Financial Aid
 
-- Student Services 
+- Student Services
 
-- Campus Security 
+- Campus Security
 
-For a complete list of Student Life policies, procedures, and resources, please refer to the Student Handbook, available online at _anderson.edu/student-life/handbook_ . 
+For a complete list of Student Life policies, procedures, and resources, please refer to the Student Handbook, available online at _anderson.edu/student-life/handbook_
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-27 
+27
 
-## Academic Organization 
+## Academic Organization
 
-The academic programs of Anderson University are grouped into four colleges, each with a dean who serves as chief operational officer regarding its programs and personnel: 
+The academic programs of Anderson University are grouped into four colleges, each with a dean who serves as chief operational officer regarding its programs and personnel:
 
-## ●​ _College of Arts and Sciences_ 
+## ●​ _College of Arts and Sciences_
 
-   - School of Music & Performing Arts 
+   - School of Music & Performing Arts
 
-   - Department of Computer Science & Mathematics 
+   - Department of Computer Science & Mathematics
 
-   - Department of Humanities 
+   - Department of Humanities
 
-   - Department of Natural Sciences 
+   - Department of Natural Sciences
 
-   - Department of Psychology 
+   - Department of Psychology
 
-   - Department of Social Sciences 
+   - Department of Social Sciences
 
-   - Interdisciplinary Programs 
+   - Interdisciplinary Programs
 
-      - ▪​ Honors Program 
+      - ▪​ Honors Program
 
-      - ▪​ General Studies 
+      - ▪​ General Studies
 
-      - ▪​ ASPIRE Advising 
+      - ▪​ ASPIRE Advising
 
-      - ▪​ Liberal Arts 
+      - ▪​ Liberal Arts
 
-- _College of Professional Studies_ 
+- _College of Professional Studies_
 
-   - Falls School of Business 
+   - Falls School of Business
 
-   - School of Nursing 
+   - School of Nursing
 
-   - Department of Engineering 
+   - Department of Engineering
 
-   - Department of Kinesiology 
+   - Department of Kinesiology
 
-   - Department of Teacher Education 
+   - Department of Teacher Education
 
-## ●​ _College of Theological, Graduate, and Online Studies_ 
+## ●​ _College of Theological, Graduate, and Online Studies_
 
-- School of Theology & Christian Ministry 
+- School of Theology & Christian Ministry
 
-- Department of Ministry Education in Spanish 
+- Department of Ministry Education in Spanish
 
-- Graduate Programs 
+- Graduate Programs
 
-   - ▪​ Music Education (MME) 
+   - ▪​ Music Education (MME)
 
-   - ▪​ Business (DBA, MBA, MOL) 
+   - ▪​ Business (DBA, MBA, MOL)
 
-   - ▪​ Theology (MACM, MDiv, MTS) 
+   - ▪​ Theology (MACM, MDiv, MTS)
 
-- Co-Curricular Centers 
+- Co-Curricular Centers
 
-▪​ The Massey Center for Compelling Preaching 
+▪​ The Massey Center for Compelling Preaching
 
-- ▪​ Peace & Conflict Transformation (PACT) 
+- ▪​ Peace & Conflict Transformation (PACT)
 
-- ▪​ Center for Public Service (CPS) 
+- ▪​ Center for Public Service (CPS)
 
-## MAJORS AND MINORS 
+## MAJORS AND MINORS
 
-Majors provide the opportunity to take a grouping of courses, usually concentrated in one department, for purposes of specialization or professional certification. In addition to the major, a minor or cognate of 15-18 hours may be selected but is not required. 
+Majors provide the opportunity to take a grouping of courses, usually concentrated in one department, for purposes of specialization or professional certification. In addition to the major, a minor or cognate of 15-18 hours may be selected but is not required
 
-Students are responsible for planning and completing the requirements of their majors, minors, and cognates. A GPA of at least 2.0 is required for all courses applied to the major or area of concentration. 
+Students are responsible for planning and completing the requirements of their majors, minors, and cognates. A GPA of at least 2.0 is required for all courses applied to the major or area of concentration
 
-Students completing two or more majors (including complementary majors) must earn a minimum of 15 hours that are unique to each major. To be awarded a major, students must complete at least 50% of all coursework in residence at Anderson University. 
+Students completing two or more majors (including complementary majors) must earn a minimum of 15 hours that are unique to each major. To be awarded a major, students must complete at least 50% of all coursework in residence at Anderson University
 
-## DECLARATION OF MAJOR AND MINOR 
+## DECLARATION OF MAJOR AND MINOR
 
-Students should file a declaration of major and minor or cognate utilizing the appropriate Etrieve form. For planning the proper sequence of courses, students should declare a major as soon as possible. 
+Students should file a declaration of major and minor or cognate utilizing the appropriate Etrieve form. For planning the proper sequence of courses, students should declare a major as soon as possible
 
-This application and the procedures involved in its approval afford students an opportunity for evaluation of their objectives in college and life. Students formally state their proposed majors, minors, and/or professional or preprofessional programs and confer with the major advisor of the department or program regarding requirements. This procedure constitutes students’ official declarations of majors or minors. 
+This application and the procedures involved in its approval afford students an opportunity for evaluation of their objectives in college and life. Students formally state their proposed majors, minors, and/or professional or preprofessional programs and confer with the major advisor of the department or program regarding requirements. This procedure constitutes students’ official declarations of majors or minors
 
-To change majors or minors, students must file the appropriate Etrieve form at the earliest possible date. 
+To change majors or minors, students must file the appropriate Etrieve form at the earliest possible date
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-28 
+28
 
-## ADMISSION TO A PARTICULAR MAJOR 
+## ADMISSION TO A PARTICULAR MAJOR
 
-Admission to Anderson University does not automatically include admission to specialized programs within the university, such as business, music, nursing, social work, and teacher education. The criteria for admission and acceptance to specialized programs are determined by the faculty of those programs. Information regarding application deadlines and admission criteria may be obtained from the departments offering the programs to which students wish to apply. 
+Admission to Anderson University does not automatically include admission to specialized programs within the university, such as business, music, nursing, social work, and teacher education. The criteria for admission and acceptance to specialized programs are determined by the faculty of those programs. Information regarding application deadlines and admission criteria may be obtained from the departments offering the programs to which students wish to apply
 
-## MAJORS 
+## MAJORS
 
-Majors are defined as a concentration of at least 30 hours of related courses, designed to provide individual depth within a discipline or a recognized field of study. _Unless otherwise noted, all majors lead to the Bachelor of Arts (BA) degree._ Majors include the following: 
+Majors are defined as a concentration of at least 30 hours of related courses, designed to provide individual depth within a discipline or a recognized field of study. _Unless otherwise noted, all majors lead to the Bachelor of Arts (BA) degree._ Majors include the following:
 
 |●|Accounting|● Exercise Science|● National Security|
 |---|---|---|---|
@@ -1083,17 +1083,17 @@ Majors are defined as a concentration of at least 30 hours of related courses, d
 |●|Electrical Engineering (BS)|Musical Theatre (BMus)||
 |●|Engineering Management|||
 
-## TEACHING MAJORS 
+## TEACHING MAJORS
 
-A teaching major is a grouping of 87-102 hours, typically involving more than one department, for purposes of specialization and teacher certification. _Unless otherwise noted, all teaching majors lead to the Bachelor of Arts (BA) degree._ Teaching majors include: 
+A teaching major is a grouping of 87-102 hours, typically involving more than one department, for purposes of specialization and teacher certification. _Unless otherwise noted, all teaching majors lead to the Bachelor of Arts (BA) degree._ Teaching majors include:
 
 |●|Elementary Education|● Mathematics|● Social Studies|
 |---|---|---|---|
 |●|English Language Arts|● Music Education (BMus)||
 
-## THREE-YEAR MAJORS 
+## THREE-YEAR MAJORS
 
-The following majors can be completed in three years of full-time, year-round work: 
+The following majors can be completed in three years of full-time, year-round work:
 
 |●|Accounting|● Exercise Science|● Music Business|
 |---|---|---|---|
@@ -1105,9 +1105,9 @@ The following majors can be completed in three years of full-time, year-round wo
 |●|Data Science (BA)|● Mathematics (BA)or|● Youth Ministries|
 |●|Elementary Education|Mathematics (BS)||
 
-## COMPLEMENTARY MAJORS 
+## COMPLEMENTARY MAJORS
 
-A complementary major is a group of related courses (26-54 hours) that must be taken along with one of the majors listed in the preceding Majors section. It is intended to enhance the primary major and may not stand alone, nor coupled with another complementary major, to fulfill graduation requirements. Complementary majors include the following: 
+A complementary major is a group of related courses (26-54 hours) that must be taken along with one of the majors listed in the preceding Majors section. It is intended to enhance the primary major and may not stand alone, nor coupled with another complementary major, to fulfill graduation requirements. Complementary majors include the following:
 
 |●|Business Administration|● Data Science|● Psychology|
 |---|---|---|---|
@@ -1115,17 +1115,17 @@ A complementary major is a group of related courses (26-54 hours) that must be t
 |●|Christian Spiritual Formation|● Humanitarian Engineering|● Youth Leadership|
 |●|Computer Science|● Multimedia Journalism||
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-29 
+29
 
-## NON-CATALOG MAJORS 
+## NON-CATALOG MAJORS
 
-A student may construct and pursue a major course of study not listed in the catalog to achieve a goal of personal significance. Such a major must be strong enough to justify inclusion in the catalog if student demand is sufficient and institutional resources are adequate, and may only be taken as a complement to a primary major. If such a major is interdepartmental or interdisciplinary, it must have the approval of all departments involved and also the college dean. 
+A student may construct and pursue a major course of study not listed in the catalog to achieve a goal of personal significance. Such a major must be strong enough to justify inclusion in the catalog if student demand is sufficient and institutional resources are adequate, and may only be taken as a complement to a primary major. If such a major is interdepartmental or interdisciplinary, it must have the approval of all departments involved and also the college dean
 
-## MINORS 
+## MINORS
 
-A minor is defined as a clustering of related courses intended to provide individual depth in an area other than a student’s major. It is a grouping of 15-18 hours in a single discipline or recognized field of study and must include 12 hours which do not overlap with any other requirement (i.e. another major or minor requirement). A GPA of at least 2.0 is required for all courses applied to the minor. To be awarded a minor, students must complete at least 50% of all coursework in residence at Anderson University. In some cases, a student may wish to complete a second major in lieu of a minor. A student may present a major and a minor in a department offering more than one major. This minor must be in a different field and must include a minimum of 12 hours not applicable to one or more majors. Minors include the following: 
+A minor is defined as a clustering of related courses intended to provide individual depth in an area other than a student’s major. It is a grouping of 15-18 hours in a single discipline or recognized field of study and must include 12 hours which do not overlap with any other requirement (i.e. another major or minor requirement). A GPA of at least 2.0 is required for all courses applied to the minor. To be awarded a minor, students must complete at least 50% of all coursework in residence at Anderson University. In some cases, a student may wish to complete a second major in lieu of a minor. A student may present a major and a minor in a department offering more than one major. This minor must be in a different field and must include a minimum of 12 hours not applicable to one or more majors. Minors include the following:
 
 |●|Accounting|● Event Planning & Management|● Physics|
 |---|---|---|---|
@@ -1147,81 +1147,81 @@ A minor is defined as a clustering of related courses intended to provide indivi
 |●|Entrepreneurship|● Peace & Confict Transformation|● Writing|
 |●|Ethics|● Philosophy||
 
-## ASSOCIATE DEGREES 
+## ASSOCIATE DEGREES
 
-- Associate of Arts with a Concentration in Criminal Justice . For more information, see the Department of Social Sciences section of the catalog. 
+- Associate of Arts with a Concentration in Criminal Justice . For more information, see the Department of Social Sciences section of the catalog
 
-- Associate of Science with Concentration in any area approved by the academic advisor. Online students may choose from concentrations in Business, Business Administration & Leadership, History, Ministry Studies, or Sociology. For more information, contact the Dean of the College of Arts & Sciences. 
+- Associate of Science with Concentration in any area approved by the academic advisor. Online students may choose from concentrations in Business, Business Administration & Leadership, History, Ministry Studies, or Sociology. For more information, contact the Dean of the College of Arts & Sciences
 
-## COGNATES 
+## COGNATES
 
-A cognate is defined as a cluster of courses designed to enrich or provide breadth to an academic major. It consists of 15-18 hours in two or more disciplines and may include no more than 4 hours in courses applied to other requirements. A grade point average of at least 2.0 is required for all courses applied to the cognate. 
+A cognate is defined as a cluster of courses designed to enrich or provide breadth to an academic major. It consists of 15-18 hours in two or more disciplines and may include no more than 4 hours in courses applied to other requirements. A grade point average of at least 2.0 is required for all courses applied to the cognate
 
-Cognates are generally individually designed and are developed with the approval of the chair of the department offering the related major, as well as the college dean. 
+Cognates are generally individually designed and are developed with the approval of the chair of the department offering the related major, as well as the college dean
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-30 
+30
 
-## Pre-Professional Programs 
+## Pre-Professional Programs
 
-## PHYSICAL THERAPY 
+## PHYSICAL THERAPY
 
-Anderson University offers a program that prepares students for entry into physical therapy programs. Most students seeking to enter the profession obtain a bachelor’s degree in exercise science or biology. Because of the small number of schools offering graduate degrees in physical therapy and the large number of students who apply, admission to those programs is very competitive. Anderson University has developed an articulation agreement with Southwest Baptist University in Bolivar, Missouri, to facilitate admission for AU graduates to a doctorate degree program in physical therapy. Interested students should contact the _Department of Natural Sciences_ for more details and advising. 
+Anderson University offers a program that prepares students for entry into physical therapy programs. Most students seeking to enter the profession obtain a bachelor’s degree in exercise science or biology. Because of the small number of schools offering graduate degrees in physical therapy and the large number of students who apply, admission to those programs is very competitive. Anderson University has developed an articulation agreement with Southwest Baptist University in Bolivar, Missouri, to facilitate admission for AU graduates to a doctorate degree program in physical therapy. Interested students should contact the _Department of Natural Sciences_ for more details and advising
 
-## PRE-HEALTH PROFESSIONAL PROGRAMS 
+## PRE-HEALTH PROFESSIONAL PROGRAMS
 
-Anderson University offers pre-health professional programs for students desiring careers in medicine, athletic training, physical and occupational therapy, dentistry, physician assistant, pharmacy, chiropractic, optometry, podiatry, and veterinary medicine. Individualized programs are developed for students wishing to enter other health professions not listed above. 
+Anderson University offers pre-health professional programs for students desiring careers in medicine, athletic training, physical and occupational therapy, dentistry, physician assistant, pharmacy, chiropractic, optometry, podiatry, and veterinary medicine. Individualized programs are developed for students wishing to enter other health professions not listed above
 
-Although most pre-health profession students major in biology, biochemistry, or exercise science, in most cases any major may be chosen as long as the particular health profession program and course requirements are met. The length and specific coursework for each program varies depending on the field and the individual professional school selected. 
+Although most pre-health profession students major in biology, biochemistry, or exercise science, in most cases any major may be chosen as long as the particular health profession program and course requirements are met. The length and specific coursework for each program varies depending on the field and the individual professional school selected
 
-Each pre-health professional program is designed to give students a broad, Christian, liberal arts preparation for service in the health field of choice. The program usually consists of the following components: 
+Each pre-health professional program is designed to give students a broad, Christian, liberal arts preparation for service in the health field of choice. The program usually consists of the following components:
 
-- A standard pre-health profession core of courses (one year each of laboratory-based, college-level general biology, general chemistry, and physics). 
+- A standard pre-health profession core of courses (one year each of laboratory-based, college-level general biology, general chemistry, and physics)
 
-- Additional courses in the sciences to increase study skills and knowledge base in the medically related subjects. 
+- Additional courses in the sciences to increase study skills and knowledge base in the medically related subjects
 
-- A requirement to include courses in psychology, sociology, biblical studies, and communication as part of the liberal arts component. 
+- A requirement to include courses in psychology, sociology, biblical studies, and communication as part of the liberal arts component
 
-- Preparation for the particular health profession standardized exam. 
+- Preparation for the particular health profession standardized exam
 
-- Being an active member in the Pre-Professional Health Society. 
+- Being an active member in the Pre-Professional Health Society
 
-- A committee evaluation and recommendation process for the professional school application procedure. 
+- A committee evaluation and recommendation process for the professional school application procedure
 
-Students interested in a particular pre-health professional program should contact the director of pre-health professional programs for more information and/or referral to the appropriate advisor in that profession. 
+Students interested in a particular pre-health professional program should contact the director of pre-health professional programs for more information and/or referral to the appropriate advisor in that profession
 
-The success of Anderson University’s pre-health profession programs can be measured in a variety of ways. AU has an excellent placement record during the past 20 years. Of those students receiving strong committee recommendations, nearly all have been accepted. 
+The success of Anderson University’s pre-health profession programs can be measured in a variety of ways. AU has an excellent placement record during the past 20 years. Of those students receiving strong committee recommendations, nearly all have been accepted
 
-## PRE-LAW 
+## PRE-LAW
 
-Students planning to attend law school are not restricted to any one major. The top majors for students who apply to law school are political science, English, history, psychology, and business. Students are encouraged to work with their major advisor and AU’s pre-law advisor to select courses from across the curriculum that prepare them for admission to law school and the practice of law. 
+Students planning to attend law school are not restricted to any one major. The top majors for students who apply to law school are political science, English, history, psychology, and business. Students are encouraged to work with their major advisor and AU’s pre-law advisor to select courses from across the curriculum that prepare them for admission to law school and the practice of law
 
-Taking classes across the curriculum helps students develop the analytical, writing, research, and oral communication skills necessary to succeed in law school and beyond. These classes also help students acquire the knowledge of history, politics, societies, cultures, economies, and philosophies that make success in law school more likely. 
+Taking classes across the curriculum helps students develop the analytical, writing, research, and oral communication skills necessary to succeed in law school and beyond. These classes also help students acquire the knowledge of history, politics, societies, cultures, economies, and philosophies that make success in law school more likely
 
-Interested students should consider the minor in legal studies and consult with AU’s pre-law advisor as early as possible. 
+Interested students should consider the minor in legal studies and consult with AU’s pre-law advisor as early as possible
 
-## PRE-SEMINARY STUDIES 
+## PRE-SEMINARY STUDIES
 
-The university seeks to serve students preparing for seminary admission through a range of courses considered basic to such graduate professional study. There is no single normative pattern for pre-seminary education because of widely varying emphases and settings for ministry. The Anderson University School of Theology & Christian Ministry follows current admission recommendations of the Association of Theological Schools when it suggests the following categories of learning as foundational for graduate seminary study: 
+The university seeks to serve students preparing for seminary admission through a range of courses considered basic to such graduate professional study. There is no single normative pattern for pre-seminary education because of widely varying emphases and settings for ministry. The Anderson University School of Theology & Christian Ministry follows current admission recommendations of the Association of Theological Schools when it suggests the following categories of learning as foundational for graduate seminary study:
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-31 
+31
 
-- The ability to read, write, and speak clear and correct English is vital for interpreting and communicating the faith of the church. It is highly desirable that a reading knowledge of Hebrew and/or Greek be developed as a basic tool. Additional language skills might be essential, depending on vocational intent. 
+- The ability to read, write, and speak clear and correct English is vital for interpreting and communicating the faith of the church. It is highly desirable that a reading knowledge of Hebrew and/or Greek be developed as a basic tool. Additional language skills might be essential, depending on vocational intent
 
-- General understanding of human selfhood, modern social institutions, culture and religion, science and technology. Students are expected to have some academic understanding of the fields of philosophy, sociology, psychology, and history, and in some instances, may major in one of these areas. 
+- General understanding of human selfhood, modern social institutions, culture and religion, science and technology. Students are expected to have some academic understanding of the fields of philosophy, sociology, psychology, and history, and in some instances, may major in one of these areas
 
-- Theological understanding of major religious traditions and the contemporary understanding of values and faith. A knowledge of the nature and content of biblical materials is of particular significance. 
+- Theological understanding of major religious traditions and the contemporary understanding of values and faith. A knowledge of the nature and content of biblical materials is of particular significance
 
-Details of admission requirements for the Anderson University School of Theology & Christian Ministry should be considered in the planning of undergraduate junior and senior years. 
+Details of admission requirements for the Anderson University School of Theology & Christian Ministry should be considered in the planning of undergraduate junior and senior years
 
-## Courses of Instruction 
+## Courses of Instruction
 
-## CAPTION 
+## CAPTION
 
-Each course in the catalog is listed under a particular caption, a four-character code that identifies the discipline or field of study to which the course is related. Courses offered by the university are listed under caption headings in the sponsoring department’s or program’s section in this catalog. 
+Each course in the catalog is listed under a particular caption, a four-character code that identifies the discipline or field of study to which the course is related. Courses offered by the university are listed under caption headings in the sponsoring department’s or program’s section in this catalog
 
 |Caption |Description|Caption|Description|
 |---|---|---|---|
@@ -1249,215 +1249,215 @@ Each course in the catalog is listed under a particular caption, a four-characte
 |INCS|Intercultural Studies|SPRL|Sport & Recreation Leadership|
 |LART|Liberal Arts|THEA|Theatre|
 
-## LEVEL 
+## LEVEL
 
-Lower Division (1000/2000-Level) Courses : In general, courses in the 1000 or 2000 series count toward the liberal arts requirements and are to be taken during the freshman or sophomore years. Some courses in the 2000 series are first-level courses applicable to a given major or specialization. 
+Lower Division (1000/2000-Level) Courses : In general, courses in the 1000 or 2000 series count toward the liberal arts requirements and are to be taken during the freshman or sophomore years. Some courses in the 2000 series are first-level courses applicable to a given major or specialization
 
-Upper-Division (3000/4000-Level) Courses : Courses listed in the 3000 and 4000 series are considered upper-division courses and are primarily intended for juniors and seniors. However, freshmen or sophomores in good standing may be allowed to take upper-division courses if they have met the prerequisites and have the approval of their advisors. 
+Upper-Division (3000/4000-Level) Courses : Courses listed in the 3000 and 4000 series are considered upper-division courses and are primarily intended for juniors and seniors. However, freshmen or sophomores in good standing may be allowed to take upper-division courses if they have met the prerequisites and have the approval of their advisors
 
-## TITLE 
+## TITLE
 
-Designates the course number and title for the course (e.g., 3070 Genetics, listed under the BIOL caption heading). 
+Designates the course number and title for the course (e.g., 3070 Genetics, listed under the BIOL caption heading)
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-32 
+32
 
-## CREDIT HOURS 
+## CREDIT HOURS
 
-Indicates the number of credit hours that may be earned by taking the course. Within parentheses, the number to the left indicates the number of classroom hours associated with the course, and the number to the right indicates the number of laboratory or studio hours. These numbers may include a range of hours (i.e. 1-4) or the word “arranged” where the number of hours may vary. 
+Indicates the number of credit hours that may be earned by taking the course. Within parentheses, the number to the left indicates the number of classroom hours associated with the course, and the number to the right indicates the number of laboratory or studio hours. These numbers may include a range of hours (i.e. 1-4) or the word “arranged” where the number of hours may vary
 
-## ADDITIONAL INFORMATION 
+## ADDITIONAL INFORMATION
 
-The course description , listed directly beneath the course title, provides details about themes, topics, and issues covered by the course, as well as additional information: 
+The course description , listed directly beneath the course title, provides details about themes, topics, and issues covered by the course, as well as additional information:
 
-- Expectation: Indicates skills or experiences which students are expected to have achieved or demonstrated before taking the course. Also indicates restrictions regarding who may take the course (i.e. departmental exams, minimum grade in a prerequisite course, etc.). 
+- Expectation: Indicates skills or experiences which students are expected to have achieved or demonstrated before taking the course. Also indicates restrictions regarding who may take the course (i.e. departmental exams, minimum grade in a prerequisite course, etc.)
 
-- Consent: Indicates whether students must obtain consent to take the course. If no designation is listed, no special consent is required. 
+- Consent: Indicates whether students must obtain consent to take the course. If no designation is listed, no special consent is required
 
-- Prerequisite :  Indicates required class standing, required major, or course(s) which must be completed before the course may be taken. 
+- Prerequisite :  Indicates required class standing, required major, or course(s) which must be completed before the course may be taken
 
-- Corequisite :  Indicates required class standing, required major, or other course(s) which must be taken in the same semester as the course. 
+- Corequisite :  Indicates required class standing, required major, or other course(s) which must be taken in the same semester as the course
 
-- Repeat: Indicates when a course may be repeated for credit. May also include limitations on the number of times the course may be repeated or maximum total credits that may be counted. 
+- Repeat: Indicates when a course may be repeated for credit. May also include limitations on the number of times the course may be repeated or maximum total credits that may be counted
 
-- Grade: Indicates when CR/NC grading is in effect. No listing indicates standard A-F grading. 
+- Grade: Indicates when CR/NC grading is in effect. No listing indicates standard A-F grading
 
-- SAME AS: Indicates when the course shares the same description and requirements as another course in the catalog. 
+- SAME AS: Indicates when the course shares the same description and requirements as another course in the catalog
 
-- Offered: Indicates the semester and/or year in which the course will be offered, or other terms by which the course will be offered (i.e. with sufficient demand). If no designation is listed, the course is typically offered every year. 
+- Offered: Indicates the semester and/or year in which the course will be offered, or other terms by which the course will be offered (i.e. with sufficient demand). If no designation is listed, the course is typically offered every year
 
-## Liberal Arts Framework 
+## Liberal Arts Framework
 
-Through the centuries, the attempt of higher education has been to lead the learner toward growth and fulfillment in ways consistent with the assumptions and demands of the times. Standard components of this process evolved and became known as the “liberal arts.” These areas of study were thought to be freeing and empowering, thus enabling maturity and responsibility in a person’s thoughts, values, and actions. 
+Through the centuries, the attempt of higher education has been to lead the learner toward growth and fulfillment in ways consistent with the assumptions and demands of the times. Standard components of this process evolved and became known as the “liberal arts.” These areas of study were thought to be freeing and empowering, thus enabling maturity and responsibility in a person’s thoughts, values, and actions
 
-In modern times, such liberal arts studies continue to have fundamental importance, even though their content and design have continued to evolve as societal assumptions and demands have changed. Anderson University stands in this long tradition, designing for all its students a curricular pattern that includes fundamental skills and ways of perceiving the world considered essential for meaningful and effective living in the 21st century. 
+In modern times, such liberal arts studies continue to have fundamental importance, even though their content and design have continued to evolve as societal assumptions and demands have changed. Anderson University stands in this long tradition, designing for all its students a curricular pattern that includes fundamental skills and ways of perceiving the world considered essential for meaningful and effective living in the 21st century
 
-As a Church of God academic institution, Anderson University is committed to the goals and ideals of liberal education as understood through a Christian faith perspective. The requirements for undergraduate degrees have been established with these commitments in view. The university’s conception of liberally educated people involves the freeing and empowering of the total person — his or her spiritual, intellectual, aesthetic, emotional, and physical resources. 
+As a Church of God academic institution, Anderson University is committed to the goals and ideals of liberal education as understood through a Christian faith perspective. The requirements for undergraduate degrees have been established with these commitments in view. The university’s conception of liberally educated people involves the freeing and empowering of the total person — his or her spiritual, intellectual, aesthetic, emotional, and physical resources
 
-## LIBERAL ARTS CORE CURRICULUM 
+## LIBERAL ARTS CORE CURRICULUM
 
-Anderson University has designed its Christ-centered Liberal Arts Core Curriculum to cultivate students’ skills, deepen their insight, and foster an appreciation for a broad range of disciplines. The curriculum also seeks to form students in intellectual humility, moral discernment, and a lifelong commitment to the virtues of faith, truth, and service. These requirements are organized into two components: the 30-hour Raven Core and the 14 to 17-hour AU Experience . 
+Anderson University has designed its Christ-centered Liberal Arts Core Curriculum to cultivate students’ skills, deepen their insight, and foster an appreciation for a broad range of disciplines. The curriculum also seeks to form students in intellectual humility, moral discernment, and a lifelong commitment to the virtues of faith, truth, and service. These requirements are organized into two components: the 30-hour Raven Core and the 14 to 17-hour AU Experience
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-33 
+33
 
-## RAVEN CORE (30 hours) 
+## RAVEN CORE (30 hours)
 
-_Those who have completed the Indiana College Core (ICC) are exempt from the Raven Core requirements, but still must satisfy the AU Experience requirements._ 
+_Those who have completed the Indiana College Core (ICC) are exempt from the Raven Core requirements, but still must satisfy the AU Experience requirements._
 
-## Foundational Skills 
+## Foundational Skills
 
-## ●​ Written Communication (Maximum 6 hours) 
+## ●​ Written Communication (Maximum 6 hours)
 
-Courses designed for students to develop their writing and research skills. _At least one required course in this category_ 
+Courses designed for students to develop their writing and research skills. _At least one required course in this category_
 
-## ●​ Speaking & Listening (Maximum 6 hours) 
+## ●​ Speaking & Listening (Maximum 6 hours)
 
-Courses designed to develop oral communication skills. _At least one required course in this category_ 
+Courses designed to develop oral communication skills. _At least one required course in this category_
 
-## ●​ Quantitative Reasoning (Maximum 8 hours) 
+## ●​ Quantitative Reasoning (Maximum 8 hours)
 
-Courses that pertain to the art of problem-solving by means of critical thinking, logic, and quantitative methods. _At least one required course in this category_ 
+Courses that pertain to the art of problem-solving by means of critical thinking, logic, and quantitative methods. _At least one required course in this category_
 
-## Ways of Knowing 
+## Ways of Knowing
 
-## ●​ Scientific Ways of Knowing (Maximum 8 hours) 
+## ●​ Scientific Ways of Knowing (Maximum 8 hours)
 
-These courses present students with a way of understanding the natural laws that govern the behavior of the material world, focusing on knowledge that is quantifiable and accessible through human senses and human reason. _At least one required course in this category_ 
+These courses present students with a way of understanding the natural laws that govern the behavior of the material world, focusing on knowledge that is quantifiable and accessible through human senses and human reason. _At least one required course in this category_
 
-## ●​ Social & Behavioral Ways of Knowing (Maximum 12 hours) 
+## ●​ Social & Behavioral Ways of Knowing (Maximum 12 hours)
 
-These courses present students with ways of understanding human behavior in either individual or social contexts. Emphasis is placed on the application of a scientific perspective to explain human conduct, including related theoretical views and the development of empirical knowledge through research. _At least one required course in this category_ 
+These courses present students with ways of understanding human behavior in either individual or social contexts. Emphasis is placed on the application of a scientific perspective to explain human conduct, including related theoretical views and the development of empirical knowledge through research. _At least one required course in this category_
 
-## ●​ Humanistic & Artistic Ways of Knowing (Maximum 12 hours) 
+## ●​ Humanistic & Artistic Ways of Knowing (Maximum 12 hours)
 
-- These courses present students with a way of understanding the deepest levels of human experience as expressed in history, language, literature, and music, _At least one required course in this category_ 
+- These courses present students with a way of understanding the deepest levels of human experience as expressed in history, language, literature, and music, _At least one required course in this category_
 
-## AU EXPERIENCE (14-17 hours) 
+## AU EXPERIENCE (14-17 hours)
 
-## ●​ The First-Year-Experience (1 hour) 
+## ●​ The First-Year-Experience (1 hour)
 
-Designed to help students adjust to the campus community. Students work both independently and with their classmates to “Reflect, Connect, and Grow” intellectually, socially, and spiritually as whole people in the Anderson University community, while also obtaining the necessary practical knowledge to meet their college goals. _LART 1050_ 
+Designed to help students adjust to the campus community. Students work both independently and with their classmates to “Reflect, Connect, and Grow” intellectually, socially, and spiritually as whole people in the Anderson University community, while also obtaining the necessary practical knowledge to meet their college goals. _LART 1050_
 
-## ●​ Biblical Literacy (3 hours) 
+## ●​ Biblical Literacy (3 hours)
 
-Designed to accomplish two goals: (1) to foster the student’s development of a critically based knowledge of the content of the Bible and (2) to assist students in becoming fluent in the interpretation of Scripture. _BIBL 2000_ 
+Designed to accomplish two goals: (1) to foster the student’s development of a critically based knowledge of the content of the Bible and (2) to assist students in becoming fluent in the interpretation of Scripture. _BIBL 2000_
 
-## ●​ Christian Ways of Knowing (3 hours) 
+## ●​ Christian Ways of Knowing (3 hours)
 
-Included in the Anderson University community is a faith perspective that is prepared to raise questions of truth, value, meaning, and morality. Therefore, we foster an atmosphere of free inquiry, consistent with the sponsoring church’s tradition that prizes hospitality as a Christian virtue. These courses explore the role of religion in human experience. _One required course in this category_ Personal Wellness (2-3 hours) Examine the relationships of physical activity, leisure, diet, and health and fitness to total personal development of wellness. _One required course in this category_ 
+Included in the Anderson University community is a faith perspective that is prepared to raise questions of truth, value, meaning, and morality. Therefore, we foster an atmosphere of free inquiry, consistent with the sponsoring church’s tradition that prizes hospitality as a Christian virtue. These courses explore the role of religion in human experience. _One required course in this category_ Personal Wellness (2-3 hours) Examine the relationships of physical activity, leisure, diet, and health and fitness to total personal development of wellness. _One required course in this category_
 
-## ●​ Personal Wellness (2-3 hours) 
+## ●​ Personal Wellness (2-3 hours)
 
-## ●​ Civil Discourse & Conflict Transformation (2-3 hours) 
+## ●​ Civil Discourse & Conflict Transformation (2-3 hours)
 
-- Courses designed for students to develop their civil discourse and conflict transformation skills. _One required course in this category_ 
+- Courses designed for students to develop their civil discourse and conflict transformation skills. _One required course in this category_
 
-## ●​ Global Ways of Knowing (3-4 hours) 
+## ●​ Global Ways of Knowing (3-4 hours)
 
-- The combination of these courses presents students with ways of understanding human diversity through the development of intercultural perspectives. 
+- The combination of these courses presents students with ways of understanding human diversity through the development of intercultural perspectives
 
-## Also, embedded within each major are the following competencies 
+## Also, embedded within each major are the following competencies
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-34 
+34
 
-- Writing Intensive 
+- Writing Intensive
 
-- Speaking Intensive 
+- Speaking Intensive
 
-## ●​ Experiential Ways of Knowing 
+## ●​ Experiential Ways of Knowing
 
-Anderson University values experiential learning and requires every major to provide significant experiential learning opportunities for their students. These experiences must intentionally connect academic theory, hands-on practice, and student reflection with a significant academic component. 
+Anderson University values experiential learning and requires every major to provide significant experiential learning opportunities for their students. These experiences must intentionally connect academic theory, hands-on practice, and student reflection with a significant academic component
 
-_One experiential competency fulfilled by a course, internship, practicum, capstone, clinical, or approved activity._ 
+_One experiential competency fulfilled by a course, internship, practicum, capstone, clinical, or approved activity._
 
-## Please note 
+## Please note
 
-Because of the immediate usefulness of writing, oral communication, and mathematics, students should endeavor to complete the written communication (ENGL 1110 and 1120), speaking and listening (COMM 1000), and quantitative reasoning requirements during the first college year. Students should enroll in the appropriate writing skills courses every consecutive semester until they have met the writing-skills requirement. 
+Because of the immediate usefulness of writing, oral communication, and mathematics, students should endeavor to complete the written communication (ENGL 1110 and 1120), speaking and listening (COMM 1000), and quantitative reasoning requirements during the first college year. Students should enroll in the appropriate writing skills courses every consecutive semester until they have met the writing-skills requirement
 
-The First-Year-Experience Seminar (LART 1050) must be taken within the first 24 credit hours at Anderson University. Students must continue to take LART 1050 as offered until this requirement is met. 
+The First-Year-Experience Seminar (LART 1050) must be taken within the first 24 credit hours at Anderson University. Students must continue to take LART 1050 as offered until this requirement is met
 
-In addition, students should endeavor to complete the world language component of the Global Ways of Knowing during the first college year. If necessary, however, the world language component may be completed after the first year, preferably no later than the second year. 
+In addition, students should endeavor to complete the world language component of the Global Ways of Knowing during the first college year. If necessary, however, the world language component may be completed after the first year, preferably no later than the second year
 
-Upper-division courses (numbered 3000 or above)are designed primarily for juniors and seniors and may assume some prior introductory understanding. 
+Upper-division courses (numbered 3000 or above)are designed primarily for juniors and seniors and may assume some prior introductory understanding
 
-For details on how Honors Program (HNRS) courses apply to the Liberal Arts Core Curriculum, refer to the _Honors Program_ section of this catalog. 
+For details on how Honors Program (HNRS) courses apply to the Liberal Arts Core Curriculum, refer to the _Honors Program_ section of this catalog
 
-## LEARNING OUTCOMES 
+## LEARNING OUTCOMES
 
-Faculty at Anderson University have approved learning outcomes that must be addressed in courses that are approved for inclusion in the liberal arts requirements. These learning outcomes are as follows: 
+Faculty at Anderson University have approved learning outcomes that must be addressed in courses that are approved for inclusion in the liberal arts requirements. These learning outcomes are as follows:
 
-- Critical reasoning/thinking : Opportunities will be provided to develop intellectual curiosity, independence of thought, and an ability to formulate and test positions on major questions. 
+- Critical reasoning/thinking : Opportunities will be provided to develop intellectual curiosity, independence of thought, and an ability to formulate and test positions on major questions
 
-- Communication : Opportunities will be provided for students to speak and write both within their major fields of study and more general areas with clarity and precision. The experiences will develop an ability to listen and respond effectively to the expression of ideas by others, and they will have the technological and bibliographic skills needed for the development of defensible positions. 
+- Communication : Opportunities will be provided for students to speak and write both within their major fields of study and more general areas with clarity and precision. The experiences will develop an ability to listen and respond effectively to the expression of ideas by others, and they will have the technological and bibliographic skills needed for the development of defensible positions
 
-- Cross-disciplinary view : Opportunities will be provided for students to develop a variety of perspectives on major issues, events, and questions. 
+- Cross-disciplinary view : Opportunities will be provided for students to develop a variety of perspectives on major issues, events, and questions
 
-- Christian commitments and practices : Opportunities will be provided for students to explore the relationship between Christian commitments and practices and personal and global questions and issues. They will be encouraged to explore their obligation for service in personal and professional areas of life and have a sensitivity to their relationship to God, the church, and society. 
+- Christian commitments and practices : Opportunities will be provided for students to explore the relationship between Christian commitments and practices and personal and global questions and issues. They will be encouraged to explore their obligation for service in personal and professional areas of life and have a sensitivity to their relationship to God, the church, and society
 
-- Intercultural perspectives : Opportunities provided for students to develop an understanding of people from diverse cultural groups, races, genders, socio-economic backgrounds, political opinions, languages, and religious experiences. 
+- Intercultural perspectives : Opportunities provided for students to develop an understanding of people from diverse cultural groups, races, genders, socio-economic backgrounds, political opinions, languages, and religious experiences
 
-- Preparation for service : Opportunities will be provided for students to develop the knowledge, skills, and dispositions required in graduate or professional education or the job market. We consciously bring together the liberal arts, professional preparation, and biblical faith and understanding to assist students to serve in diverse local, national, and global societies. 
+- Preparation for service : Opportunities will be provided for students to develop the knowledge, skills, and dispositions required in graduate or professional education or the job market. We consciously bring together the liberal arts, professional preparation, and biblical faith and understanding to assist students to serve in diverse local, national, and global societies
 
-As an institution committed to Christian service, Anderson University strives through its curricula and informal activities to achieve student development in these areas, providing the breadth and depth necessary for the fullest preparation for life. 
+As an institution committed to Christian service, Anderson University strives through its curricula and informal activities to achieve student development in these areas, providing the breadth and depth necessary for the fullest preparation for life
 
-The liberal arts program requirements are defined in terms of courses to be taken at Anderson University. The most current list of approved courses is available online at _anderson.edu/registrar_ and may also be obtained in person at the Office of the Registrar in Decker Hall. 
+The liberal arts program requirements are defined in terms of courses to be taken at Anderson University. The most current list of approved courses is available online at _anderson.edu/registrar_ and may also be obtained in person at the Office of the Registrar in Decker Hall
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-35 
+35
 
-## Adult Learning 
+## Adult Learning
 
-Adult education at Anderson University provides meaningful learning experiences for students age 23 and older by offering quality programs designed with the adult learner in mind. Adult students may select from daytime, evening, or online courses. Anderson University is committed to offering accessible and affordable programs that are relevant in the current workforce and economy. Adult learners are supported with dedicated advisors and success coaches. 
+Adult education at Anderson University provides meaningful learning experiences for students age 23 and older by offering quality programs designed with the adult learner in mind. Adult students may select from daytime, evening, or online courses. Anderson University is committed to offering accessible and affordable programs that are relevant in the current workforce and economy. Adult learners are supported with dedicated advisors and success coaches
 
-## DEGREE PROGRAMS 
+## DEGREE PROGRAMS
 
-Adult students may pursue any traditional degree programs offered by the university.  In addition, the following online programs are designed specifically for adult studies: 
+Adult students may pursue any traditional degree programs offered by the university.  In addition, the following online programs are designed specifically for adult studies:
 
-- _●​ Associate of Arts degree in Criminal Justice_ 
+- _●​ Associate of Arts degree in Criminal Justice_
 
-- _●​ Associate of Science degree in General Studies_ 
+- _●​ Associate of Science degree in General Studies_
 
-- _●​ Bachelor of Arts degree in Business & Integrative Leadership_ 
+- _●​ Bachelor of Arts degree in Business & Integrative Leadership_
 
-- _●​ Bachelor of Arts degree in Criminal Justice_ 
+- _●​ Bachelor of Arts degree in Criminal Justice_
 
-- _●​ Bachelor of Arts degree in Ministry Studies_ 
+- _●​ Bachelor of Arts degree in Ministry Studies_
 
-## ADULT STUDENT TUITION 
+## ADULT STUDENT TUITION
 
-Adult students pay a flat rate per semester hour for tuition (with the exception of the _Transition to Teaching (T2T)_ program). Additional information for adult students can be found online at _anderson.edu/admissions/adult_ . 
+Adult students pay a flat rate per semester hour for tuition (with the exception of the _Transition to Teaching (T2T)_ program). Additional information for adult students can be found online at _anderson.edu/admissions/adult_
 
-## Associate Degrees 
+## Associate Degrees
 
-## ASSOCIATE OF ARTS CRIMINAL JUSTICE (60 hours) 
+## ASSOCIATE OF ARTS CRIMINAL JUSTICE (60 hours)
 
-This two-year Associate of Arts degree program is designed for students pursuing careers in criminal justice, as well as for individuals already employed in the criminal justice field. The curriculum provides foundational courses in criminal justice and approximately one-half of the hours required for the four-year _Bachelor of Arts degree_ program. The curriculum assumes proficiency in writing at the ENGL 1110 level. 
+This two-year Associate of Arts degree program is designed for students pursuing careers in criminal justice, as well as for individuals already employed in the criminal justice field. The curriculum provides foundational courses in criminal justice and approximately one-half of the hours required for the four-year _Bachelor of Arts degree_ program. The curriculum assumes proficiency in writing at the ENGL 1110 level
 
-- BIBL 2000; SOCI 2010 or SOCI 2020; SOCI 2450 
+- BIBL 2000; SOCI 2010 or SOCI 2020; SOCI 2450
 
-- CRIM 2510,2520,3110 
+- CRIM 2510,2520,3110
 
-- 9 hours from additional CRIM courses 
+- 9 hours from additional CRIM courses
 
-- 12-14 hours from the _Liberal Arts Core Curriculum_ ; no more than one course from any one component and no more than 4 hours from courses offered by the department. 
+- 12-14 hours from the _Liberal Arts Core Curriculum_ ; no more than one course from any one component and no more than 4 hours from courses offered by the department
 
-- Remaining hours from additional courses in any caption; no more than 31 hours from CRIM-captioned courses. 
+- Remaining hours from additional courses in any caption; no more than 31 hours from CRIM-captioned courses
 
-- Students must complete 60 hours and also meet other graduation requirements as listed in this catalog. 
+- Students must complete 60 hours and also meet other graduation requirements as listed in this catalog
 
-## ASSOCIATE OF SCIENCE (60 hours) 
+## ASSOCIATE OF SCIENCE (60 hours)
 
-This two-year Associate of Science degree provides foundational courses for the university’s bachelor’s degrees. 
+This two-year Associate of Science degree provides foundational courses for the university’s bachelor’s degrees
 
-- 15-18 hours in a concentration area in any discipline approved by the program director. Online students may select concentrations in Business, Business Administration & Leadership, History, Ministry Studies, or Sociology. 
+- 15-18 hours in a concentration area in any discipline approved by the program director. Online students may select concentrations in Business, Business Administration & Leadership, History, Ministry Studies, or Sociology
 
-- At least 30 hours of _Liberal Arts Core Curriculum_ requirements from the following categories: 
+- At least 30 hours of _Liberal Arts Core Curriculum_ requirements from the following categories:
 
 |o|ENGL 1110|o Personal Wellness|
 |---|---|---|
@@ -1466,423 +1466,423 @@ This two-year Associate of Science degree provides foundational courses for the 
 |o|Quantitative Reasoning|o Social & Behavioral Ways of Knowing|
 |o|BIBL 2000||
 
-- Completion of 60 hours as well as other graduation requirements listed in this catalog. 
+- Completion of 60 hours as well as other graduation requirements listed in this catalog
 
-See also: _Professional Development & General Studies_ section in this catalog. 
+See also: _Professional Development & General Studies_ section in this catalog
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-36 
+36
 
-## College of Arts & Sciences 
+## College of Arts & Sciences
 
-_Dean Deborah Miller Fox_ 
+_Dean Deborah Miller Fox_
 
-## SCHOOL OF MUSIC & PERFORMING ARTS 
+## SCHOOL OF MUSIC & PERFORMING ARTS
 
-_Dr. Christopher Holmes, chair_ 
+_Dr. Christopher Holmes, chair_
 
-_Faculty: Prof. Bade, Dr. Ballman, Dr. Chappell, Prof. Hicks, Dr. Holmes, Dr. Waller Prof. Bacon, Dr. Cavalcante, Prof. Denniston, Prof. Edie, Prof. Ellery, Prof. Evans, Prof. Everett, Dr. Fan, Prof. Hawkey, Prof. Hetrick, Prof. Hill, Dr. Jin, Prof. Johnson, Dr. Kelley, Prof. King, Prof. Kiser, Prof. Kniffin, Prof. Kumi, Prof. Lancaster, Prof. Masek, Prof. Maxfield, Prof. Powell, Prof. Recendez, Prof. Rice, Prof. Robbins, Dr. Rodgers, Prof. A. Shaver, Prof. C. Shaver, Prof. Shuntich, Prof. Silveus, Prof. Smith, Prof. Snyder,  Prof. Thiemet, Dr. Wallace, Dr. Wright, Prof. M. Yetter, Dr. York_ 
+_Faculty: Prof. Bade, Dr. Ballman, Dr. Chappell, Prof. Hicks, Dr. Holmes, Dr. Waller Prof. Bacon, Dr. Cavalcante, Prof. Denniston, Prof. Edie, Prof. Ellery, Prof. Evans, Prof. Everett, Dr. Fan, Prof. Hawkey, Prof. Hetrick, Prof. Hill, Dr. Jin, Prof. Johnson, Dr. Kelley, Prof. King, Prof. Kiser, Prof. Kniffin, Prof. Kumi, Prof. Lancaster, Prof. Masek, Prof. Maxfield, Prof. Powell, Prof. Recendez, Prof. Rice, Prof. Robbins, Dr. Rodgers, Prof. A. Shaver, Prof. C. Shaver, Prof. Shuntich, Prof. Silveus, Prof. Smith, Prof. Snyder,  Prof. Thiemet, Dr. Wallace, Dr. Wright, Prof. M. Yetter, Dr. York_
 
-The purpose of the School of Music & Performing Arts is to promote the artistic, intellectual, and personal growth of students through the performance and study of music, theatre, and dance within a community of artists and scholars. 
+The purpose of the School of Music & Performing Arts is to promote the artistic, intellectual, and personal growth of students through the performance and study of music, theatre, and dance within a community of artists and scholars
 
-The School of Music & Performing Arts offers Bachelor of Music degrees in music education, musical theatre, voice performance, and instrumental performance; Bachelor of Arts degrees in music, music business, musical theatre, theatre, and worship arts; and minors in dance, music, music performance, and theatre. The School of Music & Performing Arts also endeavors to give all students opportunities for creative experiences in the performing arts by encouraging the development of artistry and scholarship through classes, private music study, and performance. 
+The School of Music & Performing Arts offers Bachelor of Music degrees in music education, musical theatre, voice performance, and instrumental performance; Bachelor of Arts degrees in music, music business, musical theatre, theatre, and worship arts; and minors in dance, music, music performance, and theatre. The School of Music & Performing Arts also endeavors to give all students opportunities for creative experiences in the performing arts by encouraging the development of artistry and scholarship through classes, private music study, and performance
 
-Students intending to become music majors, musical theatre majors, or theatre majors should consult the School of Music & Performing Arts website for audition forms and requirements. All prospective music and musical theatre majors must complete an audition for admission to the School of Music & Performing Arts. All freshmen must complete the freshman music curriculum with grades of C- or better before registering for upper-level music courses. 
+Students intending to become music majors, musical theatre majors, or theatre majors should consult the School of Music & Performing Arts website for audition forms and requirements. All prospective music and musical theatre majors must complete an audition for admission to the School of Music & Performing Arts. All freshmen must complete the freshman music curriculum with grades of C- or better before registering for upper-level music courses
 
-## FRESHMAN CURRICULUM FOR MUSIC 
+## FRESHMAN CURRICULUM FOR MUSIC
 
-The freshman curriculum in music consists of the following courses (12 hours): 
+The freshman curriculum in music consists of the following courses (12 hours):
 
-- 6 hours from MUSC 1010,1020 (theory) 
+- 6 hours from MUSC 1010,1020 (theory)
 
-- 2 hours from MUSC 1030,1040 (aural comprehension) 
+- 2 hours from MUSC 1030,1040 (aural comprehension)
 
-- 4 hours from MUPF 1050,1060 (keyboard class) 
+- 4 hours from MUPF 1050,1060 (keyboard class)
 
-The freshman curriculum for music may be attempted only twice. Withdrawal from a freshman course counts as one attempt to pass the course. Transfer students must take examinations to determine class placement in freshman courses and must pass the freshman curriculum with grades of C- or better by the end of their fourth semester of college study, or second semester at AU, in order to continue in the major. Students who wish to begin a major in music after completing their fourth semester of college study must complete the freshman curriculum with grades of C- or better on the first attempt. Students who wish to retake a course in the music freshman curriculum after their fourth semester of college study must petition the chair  of the School of Music & Performing Arts in writing for permission to do so. 
+The freshman curriculum for music may be attempted only twice. Withdrawal from a freshman course counts as one attempt to pass the course. Transfer students must take examinations to determine class placement in freshman courses and must pass the freshman curriculum with grades of C- or better by the end of their fourth semester of college study, or second semester at AU, in order to continue in the major. Students who wish to begin a major in music after completing their fourth semester of college study must complete the freshman curriculum with grades of C- or better on the first attempt. Students who wish to retake a course in the music freshman curriculum after their fourth semester of college study must petition the chair  of the School of Music & Performing Arts in writing for permission to do so
 
-## UPPER-DIVISION PERFORMANCE EVALUATION (UDPE) 
+## UPPER-DIVISION PERFORMANCE EVALUATION (UDPE)
 
-Students in music or musical theatre are required to pass the Upper-Division Performance Evaluation (UDPE) to advance to 3000- and 4000-level private music study, perform a junior or senior recital, continue a performance emphasis, or register for music education methods courses or student teaching. Students usually take the UDPE at the end of the sophomore year. 
+Students in music or musical theatre are required to pass the Upper-Division Performance Evaluation (UDPE) to advance to 3000- and 4000-level private music study, perform a junior or senior recital, continue a performance emphasis, or register for music education methods courses or student teaching. Students usually take the UDPE at the end of the sophomore year
 
-## MUSIC ENSEMBLES 
+## MUSIC ENSEMBLES
 
-All music majors must participate in approved major ensembles each semester of enrollment (see Music Handbook for a list of approved major ensembles). Music minors are required to participate in ensembles for four semesters. Students participate in an ensemble for 1 hour of credit (or zero credit if taking 18 hours of other courses). 
+All music majors must participate in approved major ensembles each semester of enrollment (see Music Handbook for a list of approved major ensembles). Music minors are required to participate in ensembles for four semesters. Students participate in an ensemble for 1 hour of credit (or zero credit if taking 18 hours of other courses)
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-37 
+37
 
-## PRIVATE MUSIC STUDY 
+## PRIVATE MUSIC STUDY
 
-Music majors earn 1-3 hours of credit by taking weekly one-hour private lessons. Elective students earn 1 hour of credit by taking weekly half-hour or one-hour lessons. Participation in studio classes, studio recitals, and general student recitals is part of private study at Anderson University. 
+Music majors earn 1-3 hours of credit by taking weekly one-hour private lessons. Elective students earn 1 hour of credit by taking weekly half-hour or one-hour lessons. Participation in studio classes, studio recitals, and general student recitals is part of private study at Anderson University
 
-## BACHELOR OF MUSIC DEGREE 
+## BACHELOR OF MUSIC DEGREE
 
-## VOICE PERFORMANCE MAJOR  (80 hours) 
+## VOICE PERFORMANCE MAJOR  (80 hours)
 
-- MUSC 1010,1020,1030,1040,2010,2020,2030,2040,2110,2330,3120,3130 
+- MUSC 1010,1020,1030,1040,2010,2020,2030,2040,2110,2330,3120,3130
 
-- MUED 2470 
+- MUED 2470
 
-- MUBS 3470 
+- MUBS 3470
 
-- 4 hours from MUPF 1050,1060,1710,2030,2040,2710 
+- 4 hours from MUPF 1050,1060,1710,2030,2040,2710
 
-- MUPF 4910 
+- MUPF 4910
 
-## Pedagogy and Literature 
+## Pedagogy and Literature
 
-- MUED 2510,2520,3350 
+- MUED 2510,2520,3350
 
-- MUSC 3390 
+- MUSC 3390
 
-## Applied Study 
+## Applied Study
 
-- 18 hours of private study in the primary performance area, including a half recital in the junior year and a full recital in the senior year 
+- 18 hours of private study in the primary performance area, including a half recital in the junior year and a full recital in the senior year
 
-## Related Skills 
+## Related Skills
 
-- THEA 2110,2120,2210 
+- THEA 2110,2120,2210
 
-- 4 hours from MUPF 1150,1160,1170 
+- 4 hours from MUPF 1150,1160,1170
 
-- 3 hours from DANC technique courses 
+- 3 hours from DANC technique courses
 
-_Majors are required to take French or German to fulfill modern language requirements._ 
+_Majors are required to take French or German to fulfill modern language requirements._
 
-## INSTRUMENTAL PERFORMANCE MAJOR  (80 hours) 
+## INSTRUMENTAL PERFORMANCE MAJOR  (80 hours)
 
-- MUSC 1010,1020,1030,1040,2010,2020,2030,2040,2110,2330,3040,3120,3130 
+- MUSC 1010,1020,1030,1040,2010,2020,2030,2040,2110,2330,3040,3120,3130
 
-- MUED 2470,3480 
+- MUED 2470,3480
 
-- MUBS 3470 
+- MUBS 3470
 
-- 2 hours from MUSC 3030,3100,4900; MUBS 2050 
+- 2 hours from MUSC 3030,3100,4900; MUBS 2050
 
-- 6 hours from MUPF 1050,1060,1710,2030,2040 
+- 6 hours from MUPF 1050,1060,1710,2030,2040
 
-## Pedagogy and Literature (select one track)  
+## Pedagogy and Literature (select one track)
 
-- Piano Track:  MUED 3370; MUSC 3380; MUPF 2060 
+- Piano Track:  MUED 3370; MUSC 3380; MUPF 2060
 
-- Instrumental Track:  MUSC 3650 (2 hours in literature study); MUED 3330; MUPF 2060 
+- Instrumental Track:  MUSC 3650 (2 hours in literature study); MUED 3330; MUPF 2060
 
-## Applied Study 
+## Applied Study
 
-- 22 hours of private study in the primary performance area, including a half recital in the junior year and a full recital in the senior year 
+- 22 hours of private study in the primary performance area, including a half recital in the junior year and a full recital in the senior year
 
-- 7 hours of major ensembles 
+- 7 hours of major ensembles
 
-- 2 hours of chamber ensembles 
+- 2 hours of chamber ensembles
 
-## MUSIC EDUCATION MAJOR, GRADES P-12, ALL AREAS  (101 hours) 
+## MUSIC EDUCATION MAJOR, GRADES P-12, ALL AREAS  (101 hours)
 
-- MUSC 1010,1020,1030,1040,2010,2020,2030,2040,2110,2330,3030,3040 
+- MUSC 1010,1020,1030,1040,2010,2020,2030,2040,2110,2330,3030,3040
 
-- 6 hours from MUSC 3110,3120,3130 
+- 6 hours from MUSC 3110,3120,3130
 
-- MUPF 1050,1060 
+- MUPF 1050,1060
 
-- 2 hours from MUPF 1710,2030,2040 
+- 2 hours from MUPF 1710,2030,2040
 
-- MUED 1000,1100,1200,1300,1400,2470,3100,3110,3120,3130,3470,3480,4700 
+- MUED 1000,1100,1200,1300,1400,2470,3100,3110,3120,3130,3470,3480,4700
 
-- 2 hours from MUED 3330,3350,3370 
+- 2 hours from MUED 3330,3350,3370
 
-- 2 hours from MUED 2510,2520,3460 
+- 2 hours from MUED 2510,2520,3460
 
-- 8 hours of applied music lessons, including a half recital 
+- 8 hours of applied music lessons, including a half recital
 
-- EDUC 2100,2110,3120,4010; EDUC 4710,4715; SPED 2400 
+- EDUC 2100,2110,3120,4010; EDUC 4710,4715; SPED 2400
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-38 
+38
 
-MUSICAL THEATRE MAJOR  (80 hours) 
+MUSICAL THEATRE MAJOR  (80 hours)
 
-- MUSC 1010,1020,1030,1040,2010,2030,2110,2330,3180 
+- MUSC 1010,1020,1030,1040,2010,2030,2110,2330,3180
 
-- 3 hours from MUSC 3120,3130 
+- 3 hours from MUSC 3120,3130
 
-- 2 hours from MUPF 1050,1060,1710,2710,2030 
+- 2 hours from MUPF 1050,1060,1710,2710,2030
 
-- 10 hours of applied music lessons in voice, including 2 hours of MUPF 4540 
+- 10 hours of applied music lessons in voice, including 2 hours of MUPF 4540
 
-- MUPF 1170 (6 semesters) 
+- MUPF 1170 (6 semesters)
 
-- MUED 2510 
+- MUED 2510
 
-- Major Ensemble (8 semesters) 
+- Major Ensemble (8 semesters)
 
-- MUTR 2410,2420,3210,3220,3410,4500,4910 
+- MUTR 2410,2420,3210,3220,3410,4500,4910
 
-- THEA 2110,2120,2210,2220,3110,3120 
+- THEA 2110,2120,2210,2220,3110,3120
 
-- 6 hours in the following dance technique areas: 
+- 6 hours in the following dance technique areas:
 
-   - At least 2 hours from DANC 1120,2120,3120 (Tap) 
+   - At least 2 hours from DANC 1120,2120,3120 (Tap)
 
-   - At least 2 hours from DANC 1320,2320,3320 (Jazz) 
+   - At least 2 hours from DANC 1320,2320,3320 (Jazz)
 
-   - At least 2 hours from DANC 1420,2420,3420 (Ballet) 
+   - At least 2 hours from DANC 1420,2420,3420 (Ballet)
 
-- DANC 2110 
+- DANC 2110
 
-- Majors are encouraged to take DANC 1580 and THEA 3400 
+- Majors are encouraged to take DANC 1580 and THEA 3400
 
-## BACHELOR OF ARTS DEGREE IN MUSIC 
+## BACHELOR OF ARTS DEGREE IN MUSIC
 
-MUSIC (50 hours) 
+MUSIC (50 hours)
 
-Select one of the following options: 
+Select one of the following options:
 
-## Performance Option 
+## Performance Option
 
-- MUSC 1010,1020,1030,1040,2010,2110,2330,3120,3130 
+- MUSC 1010,1020,1030,1040,2010,2110,2330,3120,3130
 
-- MUSC 4950 or 4955 
+- MUSC 4950 or 4955
 
-- MUPF 1050,1060 
+- MUPF 1050,1060
 
-- 4 hours of applied music lessons 
+- 4 hours of applied music lessons
 
-- 8 hours of music ensembles 
+- 8 hours of music ensembles
 
-- 2 hours from MUED 3330,3350,3370 
+- 2 hours from MUED 3330,3350,3370
 
-- 4 additional hours of applied music lessons 
+- 4 additional hours of applied music lessons
 
-- 9 hours of approved voice performance or instrumental electives 
+- 9 hours of approved voice performance or instrumental electives
 
-## Theory and History Option 
+## Theory and History Option
 
-- MUSC 1010,1020,1030,1040,2010,2110,2330,3120,3130 
+- MUSC 1010,1020,1030,1040,2010,2110,2330,3120,3130
 
-- MUSC 4950 or 4955 
+- MUSC 4950 or 4955
 
-- MUPF 1050,1060 
+- MUPF 1050,1060
 
-- 4 hours of applied music lessons 
+- 4 hours of applied music lessons
 
-- 8 hours of music ensembles 
+- 8 hours of music ensembles
 
-- MUSC 2020,2030,2040,3110 
+- MUSC 2020,2030,2040,3110
 
-- 7 hours of electives from: 
+- 7 hours of electives from:
 
-   - MUPF 1900-4900 
+   - MUPF 1900-4900
 
-   - MUSC 3030,3040,3100,3650,4650,4900 
+   - MUSC 3030,3040,3100,3650,4650,4900
 
-   - MUED 2470 
+   - MUED 2470
 
-   - Applied music lessons 
+   - Applied music lessons
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-39 
+39
 
-## Composition Option 
+## Composition Option
 
-- MUSC 1010,1020,1030,1040,2010,2110,2330,3120,3130 
+- MUSC 1010,1020,1030,1040,2010,2110,2330,3120,3130
 
-- MUSC 4950 or 4955 
+- MUSC 4950 or 4955
 
-- MUPF 1050,1060 
+- MUPF 1050,1060
 
-- 4 hours of applied music lessons 
+- 4 hours of applied music lessons
 
-- 8 hours of music ensembles 
+- 8 hours of music ensembles
 
-- MUSC 2020,3040 
+- MUSC 2020,3040
 
-- 4 hours from MUPF 1900-4900 
+- 4 hours from MUPF 1900-4900
 
-- 6 hours of electives from: 
+- 6 hours of electives from:
 
-o MUSC 2030,2040,3030,3100,3110,3650,4650,4900 
+o MUSC 2030,2040,3030,3100,3110,3650,4650,4900
 
-o MUED 2470 
+o MUED 2470
 
-- Applied music lessons 
+- Applied music lessons
 
-## MUSICAL THEATRE  (45 hours) 
+## MUSICAL THEATRE  (45 hours)
 
-- MUSC 1010,1020,1030,1040 
+- MUSC 1010,1020,1030,1040
 
-- MUTR 2410,2420,3210,3220 
+- MUTR 2410,2420,3210,3220
 
-- THEA 2110,2120,2210,3110 
+- THEA 2110,2120,2210,3110
 
-- MUPF 4910 
+- MUPF 4910
 
-- 2 hours of MUPF 1170 
+- 2 hours of MUPF 1170
 
-- 6 hours of voice study from MUPF 2700 or 4700 
+- 6 hours of voice study from MUPF 2700 or 4700
 
-- 2 hours of piano study from MUPF 1050,1060,1710,1720,2030 
+- 2 hours of piano study from MUPF 1050,1060,1710,1720,2030
 
-- 2 hours of ballet study from DANC 1420-3420 
+- 2 hours of ballet study from DANC 1420-3420
 
-- 1 hour of jazz dance study from DANC 1320-3320 
+- 1 hour of jazz dance study from DANC 1320-3320
 
-- 2 hours of dance study from DANC 2110,1120-3120 
+- 2 hours of dance study from DANC 2110,1120-3120
 
-## WORSHIP ARTS  (53 hours) 
+## WORSHIP ARTS  (53 hours)
 
-- MUSC 1010,1030,3150,3160,3800 
+- MUSC 1010,1030,3150,3160,3800
 
-- MUED 2470 
+- MUED 2470
 
-- MUPF 1050,1410 
+- MUPF 1050,1410
 
-- 4 hours of applied music lessons 
+- 4 hours of applied music lessons
 
-- 4 hours of music ensembles 
+- 4 hours of music ensembles
 
-- MUBS 2020,3450 
+- MUBS 2020,3450
 
-- THEA 2350 
+- THEA 2350
 
-- DANC 1580,1590 
+- DANC 1580,1590
 
-- COMM 2140,2200 
+- COMM 2140,2200
 
-- 12 hours from: 
+- 12 hours from:
 
-o CMIN 2000,2270,3050 o RLGN/HIST 3060,3420 
+o CMIN 2000,2270,3050 o RLGN/HIST 3060,3420
 
-o RLGN 3040 
+o RLGN 3040
 
-## BACHELOR OF ARTS DEGREE IN MUSIC BUSINESS (53 hours) 
+## BACHELOR OF ARTS DEGREE IN MUSIC BUSINESS (53 hours)
 
-Music Core Courses (23 hours) 
+Music Core Courses (23 hours)
 
-- MUSC 1010,1020,1030,1040,2210 
+- MUSC 1010,1020,1030,1040,2210
 
-- MUPF 1050,1060 
+- MUPF 1050,1060
 
-- 4 hours of applied music lessons (MUPF) 
+- 4 hours of applied music lessons (MUPF)
 
-- 4 hours of ensembles (MUPF) 
+- 4 hours of ensembles (MUPF)
 
-Music Business Core (18 hours) 
+Music Business Core (18 hours)
 
-- MUBS 2010,2020,3310,3350,4800,4900 
+- MUBS 2010,2020,3310,3350,4800,4900
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-40 
+40
 
-Music Business Electives (12 hours from the following) 
+Music Business Electives (12 hours from the following)
 
-- MUBS 2070,2450,3100,3210,3220,3370,3380,3450,3470,4500,4850,4870,4950 
+- MUBS 2070,2450,3100,3210,3220,3370,3380,3450,3470,4500,4850,4870,4950
 
-- MUPF 2905,4905 
+- MUPF 2905,4905
 
-- BSNS 4400 
+- BSNS 4400
 
-- CRIM 2520 
+- CRIM 2520
 
-## BACHELOR OF ARTS DEGREE IN THEATRE (42 hours) 
+## BACHELOR OF ARTS DEGREE IN THEATRE (42 hours)
 
-## Required Courses (34 hours) 
+## Required Courses (34 hours)
 
-- THEA 2110,2210,2220,2410,3010,3020,3400,3500,3550,4800 
+- THEA 2110,2210,2220,2410,3010,3020,3400,3500,3550,4800
 
-- 8 hours of THEA 2890 
+- 8 hours of THEA 2890
 
-Elective Courses (8 hours from the following) 
+Elective Courses (8 hours from the following)
 
-- THEA 2120,2420,3110,3120 
+- THEA 2120,2420,3110,3120
 
-- MUPF 1070-1390 (up to 2 credit hours) 
+- MUPF 1070-1390 (up to 2 credit hours)
 
-- MUPF 2700 (up to 2 credit hours) 
+- MUPF 2700 (up to 2 credit hours)
 
-- MUPF 4910 
+- MUPF 4910
 
-- DANC technique courses 
+- DANC technique courses
 
-## MINORS 
+## MINORS
 
-DANCE MINOR (18 hours) 
+DANCE MINOR (18 hours)
 
-- 1 hour of DANC 1150 
+- 1 hour of DANC 1150
 
-- 1 hour of DANC 1160 
+- 1 hour of DANC 1160
 
-- DANC 1580,1590 
+- DANC 1580,1590
 
-- DANC 3010 or 3020 
+- DANC 3010 or 3020
 
-- 4 hours from DANC 1220-4220 (modern technique) 
+- 4 hours from DANC 1220-4220 (modern technique)
 
-- 4 hours from DANC 1420-4420 (ballet technique) 
+- 4 hours from DANC 1420-4420 (ballet technique)
 
-- 2 hours from DANC 1320-4320 (jazz technique) 
+- 2 hours from DANC 1320-4320 (jazz technique)
 
-## MUSIC MINOR (18 hours) 
+## MUSIC MINOR (18 hours)
 
-- MUSC 1010,1020,1030,1040,2110 
+- MUSC 1010,1020,1030,1040,2110
 
-- 4 hours from MUPF 1050,1060, and/or private piano 
+- 4 hours from MUPF 1050,1060, and/or private piano
 
-- 2 hours of applied study (private and/or class) 
+- 2 hours of applied study (private and/or class)
 
-- 2 hours of music ensembles 
+- 2 hours of music ensembles
 
-## MUSIC PERFORMANCE MINOR 
+## MUSIC PERFORMANCE MINOR
 
-_Admission by audition on the primary instrument to ensure adequate performance level._ 
+_Admission by audition on the primary instrument to ensure adequate performance level._
 
-Select one of the following two tracks: 
+Select one of the following two tracks:
 
-Track for Music Majors (15-16 hours) 
+Track for Music Majors (15-16 hours)
 
-- 6-8 hours of additional applied study, including a half recital 
+- 6-8 hours of additional applied study, including a half recital
 
-- MUED 2470 
+- MUED 2470
 
-- Additional hours from one of the following sequences: 
+- Additional hours from one of the following sequences:
 
-   - Singers: MUED 2510,2520,3350; 2 hours from MUPF 1150,1160,1170 
+   - Singers: MUED 2510,2520,3350; 2 hours from MUPF 1150,1160,1170
 
-   - Pianists: MUED 3370; MUSC 3380; 3 hours from MUPF 1190,1210,1520,1530 
+   - Pianists: MUED 3370; MUSC 3380; 3 hours from MUPF 1190,1210,1520,1530
 
-   - Instrumentalists: 5 hours from MUPF 1190,1230,1250,1360,1370,1380,1390 
+   - Instrumentalists: 5 hours from MUPF 1190,1230,1250,1360,1370,1380,1390
 
-Track for Non-Music Majors (18 hours) 
+Track for Non-Music Majors (18 hours)
 
-- MUSC 1010,1020,1030,1040 
+- MUSC 1010,1020,1030,1040
 
-- MUPF 1050 or 1060 or 2 hours of private piano 
+- MUPF 1050 or 1060 or 2 hours of private piano
 
-- 8 hours of private study in the primary performance area, including a half recital 
+- 8 hours of private study in the primary performance area, including a half recital
 
-- MUSC 2110 is recommended. 
+- MUSC 2110 is recommended
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-41 
+41
 
-## THEATRE MINOR (17 hours) 
+## THEATRE MINOR (17 hours)
 
-- THEA 2110,2210,3400 
+- THEA 2110,2210,3400
 
-- One course from THEA 3010,3020,4900 
+- One course from THEA 3010,3020,4900
 
-- One course from THEA 3500,3550 
+- One course from THEA 3500,3550
 
-- At least 2 hours from THEA 2890 
+- At least 2 hours from THEA 2890
 
-## MUSC 
+## MUSC
 
-## _Theory of Music Courses_ 
+## _Theory of Music Courses_
 
 |1000 |MusicLiteracy|2 hours (2,0)|
 |---|---|---|
@@ -1925,13 +1925,13 @@ Anderson University Undergraduate Catalog 2025-26
 ||Focuses on solving contrapuntal problems and composing pieces in historical styles.Prerequisite:||
 ||MUSC 1020,1040.||
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-42 
+42
 
-## MUSC 
+## MUSC
 
-_Music History and Literature Courses_ 
+_Music History and Literature Courses_
 
 |2110|Introduction to Music Literature|2 hours (2,0)|
 |---|---|---|
@@ -1982,13 +1982,13 @@ _Music History and Literature Courses_
 ||Emphasis on stylistic interpretation and vocal appropriateness. Music performed by class participants.||
 ||Recordings are also utilized.Prerequisite: Four semesters of voice study.Offered: Semester I.||
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-43 
+43
 
-## MUSC 
+## MUSC
 
-## _Church Music Courses_ 
+## _Church Music Courses_
 
 ==> picture [463 x 9] intentionally omitted <==
 
@@ -1999,11 +1999,11 @@ Anderson University Undergraduate Catalog 2025-26
 
 ----- End of picture text -----<br>
 
-Philosophical, sociological, historical, and theological perspectives on music and worship in the church with emphasis on understanding the role of music in expressions of faith. Offered : Semester I. 3160 Sacred Music: Past and Current Uses 3 hours (3,0) Survey of how sacred song has been and is currently used in worship settings in a variety of times and cultures. Emphasis on the administration, selection, rehearsal, and use of sacred music in the 21st century church. Offered : Semester II. 3800 Internship in Church Music 3 hours (arranged) In-depth experience in a local church with an experienced minister involved full time in church music. Prerequisite : MUSC 1010,1030. Grade : CR/NC. Repeat : May be repeated (total credit not to exceed 3 hours). Offered : Each semester. 
+Philosophical, sociological, historical, and theological perspectives on music and worship in the church with emphasis on understanding the role of music in expressions of faith. Offered : Semester I. 3160 Sacred Music: Past and Current Uses 3 hours (3,0) Survey of how sacred song has been and is currently used in worship settings in a variety of times and cultures. Emphasis on the administration, selection, rehearsal, and use of sacred music in the 21st century church. Offered : Semester II. 3800 Internship in Church Music 3 hours (arranged) In-depth experience in a local church with an experienced minister involved full time in church music. Prerequisite : MUSC 1010,1030. Grade : CR/NC. Repeat : May be repeated (total credit not to exceed 3 hours). Offered : Each semester
 
-## MUSC 
+## MUSC
 
-## _Additional Music Courses_ 
+## _Additional Music Courses_
 
 |1650 |Independent Study|1-4 hours (arranged)|
 |---|---|---|
@@ -2032,13 +2032,13 @@ Philosophical, sociological, historical, and theological perspectives on music a
 ||must be submitted for approval. Refer to the School of Music & Performing Arts Handbook for||
 ||guidelines and deadlines.Consent: Department.Offered: Each semester.||
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-44 
+44
 
-## MUBS 
+## MUBS
 
-_Music Business Courses_ 
+_Music Business Courses_
 
 |2010 |Introduction to the Music Business|3 hours (3,0)|
 |---|---|---|
@@ -2098,9 +2098,9 @@ _Music Business Courses_
 ||annotated list of sources, and a project outline, as well as composing a moderate-length term paper to||
 ||be presented to the class.Prerequisite: MUBS 2010,2020.Offered: With suffcient demand.||
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-45 
+45
 
 |MUBS(cont.)||
 |---|---|
@@ -2135,9 +2135,9 @@ Anderson University Undergraduate Catalog 2025-26
 |Music Business major. The recording project must be specifc to the track, and a proposal must be||
 |submitted to the department for approval.Prerequisite: MUBS 3210,3220.Offered: Semester I, II.||
 
-## MUBS 
+## MUBS
 
-_Additional Music Business Courses_ 
+_Additional Music Business Courses_
 
 |1650 Independent Study|1-4 hours (arranged)|
 |---|---|
@@ -2157,13 +2157,13 @@ _Additional Music Business Courses_
 |with an international experience offered through the TRI-S program.Repeat: May be repeated||
 |(total credit not to exceed 4 hours).||
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-46 
+46
 
-## MUED 
+## MUED
 
-_Music Education Courses_ 
+_Music Education Courses_
 
 |1000 Introduction to Music Education|2 hours (2,0)|
 |---|---|
@@ -2221,9 +2221,9 @@ _Music Education Courses_
 |Representative methods and materials for early years of keyboard study. Includes teaching||
 |experience.Expectation: Successful completion of_UDPE_.Offered: Semester I.||
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-47 
+47
 
 |MUED (cont.)||
 |---|---|
@@ -2252,9 +2252,9 @@ Anderson University Undergraduate Catalog 2025-26
 |areas and levels in which students are involved in student teaching.Prerequisite: MUED 3110,3120,||
 |3130.Offered: Each semester.||
 
-## MUED 
+## MUED
 
-_Additional Music Education Courses_ 
+_Additional Music Education Courses_
 
 |1650 Independent Study|1-4 hours (arranged)|
 |---|---|
@@ -2274,13 +2274,13 @@ _Additional Music Education Courses_
 |with an international experience offered through the TRI-S program.Repeat: May be repeated||
 |(total credit not to exceed 4 hours).||
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-48 
+48
 
-## MUPF 
+## MUPF
 
-_Music Performance Courses_ 
+_Music Performance Courses_
 
 |Private Study|— Half Recitals (25-30 minutes)<br>Repeat: May be repeated.|— Half Recitals (25-30 minutes)<br>Repeat: May be repeated.|
 |---|---|---|
@@ -2300,11 +2300,11 @@ _Music Performance Courses_
 |4580|Brass Recital|
 |4590|Percussion Recital|
 
-Repeat: May be repeated. 2 hours (2,1) 2 hours (2,1) 2 hours (2,1) 2 hours (2,1) 2 hours (2,1) 2 hours (2,1) 
+Repeat: May be repeated. 2 hours (2,1) 2 hours (2,1) 2 hours (2,1) 2 hours (2,1) 2 hours (2,1) 2 hours (2,1)
 
-## Applied Lessons — Half-Hour, Lower-Division Study 
+## Applied Lessons — Half-Hour, Lower-Division Study
 
-Repeat: May be repeated. 
+Repeat: May be repeated
 
 |Lesso|ns — Half-Hour, Lower-Division Study|Repeat: May be re|
 |---|---|---|
@@ -2332,13 +2332,13 @@ Repeat: May be repeated.
 |1900|Composition|1 hour (1,1)|
 |1905|Songwriting|1 hour (1,1)|
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-49 
+49
 
-Applied Lessons — Half-Hour, Upper-Division Study 
+Applied Lessons — Half-Hour, Upper-Division Study
 
-## Repeat May be repeated. 
+## Repeat May be repeated
 
 |Lesso|ns — Half-Hour, Upper-Division Study|Repeat: May be repeated.|
 |---|---|---|
@@ -2390,13 +2390,13 @@ Applied Lessons — Half-Hour, Upper-Division Study
 |2900|Composition|1-3 hours (1-3,0)|
 |2905|Songwriting|1-3 hours (1-3,0)|
 
-Applied Lessons — One Hour, Lower-Division Study 
+Applied Lessons — One Hour, Lower-Division Study
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-50 
+50
 
-## Applied Lessons — One Hour, Upper-Division Study 
+## Applied Lessons — One Hour, Upper-Division Study
 
 |Lessons — One Hour, Upper-Division Study<br>Repeat: May be repeated.|Lessons — One Hour, Upper-Division Study<br>Repeat: May be repeated.|Lessons — One Hour, Upper-Division Study<br>Repeat: May be repeated.|
 |---|---|---|
@@ -2424,7 +2424,7 @@ Anderson University Undergraduate Catalog 2025-26
 |4900|Composition|1-3 hours (1-3,0)|
 |4905|Songwriting|1-3 hours (1-3,0)|
 
-## _Class Study_ 
+## _Class Study_
 
 |1010 |Class Lessons in Voice I|1 hour (1,0)|
 |---|---|---|
@@ -2452,9 +2452,9 @@ Anderson University Undergraduate Catalog 2025-26
 ||include Latin-American, Afro-Cuban, African, and Brazilian drumming, along with cultural and folkloric||
 ||history. No previous percussion experience or instrument required.||
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-51 
+51
 
 |MUPF (cont.)||
 |---|---|
@@ -2480,7 +2480,7 @@ Anderson University Undergraduate Catalog 2025-26
 |concert/oratorio, and musical theatre. Conducted in a master-class format, the seminar includes both||
 |oral and written participation.Repeat: May be repeated.SAME AS:MUTR 4910.Offered: Semester I.||
 
-## _Ensembles_ 
+## _Ensembles_
 
 |Consent: By|audition|Repeat: May be repeate|
 |---|---|---|
@@ -2519,13 +2519,13 @@ Anderson University Undergraduate Catalog 2025-26
 
 ----- End of picture text -----<br>
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-52 
+52
 
-## MUPF 
+## MUPF
 
-_Additional Music Performance Courses_ 
+_Additional Music Performance Courses_
 
 |1650 Independent Study|1-4 hours (arranged)|
 |---|---|
@@ -2544,9 +2544,9 @@ _Additional Music Performance Courses_
 |Designed to provide academic credit for coursework and assignments completed in conjunction||
 |with an international experience offered through the TRI-S program.Repeat: May be repeated.||
 
-## MUTR 
+## MUTR
 
-## _Musical Theatre Courses_ 
+## _Musical Theatre Courses_
 
 |_usical Theatre Courses_|_usical Theatre Courses_|
 |---|---|
@@ -2581,9 +2581,9 @@ _Additional Music Performance Courses_
 |In depth work on solos chosen from the musical theatre canon in order to guide each individual student||
 |build a process for singing and acting simultaneously. The techniques learned and tools gained will help<br>students deliver a more active, truthful, and specifc performance.Offered: Semester I.||
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-53 
+53
 
 |3220Musical Theatre II<br>3 hours (3,0)|
 |---|
@@ -2643,9 +2643,9 @@ Anderson University Undergraduate Catalog 2025-26
 |majors and non-majors, offering a comprehensive overview that cultivates an appreciation for the world|
 |of theatre.Offered: Semester II.|
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-54 
+54
 
 |HEA (cont.)||
 |---|---|
@@ -2704,13 +2704,13 @@ Anderson University Undergraduate Catalog 2025-26
 |3550Lighting Design|3 hours (3,2)|
 |Study of theories and practices of theatrical lighting. Open to all students.Offered: Semester II.||
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-55 
+55
 
-3650 Independent Study 1-4 hours (arranged) Opportunities for individualized study as agreed upon by student and faculty member. Repeat : May be repeated (total credit not to exceed 4 hours). 4500 Musical Theatre Showcase 2 hours (2,0) Overview studio course for graduating musical theatre majors. Coursework involves repertoire from genres of musical theatre appropriate for each individual. Culminates in a showcase performance presented at the end of the semester. SAME AS: MUTR 4500. Offered : Semester II. 4650 Independent Study 1-4 hours (arranged) Opportunities for individualized study as agreed upon by student and faculty member. Repeat : May be repeated (total credit not to exceed 4 hours). 4660 International Experience in the Arts 1-4 hours (arranged) 
+3650 Independent Study 1-4 hours (arranged) Opportunities for individualized study as agreed upon by student and faculty member. Repeat : May be repeated (total credit not to exceed 4 hours). 4500 Musical Theatre Showcase 2 hours (2,0) Overview studio course for graduating musical theatre majors. Coursework involves repertoire from genres of musical theatre appropriate for each individual. Culminates in a showcase performance presented at the end of the semester. SAME AS: MUTR 4500. Offered : Semester II. 4650 Independent Study 1-4 hours (arranged) Opportunities for individualized study as agreed upon by student and faculty member. Repeat : May be repeated (total credit not to exceed 4 hours). 4660 International Experience in the Arts 1-4 hours (arranged)
 
-Opportunities for individualized study as agreed upon by student and faculty member. Repeat : May be repeated (total credit not to exceed 4 hours). International Experience in the Arts Designed to provide academic credit for coursework and assignments completed in conjunction with an international experience offered through the TRI-S program. Repeat : May be repeated. Senior Project Students complete a portfolio and present a final performance/production. The latter requirement also may be filled through an approved internship with a professional theatre company. Students wishing to advance to a Master of Arts program may also complete a paper for presentation at an approved conference. Expectation : All required coursework. Offered : With sufficient demand. 
+Opportunities for individualized study as agreed upon by student and faculty member. Repeat : May be repeated (total credit not to exceed 4 hours). International Experience in the Arts Designed to provide academic credit for coursework and assignments completed in conjunction with an international experience offered through the TRI-S program. Repeat : May be repeated. Senior Project Students complete a portfolio and present a final performance/production. The latter requirement also may be filled through an approved internship with a professional theatre company. Students wishing to advance to a Master of Arts program may also complete a paper for presentation at an approved conference. Expectation : All required coursework. Offered : With sufficient demand
 
 ==> picture [80 x 10] intentionally omitted <==
 
@@ -2721,9 +2721,9 @@ Opportunities for individualized study as agreed upon by student and faculty mem
 
 ----- End of picture text -----<br>
 
-## 4800 Senior Project 
+## 4800 Senior Project
 
-## 4900 Seminar in Theatre Studies 
+## 4900 Seminar in Theatre Studies
 
 ==> picture [50 x 9] intentionally omitted <==
 
@@ -2734,7 +2734,7 @@ Opportunities for individualized study as agreed upon by student and faculty mem
 
 ----- End of picture text -----<br>
 
-Specialized focus on various periods of theatrical history, performance genres, and/or theory. Topics vary. Consent : Instructor consent required for non-departmental majors. Repeat : May be repeated. Offered : With sufficient demand. 
+Specialized focus on various periods of theatrical history, performance genres, and/or theory. Topics vary. Consent : Instructor consent required for non-departmental majors. Repeat : May be repeated. Offered : With sufficient demand
 
 ==> picture [48 x 9] intentionally omitted <==
 
@@ -2745,13 +2745,13 @@ Specialized focus on various periods of theatrical history, performance genres, 
 
 ----- End of picture text -----<br>
 
-## 4910 Seminar in Performance Practices 
+## 4910 Seminar in Performance Practices
 
-Specialized focus on both the study and practice of various performance skills/arts. Topics vary. Consent : Instructor consent required for non-departmental majors. Repeat : May be repeated. Offered : With sufficient demand. 
+Specialized focus on both the study and practice of various performance skills/arts. Topics vary. Consent : Instructor consent required for non-departmental majors. Repeat : May be repeated. Offered : With sufficient demand
 
-## DANC 
+## DANC
 
-_Dance Courses_ 
+_Dance Courses_
 
 |1120 |Tap I|1 hour (2,0)|
 |---|---|---|
@@ -2777,17 +2777,17 @@ _Dance Courses_
 ||Introduces a foundation for the development of basic skills and ballet technique.Repeat: May be||
 ||repeated.Offered: Semester I, II.||
 
-1580 Dance Improvisation I 1 hour (2,0) 
+1580 Dance Improvisation I 1 hour (2,0)
 
-Introduces spontaneous creation through words, sketches, sounds, and movement. Explores the topics of “body in space” and use of “negative space.” Focuses on individual improvisation, body awareness, and the student’s ability to work within a given structure, time, and space. Group improvisation introduced at the end of the course. Open to all students; no dance experience necessary. Offered : Semester I. 
+Introduces spontaneous creation through words, sketches, sounds, and movement. Explores the topics of “body in space” and use of “negative space.” Focuses on individual improvisation, body awareness, and the student’s ability to work within a given structure, time, and space. Group improvisation introduced at the end of the course. Open to all students; no dance experience necessary. Offered : Semester I
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-56 
+56
 
-1590 Dance Composition I 2 hours (2,0) 
+1590 Dance Composition I 2 hours (2,0)
 
-Introduces the basics of composition and choreography for solo work, including Laban’s space, time and effort/ energy principles. Evolving use of compositional tools including symmetry, asymmetry, unison, counterpoint, canon, round, retrograde, chaos, tempo, and syncopation. Includes basics of musical phrase work, theatrical staging, and directing. Offered : Semester II. 
+Introduces the basics of composition and choreography for solo work, including Laban’s space, time and effort/ energy principles. Evolving use of compositional tools including symmetry, asymmetry, unison, counterpoint, canon, round, retrograde, chaos, tempo, and syncopation. Includes basics of musical phrase work, theatrical staging, and directing. Offered : Semester II
 
 |1650 Independent Study|1-4 hours (arranged)|
 |---|---|
@@ -2840,9 +2840,9 @@ Introduces the basics of composition and choreography for solo work, including L
 |rise of ballet, Baroque dance, Romantic and Classical ballet, and the artistic diaspora following the||
 |Bolshevik Revolution in Russia.Offered: Semester II.||
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-57 
+57
 
 |3020Dance History II|3|hours (3,0)|
 |---|---|---|
@@ -2902,9 +2902,9 @@ Anderson University Undergraduate Catalog 2025-26
 |site-specifc works. Includes character development, relationships between dancers, music selection.|||
 |Prerequisite: DANC 2590.Offered: Semester II, 2025-26.|||
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-58 
+58
 
 |ANC (cont.)||
 |---|---|
@@ -2959,309 +2959,309 @@ Anderson University Undergraduate Catalog 2025-26
 |and written participation, and the completion of a professional portfolio.Prerequisite:||
 |Upper-division standing.Offered: Semester I.||
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-59 
+59
 
-# DEPARTMENT OF COMPUTER SCIENCE & MATHEMATICS 
+# DEPARTMENT OF COMPUTER SCIENCE & MATHEMATICS
 
-_Dr. Justin Lambright, chair_ 
+_Dr. Justin Lambright, chair_
 
-_Faculty:  Prof. Burch, Dr. Coon, Prof. Craton, Dr. Lambright, Dr. Preston, Dr. Van Groningen_ 
+_Faculty:  Prof. Burch, Dr. Coon, Prof. Craton, Dr. Lambright, Dr. Preston, Dr. Van Groningen_
 
-## COMPUTER SCIENCE 
+## COMPUTER SCIENCE
 
-The mission of the Department of Computer Science is to provide students with a strong foundation in the field, build a love for lifelong learning, and ignite a desire to use their skills in service to the church and to society. The Department of Computer Science offers three standard majors—computer science (Bachelor of Science and Bachelor of Arts), data science (Bachelor of Science and Bachelor of Arts), and cybersecurity (Bachelor of Arts), which is an interdisciplinary major offered in conjunction with the security studies program. Also, for students wishing to add a concentration of coursework in these subjects to an existing major, two complementary majors are offered—computer science and data science. The knowledge and skills gained in these majors are uniquely suited to allow our students to be servant leaders in their communities. Anderson University computer science, cybersecurity, and data science students are immersed in project-based experiential learning in both the classroom and the community. 
+The mission of the Department of Computer Science is to provide students with a strong foundation in the field, build a love for lifelong learning, and ignite a desire to use their skills in service to the church and to society. The Department of Computer Science offers three standard majors—computer science (Bachelor of Science and Bachelor of Arts), data science (Bachelor of Science and Bachelor of Arts), and cybersecurity (Bachelor of Arts), which is an interdisciplinary major offered in conjunction with the security studies program. Also, for students wishing to add a concentration of coursework in these subjects to an existing major, two complementary majors are offered—computer science and data science. The knowledge and skills gained in these majors are uniquely suited to allow our students to be servant leaders in their communities. Anderson University computer science, cybersecurity, and data science students are immersed in project-based experiential learning in both the classroom and the community
 
-Students develop and apply their knowledge outside the classroom by completing on-campus internships with area companies or the Center for Security Studies and Cyber Defense, working with Anderson University Information Technology Services, and working within the Department of Computer Science to install and maintain servers, network, and lab computers. Additional off-campus opportunities include internships with companies in the surrounding counties. Anderson University students in these majors are recognized by employers as having the key abilities necessary in quality employees: integrity, Christ-centered servant leadership, strong written and oral communication skills, problem-solving abilities, excellent computer science skills, and an eagerness to learn what is needed to solve problems. 
+Students develop and apply their knowledge outside the classroom by completing on-campus internships with area companies or the Center for Security Studies and Cyber Defense, working with Anderson University Information Technology Services, and working within the Department of Computer Science to install and maintain servers, network, and lab computers. Additional off-campus opportunities include internships with companies in the surrounding counties. Anderson University students in these majors are recognized by employers as having the key abilities necessary in quality employees: integrity, Christ-centered servant leadership, strong written and oral communication skills, problem-solving abilities, excellent computer science skills, and an eagerness to learn what is needed to solve problems
 
-The curriculum for a bachelor’s degree in computer science at Anderson University follows the current Association of Computing Machinery ( _ACM_ ) curriculum guidelines, incorporates software engineering throughout the curriculum, and provides students with the opportunity to use a wide array of software development technologies. During the freshman and sophomore years, students build the foundation of computer science knowledge while also developing the soft skills that employers value from a liberal arts education. Juniors and seniors focus on applying principles of this foundational knowledge and software engineering to advanced topics, including cybersecurity, computer networks, and operating systems. Teamwork, problem solving, and communication skills (written and oral) are emphasized throughout the program. Projects are oriented toward service to the surrounding community and the university when possible. 
+The curriculum for a bachelor’s degree in computer science at Anderson University follows the current Association of Computing Machinery ( _ACM_ ) curriculum guidelines, incorporates software engineering throughout the curriculum, and provides students with the opportunity to use a wide array of software development technologies. During the freshman and sophomore years, students build the foundation of computer science knowledge while also developing the soft skills that employers value from a liberal arts education. Juniors and seniors focus on applying principles of this foundational knowledge and software engineering to advanced topics, including cybersecurity, computer networks, and operating systems. Teamwork, problem solving, and communication skills (written and oral) are emphasized throughout the program. Projects are oriented toward service to the surrounding community and the university when possible
 
-A major in computer science allows graduates to pursue jobs in the technology sector, including software development, testing, information technology support, and web development, among many other opportunities. Students who intend to continue their education in graduate school or focus on computationally complex problems in the computer science industry should complete the requirements for the Bachelor of Science in computer science, which adds foundational courses in math and science as well as requiring an additional computer science course. 
+A major in computer science allows graduates to pursue jobs in the technology sector, including software development, testing, information technology support, and web development, among many other opportunities. Students who intend to continue their education in graduate school or focus on computationally complex problems in the computer science industry should complete the requirements for the Bachelor of Science in computer science, which adds foundational courses in math and science as well as requiring an additional computer science course
 
-A complementary major allows graduates to apply computer science in the specific area of their primary major; nearly any area of study can benefit from the use of computer science principles. The minor in computer science is designed for students who intend to use computer skills within a major to assist in the study of that major. Students are encouraged to speak with computer science faculty when selecting elective credit in order to choose courses that are most applicable to their concentration. 
+A complementary major allows graduates to apply computer science in the specific area of their primary major; nearly any area of study can benefit from the use of computer science principles. The minor in computer science is designed for students who intend to use computer skills within a major to assist in the study of that major. Students are encouraged to speak with computer science faculty when selecting elective credit in order to choose courses that are most applicable to their concentration
 
-Students majoring in computer science are urged to complete additional coursework in mathematics, accounting, business administration, physics, cybersecurity, or related areas. 
+Students majoring in computer science are urged to complete additional coursework in mathematics, accounting, business administration, physics, cybersecurity, or related areas
 
-## COMPUTER SCIENCE MAJOR, BACHELOR OF ARTS  (59 hours) 
+## COMPUTER SCIENCE MAJOR, BACHELOR OF ARTS  (59 hours)
 
-- CPSC 2020,2030,2100,2330,2420,2430,2500 
+- CPSC 2020,2030,2100,2330,2420,2430,2500
 
-- MATH 2200/CPSC 2250 
+- MATH 2200/CPSC 2250
 
-- CPSC 2150,3410,4420,4430 
+- CPSC 2150,3410,4420,4430
 
-- 3 credit hours from CPSC 4480 or 4800 
+- 3 credit hours from CPSC 4480 or 4800
 
-- MATH 2010 or MATH 2120 
+- MATH 2010 or MATH 2120
 
-- 10 credit hours from courses numbered CPSC/ENGR/MATH/PHYS 2000 and above 
+- 10 credit hours from courses numbered CPSC/ENGR/MATH/PHYS 2000 and above
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-60 
+60
 
-## COMPUTER SCIENCE MAJOR, BACHELOR OF SCIENCE  (72 hours) 
+## COMPUTER SCIENCE MAJOR, BACHELOR OF SCIENCE  (72 hours)
 
-- CPSC 2020,2030,2100,2330,2420,2430,2500 
+- CPSC 2020,2030,2100,2330,2420,2430,2500
 
-- MATH 2200/CPSC 2250 
+- MATH 2200/CPSC 2250
 
-- CPSC 2150,3410,4420,4430 
+- CPSC 2150,3410,4420,4430
 
-- 3 credit hours from CPSC 4480 or 4800 
+- 3 credit hours from CPSC 4480 or 4800
 
-- MATH 2010,2020,2120,3010 
+- MATH 2010,2020,2120,3010
 
-- POSC 2420 
+- POSC 2420
 
-- 10 credit hours from courses numbered CPSC/ENGR/MATH 2000 and above or/PHYS 2240 and above 
+- 10 credit hours from courses numbered CPSC/ENGR/MATH 2000 and above or/PHYS 2240 and above
 
-## COMPUTER SCIENCE COMPLEMENTARY MAJOR  (32 hours) 
+## COMPUTER SCIENCE COMPLEMENTARY MAJOR  (32 hours)
 
-- CPSC 2020,2030,2100,2500 
+- CPSC 2020,2030,2100,2500
 
-- 4 credit hours from one of the following courses: MATH 2010,2020,2200, or MATH 2120 and POSC 2420 
+- 4 credit hours from one of the following courses: MATH 2010,2020,2200, or MATH 2120 and POSC 2420
 
-- 12 credit hours from any course CPSC 2000 or above, as approved in a plan of study by the computer science advisor 
+- 12 credit hours from any course CPSC 2000 or above, as approved in a plan of study by the computer science advisor
 
-## COMPUTER SCIENCE MINOR  (16 hours) 
+## COMPUTER SCIENCE MINOR  (16 hours)
 
-- CPSC 2020,2030 
+- CPSC 2020,2030
 
-- 8 credit hours of additional credit from CPSC 2000 and above 
+- 8 credit hours of additional credit from CPSC 2000 and above
 
-## CYBERSECURITY 
+## CYBERSECURITY
 
-The cybersecurity major is an interdisciplinary major and is aligned to meet the standards required for designation by the Department of Homeland Security and National Security Agency as a _National Center of Academic Excellence in Cybersecurity (NCAE-C)._ The program has been recognized with the _Center of Academic Excellence in Cyber Defense (CAE-CD) designation_ . 
+The cybersecurity major is an interdisciplinary major and is aligned to meet the standards required for designation by the Department of Homeland Security and National Security Agency as a _National Center of Academic Excellence in Cybersecurity (NCAE-C)._ The program has been recognized with the _Center of Academic Excellence in Cyber Defense (CAE-CD) designation_
 
-## CYBERSECURITY MAJOR (64 hours) 
+## CYBERSECURITY MAJOR (64 hours)
 
-Foundation (31 hours): 
+Foundation (31 hours):
 
-●​ CPSC 1080,2020,2080,2300 ●​ MATH 2120, MATH 2200/CPSC 2250 
+●​ CPSC 1080,2020,2080,2300 ●​ MATH 2120, MATH 2200/CPSC 2250
 
-- POSC 2020,2200,2400,2420 
+- POSC 2020,2200,2400,2420
 
-Professional Core (18 hours): 
+Professional Core (18 hours):
 
-●​ CPSC 2150,3410,3480,4060,4070 
+●​ CPSC 2150,3410,3480,4060,4070
 
-- 3 credit hours from CPSC 4480 or 4820 
+- 3 credit hours from CPSC 4480 or 4820
 
-National Security Policy (6 hours): 
+National Security Policy (6 hours):
 
-●​ POSC/CRIM 3350 
+●​ POSC/CRIM 3350
 
-●​ POSC 3370 
+●​ POSC 3370
 
-Electives (6 hours) from: ●​ CPSC 2000 and above 
+Electives (6 hours) from: ●​ CPSC 2000 and above
 
-●​ CRIM 2520 ●​ POSC 3250,3310 ●​ PSYC 3080,3330 
+●​ CRIM 2520 ●​ POSC 3250,3310 ●​ PSYC 3080,3330
 
-Ethics (3 hours): 
+Ethics (3 hours):
 
-●​ PHIL/RLGN 3250 
+●​ PHIL/RLGN 3250
 
-## CYBERSECURITY MINOR (16 hours) 
+## CYBERSECURITY MINOR (16 hours)
 
-Core (10 hours): 
+Core (10 hours):
 
-- CPSC 2020 - Fundamentals of Computational Thinking and Programming (4) 
+- CPSC 2020 - Fundamentals of Computational Thinking and Programming (4)
 
-- CPSC 2080 - Introduction to Cybersecurity (3) 
+- CPSC 2080 - Introduction to Cybersecurity (3)
 
-- POSC 2020 - Introduction to World Politics (3) 
+- POSC 2020 - Introduction to World Politics (3)
 
-Electives (6 hours) from: 
+Electives (6 hours) from:
 
-- CPSC 2300 - System Administration (3) 
+- CPSC 2300 - System Administration (3)
 
-- CPSC 3380 - Applied Cryptography and Security (4) 
+- CPSC 3380 - Applied Cryptography and Security (4)
 
-- CPSC 3410 - Computer Networks (4) 
+- CPSC 3410 - Computer Networks (4)
 
-- CPSC 4480 - Technical Certification (1) 
+- CPSC 4480 - Technical Certification (1)
 
-- POSC 2200 - Public Policy (3) 
+- POSC 2200 - Public Policy (3)
 
-- POSC 3350 - Homeland Security (3) 
+- POSC 3350 - Homeland Security (3)
 
-- Up to 4 credits from CPSC 2550 or 3550 (Selected Topics) 
+- Up to 4 credits from CPSC 2550 or 3550 (Selected Topics)
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-61 
+61
 
-## DATA SCIENCE 
+## DATA SCIENCE
 
-The curriculum for a Bachelor of Science degree in data science at Anderson University follows the current Association of Computing Machinery (ACM) curriculum guidelines for data science programs. Both the Bachelor of Science and the Bachelor of Arts major in data science prepares graduates to pursue a life of curiosity, exploration, and knowledge creation. Graduates of these programs will have developed an intuition for discovering meaning in data and will have the skills needed to provide value and purpose in almost any field.  The Bachelor of Science data science major prepares students with the advanced mathematical foundations to pursue graduate school or tackle the most challenging problems in industry, while the Bachelor of Arts focuses on the application of the knowledge and techniques of data science to problems in a wide variety of fields. 
+The curriculum for a Bachelor of Science degree in data science at Anderson University follows the current Association of Computing Machinery (ACM) curriculum guidelines for data science programs. Both the Bachelor of Science and the Bachelor of Arts major in data science prepares graduates to pursue a life of curiosity, exploration, and knowledge creation. Graduates of these programs will have developed an intuition for discovering meaning in data and will have the skills needed to provide value and purpose in almost any field.  The Bachelor of Science data science major prepares students with the advanced mathematical foundations to pursue graduate school or tackle the most challenging problems in industry, while the Bachelor of Arts focuses on the application of the knowledge and techniques of data science to problems in a wide variety of fields
 
-The complementary major in data science provides students with the foundational understanding to be able to utilize data science techniques and tools within their primary major. The techniques of data science are applicable to a broad range of different domains, so that nearly any major can be enhanced by a complementary major in data science. The minor in data science provides an initial foundation for understanding the functionality of data science tools, and is intended to serve as the first step towards the use of data science techniques in the student's major field of study. 
+The complementary major in data science provides students with the foundational understanding to be able to utilize data science techniques and tools within their primary major. The techniques of data science are applicable to a broad range of different domains, so that nearly any major can be enhanced by a complementary major in data science. The minor in data science provides an initial foundation for understanding the functionality of data science tools, and is intended to serve as the first step towards the use of data science techniques in the student's major field of study
 
-## DATA SCIENCE MAJOR, BACHELOR OF ARTS  (64 hours) 
+## DATA SCIENCE MAJOR, BACHELOR OF ARTS  (64 hours)
 
-- MATH 2010,2120,3010 and POSC 2420 
+- MATH 2010,2120,3010 and POSC 2420
 
-- CPSC 2020,2030,2040,2080,2100,2330,2500 
+- CPSC 2020,2030,2040,2080,2100,2330,2500
 
-- BSNS 2310, CPSC 2150,3520,3540 or 4100, and 4430 
+- BSNS 2310, CPSC 2150,3520,3540 or 4100, and 4430
 
-- 3 credit hours from CPSC 4480 or 4840 
+- 3 credit hours from CPSC 4480 or 4840
 
-- 3 credit hours from selected Communication Electives (see below) 
+- 3 credit hours from selected Communication Electives (see below)
 
-- 3 credit hours from selected Domain Electives (see below) 
+- 3 credit hours from selected Domain Electives (see below)
 
-- A minor or major in an application domain (see below) 
+- A minor or major in an application domain (see below)
 
-## DATA SCIENCE MAJOR, BACHELOR OF SCIENCE  (81 hours) 
+## DATA SCIENCE MAJOR, BACHELOR OF SCIENCE  (81 hours)
 
-- CPSC 2020,2030,2040,2080,2100,2150,2330,2500,3520,3540,4100,4430 
+- CPSC 2020,2030,2040,2080,2100,2150,2330,2500,3520,3540,4100,4430
 
-- MATH 2010,2020,3010,3020,3200,4010,4020 
+- MATH 2010,2020,3010,3020,3200,4010,4020
 
-- POSC 2420 
+- POSC 2420
 
-- BSNS 2310 
+- BSNS 2310
 
-- 3 credit hours from CPSC 4480 or 4840 
+- 3 credit hours from CPSC 4480 or 4840
 
-- 3 credit hours from selected Communication Electives (see below) 
+- 3 credit hours from selected Communication Electives (see below)
 
-- 3 credit hours from selected Domain Electives (see below) 
+- 3 credit hours from selected Domain Electives (see below)
 
-- A minor or major in an application domain (see below) 
+- A minor or major in an application domain (see below)
 
-## DATA SCIENCE COMPLEMENTARY MAJOR  (37 hours) 
+## DATA SCIENCE COMPLEMENTARY MAJOR  (37 hours)
 
-- CPSC 2020,2030,2040,2100 
+- CPSC 2020,2030,2040,2100
 
-- MATH 2010,2120 
+- MATH 2010,2120
 
-- POSC 2420 
+- POSC 2420
 
-- BSNS 2310 
+- BSNS 2310
 
-- 3 credit hours from CPSC 3520,3540,4100 
+- 3 credit hours from CPSC 3520,3540,4100
 
-- 3 credit hours from selected Communication Electives (see below) 
+- 3 credit hours from selected Communication Electives (see below)
 
-- 3 credit hours from selected Domain Electives (see below) 
+- 3 credit hours from selected Domain Electives (see below)
 
-## DATA SCIENCE MINOR  (17 hours) 
+## DATA SCIENCE MINOR  (17 hours)
 
-- CPSC 2020,2040,2100 
+- CPSC 2020,2040,2100
 
-- MATH 2120 
+- MATH 2120
 
-- POSC 2420 
+- POSC 2420
 
-## Eligible Data Science Communication Electives  
+## Eligible Data Science Communication Electives
 
-- COMM 2200, ENGL 3140, ENGL 3160, or a course approved by the data science advisor 
+- COMM 2200, ENGL 3140, ENGL 3160, or a course approved by the data science advisor
 
-## Eligible Data Science Minors 
+## Eligible Data Science Minors
 
-- Students are required to minor in an application domain, as approved by a data science advisor. 
+- Students are required to minor in an application domain, as approved by a data science advisor
 
-- Suggested minors include Accounting, Biology, Chemistry, Criminal Justice, Management, Marketing, Physics, Psychology, Social Media, and Sport Marketing. 
+- Suggested minors include Accounting, Biology, Chemistry, Criminal Justice, Management, Marketing, Physics, Psychology, Social Media, and Sport Marketing
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-62 
+62
 
-Eligible Data Science Domain Electives: 
+Eligible Data Science Domain Electives:
 
-●​ One course at the level of 3000 or above in the domain area is required, as approved by the data science advisor. 
+●​ One course at the level of 3000 or above in the domain area is required, as approved by the data science advisor
 
-●​ The following courses are pre-approved for students in the corresponding domain: 
+●​ The following courses are pre-approved for students in the corresponding domain:
 
-`o` ACCT 3110 `o` MATH 3400 `o` BIBL 2050 `o` PHYS 4220,4410 `o` BIOL 4050 `o` POSC 3140,3360 `o` BSNS 2450,3240 `o` PSYC 3240 `o` CHEM 3100,4110 `o` RLGN 3120 `o` ENGR 4120 `o` SOCI 3700 `o` HIST 2300 
+`o` ACCT 3110 `o` MATH 3400 `o` BIBL 2050 `o` PHYS 4220,4410 `o` BIOL 4050 `o` POSC 3140,3360 `o` BSNS 2450,3240 `o` PSYC 3240 `o` CHEM 3100,4110 `o` RLGN 3120 `o` ENGR 4120 `o` SOCI 3700 `o` HIST 2300
 
-## MATHEMATICS 
+## MATHEMATICS
 
-The program in mathematics has three major objectives: to provide the non-specialist with some understanding of the contributions of mathematics to cultural development; to offer students in natural, social, and behavioral sciences the mathematics necessary for understanding their own fields of interest; and to prepare mathematics majors for graduate study, for teaching at the secondary level, or for work in business and industry. 
+The program in mathematics has three major objectives: to provide the non-specialist with some understanding of the contributions of mathematics to cultural development; to offer students in natural, social, and behavioral sciences the mathematics necessary for understanding their own fields of interest; and to prepare mathematics majors for graduate study, for teaching at the secondary level, or for work in business and industry
 
-Students considering careers in mathematics should realize that the emphasis in mathematics courses changes as progress is made through the undergraduate program. The early emphasis on problem solving is later subordinated to the task of formulating and dealing effectively with mathematical structures and abstract ideas. 
+Students considering careers in mathematics should realize that the emphasis in mathematics courses changes as progress is made through the undergraduate program. The early emphasis on problem solving is later subordinated to the task of formulating and dealing effectively with mathematical structures and abstract ideas
 
-Students who have pursued accelerated mathematics programs in high school may request advanced placement. Such requests should be made through correspondence with the department chair before registration. Credit, if granted for high school work in calculus or statistics, is through the Advanced Placement Program of the College Entrance Board. Consult with the chair of the Department of Mathematics or the Office of the University Registrar for details. 
+Students who have pursued accelerated mathematics programs in high school may request advanced placement. Such requests should be made through correspondence with the department chair before registration. Credit, if granted for high school work in calculus or statistics, is through the Advanced Placement Program of the College Entrance Board. Consult with the chair of the Department of Mathematics or the Office of the University Registrar for details
 
-Students who plan to major in mathematics or actuarial studies should consult the chair of the department as soon as possible. 
+Students who plan to major in mathematics or actuarial studies should consult the chair of the department as soon as possible
 
-## ACTUARIAL SCIENCE MAJOR, BACHELOR OF ARTS (66 hours) 
+## ACTUARIAL SCIENCE MAJOR, BACHELOR OF ARTS (66 hours)
 
-- MATH 2010,2020,2120,3010,3020,3200,3400,4000,4010,4020 
+- MATH 2010,2020,2120,3010,3020,3200,3400,4000,4010,4020
 
-- ACCT 2010,2020 
+- ACCT 2010,2020
 
-- BSNS 2510,3390,4150,4390 
+- BSNS 2510,3390,4150,4390
 
-- CPSC 2020 
+- CPSC 2020
 
-- ECON 2010,2020,3410 
+- ECON 2010,2020,3410
 
-- POSC 2420 
+- POSC 2420
 
-## MATHEMATICS MAJOR, BACHELOR OF ARTS (41 hours) 
+## MATHEMATICS MAJOR, BACHELOR OF ARTS (41 hours)
 
-- MATH 2010,2020,2200,3010,3020,4000 
+- MATH 2010,2020,2200,3010,3020,4000
 
-- Probability/Statistics Elective: One course from MATH 2120,4010, or 4020 
+- Probability/Statistics Elective: One course from MATH 2120,4010, or 4020
 
-- Elective: One course from MATH 4100, or 4200 
+- Elective: One course from MATH 4100, or 4200
 
-- 9 credit hours from MATH 2000 or above 
+- 9 credit hours from MATH 2000 or above
 
-- CPSC 2020 
+- CPSC 2020
 
-- MATH 4700 does not apply toward the major 
+- MATH 4700 does not apply toward the major
 
-## MATHEMATICS MAJOR, BACHELOR OF SCIENCE (49 hours) 
+## MATHEMATICS MAJOR, BACHELOR OF SCIENCE (49 hours)
 
-- MATH 2010,2020,2200,3010,3020,3200,4000,4200 
+- MATH 2010,2020,2200,3010,3020,3200,4000,4200
 
-- Probability/Statistics Elective : Select one from MATH 2120,4010,4020 
+- Probability/Statistics Elective : Select one from MATH 2120,4010,4020
 
-- Mathematics Elective : Select one from MATH 3100,3200,3300,3400,4100 
+- Mathematics Elective : Select one from MATH 3100,3200,3300,3400,4100
 
-- CPSC 2020 
+- CPSC 2020
 
-- ENGR 2310 
+- ENGR 2310
 
-- PHYS 2240 
+- PHYS 2240
 
-- An additional 4 credit hours from: o CHEM 2110 or above o CPSC 2030 or above 
+- An additional 4 credit hours from: o CHEM 2110 or above o CPSC 2030 or above
 
-   - PHYS 2250 or above 
+   - PHYS 2250 or above
 
-   - o BIOL 2210 or above 
+   - o BIOL 2210 or above
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-63 
+63
 
-## MATHEMATICS TEACHING MAJOR, BACHELOR OF ARTS (44 hours) 
+## MATHEMATICS TEACHING MAJOR, BACHELOR OF ARTS (44 hours)
 
-- MATH 2010,2020,2200,2300,3010,3020,3200,4000,4010,4200 
+- MATH 2010,2020,2200,2300,3010,3020,3200,4000,4010,4200
 
-- MATH 2120 or 4020 
+- MATH 2120 or 4020
 
-- CPSC 2020 
+- CPSC 2020
 
-- MATH 4700 
+- MATH 4700
 
-- In addition to these requirements, students pursuing a teaching major must also meet additional requirements listed in the Department of Teacher Education section of this catalog. 
+- In addition to these requirements, students pursuing a teaching major must also meet additional requirements listed in the Department of Teacher Education section of this catalog
 
-## MATHEMATICS MINOR (16 hours) 
+## MATHEMATICS MINOR (16 hours)
 
-- MATH 2010,2020 
+- MATH 2010,2020
 
-- Additional hours from MATH courses numbered 2120 or above 
+- Additional hours from MATH courses numbered 2120 or above
 
-## CPSC Courses 
+## CPSC Courses
 
-## _Note For all courses with a CPSC caption, a laptop is required._ 
+## _Note For all courses with a CPSC caption, a laptop is required._
 
 |1030|Computer Science for Educators<br>2 hours (2,0)|
 |---|---|
@@ -3311,9 +3311,9 @@ Anderson University Undergraduate Catalog 2025-26
 ||technology professionals. Students will also engage in practical measures to prepare them for internships|
 ||and career opportunities.Prerequisite: Sophomore Standing|
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-64 
+64
 
 |PSC (|cont.)|cont.)|
 |---|---|---|
@@ -3376,15 +3376,15 @@ Anderson University Undergraduate Catalog 2025-26
 ||security and network related threats are presented. Practical network software programming is covered||
 ||with hands-on experience in the lab.Prerequisite:CPSC 2020.Offered:Semester I.||
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-65 
+65
 
-3480 Network Security 3 hours (2,2) 
+3480 Network Security 3 hours (2,2)
 
-This class provides students with an understanding of the concepts used in designing a secure network, defending a network, and a familiarity with the tools and techniques that can be used to protect a network from cyber threats. Issues in network forensics are addressed. Students will use packet capturing and logging to diagnose real-world network and security issues. Prerequisite: CPSC 2300 and CPSC 3410. Offered: Semester II. 
+This class provides students with an understanding of the concepts used in designing a secure network, defending a network, and a familiarity with the tools and techniques that can be used to protect a network from cyber threats. Issues in network forensics are addressed. Students will use packet capturing and logging to diagnose real-world network and security issues. Prerequisite: CPSC 2300 and CPSC 3410. Offered: Semester II
 
-3500 Design and Analysis of Computer Algorithms 4 hours (4,0) A study of techniques used in advanced algorithms, including algorithmic approaches such as brute-force, greedy, and divide-and-conquer algorithms, as well as recursive backtracking and dynamic programming. Supporting data structures like trees and graphs are studied, as well as search methods and related algorithms. In addition, the differences between P, NP, and NP-complete problems are discussed. Prerequisite: CPSC 2500. Offered: With sufficient demand. 3520 Introduction to Artificial Intelligence 3 hours (2,1) Introduces a range of topics in artificial intelligence including classical search algorithms, knowledge bases and logical inference, and Bayesian networks and statistical inference. Emphasis is given to applications of these techniques. Students are required to implement many of the algorithms discussed throughout the course in the form of multiple larger projects. Prerequisite: CPSC 2020, MATH 2010 or MATH 2120. Expectation: Strong mathematical background. Offered: Semester II, 2026-27. 3540 Introduction to Machine Learning 3 hours (2,1) This course provides a comprehensive introduction to machine learning (ML), covering foundational concepts, methods, and applications. Students will learn to define machine learning, understand various algorithms, and identify suitable problem types while gaining hands-on experience with essential ML tools and frameworks. Key topics include supervised learning (decision trees, support vector machines, and neural networks), unsupervised learning (clustering and dimensionality reduction), natural language processing, reinforcement learning, and an introduction to deep learning architectures. Emphasis is given to applications of these approaches to learning. Students are required to implement many of the algorithms discussed throughout the course in the form of multiple larger projects. Prerequisite : CPSC 2040, MATH 2010, MATH 2120. RECOMMENDED : MATH 3010. Offered : Semester II, 2025-26. 
+3500 Design and Analysis of Computer Algorithms 4 hours (4,0) A study of techniques used in advanced algorithms, including algorithmic approaches such as brute-force, greedy, and divide-and-conquer algorithms, as well as recursive backtracking and dynamic programming. Supporting data structures like trees and graphs are studied, as well as search methods and related algorithms. In addition, the differences between P, NP, and NP-complete problems are discussed. Prerequisite: CPSC 2500. Offered: With sufficient demand. 3520 Introduction to Artificial Intelligence 3 hours (2,1) Introduces a range of topics in artificial intelligence including classical search algorithms, knowledge bases and logical inference, and Bayesian networks and statistical inference. Emphasis is given to applications of these techniques. Students are required to implement many of the algorithms discussed throughout the course in the form of multiple larger projects. Prerequisite: CPSC 2020, MATH 2010 or MATH 2120. Expectation: Strong mathematical background. Offered: Semester II, 2026-27. 3540 Introduction to Machine Learning 3 hours (2,1) This course provides a comprehensive introduction to machine learning (ML), covering foundational concepts, methods, and applications. Students will learn to define machine learning, understand various algorithms, and identify suitable problem types while gaining hands-on experience with essential ML tools and frameworks. Key topics include supervised learning (decision trees, support vector machines, and neural networks), unsupervised learning (clustering and dimensionality reduction), natural language processing, reinforcement learning, and an introduction to deep learning architectures. Emphasis is given to applications of these approaches to learning. Students are required to implement many of the algorithms discussed throughout the course in the form of multiple larger projects. Prerequisite : CPSC 2040, MATH 2010, MATH 2120. RECOMMENDED : MATH 3010. Offered : Semester II, 2025-26
 
 ||Semester II, 2025-26.||
 |---|---|---|
@@ -3396,35 +3396,35 @@ This class provides students with an understanding of the concepts used in desig
 ||Independent study under faculty direction.Consent:Instructor.Repeat:May be repeated.||
 |4060 |Penetration Testing|3 hours (2,2)|
 
-This course builds upon foundational cybersecurity concepts, with an emphasis on governance, risk, and compliance. It addresses organizational and customer requirements, scoping, and fostering an ethical hacking mindset. Students will develop applied skills to assess cyberthreats and defend against them, exploring topics such as information gathering, vulnerability scanning, cyberattacks and exploits, and reporting and communication. Additionally, the course introduces advanced techniques in AI-enabled offensive cybersecurity operations as well as adversarial attacks on machine learning models. Ethical and legal implications of AI-enabled cyber offense will be discussed, with an emphasis on aligning offensive AI techniques with existing cybersecurity frameworks. Corequisite : CPSC 3480. Offered : Semester II, 2026-27. 
+This course builds upon foundational cybersecurity concepts, with an emphasis on governance, risk, and compliance. It addresses organizational and customer requirements, scoping, and fostering an ethical hacking mindset. Students will develop applied skills to assess cyberthreats and defend against them, exploring topics such as information gathering, vulnerability scanning, cyberattacks and exploits, and reporting and communication. Additionally, the course introduces advanced techniques in AI-enabled offensive cybersecurity operations as well as adversarial attacks on machine learning models. Ethical and legal implications of AI-enabled cyber offense will be discussed, with an emphasis on aligning offensive AI techniques with existing cybersecurity frameworks. Corequisite : CPSC 3480. Offered : Semester II, 2026-27
 
-4070 Cybersecurity Analysis and Digital Forensics 3 hours (2,2) 
+4070 Cybersecurity Analysis and Digital Forensics 3 hours (2,2)
 
-This course provides an in-depth exploration of cybersecurity analysis and digital forensics, equipping students with the skills and techniques needed to investigate cyber incidents and analyze digital evidence. Key topics include threat intelligence, vulnerability management, security operations, incident response, compliance monitoring, data acquisition, evidence preservation, forensic imaging, and data analysis. The curriculum combines theory with hands-on exercises that simulate real-world investigations, offering practical experience in forensic investigations, legal report preparation, and the use of industry-standard tools to recover, examine, and interpret digital evidence. Corequisite: CPSC 3480. Offered: Semester II, 2025-26. 
+This course provides an in-depth exploration of cybersecurity analysis and digital forensics, equipping students with the skills and techniques needed to investigate cyber incidents and analyze digital evidence. Key topics include threat intelligence, vulnerability management, security operations, incident response, compliance monitoring, data acquisition, evidence preservation, forensic imaging, and data analysis. The curriculum combines theory with hands-on exercises that simulate real-world investigations, offering practical experience in forensic investigations, legal report preparation, and the use of industry-standard tools to recover, examine, and interpret digital evidence. Corequisite: CPSC 3480. Offered: Semester II, 2025-26
 
-## 4100 Advanced Databases 3 hours (2,1) 
+## 4100 Advanced Databases 3 hours (2,1)
 
-This course delves into advanced data management techniques with a strong focus on NoSQL databases, distributed architectures, and the principles of building scalable and reliable database systems. Topics include key-value stores, document-based databases, data partitioning, replication strategies, and consistency models. Students will explore fault tolerance, distributed transactions, and the CAP theorem in depth. Emphasizes applying research and planning to provide robust and efficient solutions to common complex big data issues. Prerequisite: CPSC 2100. Offered: With sufficient demand. 
+This course delves into advanced data management techniques with a strong focus on NoSQL databases, distributed architectures, and the principles of building scalable and reliable database systems. Topics include key-value stores, document-based databases, data partitioning, replication strategies, and consistency models. Students will explore fault tolerance, distributed transactions, and the CAP theorem in depth. Emphasizes applying research and planning to provide robust and efficient solutions to common complex big data issues. Prerequisite: CPSC 2100. Offered: With sufficient demand
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-66 
+66
 
-4420 Operating Systems 4 hours (3,2) 
+4420 Operating Systems 4 hours (3,2)
 
-Focuses on the fundamentals of operating systems (OS), including how the OS manages processes, memory, I/O, and file management. Process and thread management are emphasized, including synchronization, communication, races, and deadlocks. Virtual memory, virtualization/hypervisors, and disk management are also discussed. With each topic, the security implications and design considerations are thoroughly discussed. Prerequisite: CPSC 2420 and CPSC 2500. Offered: Semester II. 
+Focuses on the fundamentals of operating systems (OS), including how the OS manages processes, memory, I/O, and file management. Process and thread management are emphasized, including synchronization, communication, races, and deadlocks. Virtual memory, virtualization/hypervisors, and disk management are also discussed. With each topic, the security implications and design considerations are thoroughly discussed. Prerequisite: CPSC 2420 and CPSC 2500. Offered: Semester II
 
-4430 Software Engineering 4 hours (3,2) 
+4430 Software Engineering 4 hours (3,2)
 
-- A study of the principles of software design and development through the development of a large group project. Topics include requirements specification, project design and scheduling, security issues, verification, and validation. Software tools will be used for static code analysis, vulnerability scanning, and fuzzing. An emphasis is put on writing secure, high quality software that will work as expected in all circumstances and not be easily susceptible to vulnerabilities. Prerequisite: CPSC 2330 and CPSC 2500. RECOMMENDED: CPSC 2100. Offered : Semester I. 
+- A study of the principles of software design and development through the development of a large group project. Topics include requirements specification, project design and scheduling, security issues, verification, and validation. Software tools will be used for static code analysis, vulnerability scanning, and fuzzing. An emphasis is put on writing secure, high quality software that will work as expected in all circumstances and not be easily susceptible to vulnerabilities. Prerequisite: CPSC 2330 and CPSC 2500. RECOMMENDED: CPSC 2100. Offered : Semester I
 
-4480 Technical Certification 1 hour (arranged) 
+4480 Technical Certification 1 hour (arranged)
 
-- Students study for an industry-relevant certification exam using prior course experiences and online resources. Students must take the certification exam to earn credit for the course. Eligible certification exams include CompTIA Security+, CompTIA PenTest+, AWS Certified Developer - Associate, Microsoft Certified: Azure Developer Associate, Microsoft Technology Associate: Database Fundamentals, or a certification deemed equivalent by faculty. NOTE: Students are responsible for required course materials and exam fee. Repeat: May be repeated once for a second certification. Prerequisite: Junior standing. Grade: CR/NC. 
+- Students study for an industry-relevant certification exam using prior course experiences and online resources. Students must take the certification exam to earn credit for the course. Eligible certification exams include CompTIA Security+, CompTIA PenTest+, AWS Certified Developer - Associate, Microsoft Certified: Azure Developer Associate, Microsoft Technology Associate: Database Fundamentals, or a certification deemed equivalent by faculty. NOTE: Students are responsible for required course materials and exam fee. Repeat: May be repeated once for a second certification. Prerequisite: Junior standing. Grade: CR/NC
 
-4800 Software Engineering Internship 2-4 hours (arranged) 
+4800 Software Engineering Internship 2-4 hours (arranged)
 
-- Participation under professional supervision in business and industry that includes experience working on software development, QA testing, and/or database development in a production environment. Repeat: May be repeated once for a second internship. Consent: Instructor. Grade: CR/NC. 
+- Participation under professional supervision in business and industry that includes experience working on software development, QA testing, and/or database development in a production environment. Repeat: May be repeated once for a second internship. Consent: Instructor. Grade: CR/NC
 
 |4810|Data Science Internship<br>2-4 hours (arranged)|
 |---|---|
@@ -3445,25 +3445,25 @@ Focuses on the fundamentals of operating systems (OS), including how the OS mana
 ||portfolio of accomplished work, the presentation of technical work, whiteboard questions, mock interviews,||
 ||and networking with guest speakers and alumni.Prerequisite:Senior standing.Offered:Semester I.||
 
-4960 Senior Seminar: Ethics 1 hour (1,0) 
+4960 Senior Seminar: Ethics 1 hour (1,0)
 
-- Primarily discussion-based course which will further develop the critical-thinking skills and writing abilities of the student. Topics involved include a discussion of current topics in the fields of computer science and data science as well as a discussion of applied ethical issues. Prerequisite: Senior standing. Offered: Semester II. 
+- Primarily discussion-based course which will further develop the critical-thinking skills and writing abilities of the student. Topics involved include a discussion of current topics in the fields of computer science and data science as well as a discussion of applied ethical issues. Prerequisite: Senior standing. Offered: Semester II
 
-4970 Senior Project 2-4 hours (arranged) 
+4970 Senior Project 2-4 hours (arranged)
 
-- Application of relevant industry principles (software engineering, data engineering, information security, etc.) through the development of a significant project. May be completed individually or in a small group of students also enrolled in the course. Consent: Instructor. Grade: CR/NC. 
+- Application of relevant industry principles (software engineering, data engineering, information security, etc.) through the development of a significant project. May be completed individually or in a small group of students also enrolled in the course. Consent: Instructor. Grade: CR/NC
 
-## MATH Courses 
+## MATH Courses
 
-## 1000 Introductory Algebra 2 hours (2,0) 
+## 1000 Introductory Algebra 2 hours (2,0)
 
-Basic algebra course designed to prepare students for college-level mathematics courses. Topics include whole numbers, fractions, decimals and percentages, ratios and proportions, polynomials, algebraic solutions of linear and quadratic equations, word problems, and systems of equations. Does not apply toward mathematics major or minor. Grade : CR/NC. Offered : With sufficient demand. 
+Basic algebra course designed to prepare students for college-level mathematics courses. Topics include whole numbers, fractions, decimals and percentages, ratios and proportions, polynomials, algebraic solutions of linear and quadratic equations, word problems, and systems of equations. Does not apply toward mathematics major or minor. Grade : CR/NC. Offered : With sufficient demand
 
-1100 Elementary Mathematics-Numeration Systems 4 hours (4,0) Elementary foundations course for students preparing to teach in a K-6 classroom setting Includes deductive reasoning, the algebra of sets, numeration systems, properties of natural numbers, integers, rational numbers, real numbers, and data analysis. _Applies to the Quantitative Reasoning [Raven Core] component of the Liberal Arts Core Curriculum._ Does not apply toward mathematics major or minor. Offered : Semester I. 
+1100 Elementary Mathematics-Numeration Systems 4 hours (4,0) Elementary foundations course for students preparing to teach in a K-6 classroom setting Includes deductive reasoning, the algebra of sets, numeration systems, properties of natural numbers, integers, rational numbers, real numbers, and data analysis. _Applies to the Quantitative Reasoning [Raven Core] component of the Liberal Arts Core Curriculum._ Does not apply toward mathematics major or minor. Offered : Semester I
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-67 
+67
 
 |MATH (|cont.)||
 |---|---|---|
@@ -3524,9 +3524,9 @@ Anderson University Undergraduate Catalog 2025-26
 ||and vector calculus.Expectation: Grade of at least C- in MATH 2020; grade of at least C- in||
 ||MATH 3010.Offered: Semester II.||
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-68 
+68
 
 |MATH (|cont.)|
 |---|---|
@@ -3582,429 +3582,429 @@ Anderson University Undergraduate Catalog 2025-26
 ||applied mathematics.Repeat: May be repeated (total combined credit in MATH 4650 and 4900 may not|
 ||exceed 12 hours).Consent: Department chair.Offered: With suffcient demand.|
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-69 
+69
 
-## DEPARTMENT OF HUMANITIES 
+## DEPARTMENT OF HUMANITIES
 
-_Dr. Stefanie Leiter, chair Faculty: Dr. Bruning, Dr. Dirck, Prof. Elliott, Dr. T Fox, Dr. Leiter, Prof. Lugar, Prof. Kneeland, Dr. Leiter, Dean Miller Fox, Dr. Murphy, Dr. Parks, Dr. Rogers, Dr. Varner Also: Prof. Bremer, Prof. K Craton, Prof. Gibson, Prof. Gifford, Prof. Jackson, Prof. Kelly, Prof. Rinas, Prof. Robinson, Prof. Russell, Prof. States, Prof. Stevens_ 
+_Dr. Stefanie Leiter, chair Faculty: Dr. Bruning, Dr. Dirck, Prof. Elliott, Dr. T Fox, Dr. Leiter, Prof. Lugar, Prof. Kneeland, Dr. Leiter, Dean Miller Fox, Dr. Murphy, Dr. Parks, Dr. Rogers, Dr. Varner Also: Prof. Bremer, Prof. K Craton, Prof. Gibson, Prof. Gifford, Prof. Jackson, Prof. Kelly, Prof. Rinas, Prof. Robinson, Prof. Russell, Prof. States, Prof. Stevens_
 
-## CINEMA AND MEDIA ARTS 
+## CINEMA AND MEDIA ARTS
 
-The Cinema and Media Arts major emphasizes the art of storytelling as the foundation for creating visual media. Instruction in audio, video, and cinema production prepares majors for careers in scriptwriting, production, management, and related areas. Students create and showcase their original work through the Black Bird Media Lab and the Black Bird Film Festival, and they have the opportunity to spend a semester in Hollywood through the CCCU’s Los Angeles Film Studies Center. 
+The Cinema and Media Arts major emphasizes the art of storytelling as the foundation for creating visual media. Instruction in audio, video, and cinema production prepares majors for careers in scriptwriting, production, management, and related areas. Students create and showcase their original work through the Black Bird Media Lab and the Black Bird Film Festival, and they have the opportunity to spend a semester in Hollywood through the CCCU’s Los Angeles Film Studies Center
 
-## CINEMA AND MEDIA ARTS MAJOR  (52 hours) 
+## CINEMA AND MEDIA ARTS MAJOR  (52 hours)
 
-- COMM 2000,2020,2060,2160,2200,2320,2420,3120,3200,3220,3420,4000 
+- COMM 2000,2020,2060,2160,2200,2320,2420,3120,3200,3220,3420,4000
 
-- 4 hours from COMM 2860 
+- 4 hours from COMM 2860
 
-- 2-4 hours from COMM 4800 
+- 2-4 hours from COMM 4800
 
-- Remaining hours from COMM 3050,3160,4120,4900; ENGL 3140; THEA 2110,2210 
+- Remaining hours from COMM 3050,3160,4120,4900; ENGL 3140; THEA 2110,2210
 
-## CINEMA AND MEDIA ARTS MINOR  (18 hours) 
+## CINEMA AND MEDIA ARTS MINOR  (18 hours)
 
-- COMM 2020,2060,2160,2200 
+- COMM 2020,2060,2160,2200
 
-- COMM 2320 or 2420 
+- COMM 2320 or 2420
 
-- 2 hours from COMM 2860 
+- 2 hours from COMM 2860
 
-## COMMUNICATION 
+## COMMUNICATION
 
-We are committed to preparing students for an active and faithful life of stewardship within their chosen disciplines. Recognizing the close connection between creativity and the Creator, we seek to do this work with integrity, free and open inquiry, discipline, collaboration, and excellence. Programs in this area enable students to bring both breadth and depth to their professions, and they provide students with the opportunity to gain knowledge and learn skills and techniques. 
+We are committed to preparing students for an active and faithful life of stewardship within their chosen disciplines. Recognizing the close connection between creativity and the Creator, we seek to do this work with integrity, free and open inquiry, discipline, collaboration, and excellence. Programs in this area enable students to bring both breadth and depth to their professions, and they provide students with the opportunity to gain knowledge and learn skills and techniques
 
-## COMMUNICATION MINOR (18 hours) 
+## COMMUNICATION MINOR (18 hours)
 
-- Any COMM-captioned courses except 4750,4500 and 4800 
+- Any COMM-captioned courses except 4750,4500 and 4800
 
-## Multimedia Journalism 
+## Multimedia Journalism
 
-Prepares students for careers in reporting, writing and editing in both the print and electronic media environments. Practical experiences include producing news stories in classes, writing for the professional press, interning at a variety of news organizations, and working on newscast and online content for the student-operated news organization, the Andersonian. 
+Prepares students for careers in reporting, writing and editing in both the print and electronic media environments. Practical experiences include producing news stories in classes, writing for the professional press, interning at a variety of news organizations, and working on newscast and online content for the student-operated news organization, the Andersonian
 
-## MULTIMEDIA JOURNALISM MAJOR   (42 hours) 
+## MULTIMEDIA JOURNALISM MAJOR   (42 hours)
 
-- COMM 2000,2020,2060,2130,2140,2200,3130,3200,3230,3370,4000 
+- COMM 2000,2020,2060,2130,2140,2200,3130,3200,3230,3370,4000
 
-- 4 hours from COMM 2850 
+- 4 hours from COMM 2850
 
-- 2-4 hours from COMM 4800 
+- 2-4 hours from COMM 4800
 
-- Remaining hours from COMM 2240,2860 (1-4 hours), 3050,3310 
+- Remaining hours from COMM 2240,2860 (1-4 hours), 3050,3310
 
-## MULTIMEDIA JOURNALISM COMPLEMENTARY MAJOR  (30 hours) 
+## MULTIMEDIA JOURNALISM COMPLEMENTARY MAJOR  (30 hours)
 
-- COMM 2000,2060,2130,2200,3130,3230 
+- COMM 2000,2060,2130,2200,3130,3230
 
-- 3 hours from COMM 2850 
+- 3 hours from COMM 2850
 
-- 1 hour from COMM 2860 
+- 1 hour from COMM 2860
 
-- 2 hours from COMM 4800 
+- 2 hours from COMM 4800
 
-- Remaining hours from COMM 2140 or 3370; 3050; 3200 or 4000; 3310 
+- Remaining hours from COMM 2140 or 3370; 3050; 3200 or 4000; 3310
 
-## JOURNALISM MINOR  (18 hours) 
+## JOURNALISM MINOR  (18 hours)
 
-- COMM 2130,3130,3230 
+- COMM 2130,3130,3230
 
-- 3 hours from COMM 2850 
+- 3 hours from COMM 2850
 
-- COMM 2140 or 2200 
+- COMM 2140 or 2200
 
-- COMM 3200 or 4000 
+- COMM 3200 or 4000
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-70 
+70
 
-## Public Relations 
+## Public Relations
 
-The field of public relations focuses broadly on strategically building and maintaining relationships with the various constituencies that are important to organizations. In the public relations major, students learn foundations, media writing, campaigns, research, ethics, social media, and event planning. Students may choose one of three tracks: public relations, public relations with a concentration in event planning, and public relations with a concentration in social media. This program offers an option to complete the major in three years rather than the traditional four. Classes are complemented by experiential learning through internships and the student-operated PR agency, Fifth Street Communications. The program also houses a chapter of the Public Relations Student Society of America (PRSSA). Public relations majors are required to maintain a PRSSA membership, with dues assessed yearly. 
+The field of public relations focuses broadly on strategically building and maintaining relationships with the various constituencies that are important to organizations. In the public relations major, students learn foundations, media writing, campaigns, research, ethics, social media, and event planning. Students may choose one of three tracks: public relations, public relations with a concentration in event planning, and public relations with a concentration in social media. This program offers an option to complete the major in three years rather than the traditional four. Classes are complemented by experiential learning through internships and the student-operated PR agency, Fifth Street Communications. The program also houses a chapter of the Public Relations Student Society of America (PRSSA). Public relations majors are required to maintain a PRSSA membership, with dues assessed yearly
 
-## PUBLIC RELATIONS MAJOR   (52 hours) 
+## PUBLIC RELATIONS MAJOR   (52 hours)
 
-- COMM 2000,2130,2140,2200,2240,3050,3200,3240,3250,3310,3340,3370,3440,4000 
+- COMM 2000,2130,2140,2200,2240,3050,3200,3240,3250,3310,3340,3370,3440,4000
 
-- 3 hours from COMM 2840 
+- 3 hours from COMM 2840
 
-- 1 hour from COMM 2850 
+- 1 hour from COMM 2850
 
-- 2-4 hours from COMM 4800 
+- 2-4 hours from COMM 4800
 
-- At least one of the following: COMM 3130,3230 
+- At least one of the following: COMM 3130,3230
 
-- Remaining hours from BSNS 2810; COMM 3130,3230,3310,4900; HIST 2350 
+- Remaining hours from BSNS 2810; COMM 3130,3230,3310,4900; HIST 2350
 
-## PR with Concentration in Event Planning and Management (52 hours) 
+## PR with Concentration in Event Planning and Management (52 hours)
 
-- BSNS 2810 
+- BSNS 2810
 
-- COMM 2000,2130,2140,2200,2240,3050,3200,3240,3250,3310,3340,3370,3440,4000,4340 
+- COMM 2000,2130,2140,2200,2240,3050,3200,3240,3250,3310,3340,3370,3440,4000,4340
 
-- 3 hours from COMM 2840 
+- 3 hours from COMM 2840
 
-- 1 hour from COMM 3860 
+- 1 hour from COMM 3860
 
-- 2-4 hours from COMM 4800 
+- 2-4 hours from COMM 4800
 
-- Remaining hours from BSNS 3150; COMM 3230,3860 (2-4 hours) 
+- Remaining hours from BSNS 3150; COMM 3230,3860 (2-4 hours)
 
-## PR with Concentration in Social Media (52 hours) 
+## PR with Concentration in Social Media (52 hours)
 
-- BSNS 2810,4400 
+- BSNS 2810,4400
 
-- COMM 2000,2130,2140,2200,2240,3050,3200,3240,3250,3310,3340,3370,3440,4000 
+- COMM 2000,2130,2140,2200,2240,3050,3200,3240,3250,3310,3340,3370,3440,4000
 
-- 3 hours from COMM 2840 
+- 3 hours from COMM 2840
 
-- 1 hour from COMM 2850 
+- 1 hour from COMM 2850
 
-- 2-4 hours from COMM 4800 
+- 2-4 hours from COMM 4800
 
-- Remaining hours from BSNS 3550; COMM 3230; ENGL 3140 
+- Remaining hours from BSNS 3550; COMM 3230; ENGL 3140
 
-## PUBLIC RELATIONS COMPLEMENTARY MAJOR  (35 hours) 
+## PUBLIC RELATIONS COMPLEMENTARY MAJOR  (35 hours)
 
-- COMM 2000,2130,2240,3050,3240,3250,3340,3370,3440 
+- COMM 2000,2130,2240,3050,3240,3250,3340,3370,3440
 
-- 2 hours from COMM 2840 
+- 2 hours from COMM 2840
 
-- 2 hours from COMM 4800 
+- 2 hours from COMM 4800
 
-- At least one of the following: COMM 3130 or 3230 
+- At least one of the following: COMM 3130 or 3230
 
-- Remaining hours from COMM 2140,2200,3130,3200,3230,3310,4000 
+- Remaining hours from COMM 2140,2200,3130,3200,3230,3310,4000
 
-## PUBLIC RELATIONS MINOR  (18 hours) 
+## PUBLIC RELATIONS MINOR  (18 hours)
 
-- COMM 2130,2240,2840 
+- COMM 2130,2240,2840
 
-- COMM 3240 or 3340 
+- COMM 3240 or 3340
 
-- COMM 3250 or 3440 
+- COMM 3250 or 3440
 
-- Remaining hours from COMM 2140,3050,3310,3370 
+- Remaining hours from COMM 2140,3050,3310,3370
 
-## EVENT PLANNING & MANAGEMENT MINOR  (15-16 hours) 
+## EVENT PLANNING & MANAGEMENT MINOR  (15-16 hours)
 
-- BSNS 2810 
+- BSNS 2810
 
-- COMM 2240,3250,3370,4340 
+- COMM 2240,3250,3370,4340
 
-- 1-2 hours from COMM 3860 
+- 1-2 hours from COMM 3860
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-71 
+71
 
-## ENGLISH 
+## ENGLISH
 
-The academic programs hosted by the English program pursue two objectives: to facilitate students’ study of literature within the context of the great humanities and to support students’ professional preparation. 
+The academic programs hosted by the English program pursue two objectives: to facilitate students’ study of literature within the context of the great humanities and to support students’ professional preparation
 
-Courses in the Literary Studies major develop a dialogue between the past and the present across political, cultural, linguistic, and ideological barriers, covering American, British, and global literature. The study of literature, as it reflects human activity, helps us to understand human values, motives, identity, and social structures. Introductory courses develop necessary skills for critical reading, analytical thinking, scholarly research, linguistic study, and literary interpretation. 
+Courses in the Literary Studies major develop a dialogue between the past and the present across political, cultural, linguistic, and ideological barriers, covering American, British, and global literature. The study of literature, as it reflects human activity, helps us to understand human values, motives, identity, and social structures. Introductory courses develop necessary skills for critical reading, analytical thinking, scholarly research, linguistic study, and literary interpretation
 
-Courses in the Writing major engage students through advanced training in expository, argumentative, poetic, and narrative writing techniques. The department also offers lower-division writing courses to develop basic skill competencies necessary for success in college-level work. 
+Courses in the Writing major engage students through advanced training in expository, argumentative, poetic, and narrative writing techniques. The department also offers lower-division writing courses to develop basic skill competencies necessary for success in college-level work
 
-Courses in the English Language Arts Teaching major prepare students to teach composition and literature in middle school or high school classrooms. Courses fulfill requirements for content knowledge and meet standards established by state licensing boards and accreditation bodies. 
+Courses in the English Language Arts Teaching major prepare students to teach composition and literature in middle school or high school classrooms. Courses fulfill requirements for content knowledge and meet standards established by state licensing boards and accreditation bodies
 
-Additionally, the English Program hosts minors in English Studies and Writing, which are designed to complement any other major on campus. 
+Additionally, the English Program hosts minors in English Studies and Writing, which are designed to complement any other major on campus
 
-## MAJORS 
+## MAJORS
 
-## ENGLISH LANGUAGE ARTS TEACHING MAJOR  (44 hours) 
+## ENGLISH LANGUAGE ARTS TEACHING MAJOR  (44 hours)
 
-## Core requirements (38 hours) 
+## Core requirements (38 hours)
 
-- ENGL 2220,2400,3000,3140 or 3160,3320,3540,3560,3570,3580,3590,3880,4700, COMM 4750, MLAN 2000 or ENGL 3050 
+- ENGL 2220,2400,3000,3140 or 3160,3320,3540,3560,3570,3580,3590,3880,4700, COMM 4750, MLAN 2000 or ENGL 3050
 
-## Remaining requirements (6 hours) 
+## Remaining requirements (6 hours)
 
-- One course from each of the following sets (6 hours): 
+- One course from each of the following sets (6 hours):
 
-   - ENGL 3110 or 3120 or 2580 
+   - ENGL 3110 or 3120 or 2580
 
-   - ENGL 3180 or 3190 
+   - ENGL 3180 or 3190
 
-Teacher Education requirements 
+Teacher Education requirements
 
-- In addition to the above requirements, students pursuing a teaching major must also meet additional requirements listed in the _Department of Teacher Education_ section of this catalog. 
+- In addition to the above requirements, students pursuing a teaching major must also meet additional requirements listed in the _Department of Teacher Education_ section of this catalog
 
-## LITERARY STUDIES MAJOR  (35 hours) 
+## LITERARY STUDIES MAJOR  (35 hours)
 
-- Literature (18 hours) 
+- Literature (18 hours)
 
-o ENGL 2400 
+o ENGL 2400
 
-   - Select five courses from the following:  ENGL 2220,3540,3560,3570,3580,3320 
+   - Select five courses from the following:  ENGL 2220,3540,3560,3570,3580,3320
 
-- Language (3 hours) 
+- Language (3 hours)
 
-o ENGL 3000 or MLAN 2000 
+o ENGL 3000 or MLAN 2000
 
-- ENGL 4910 (3 hours) 
+- ENGL 4910 (3 hours)
 
-- Electives (11 hours) 
+- Electives (11 hours)
 
-   - Select from any 2000-level or higher ENGL course, including ENGL 3870,3880 
+   - Select from any 2000-level or higher ENGL course, including ENGL 3870,3880
 
-Credit for internship experience (ENGL 4880) of up to 3 hours may be applied toward the major and must be approved in advance by the English program director or department chair. 
+Credit for internship experience (ENGL 4880) of up to 3 hours may be applied toward the major and must be approved in advance by the English program director or department chair
 
-The department strongly recommends adding a Writing major (35 hours) or minor (15 hours) to increase one’s competency in writing.  The Literary Studies major and Writing major must have a minimum of 15 hours that are unique to each.  The Literary Studies major and Writing minor may share up to 3 hours in common. 
+The department strongly recommends adding a Writing major (35 hours) or minor (15 hours) to increase one’s competency in writing.  The Literary Studies major and Writing major must have a minimum of 15 hours that are unique to each.  The Literary Studies major and Writing minor may share up to 3 hours in common
 
-_ENGL 1110,1120, and 4700 do not apply to the major._ 
+_ENGL 1110,1120, and 4700 do not apply to the major._
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-72 
+72
 
-## WRITING MAJOR  (35 hours) 
+## WRITING MAJOR  (35 hours)
 
-The writing major provides the student with opportunities to develop advanced writing competencies in a range of creative and professional writing arenas. 
+The writing major provides the student with opportunities to develop advanced writing competencies in a range of creative and professional writing arenas
 
-- 18-25 hours from ENGL 2500,2510,2580,3000,3110,3120,3140,3160,3180,3190,3870,3880, COMM 3220 or COMM 3260 
+- 18-25 hours from ENGL 2500,2510,2580,3000,3110,3120,3140,3160,3180,3190,3870,3880, COMM 3220 or COMM 3260
 
-- 3-8 hours from any other ENGL course level 2000 or higher, not listed above. 
+- 3-8 hours from any other ENGL course level 2000 or higher, not listed above
 
-- ENGL 4800:  1-3 hours of writing internship experience (required of all writing majors and must be approved in advance by the English Program director or department chair). 
+- ENGL 4800:  1-3 hours of writing internship experience (required of all writing majors and must be approved in advance by the English Program director or department chair)
 
-- 3-4 hours from ARTS 1250, COMM 2240 
+- 3-4 hours from ARTS 1250, COMM 2240
 
-- ENGL 4910 
+- ENGL 4910
 
-Please note if a student chooses to also pursue the Literary Studies major, the Writing major and the Literary Studies major may share in common up to 15 credit hours. In practice, however, given each major’s requirements, it is likely that they will share fewer hours in common. 
+Please note if a student chooses to also pursue the Literary Studies major, the Writing major and the Literary Studies major may share in common up to 15 credit hours. In practice, however, given each major’s requirements, it is likely that they will share fewer hours in common
 
-## MINORS 
+## MINORS
 
-## ENGLISH STUDIES MINOR  (15 hours) 
+## ENGLISH STUDIES MINOR  (15 hours)
 
-A flexible, generalized minor that provides students with the opportunity to take any combination of English courses 2000-level or above.  Courses may be selected from the following: 
+A flexible, generalized minor that provides students with the opportunity to take any combination of English courses 2000-level or above.  Courses may be selected from the following:
 
-- Literature courses: ENGL 2220,2400,3320,3540,3560,3570,3580 
+- Literature courses: ENGL 2220,2400,3320,3540,3560,3570,3580
 
-- Language courses: ENGL 3000, MLAN 2000, or ENGL 3050 
+- Language courses: ENGL 3000, MLAN 2000, or ENGL 3050
 
-- Writing and experiential courses: 2500/2510 (corequisites), 2580,3110,3120,3140,3160,3180,3190,3870,3880,4800,4910 
+- Writing and experiential courses: 2500/2510 (corequisites), 2580,3110,3120,3140,3160,3180,3190,3870,3880,4800,4910
 
-_English 1000,1100,1110,1120 and 4700 do not apply to the English Studies minor._ 
+_English 1000,1100,1110,1120 and 4700 do not apply to the English Studies minor._
 
-## LITERARY STUDIES MINOR  (15 hours) 
+## LITERARY STUDIES MINOR  (15 hours)
 
-- ENGL 2400 
+- ENGL 2400
 
-- One or more courses from each group: 
+- One or more courses from each group:
 
-   - British Literature: ENGL 3320,3540,3560 
+   - British Literature: ENGL 3320,3540,3560
 
-   - American Literature: ENGL 3570,3580 
+   - American Literature: ENGL 3570,3580
 
-   - 3000-level writing courses: ENGL 3110,3120,3140,3160,3180,3190 
+   - 3000-level writing courses: ENGL 3110,3120,3140,3160,3180,3190
 
-_ENGL 1000,1110,1120, and 4700 do not apply to the Literary Studies minor._ 
+_ENGL 1000,1110,1120, and 4700 do not apply to the Literary Studies minor._
 
-## WRITING MINOR (15 hours) 
+## WRITING MINOR (15 hours)
 
-Courses may be selected from the following: 
+Courses may be selected from the following:
 
-- ENGL 2500,2510,2580,3000,3110,3120,3140,3160,3180,3190,3870 
+- ENGL 2500,2510,2580,3000,3110,3120,3140,3160,3180,3190,3870
 
-- COMM 2130 or SPAN 3010 or MUBS 2070 
+- COMM 2130 or SPAN 3010 or MUBS 2070
 
-## HISTORY 
+## HISTORY
 
-The traditional model of education in history has been to prepare history majors for possible graduate-level work and offering history and education majors the necessary comprehensive understanding of history subjects to pursue careers in education. Such is the model for both lower- and upper-level coursework in history, not only at Anderson University but nearly all liberal arts universities. 
+The traditional model of education in history has been to prepare history majors for possible graduate-level work and offering history and education majors the necessary comprehensive understanding of history subjects to pursue careers in education. Such is the model for both lower- and upper-level coursework in history, not only at Anderson University but nearly all liberal arts universities
 
-This is as it should be, and we certainly do not neglect these goals. However, the history faculty of Anderson University believe it critical for students to think holistically and deliberately integrate into our traditional historical fare broader theoretical issues and life skills — particularly communication and critical-thinking skills — that students will find useful and marketable. 
+This is as it should be, and we certainly do not neglect these goals. However, the history faculty of Anderson University believe it critical for students to think holistically and deliberately integrate into our traditional historical fare broader theoretical issues and life skills — particularly communication and critical-thinking skills — that students will find useful and marketable
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-73 
+73
 
-Accordingly, our course offerings pursue three primary goals: 
+Accordingly, our course offerings pursue three primary goals:
 
-- Historical content and critical-thinking skills : The traditional matter of a history course focuses on major events, themes, people, etc. Students will continue to receive a strong and comprehensive education in the bread-and-butter topics that have always defined the history discipline. 
+- Historical content and critical-thinking skills : The traditional matter of a history course focuses on major events, themes, people, etc. Students will continue to receive a strong and comprehensive education in the bread-and-butter topics that have always defined the history discipline
 
-- Theoretical content and critical-thinking skills: Particularly in upper-division history courses, the broader themes and issues which are rooted in historical events and issues also focus to speak directly to present as well as past concerns, such as the promise and problems of democracy, the nature of community, global affairs, and the various challenges related to writing and understanding biography. 
+- Theoretical content and critical-thinking skills: Particularly in upper-division history courses, the broader themes and issues which are rooted in historical events and issues also focus to speak directly to present as well as past concerns, such as the promise and problems of democracy, the nature of community, global affairs, and the various challenges related to writing and understanding biography
 
-- Writing and communication skills : Upper-level history courses in particular place an emphasis on developing the student’s communication skills but with different variations for each course, such as traditional term papers; a series of brief, shorter papers culminating in a larger project; personal interviews; ethical and professional use of electronic communications such as Twitter; archival research; and/or writing projects pursued in coordination with experiential and technology-driven components. 
+- Writing and communication skills : Upper-level history courses in particular place an emphasis on developing the student’s communication skills but with different variations for each course, such as traditional term papers; a series of brief, shorter papers culminating in a larger project; personal interviews; ethical and professional use of electronic communications such as Twitter; archival research; and/or writing projects pursued in coordination with experiential and technology-driven components
 
-The history degree prepares students for graduate and law school; careers in public service, museums, archives, and nonprofit associations; education; and many other diverse fields. 
+The history degree prepares students for graduate and law school; careers in public service, museums, archives, and nonprofit associations; education; and many other diverse fields
 
-## HISTORY MAJOR (36 hours) 
+## HISTORY MAJOR (36 hours)
 
-Foundational Courses (18 hours) 
+Foundational Courses (18 hours)
 
-●​ HIST 2000,2300,2350,4930 
+●​ HIST 2000,2300,2350,4930
 
-●​ HIST 2030 or 2040 
+●​ HIST 2030 or 2040
 
-- HIST 2110 or  2120 
+- HIST 2110 or  2120
 
-- 2 hours from HIST 4800 
+- 2 hours from HIST 4800
 
-American History Courses (6 hours) 
+American History Courses (6 hours)
 
-- Two courses from HIST 3420,3440,3455,3470,3510,3520,3540,3560,4030 
+- Two courses from HIST 3420,3440,3455,3470,3510,3520,3540,3560,4030
 
-European History Courses (6 hours) 
+European History Courses (6 hours)
 
-●​ Two courses from HIST 3100,3135,3150,3190,3220,3280 
+●​ Two courses from HIST 3100,3135,3150,3190,3220,3280
 
-World History Courses (6 hours) 
+World History Courses (6 hours)
 
-●​ Two courses from HIST 3240,3250,3260,3300,3360,3370,3425 
+●​ Two courses from HIST 3240,3250,3260,3300,3360,3370,3425
 
-## HISTORY MINOR (15 hours) 
+## HISTORY MINOR (15 hours)
 
-- At least two courses selected from HIST 3000- and 4000-level listings 
+- At least two courses selected from HIST 3000- and 4000-level listings
 
-- HIST 4700 does not apply toward the minor 
+- HIST 4700 does not apply toward the minor
 
-## PUBLIC HISTORY 
+## PUBLIC HISTORY
 
-The public history major and minor prepares students who wish to work in the field of history outside the classroom, in settings where history is encountered by the public: museums, community history centers, national parks and historical sites, and many more settings. Public historians — museum staff and curators, government historians, archivists, historical site interpreters, preservationists — come from a variety of disciplines. 
+The public history major and minor prepares students who wish to work in the field of history outside the classroom, in settings where history is encountered by the public: museums, community history centers, national parks and historical sites, and many more settings. Public historians — museum staff and curators, government historians, archivists, historical site interpreters, preservationists — come from a variety of disciplines
 
-Preparation for work in public history is therefore, and necessarily, interdisciplinary, as it prepares individuals to preserve and transmit our past to the non-academic public. 
+Preparation for work in public history is therefore, and necessarily, interdisciplinary, as it prepares individuals to preserve and transmit our past to the non-academic public
 
-## PUBLIC HISTORY MAJOR (59-60 hours) 
+## PUBLIC HISTORY MAJOR (59-60 hours)
 
-- Completion of the History Major (36 hours) 
+- Completion of the History Major (36 hours)
 
-- ARTH 3040 
+- ARTH 3040
 
-- COMM 2200,2240 
+- COMM 2200,2240
 
-●​ HIST 3480,3490 
+●​ HIST 3480,3490
 
-- Two courses (5-6 hours) from: BSNS 2710,2810; COMM 3250 
+- Two courses (5-6 hours) from: BSNS 2710,2810; COMM 3250
 
-- One course (3 hours) from: COMM 3370, BSNS 4400 
+- One course (3 hours) from: COMM 3370, BSNS 4400
 
-## PUBLIC HISTORY MINOR (18 hours 
+## PUBLIC HISTORY MINOR (18 hours
 
-Required (12 hours) ●​ ARTH 3480, 
+Required (12 hours) ●​ ARTH 3480,
 
-●​ HIST 2350,3490,4800 (3-hour internship) 
+●​ HIST 2350,3490,4800 (3-hour internship)
 
-Remaining from at least two of the following (6 hours) 
+Remaining from at least two of the following (6 hours)
 
-●​ ARTH 3040 ●​ BSNS 2710 ●​ MUSC 2210 ●​ BIBL 3310 ●​ COMM 2200,2240,3370 
+●​ ARTH 3040 ●​ BSNS 2710 ●​ MUSC 2210 ●​ BIBL 3310 ●​ COMM 2200,2240,3370
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-74 
+74
 
-## SOCIAL STUDIES TEACHING 
+## SOCIAL STUDIES TEACHING
 
-To fulfill the requirements for teaching social studies at the senior high/middle school level, students must complete specific courses in two teaching fields and in professional education. The required teaching fields are historical perspectives and government & citizenship. Students are strongly encouraged to pursue a third field of licensure in economics, psychology, sociology, or special education. 
+To fulfill the requirements for teaching social studies at the senior high/middle school level, students must complete specific courses in two teaching fields and in professional education. The required teaching fields are historical perspectives and government & citizenship. Students are strongly encouraged to pursue a third field of licensure in economics, psychology, sociology, or special education
 
-All courses listed for historical perspectives, and some courses listed for government & citizenship, economics, psychology, and sociology, meet the standards for social studies teaching as established by the National Council for the Social Studies, thus preparing candidates to teach the following criteria: 
+All courses listed for historical perspectives, and some courses listed for government & citizenship, economics, psychology, and sociology, meet the standards for social studies teaching as established by the National Council for the Social Studies, thus preparing candidates to teach the following criteria:
 
-✓ culture and cultural diversity ✓ power, authority, and governance ✓ continuity and change ✓ production, distribution, and consumption ✓ people, places, and environment ✓ science, technology, and society ✓ individual development and identity ✓ global connections ✓ individuals, groups, and institutions ✓ civic ideals and practices 
+✓ culture and cultural diversity ✓ power, authority, and governance ✓ continuity and change ✓ production, distribution, and consumption ✓ people, places, and environment ✓ science, technology, and society ✓ individual development and identity ✓ global connections ✓ individuals, groups, and institutions ✓ civic ideals and practices
 
-## SOCIAL STUDIES TEACHING MAJOR  (51 hours) 
+## SOCIAL STUDIES TEACHING MAJOR  (51 hours)
 
-Foundational courses (12 hours) 
+Foundational courses (12 hours)
 
-●​ HIST 4700 ●​ PSYC 2000 ●​ ECON 2010 ●​ SOCI 2010 
+●​ HIST 4700 ●​ PSYC 2000 ●​ ECON 2010 ●​ SOCI 2010
 
-Government & Citizenship (12 hours) 
+Government & Citizenship (12 hours)
 
-- 12 hours of Political Science 
+- 12 hours of Political Science
 
-o POSC 2020,2100,2580 
+o POSC 2020,2100,2580
 
-o Remaining hours from POSC 2120,3010,3250 (recommended) 
+o Remaining hours from POSC 2120,3010,3250 (recommended)
 
-Historical Perspectives (27 hours) 
+Historical Perspectives (27 hours)
 
-- 12 hours of U.S. History: 
+- 12 hours of U.S. History:
 
-o HIST 2110,2120 
+o HIST 2110,2120
 
-o Remaining hours from HIST 3420,3425,3440,3455,3470,3510,3540,4030 
+o Remaining hours from HIST 3420,3425,3440,3455,3470,3510,3540,4030
 
-●​ 6 hours of European History: 
+●​ 6 hours of European History:
 
-o HIST 2030 or 2040 
+o HIST 2030 or 2040
 
-o Remaining hours from HIST 3010,3100,3135,3150,3190,3220,3240 
+o Remaining hours from HIST 3010,3100,3135,3150,3190,3220,3240
 
-●​ 6 hours of Global History: 
+●​ 6 hours of Global History:
 
-o HIST 2000 
+o HIST 2000
 
-o Remaining hours from 3260,3280,3300,3320,3360,3370,3425 
+o Remaining hours from 3260,3280,3300,3320,3360,3370,3425
 
-- Additional 3-hour course from 3000 level of either European History or Global History 
+- Additional 3-hour course from 3000 level of either European History or Global History
 
-Teacher Education Requirements 
+Teacher Education Requirements
 
-- In addition to these requirements, students pursuing a teaching major must also meet additional requirements listed in the _Department of Teacher Education_ section of this catalog. 
+- In addition to these requirements, students pursuing a teaching major must also meet additional requirements listed in the _Department of Teacher Education_ section of this catalog
 
-Social Studies Secondary Education majors should fulfill the _Humanistic & Artistic Ways of Knowing_ 
+Social Studies Secondary Education majors should fulfill the _Humanistic & Artistic Ways of Knowing_
 
-[Raven Core] component of the _Liberal Arts Core Curriculum_ by successfully completing ENGL 3590. 
+[Raven Core] component of the _Liberal Arts Core Curriculum_ by successfully completing ENGL 3590
 
-## MODERN LANGUAGES 
+## MODERN LANGUAGES
 
-In an increasingly interdependent world, the study of other languages and cultures has become a fundamental part of every student’s education. Knowledge of at least two languages and familiarity with cultures and societies different from one’s own not only equip university graduates to take responsible and active roles as world citizens but also enhances their effectiveness in a range of professions, including, but not limited to: business, computer science, education, film, government, health care, journalism, law, missions, and social work. 
+In an increasingly interdependent world, the study of other languages and cultures has become a fundamental part of every student’s education. Knowledge of at least two languages and familiarity with cultures and societies different from one’s own not only equip university graduates to take responsible and active roles as world citizens but also enhances their effectiveness in a range of professions, including, but not limited to: business, computer science, education, film, government, health care, journalism, law, missions, and social work
 
-## SPANISH STUDIES MINOR (15 HRS.) 
+## SPANISH STUDIES MINOR (15 HRS.)
 
-- Two SPAN courses taken in sequence (8 hours) 
+- Two SPAN courses taken in sequence (8 hours)
 
-- SPAN 210x Spanish for the Professions course (3 hours) 
+- SPAN 210x Spanish for the Professions course (3 hours)
 
-- MLAN 2000 Language and Society or additional SPAN captioned course (4 hours) 
+- MLAN 2000 Language and Society or additional SPAN captioned course (4 hours)
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-75 
+75
 
-## ARTH  (History) Courses 
+## ARTH  (History) Courses
 
 |3040 |Great Themes in Global Art History|3 hours (3,0)|
 |---|---|---|
@@ -4063,11 +4063,11 @@ Anderson University Undergraduate Catalog 2025-26
 ||and the impact upon design professions. Students encounter the complexities of working with clients||
 ||and vendors in the realization of designed electronic materials and virtual environments.||
 
-## ARTS (Studio) Courses 
+## ARTS (Studio) Courses
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-76 
+76
 
 |RTS (|cont.)|cont.)|
 |---|---|---|
@@ -4124,11 +4124,11 @@ Anderson University Undergraduate Catalog 2025-26
 ||Research and writing in a variety of media, with an emphasis on news, features, public relations,||
 ||and commercial copy.Offered:Semester II.||
 
-## COMM Courses 
+## COMM Courses
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-77 
+77
 
 |OMM |(cont.)||
 |---|---|---|
@@ -4188,9 +4188,9 @@ Anderson University Undergraduate Catalog 2025-26
 ||Photoshop and After Effects. Includes 2D and 3D animation, compositing and visual effects.Offered:||
 ||Semester II, 2026-27.||
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-78 
+78
 
 |OMM |(cont.)||
 |---|---|---|
@@ -4252,9 +4252,9 @@ Anderson University Undergraduate Catalog 2025-26
 ||and techniques. Students develop a communication plan and implement an event.Prerequisite:||
 ||COMM 3250.Offered:Semester I, 2025-26.||
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-79 
+79
 
 |OMM |(cont.)||
 |---|---|---|
@@ -4312,11 +4312,11 @@ Anderson University Undergraduate Catalog 2025-26
 ||prerequisite to ENGL 3110,3120, or 3180.Expectation:Grade of C- or above in ENGL 1120.Offered:||
 ||Semester II.||
 
-## ENGL Courses 
+## ENGL Courses
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-80 
+80
 
 |NGL (|cont.)||
 |---|---|---|
@@ -4375,9 +4375,9 @@ Anderson University Undergraduate Catalog 2025-26
 ||imagination, poetics, and politics of authors such as Chaucer, Kempe, Shakespeare, Donne, Milton, and||
 ||Behn, among others.Expectation:Grade of C- or above in ENGL 1120.Offered:Semester I, 2026-27.||
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-81 
+81
 
 |NGL (|cont.)|
 |---|---|
@@ -4436,11 +4436,11 @@ Anderson University Undergraduate Catalog 2025-26
 ||organizations, the literary marketplace, or corporate settings.Prerequisite: Senior standing with a|
 ||major in literary studies or writing.Offered: Semester I.|
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-82 
+82
 
-## HIST Courses 
+## HIST Courses
 
 |2000 |World History|3 hours (3,0)|
 |---|---|---|
@@ -4501,9 +4501,9 @@ Anderson University Undergraduate Catalog 2025-26
 ||political and economic vitality characteristic of the Renaissance and Reformation.SAME AS:RLGN 3135.||
 ||Offered:Sem II, 2026-27.||
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-83 
+83
 
 |IST (c|ont.)||
 |---|---|---|
@@ -4567,9 +4567,9 @@ Anderson University Undergraduate Catalog 2025-26
 ||on what it means to be a responsible citizen in a globalized world._Applies to the Global Ways of Knowing_||
 ||_[AU Experience] component of the Liberal Arts Core Curriculum._ SAME AS:RLGN 3320.Offered: Semester I.||
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-84 
+84
 
 |3360 |History of Modern Asia|3 hours (3,0)|
 |---|---|---|
@@ -4631,9 +4631,9 @@ Anderson University Undergraduate Catalog 2025-26
 ||world wars) and asymmetrical conficts such as the U.S. interventions in Southeast Asia and the Middle||
 ||East.Offered: Semester I, 2025-26.||
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-85 
+85
 
 |IST (c|ont.)||
 |---|---|---|
@@ -4693,11 +4693,11 @@ Anderson University Undergraduate Catalog 2025-26
 ||approaches, and practical experience from their major studies.Prerequisite: Senior standing.||
 ||Offered: Semester II.||
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-86 
+86
 
-## MLAN Courses 
+## MLAN Courses
 
 |MLAN|Courses||
 |---|---|---|
@@ -4742,17 +4742,17 @@ Anderson University Undergraduate Catalog 2025-26
 ||writing, listening, and speaking. Requires individual online or outside laboratory work.Prerequisite:||
 ||GERM 1020 or placement.Offered: With suffcient demand.||
 
-## FREN Courses 
+## FREN Courses
 
-## GERM Courses 
+## GERM Courses
 
-## SPAN Courses 
+## SPAN Courses
 
-1010 Elementary Spanish I 4 hours (3,1) Emphasizes development of fundamental language skills (listening, speaking, reading, and writing) and appreciation of Spanish-speaking cultures. Requires individual online or outside laboratory work. _Applies to the Humanistic & Artistic Ways of Knowing [Raven Core] component of the Liberal Arts Core Curriculum._ Prerequisite : Placement. Offered : Semester I, II. 1020 Elementary Spanish II 4 hours (3,1) Emphasizes continued development of fundamental language skills (listening, speaking, reading, and writing) and appreciation of Spanish-speaking cultures. Requires individual online or outside laboratory work. _Applies to the Humanistic & Artistic Ways of Knowing [Raven Core] component of the Liberal Arts Core Curriculum._ Prerequisite : SPAN 1010 or placement. Offered : Semester I, II. 
+1010 Elementary Spanish I 4 hours (3,1) Emphasizes development of fundamental language skills (listening, speaking, reading, and writing) and appreciation of Spanish-speaking cultures. Requires individual online or outside laboratory work. _Applies to the Humanistic & Artistic Ways of Knowing [Raven Core] component of the Liberal Arts Core Curriculum._ Prerequisite : Placement. Offered : Semester I, II. 1020 Elementary Spanish II 4 hours (3,1) Emphasizes continued development of fundamental language skills (listening, speaking, reading, and writing) and appreciation of Spanish-speaking cultures. Requires individual online or outside laboratory work. _Applies to the Humanistic & Artistic Ways of Knowing [Raven Core] component of the Liberal Arts Core Curriculum._ Prerequisite : SPAN 1010 or placement. Offered : Semester I, II
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-87 
+87
 
 |PAN (|cont.)|||
 |---|---|---|---|
@@ -4811,9 +4811,9 @@ Anderson University Undergraduate Catalog 2025-26
 ||Geography and cultural history of Spain. Present political situation, education, art, music, and everyday|||
 ||life.Prerequisite: SPAN 3010,3020.Offered: Semester II.|||
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-88 
+88
 
 ==> picture [49 x 9] intentionally omitted <==
 
@@ -4824,179 +4824,179 @@ Anderson University Undergraduate Catalog 2025-26
 
 ----- End of picture text -----<br>
 
-## 3440 Latin American Civilization 
+## 3440 Latin American Civilization
 
-Survey of Spanish-American culture, pre-Columbian to the present. Socioeconomic problems and relationships with the United States. Prerequisite : SPAN 3010,3020. 
+Survey of Spanish-American culture, pre-Columbian to the present. Socioeconomic problems and relationships with the United States. Prerequisite : SPAN 3010,3020
 
-3-4 hours (3-4,0) 
+3-4 hours (3-4,0)
 
-## 4300 Literature of the Hispanic World 
+## 4300 Literature of the Hispanic World
 
-Survey of the most influential literary texts from Spain and Latin America which investigates the relationship of mutual influence that exists between literature, culture, and historical events. Prerequisite : SPAN 3010,3020. Offered : Semester I. 
+Survey of the most influential literary texts from Spain and Latin America which investigates the relationship of mutual influence that exists between literature, culture, and historical events. Prerequisite : SPAN 3010,3020. Offered : Semester I
 
-3-4 hours (3-4,0) 
+3-4 hours (3-4,0)
 
-## 4500 Special Topics 
+## 4500 Special Topics
 
-Group study on selected topics. Consent : Department Chair. 
+Group study on selected topics. Consent : Department Chair
 
-1-6 hours (arranged) 
+1-6 hours (arranged)
 
-## 4550 Intensive Experience in Spanish 
+## 4550 Intensive Experience in Spanish
 
-Participation in an internship, practicum, or other intensive language experience to be approved by the department that provides the student with linguistic and cultural challenges that will improve their listening, speaking and cross-cultural proficiencies and competencies. Expectation : Completion of or enrollment in at least one hour of SPAN 3240. Repeat : May be repeated to fulfill the study abroad requirement for a total of 6 hours. Prerequisite : SPAN 3010,3020. Offered : Semester I, II. 
+Participation in an internship, practicum, or other intensive language experience to be approved by the department that provides the student with linguistic and cultural challenges that will improve their listening, speaking and cross-cultural proficiencies and competencies. Expectation : Completion of or enrollment in at least one hour of SPAN 3240. Repeat : May be repeated to fulfill the study abroad requirement for a total of 6 hours. Prerequisite : SPAN 3010,3020. Offered : Semester I, II
 
-1-4 hours (arranged) 
+1-4 hours (arranged)
 
-## 4650 Directed Individual Study 
+## 4650 Directed Individual Study
 
-Readings or special interest project to help majors coordinate their work in other Spanish courses. May be completed in a Spanish-speaking country. Consent : Department chair. 
+Readings or special interest project to help majors coordinate their work in other Spanish courses. May be completed in a Spanish-speaking country. Consent : Department chair
 
-1-4 hours (arranged) 
+1-4 hours (arranged)
 
-## 4660 Directed Individual Study 
+## 4660 Directed Individual Study
 
-Readings or special interest project to help majors coordinate their work in other Spanish courses. May be completed in a Spanish-speaking country. Consent : Department chair. 
+Readings or special interest project to help majors coordinate their work in other Spanish courses. May be completed in a Spanish-speaking country. Consent : Department chair
 
-## _Note on placement and credit_ 
+## _Note on placement and credit_
 
-_Students who place into SPAN 2020 or SPAN 3010 level and successfully pass these courses with a C- or above may request retroactive credit for SPAN 2010 or SPAN 2020. The retroactive credit will appear on the Anderson University transcript as SPAN 2015 and SPAN 2025 for purposes of differentiation within the liberal arts core processing system._ 
+_Students who place into SPAN 2020 or SPAN 3010 level and successfully pass these courses with a C- or above may request retroactive credit for SPAN 2010 or SPAN 2020. The retroactive credit will appear on the Anderson University transcript as SPAN 2015 and SPAN 2025 for purposes of differentiation within the liberal arts core processing system._
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-89 
+89
 
-## DEPARTMENT OF NATURAL SCIENCES 
+## DEPARTMENT OF NATURAL SCIENCES
 
-_Dr. Tyler Williamson, chair_ 
+_Dr. Tyler Williamson, chair_
 
-_Faculty: Dr. Bankole, Dr. Carr, Dr. R. Taylor, Dr. Williamson_ 
+_Faculty: Dr. Bankole, Dr. Carr, Dr. R. Taylor, Dr. Williamson_
 
-The Department of Natural Sciences provides a quality educational program combining a broad core curriculum with four areas of specialization: 
+The Department of Natural Sciences provides a quality educational program combining a broad core curriculum with four areas of specialization:
 
-- Pre-Professional: curriculum designed to enhance the student’s appreciation of and success in a professional education program in various medical arts. 
+- Pre-Professional: curriculum designed to enhance the student’s appreciation of and success in a professional education program in various medical arts
 
-- Molecular/Biochemistry/Microbiology: curriculum designed to provide the skills, knowledge, and analytic ability to succeed in modern biology research and/or industrial arenas. 
+- Molecular/Biochemistry/Microbiology: curriculum designed to provide the skills, knowledge, and analytic ability to succeed in modern biology research and/or industrial arenas
 
-- Science Education: curriculum chosen to prepare students to be at the forefront of science education for the 21st century. 
+- Science Education: curriculum chosen to prepare students to be at the forefront of science education for the 21st century
 
-- Ecology/Environmental: curriculum designed to prepare for bachelor entry programs in field biology and environmental science and graduate studies in the fields of ecology, the environment, and zoology. 
+- Ecology/Environmental: curriculum designed to prepare for bachelor entry programs in field biology and environmental science and graduate studies in the fields of ecology, the environment, and zoology
 
-For those students wanting to go on to graduate school or medical school, a BS in Biology or Biochemistry is strongly recommended. For more information regarding these programs, contact the department chair or visit the departmental office (Hartung 206). 
+For those students wanting to go on to graduate school or medical school, a BS in Biology or Biochemistry is strongly recommended. For more information regarding these programs, contact the department chair or visit the departmental office (Hartung 206)
 
-The ecology/environmental concentration is greatly enhanced through Anderson University’s participation in programs offered by the _Au Sable Institute_ . The institute has field stations in northern Michigan, Vara Blanca (Costa Rica), and Tamil Nadu (South India), as well as offering online courses. Each station offers field courses (mostly during the summer) in ecology and environmental science appropriate to its location. Students taking courses from Au Sable remain Anderson University students. Since the university has been identified as an institution eligible for financial grants, qualified students may be awarded Au Sable fellowships and scholarships. Interested students should contact Dr. Scott Carr for further application information. 
+The ecology/environmental concentration is greatly enhanced through Anderson University’s participation in programs offered by the _Au Sable Institute_ . The institute has field stations in northern Michigan, Vara Blanca (Costa Rica), and Tamil Nadu (South India), as well as offering online courses. Each station offers field courses (mostly during the summer) in ecology and environmental science appropriate to its location. Students taking courses from Au Sable remain Anderson University students. Since the university has been identified as an institution eligible for financial grants, qualified students may be awarded Au Sable fellowships and scholarships. Interested students should contact Dr. Scott Carr for further application information
 
-The department undertakes advising and supervision of undergraduate programs in a variety of health and science vocations other than those specifically mentioned above (e.g. pharmacy, physical and occupational therapy, physician’s assistant, etc.). These pre-professional programs require completion of two to four years at Anderson University followed by graduate or clinical training at another institution in order to enter the profession or stand for licensure examinations. Biology faculty share advising for these programs and interested students should contact them for additional information. 
+The department undertakes advising and supervision of undergraduate programs in a variety of health and science vocations other than those specifically mentioned above (e.g. pharmacy, physical and occupational therapy, physician’s assistant, etc.). These pre-professional programs require completion of two to four years at Anderson University followed by graduate or clinical training at another institution in order to enter the profession or stand for licensure examinations. Biology faculty share advising for these programs and interested students should contact them for additional information
 
-## BIOLOGY 
+## BIOLOGY
 
-## BIOLOGY MAJOR, BACHELOR OF ARTS  (49 hours) 
+## BIOLOGY MAJOR, BACHELOR OF ARTS  (49 hours)
 
-- 29 hours from BIOL 2210,2220,2240,3030,3510,4050,4070,4910,4920 
+- 29 hours from BIOL 2210,2220,2240,3030,3510,4050,4070,4910,4920
 
-- 8 hours from additional upper-division BIOL courses (completion of both BIOL 2410 and 2420 will substitute for 4 hours of upper-division biology) 
+- 8 hours from additional upper-division BIOL courses (completion of both BIOL 2410 and 2420 will substitute for 4 hours of upper-division biology)
 
-- CHEM 2110,2120,2210 
+- CHEM 2110,2120,2210
 
-_BIOL 2230 does not apply toward the major._ 
+_BIOL 2230 does not apply toward the major._
 
-_Additional CHEM courses, especially CHEM 2220 and 3100, are strongly recommended._ 
+_Additional CHEM courses, especially CHEM 2220 and 3100, are strongly recommended._
 
-## BIOLOGY MAJOR, BACHELOR OF SCIENCE  (73 hours) 
+## BIOLOGY MAJOR, BACHELOR OF SCIENCE  (73 hours)
 
-- 29 hours from BIOL 2210,2220,2240,3030,3510,4050,4070,4910,4920 
+- 29 hours from BIOL 2210,2220,2240,3030,3510,4050,4070,4910,4920
 
-- 12 hours from additional upper-division BIOL courses (completion of both BIOL 2410 and 2420 will substitute for 4 hours of upper-division biology) 
+- 12 hours from additional upper-division BIOL courses (completion of both BIOL 2410 and 2420 will substitute for 4 hours of upper-division biology)
 
-- CHEM 2110,2120,2210,2220 
+- CHEM 2110,2120,2210,2220
 
-- PHYS 2140 or 2240,2150 or 2250 
+- PHYS 2140 or 2240,2150 or 2250
 
-- MATH 2120 or PSYC 2440 
+- MATH 2120 or PSYC 2440
 
-- 4 hours additional MATH at 2000 level or above; MATH 2010 highly recommended 
+- 4 hours additional MATH at 2000 level or above; MATH 2010 highly recommended
 
-_BIOL 2230 does not apply toward the major._ 
+_BIOL 2230 does not apply toward the major._
 
-## BIOLOGY MINOR (16 hours) 
+## BIOLOGY MINOR (16 hours)
 
-- BIOL 2210,2220 
+- BIOL 2210,2220
 
-- 8 hours from BIOL courses numbered 2230 and above 
+- 8 hours from BIOL courses numbered 2230 and above
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-90 
+90
 
-## BIOLOGY TEACHING TRACK (3+1) 
+## BIOLOGY TEACHING TRACK (3+1)
 
-Students who wish to pursue a career in teaching should complete the Biology BA degree following the three-year plan. After graduating with their BA, students will complete the one-year Anderson University _Transition to Teaching (T2T)_ post-baccalaureate licensure program. By obtaining a degree in Biology, students will have the content expertise required to teach secondary level courses in this field of study. The one-year T2T program will then provide students the additional pedagogical training required to become a licensed secondary (5-12) educator. 
+Students who wish to pursue a career in teaching should complete the Biology BA degree following the three-year plan. After graduating with their BA, students will complete the one-year Anderson University _Transition to Teaching (T2T)_ post-baccalaureate licensure program. By obtaining a degree in Biology, students will have the content expertise required to teach secondary level courses in this field of study. The one-year T2T program will then provide students the additional pedagogical training required to become a licensed secondary (5-12) educator
 
-## BIOCHEMISTRY 
+## BIOCHEMISTRY
 
-The biochemistry major is an interdisciplinary major that applies the principles and methods of both biology and chemistry to understanding the molecular basis of life. The major requires a number of basic classes from each discipline with advanced courses in chemical instrumentation, cell and molecular biology, genetics, and biochemistry, and allows the student to select additional courses necessary to pursue certain career objectives. Students considering a biochemistry major should begin their study with CHEM 2110 and BIOL 2210. 
+The biochemistry major is an interdisciplinary major that applies the principles and methods of both biology and chemistry to understanding the molecular basis of life. The major requires a number of basic classes from each discipline with advanced courses in chemical instrumentation, cell and molecular biology, genetics, and biochemistry, and allows the student to select additional courses necessary to pursue certain career objectives. Students considering a biochemistry major should begin their study with CHEM 2110 and BIOL 2210
 
-## BIOCHEMISTRY MAJOR, BACHELOR OF ARTS  (56 hours) 
+## BIOCHEMISTRY MAJOR, BACHELOR OF ARTS  (56 hours)
 
-- CHEM 2110,2120,2210,2220,3100,4510,4520 
+- CHEM 2110,2120,2210,2220,3100,4510,4520
 
-- BIOL/CHEM 4210 
+- BIOL/CHEM 4210
 
-- BIOL/CHEM4220 
+- BIOL/CHEM4220
 
-- BIOL/CHEM/PHYS 4910,4920 
+- BIOL/CHEM/PHYS 4910,4920
 
-- BIOL 2210,2220,2240,4050,4310 
+- BIOL 2210,2220,2240,4050,4310
 
-- Elective hours from CHEM 3140,4090,4110; BIOL 3030,4120 
+- Elective hours from CHEM 3140,4090,4110; BIOL 3030,4120
 
-_It is suggested that students pursuing pre-medicine should elect BIOL 3030,4120. They should also take PHYS 2140,2150 or MATH 2010,2020, PHYS 2240,2250._ 
+_It is suggested that students pursuing pre-medicine should elect BIOL 3030,4120. They should also take PHYS 2140,2150 or MATH 2010,2020, PHYS 2240,2250._
 
-_It is suggested that students pursuing graduate school should elect CHEM 3140,4090,4110; BIOL 3030; as well as MATH 2010,2020, PHYS 2240,2250._ 
+_It is suggested that students pursuing graduate school should elect CHEM 3140,4090,4110; BIOL 3030; as well as MATH 2010,2020, PHYS 2240,2250._
 
-_It is suggested that students pursuing an industry career elect CHEM 3140._ 
+_It is suggested that students pursuing an industry career elect CHEM 3140._
 
-## BIOCHEMISTRY MAJOR, BACHELOR OF SCIENCE  (76 hours) 
+## BIOCHEMISTRY MAJOR, BACHELOR OF SCIENCE  (76 hours)
 
-- CHEM 2110,2120,2210,2220,3100,4110,4510,4520 
+- CHEM 2110,2120,2210,2220,3100,4110,4510,4520
 
-- BIOL 2210,2220,2240,3030,4050,4310 
+- BIOL 2210,2220,2240,3030,4050,4310
 
-- BIOL/CHEM 4210 
+- BIOL/CHEM 4210
 
-- BIOL/CHEM 4220 
+- BIOL/CHEM 4220
 
-- BIOL/CHEM/PHYS 4910,4920 
+- BIOL/CHEM/PHYS 4910,4920
 
-- PHYS 2140 or 2240 
+- PHYS 2140 or 2240
 
-- PHYS 2150 or 2250 
+- PHYS 2150 or 2250
 
-- MATH 2010 
+- MATH 2010
 
-- MATH 2120 or PSYC 2440 
+- MATH 2120 or PSYC 2440
 
-## PHYSICS 
+## PHYSICS
 
-The purpose of study in physics is to obtain an understanding of the nature and order of the physical world while being exposed to the logical application of scientific methods in discovering this order. 
+The purpose of study in physics is to obtain an understanding of the nature and order of the physical world while being exposed to the logical application of scientific methods in discovering this order
 
-## PHYSICS MINOR  (16 hours) 
+## PHYSICS MINOR  (16 hours)
 
-- PHYS 2240,2250 
+- PHYS 2240,2250
 
-- Remaining 8 hours from 
+- Remaining 8 hours from
 
-   - PHYS 1020,1240 
+   - PHYS 1020,1240
 
-   - ENGR 2010,2070,2110,2200,2310,3240 
+   - ENGR 2010,2070,2110,2200,2310,3240
 
-   - CPSC 2020,2040 
+   - CPSC 2020,2040
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-91 
+91
 
-## BIOL Courses 
+## BIOL Courses
 
 |1000|Principles of Modern Biology|4 hours (3,2)|
 |---|---|---|
@@ -5059,9 +5059,9 @@ Anderson University Undergraduate Catalog 2025-26
 ||experiences emphasize how the structure and function of each topic is interrelated (that function||
 ||follows form).Prerequisite:BIOL 2410 or CHEM 1000.Offered:Semester II, Summer.||
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-92 
+92
 
 |IOL (c|ont.)|||
 |---|---|---|---|
@@ -5123,9 +5123,9 @@ Anderson University Undergraduate Catalog 2025-26
 ||emphasize concepts of macromolecular structure, aspects of enzymology, and intermediary|||
 ||metabolism.Prerequisite:BIOL 2240, CHEM 2220.SAME AS:CHEM 4210.Offered:Semester I.|||
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-93 
+93
 
 |IOL (c|ont.)|
 |---|---|
@@ -5184,11 +5184,11 @@ Anderson University Undergraduate Catalog 2025-26
 ||Voltammetry, and X-ray, with special emphasis on chromatography.Prerequisite: CHEM 3100.|
 ||Offered: With suffcient demand.|
 
-## CHEM Courses 
+## CHEM Courses
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-94 
+94
 
 |HEM |(cont.)|||
 |---|---|---|---|
@@ -5243,11 +5243,11 @@ Anderson University Undergraduate Catalog 2025-26
 ||_(writing-intensive) credit, both CHEM 4910 and 4920 must be completed._ Expectation: Completion of|||
 ||CHEM 4910.Prerequisite: Science major.SAME AS:BIOL/PHYS 4920.Offered: Semester II.|||
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-95 
+95
 
-## PHYS Courses 
+## PHYS Courses
 
 |1020|Earth and Space Science<br>4 hours (3,2)|
 |---|---|
@@ -5284,81 +5284,81 @@ Anderson University Undergraduate Catalog 2025-26
 ||Individual research in advanced areas of interest.Repeat: May be repeated (total credit not to exceed|
 ||8 hours).Offered: With suffcient demand.|
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-96 
+96
 
-## DEPARTMENT OF PSYCHOLOGY 
+## DEPARTMENT OF PSYCHOLOGY
 
-_Dr. Stull, chair_ 
+_Dr. Stull, chair_
 
-_Faculty: Dr. Blunt, Dr. Griffith, Dr. Priest, Dr. Stull; Dr. Farmen (emeritus)_ 
+_Faculty: Dr. Blunt, Dr. Griffith, Dr. Priest, Dr. Stull; Dr. Farmen (emeritus)_
 
-Psychology is the scientific study of the brain, mind, and behavior. It is approached from physiological, cognitive, and social perspectives. Psychologists apply the scientific method (including statistics and experimental design) to the study of brain function, perception, memory, development, social influence, attitudes, organizational behavior, abnormal behavior, and the treatment of disorders. This requires the development of skills in critical thinking, quantitative reasoning, speaking, writing, and ethical decision-making. 
+Psychology is the scientific study of the brain, mind, and behavior. It is approached from physiological, cognitive, and social perspectives. Psychologists apply the scientific method (including statistics and experimental design) to the study of brain function, perception, memory, development, social influence, attitudes, organizational behavior, abnormal behavior, and the treatment of disorders. This requires the development of skills in critical thinking, quantitative reasoning, speaking, writing, and ethical decision-making
 
-Each course seeks to integrate psychological theories and data with biblically based principles. Psychology majors have pursued successful careers in research, counseling, teaching, medicine, business, and law. The department’s web page can be found at _anderson.edu/academics/psychology_ . 
+Each course seeks to integrate psychological theories and data with biblically based principles. Psychology majors have pursued successful careers in research, counseling, teaching, medicine, business, and law. The department’s web page can be found at _anderson.edu/academics/psychology_
 
-## MAJORS 
+## MAJORS
 
-## PSYCHOLOGY MAJOR  (30 hours) 
+## PSYCHOLOGY MAJOR  (30 hours)
 
-## Requirements 
+## Requirements
 
-- 3 hours of PSYC 2000 
+- 3 hours of PSYC 2000
 
-- 3 hours of PSYC 2010 
+- 3 hours of PSYC 2010
 
-- 1 hour of PSYC 4900 
+- 1 hour of PSYC 4900
 
-## 15 additional hours from upper-level PSYC courses, including 
+## 15 additional hours from upper-level PSYC courses, including
 
-- At least 12 hours from PSYC 3010,3030,3040,3060,3100,3120,3200,3210,3240,3330,3400,3450,4030,4100,4110,4140,4150,4510/4520,4650 
+- At least 12 hours from PSYC 3010,3030,3040,3060,3100,3120,3200,3210,3240,3330,3400,3450,4030,4100,4110,4140,4150,4510/4520,4650
 
-- At least 3 hours from any 3000- and 4000-level PSYC courses 
+- At least 3 hours from any 3000- and 4000-level PSYC courses
 
-- PSYC 4900 does NOT count toward these 15 hours. 
+- PSYC 4900 does NOT count toward these 15 hours
 
-Remaining hours from any additional PSYC courses. 
+Remaining hours from any additional PSYC courses
 
-## COMPLEMENTARY MAJORS 
+## COMPLEMENTARY MAJORS
 
-## PSYCHOLOGY COMPLEMENTARY MAJOR  (26 hours) 
+## PSYCHOLOGY COMPLEMENTARY MAJOR  (26 hours)
 
-The complementary major does not stand alone to fulfill graduation requirements, but it is a useful complement to students who are seeking a better understanding of themselves and others. The structure of the complementary major is flexible but has these requirements: 
+The complementary major does not stand alone to fulfill graduation requirements, but it is a useful complement to students who are seeking a better understanding of themselves and others. The structure of the complementary major is flexible but has these requirements:
 
-- Required courses: PSYC 2000,2010,4900 
+- Required courses: PSYC 2000,2010,4900
 
-- At least 12 hours from PSYC 3010,3030,3040,3060,3100,3120,3200,3210,3240,3330,3400,3450,4030,4100,4110,4140,4150,4510/4520,4650 
+- At least 12 hours from PSYC 3010,3030,3040,3060,3100,3120,3200,3210,3240,3330,3400,3450,4030,4100,4110,4140,4150,4510/4520,4650
 
-- Remaining hours from additional PSYC courses 
+- Remaining hours from additional PSYC courses
 
-## YOUTH LEADERSHIP COMPLEMENTARY MAJOR  (28 hours) 
+## YOUTH LEADERSHIP COMPLEMENTARY MAJOR  (28 hours)
 
-Youth Leadership does not stand alone to fulfill graduation requirements, but it is a valuable complement to such majors as youth ministries, social work, criminal justice, psychology, and other majors involving interaction with youth. This major is also an excellent complement for students who enjoy working with youth but whose careers will be in fields that may not involve interaction with youth. 
+Youth Leadership does not stand alone to fulfill graduation requirements, but it is a valuable complement to such majors as youth ministries, social work, criminal justice, psychology, and other majors involving interaction with youth. This major is also an excellent complement for students who enjoy working with youth but whose careers will be in fields that may not involve interaction with youth
 
-- PSYC 2000,2100,2510,2850,4210,4800 
+- PSYC 2000,2100,2510,2850,4210,4800
 
-- SOCI 3100 
+- SOCI 3100
 
-- Select two courses from: CMIN 2260,3260; CRIM 3030; PSYC 3040,3200; SOCI 2100,3050 
+- Select two courses from: CMIN 2260,3260; CRIM 3030; PSYC 3040,3200; SOCI 2100,3050
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-97 
+97
 
-## MINOR 
+## MINOR
 
-## PSYCHOLOGY MINOR  (16 hours) 
+## PSYCHOLOGY MINOR  (16 hours)
 
-- Required course: PSYC 2000 
+- Required course: PSYC 2000
 
-- At least 6 hours from 3000- and 4000-level PSYC courses 
+- At least 6 hours from 3000- and 4000-level PSYC courses
 
-## DEPARTMENTAL HONORS 
+## DEPARTMENTAL HONORS
 
-Departmental honors are awarded only to those students who meet the requirements below and are recommended by the department faculty. The number of students receiving departmental honors is limited by Anderson University policies and Psychology Department recommendations. Psychology students seeking honors must submit an application in order to be considered. 
+Departmental honors are awarded only to those students who meet the requirements below and are recommended by the department faculty. The number of students receiving departmental honors is limited by Anderson University policies and Psychology Department recommendations. Psychology students seeking honors must submit an application in order to be considered
 
-Minimum requirements for applying include the following: (1) completion of 36 hours of psychology courses, including at least one upper-division course from each full-time faculty member; (2) cumulative GPA of at least 3.0; and (3) GPA of at least 3.5 in the psychology major. From this pool of applicants, the department faculty will award honors as student performance merits. 
+Minimum requirements for applying include the following: (1) completion of 36 hours of psychology courses, including at least one upper-division course from each full-time faculty member; (2) cumulative GPA of at least 3.0; and (3) GPA of at least 3.5 in the psychology major. From this pool of applicants, the department faculty will award honors as student performance merits
 
 |PSYC Courses|PSYC Courses||
 |---|---|---|
@@ -5401,9 +5401,9 @@ Minimum requirements for applying include the following: (1) completion of 36 ho
 ||Required for youth leadership [complementary] majors.Consent: Instructor.Prerequisite: PSYC||
 ||2100.Grade: CR/NC.SAME AS:EDUC/SOCI 2850.Offered: Semester I, II.||
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-98 
+98
 
 |SYC (|cont.)||
 |---|---|---|
@@ -5466,9 +5466,9 @@ Anderson University Undergraduate Catalog 2025-26
 ||Prerequisite: PSYC 2000.Expectation: PSYC 2440 strongly recommended.Offered: With||
 ||suffcient demand.||
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-99 
+99
 
 |SYC (|cont.)||
 |---|---|---|
@@ -5528,9 +5528,9 @@ Anderson University Undergraduate Catalog 2025-26
 ||appropriate audience.NOTE: Students should be prepared to cover part of their project costs and any||
 ||conference registration fees.Consent: Instructor.Repeat: May be repeated once for credit.||
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-100 
+100
 
 |PSYC (cont.)|||
 |---|---|---|
@@ -5558,381 +5558,381 @@ Anderson University Undergraduate Catalog 2025-26
 |assessment of the major will be completed. Required of all psychology majors.Prerequisite: Senior|||
 |status.Offered: Semester I.|||
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-101 
+101
 
-## DEPARTMENT OF SOCIAL SCIENCES 
+## DEPARTMENT OF SOCIAL SCIENCES
 
-_Dr. Connor Sutton, chair Faculty:  Dr. Bargerstock, Prof. Burch, Prof. J Craton, Dr. Frank, Prof. Pay, Dr. Preston, Dr. D M Scott, Dr. Sutton Also Prof. Cassell, Prof. Dowd, Prof. Freeman, Prof. Miller, Prof Musser_ 
+_Dr. Connor Sutton, chair Faculty:  Dr. Bargerstock, Prof. Burch, Prof. J Craton, Dr. Frank, Prof. Pay, Dr. Preston, Dr. D M Scott, Dr. Sutton Also Prof. Cassell, Prof. Dowd, Prof. Freeman, Prof. Miller, Prof Musser_
 
-## CRIMINAL JUSTICE 
+## CRIMINAL JUSTICE
 
-The criminal justice program is dedicated to nurturing principled leaders who integrate Christian values with the highest standards of professional excellence in the field of criminal justice. Rooted in our commitment to the Christian faith, our mission is to educate and empower students to make meaningful contributions to society, promoting justice, compassion, integrity, and fairness. 
+The criminal justice program is dedicated to nurturing principled leaders who integrate Christian values with the highest standards of professional excellence in the field of criminal justice. Rooted in our commitment to the Christian faith, our mission is to educate and empower students to make meaningful contributions to society, promoting justice, compassion, integrity, and fairness
 
-The Criminal Justice program offers a major, an associate's degree, and a minor, available both in-person and online. The criminal justice online degree programs are designed for adult students pursuing careers in criminal justice, as well as for individuals already employed in the criminal justice field. 
+The Criminal Justice program offers a major, an associate's degree, and a minor, available both in-person and online. The criminal justice online degree programs are designed for adult students pursuing careers in criminal justice, as well as for individuals already employed in the criminal justice field
 
-## MAJORS 
+## MAJORS
 
-## CRIMINAL JUSTICE MAJOR (BA 120 hours; CRIM 34 hours) 
+## CRIMINAL JUSTICE MAJOR (BA 120 hours; CRIM 34 hours)
 
-The criminal justice major enables students to enter employment in fields related to law enforcement, courts, corrections, victim advocacy and assistance, and also provides a foundation for graduate study. Students gain preparation for careers throughout criminal justice in the private occupational sector as well as with public agencies at the local, state, or federal level. 
+The criminal justice major enables students to enter employment in fields related to law enforcement, courts, corrections, victim advocacy and assistance, and also provides a foundation for graduate study. Students gain preparation for careers throughout criminal justice in the private occupational sector as well as with public agencies at the local, state, or federal level
 
-- CRIM 2510,2520,3110 
+- CRIM 2510,2520,3110
 
-- 4 hours from CRIM 4810 and 3 hours from CRIM 4900 
+- 4 hours from CRIM 4810 and 3 hours from CRIM 4900
 
-- SOCI 2020 or SOCI 2010 
+- SOCI 2020 or SOCI 2010
 
-- SOCI 3700 
+- SOCI 3700
 
-- 9 hours from additional CRIM courses 
+- 9 hours from additional CRIM courses
 
-- Students who wish to take additional coursework providing more breadth and depth in the field should consult with their advisor concerning the appropriate courses. 
+- Students who wish to take additional coursework providing more breadth and depth in the field should consult with their advisor concerning the appropriate courses
 
-## CRIMINAL JUSTICE ONLINE MAJOR  (BA 120 hours; CRIM 34 hours) 
+## CRIMINAL JUSTICE ONLINE MAJOR  (BA 120 hours; CRIM 34 hours)
 
-- CRIM 2510,2520,3110,4900 
+- CRIM 2510,2520,3110,4900
 
-- 4 hours from CRIM 4810 (credits may be earned from professional experience) 
+- 4 hours from CRIM 4810 (credits may be earned from professional experience)
 
-- SOCI 2010 or SOCI 2020 
+- SOCI 2010 or SOCI 2020
 
-- SOCI 3700 
+- SOCI 3700
 
-- 9 hours from additional CRIM courses 
+- 9 hours from additional CRIM courses
 
-- Students who wish to take additional coursework providing added breadth and depth in the field should consult with their advisor concerning the appropriate courses. 
+- Students who wish to take additional coursework providing added breadth and depth in the field should consult with their advisor concerning the appropriate courses
 
-- Designed for adult students pursuing careers in criminal justice, as well as for individuals already employed in the criminal justice field. 
+- Designed for adult students pursuing careers in criminal justice, as well as for individuals already employed in the criminal justice field
 
-## MINORS 
+## MINORS
 
-## CRIMINAL JUSTICE MINOR  (17 hours) 
+## CRIMINAL JUSTICE MINOR  (17 hours)
 
-- CRIM 2510,2520,3110 
+- CRIM 2510,2520,3110
 
-- Remaining hours from additional CRIM courses 
+- Remaining hours from additional CRIM courses
 
-## CRIMINAL JUSTICE ONLINE MINOR  (17 hours) 
+## CRIMINAL JUSTICE ONLINE MINOR  (17 hours)
 
-- CRIM 2510,2520,3110 
+- CRIM 2510,2520,3110
 
-- Remaining hours from additional CRIM courses 
+- Remaining hours from additional CRIM courses
 
-- Designed for adult students pursuing careers in criminal justice, as well as for individuals already employed in the criminal justice field. 
+- Designed for adult students pursuing careers in criminal justice, as well as for individuals already employed in the criminal justice field
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-102 
+102
 
-## ASSOCIATE’S DEGREES 
+## ASSOCIATE’S DEGREES
 
-## ASSOCIATE OF ARTS DEGREE (60 hours CRIM and Liberal Arts) 
+## ASSOCIATE OF ARTS DEGREE (60 hours CRIM and Liberal Arts)
 
-This two-year Associate of Arts provides foundational courses in criminal justice and approximately one-half of the hours required for the four-year Bachelor of Arts degree program. The curriculum assumes proficiency in writing at the ENGL 1110 level and in mathematics at the MATH 1000 level. 
+This two-year Associate of Arts provides foundational courses in criminal justice and approximately one-half of the hours required for the four-year Bachelor of Arts degree program. The curriculum assumes proficiency in writing at the ENGL 1110 level and in mathematics at the MATH 1000 level
 
-- BIBL 2000; SOCI 2010 or SOCI 2020; SOCI 2450 
+- BIBL 2000; SOCI 2010 or SOCI 2020; SOCI 2450
 
-- CRIM 2510,2520,3110 
+- CRIM 2510,2520,3110
 
-- 9 hours from additional CRIM courses 
+- 9 hours from additional CRIM courses
 
-- 12-14 hours from the liberal arts program (see _Liberal Arts Core Curriculum_ ), no more than one course from any one component and no more than 4 hours from courses offered by the department 
+- 12-14 hours from the liberal arts program (see _Liberal Arts Core Curriculum_ ), no more than one course from any one component and no more than 4 hours from courses offered by the department
 
-- Remaining hours from additional courses in any caption; no more than 31 hours from CRIM courses 
+- Remaining hours from additional courses in any caption; no more than 31 hours from CRIM courses
 
-- Students must also meet other graduation requirements as listed in this catalog. 
+- Students must also meet other graduation requirements as listed in this catalog
 
-## ASSOCIATE OF ARTS ONLINE DEGREE  (60 hours CRIM and Liberal Arts) 
+## ASSOCIATE OF ARTS ONLINE DEGREE  (60 hours CRIM and Liberal Arts)
 
-This two-year Associate of Arts degree provides foundational courses in criminal justice and approximately one-half of the hours required for the four-year Bachelor of Arts degree program. The curriculum assumes proficiency in writing at the ENGL 1110 level and in mathematics at the MATH 1000 level. 
+This two-year Associate of Arts degree provides foundational courses in criminal justice and approximately one-half of the hours required for the four-year Bachelor of Arts degree program. The curriculum assumes proficiency in writing at the ENGL 1110 level and in mathematics at the MATH 1000 level
 
-- BIBL 2000; SOCI 2010 or SOCI 2020, SOCI 2450 
+- BIBL 2000; SOCI 2010 or SOCI 2020, SOCI 2450
 
-- CRIM 2510,2520,3110 
+- CRIM 2510,2520,3110
 
-- 9 hours from additional CRIM courses 
+- 9 hours from additional CRIM courses
 
-- 12-14 hours from the liberal arts program (see _Liberal Arts Core Curriculum_ ), no more than one course from any one component and no more than 4 hours from courses offered by the department 
+- 12-14 hours from the liberal arts program (see _Liberal Arts Core Curriculum_ ), no more than one course from any one component and no more than 4 hours from courses offered by the department
 
-- Remaining hours from additional courses in any caption; no more than 31 hours from CRIM courses 
+- Remaining hours from additional courses in any caption; no more than 31 hours from CRIM courses
 
-- Students must also meet other graduation requirements as listed in this catalog. 
+- Students must also meet other graduation requirements as listed in this catalog
 
-- Designed for adult students pursuing careers in criminal justice, as well as for individuals already employed in the criminal justice field. 
+- Designed for adult students pursuing careers in criminal justice, as well as for individuals already employed in the criminal justice field
 
-## POLITICAL SCIENCE 
+## POLITICAL SCIENCE
 
-The political science program offers three majors, each of which is designed to transform students with an interest in or concern for politics into graduates who can understand, evaluate, manage, and shape political events and governmental actions in a manner consistent with a Christian faith perspective. 
+The political science program offers three majors, each of which is designed to transform students with an interest in or concern for politics into graduates who can understand, evaluate, manage, and shape political events and governmental actions in a manner consistent with a Christian faith perspective
 
-The majors offered by the political science program provide excellent training for a variety of careers. Recent graduates are working in government (national, state, and local), law, electoral politics, nonprofits, and business. 
+The majors offered by the political science program provide excellent training for a variety of careers. Recent graduates are working in government (national, state, and local), law, electoral politics, nonprofits, and business
 
-Students in the political science program are expected to successfully complete the foundational courses before attempting upper-division coursework. They are also strongly encouraged to pursue a minor or a second major in one or more of the following: history, economics, modern languages, journalism, legal studies, peace and conflict transformation, psychology, sociology, or women’s studies. Minors or second majors should be selected only after consultation with a political science program advisor. Students are also encouraged to consider completing an internship or taking a semester to participate in an off-campus program. Appropriate opportunities can be identified by consulting a political science program advisor. 
+Students in the political science program are expected to successfully complete the foundational courses before attempting upper-division coursework. They are also strongly encouraged to pursue a minor or a second major in one or more of the following: history, economics, modern languages, journalism, legal studies, peace and conflict transformation, psychology, sociology, or women’s studies. Minors or second majors should be selected only after consultation with a political science program advisor. Students are also encouraged to consider completing an internship or taking a semester to participate in an off-campus program. Appropriate opportunities can be identified by consulting a political science program advisor
 
-## MAJORS 
+## MAJORS
 
-## POLITICAL SCIENCE MAJOR (36 hours) 
+## POLITICAL SCIENCE MAJOR (36 hours)
 
-Foundational courses (16 hours) 
+Foundational courses (16 hours)
 
-- POSC 2020,2100,2200,2400 
+- POSC 2020,2100,2200,2400
 
-- MATH 2120 
+- MATH 2120
 
-American Politics courses (6 hours) 
+American Politics courses (6 hours)
 
-- Two from POSC 3140,3211,3212 
+- Two from POSC 3140,3211,3212
 
-International Relations and Comparative Politics courses (6 hours) 
+International Relations and Comparative Politics courses (6 hours)
 
-- Two from POSC 3300,3400,3510 
+- Two from POSC 3300,3400,3510
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-103 
+103
 
-Senior Capstone course (1 hour) 
+Senior Capstone course (1 hour)
 
-●​ POSC 4930 
+●​ POSC 4930
 
-Electives (8 hours) 
+Electives (8 hours)
 
-- Remaining hours from additional POSC courses; at least 6 hours from upper-division courses 
+- Remaining hours from additional POSC courses; at least 6 hours from upper-division courses
 
-_No more than 5 hours from POSC 2810,4800,4810,4820 may be applied toward the major._ 
+_No more than 5 hours from POSC 2810,4800,4810,4820 may be applied toward the major._
 
-## POLITICAL SCIENCE, PHILOSOPHY, AND ECONOMICS MAJOR (54 hours) 
+## POLITICAL SCIENCE, PHILOSOPHY, AND ECONOMICS MAJOR (54 hours)
 
-Foundational courses (29 hours) 
+Foundational courses (29 hours)
 
-●​ POSC 2020,2100,2200,2400,2420 
+●​ POSC 2020,2100,2200,2400,2420
 
-- MATH 2120 
+- MATH 2120
 
-- ECON 2010,2020 
+- ECON 2010,2020
 
-- PHIL 2000,2120 
+- PHIL 2000,2120
 
-Advanced courses (12 hours) 
+Advanced courses (12 hours)
 
-- POSC 3510 
+- POSC 3510
 
-- ECON 3110 or ECON 3210 
+- ECON 3110 or ECON 3210
 
-- PHIL/POSC/HIST 3010 
+- PHIL/POSC/HIST 3010
 
-- PHIL/RLGN 3250 
+- PHIL/RLGN 3250
 
-Senior Capstone course (1 hour) 
+Senior Capstone course (1 hour)
 
-- POSC 4930 
+- POSC 4930
 
-Electives (12 hours) 
+Electives (12 hours)
 
-- Remaining hours from additional upper-division POSC, PHIL, or ECON courses, or from BIBL 3420 or RLGN 3120 
+- Remaining hours from additional upper-division POSC, PHIL, or ECON courses, or from BIBL 3420 or RLGN 3120
 
-_No more than 3 hours from POSC 4800,4810,4820 may be applied toward the major._ 
+_No more than 3 hours from POSC 4800,4810,4820 may be applied toward the major._
 
-## INTERNATIONAL RELATIONS MAJOR (42-43 hours) 
+## INTERNATIONAL RELATIONS MAJOR (42-43 hours)
 
-Foundational courses (15 hours) 
+Foundational courses (15 hours)
 
-●​ POSC 2020,2200,2400,2580 
+●​ POSC 2020,2200,2400,2580
 
-- MATH 2120 
+- MATH 2120
 
-Advanced courses (12 hours) 
+Advanced courses (12 hours)
 
-- POSC 3300,3400,3510 
+- POSC 3300,3400,3510
 
-- One from POSC 3310,3320,3330,3360,3450 
+- One from POSC 3310,3320,3330,3360,3450
 
-Experiential courses (4-5 hours) from: 
+Experiential courses (4-5 hours) from:
 
-●​ POSC 2840,4820 
+●​ POSC 2840,4820
 
-Senior Capstone course (1 hour) 
+Senior Capstone course (1 hour)
 
-- POSC 4930 
+- POSC 4930
 
-Electives (9 hours) from: 
+Electives (9 hours) from:
 
-- ECON 3210 
+- ECON 3210
 
-- HIST 3190,3220,3240,3250,3260,3300,3360,3370,3520 
+- HIST 3190,3220,3240,3250,3260,3300,3360,3370,3520
 
-- Study abroad or intensive experience approved by the department 
+- Study abroad or intensive experience approved by the department
 
-- SPAN 2010 or above 
+- SPAN 2010 or above
 
-- Language courses taken at institutions or programs approved by the department 
+- Language courses taken at institutions or programs approved by the department
 
-## MINORS 
+## MINORS
 
-## POLITICAL SCIENCE MINOR (15 hours) 
+## POLITICAL SCIENCE MINOR (15 hours)
 
-●​ POSC 2020,2100 
+●​ POSC 2020,2100
 
-- Remaining hours from additional POSC courses; at least 6 hours from upper-division courses 
+- Remaining hours from additional POSC courses; at least 6 hours from upper-division courses
 
-_No more than 3 hours from POSC 2810,4800,4810,4820 may be applied toward the minor._ 
+_No more than 3 hours from POSC 2810,4800,4810,4820 may be applied toward the minor._
 
-## INTERNATIONAL RELATIONS MINOR (15 hours) 
+## INTERNATIONAL RELATIONS MINOR (15 hours)
 
-- POSC 2020,2580,3300,3510 
+- POSC 2020,2580,3300,3510
 
-- Remaining hours from POSC 3310,3320,3330,3360,3400,3450 
+- Remaining hours from POSC 3310,3320,3330,3360,3400,3450
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-104 
+104
 
-## LEGAL STUDIES MINOR (15 hours) 
+## LEGAL STUDIES MINOR (15 hours)
 
-_Pre-Law Advisor: Dr. Frank_ 
+_Pre-Law Advisor: Dr. Frank_
 
-The legal studies minor is designed in accordance with the statement on pre-law preparation, developed by the Pre-Law Committee of the American Bar Association, Section of Legal Education and Admissions to the Bar, to help students develop the analytical, writing, research, and oral communication skills necessary to succeed in law school and beyond. 
+The legal studies minor is designed in accordance with the statement on pre-law preparation, developed by the Pre-Law Committee of the American Bar Association, Section of Legal Education and Admissions to the Bar, to help students develop the analytical, writing, research, and oral communication skills necessary to succeed in law school and beyond
 
-●​ POSC 2210,4810 ●​ ENGL 3190 ●​ One course from: ○​ BSNS 3420 ○​ CRIM 3110 ○​ COMM 4000 ○​ POSC 3250 ●​ One course from: ○​ BIBL 3420 ○​ POSC/HIST/PHIL 3010 ○​ PHIL 2120,3250 ○​ RLGN 3120,3250 
+●​ POSC 2210,4810 ●​ ENGL 3190 ●​ One course from: ○​ BSNS 3420 ○​ CRIM 3110 ○​ COMM 4000 ○​ POSC 3250 ●​ One course from: ○​ BIBL 3420 ○​ POSC/HIST/PHIL 3010 ○​ PHIL 2120,3250 ○​ RLGN 3120,3250
 
-Students are expected to complete POSC 2210 before POSC 4810. In addition to these courses, students are encouraged to develop their oral presentation skills through POSC 2840, and to further develop their analytical skills through MATH 2200, ACCT 2010, and additional courses in mathematics and economics. 
+Students are expected to complete POSC 2210 before POSC 4810. In addition to these courses, students are encouraged to develop their oral presentation skills through POSC 2840, and to further develop their analytical skills through MATH 2200, ACCT 2010, and additional courses in mathematics and economics
 
-## SECURITY STUDIES 
+## SECURITY STUDIES
 
-_Director: Dr. Michael Frank_ 
+_Director: Dr. Michael Frank_
 
-The Security Studies Program is designed to develop graduates with the practical knowledge, technical skills, and professional ethics from a Christian-faith perspective, to serve on the front lines in defending the nation, our communities, and institutions from threats, foreign and domestic, in both the physical and cyber realms. 
+The Security Studies Program is designed to develop graduates with the practical knowledge, technical skills, and professional ethics from a Christian-faith perspective, to serve on the front lines in defending the nation, our communities, and institutions from threats, foreign and domestic, in both the physical and cyber realms
 
-The program consists of majors in national security and cybersecurity. Each major has an interdisciplinary curriculum that includes foundational courses, national security policy courses, Christian ethics, and relevant electives. 
+The program consists of majors in national security and cybersecurity. Each major has an interdisciplinary curriculum that includes foundational courses, national security policy courses, Christian ethics, and relevant electives
 
-Students in both majors are expected to successfully complete the foundational courses before attempting upper- division coursework. Students are strongly encouraged to discuss second majors, minors, and internship opportunities with a program advisor. 
+Students in both majors are expected to successfully complete the foundational courses before attempting upper- division coursework. Students are strongly encouraged to discuss second majors, minors, and internship opportunities with a program advisor
 
-Anderson University has been designated by the National Security Agency as a Center of Academic Excellence in Cyber Defense Education (CAE-CD), certifying the cybersecurity major as a validated Program of Study. 
+Anderson University has been designated by the National Security Agency as a Center of Academic Excellence in Cyber Defense Education (CAE-CD), certifying the cybersecurity major as a validated Program of Study
 
-## NATIONAL SECURITY MAJOR (44 hours) 
+## NATIONAL SECURITY MAJOR (44 hours)
 
-_*Grade of C- or higher required in all courses that count toward the major_ 
+_*Grade of C- or higher required in all courses that count toward the major_
 
-Foundation (15 hours): ●​ POSC 2020,2100,2200,2400 ●​ MATH 2120 
+Foundation (15 hours): ●​ POSC 2020,2100,2200,2400 ●​ MATH 2120
 
-National Security Policy (9 hours) from: 
+National Security Policy (9 hours) from:
 
-●​ POSC 3300,3310,3370 ●​ POSC/CRIM 3350 
+●​ POSC 3300,3310,3370 ●​ POSC/CRIM 3350
 
-Ethics (3 hours): ●​ PHIL/RLGN 3250 
+Ethics (3 hours): ●​ PHIL/RLGN 3250
 
-Electives (16 hours) from: 
+Electives (16 hours) from:
 
-●​ HIST 3220,3240,3250,3300,3360,3370,3510,3520 ●​ POSC 3212,3250,3300,3310,3330,3360,3370 ●​ CRIM 2520,3050 ●​ MATH 3200 ●​ CRIM/POSC 3350 ●​ PSYC 3330,3400 ●​ CRIM/SOCI 2510 ●​ PSYC/SOCI 3010 
+●​ HIST 3220,3240,3250,3300,3360,3370,3510,3520 ●​ POSC 3212,3250,3300,3310,3330,3360,3370 ●​ CRIM 2520,3050 ●​ MATH 3200 ●​ CRIM/POSC 3350 ●​ PSYC 3330,3400 ●​ CRIM/SOCI 2510 ●​ PSYC/SOCI 3010
 
-Senior Capstone (1 hour): ●​ POSC 4930 
+Senior Capstone (1 hour): ●​ POSC 4930
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-105 
+105
 
-## SOCIAL WORK 
+## SOCIAL WORK
 
-_Director: Dr. Lolly Bargerstock_ 
+_Director: Dr. Lolly Bargerstock_
 
-The social work major is accredited by the Council on Social Work Education (CSWE) and prepares students to become generalist social work practitioners in entry-level human service positions or to enter graduate study in social work. Graduates are eligible to apply for credentialing as beginning-level social work practitioners in most states. 
+The social work major is accredited by the Council on Social Work Education (CSWE) and prepares students to become generalist social work practitioners in entry-level human service positions or to enter graduate study in social work. Graduates are eligible to apply for credentialing as beginning-level social work practitioners in most states
 
-## Admission to the Social Work Program 
+## Admission to the Social Work Program
 
-The Anderson University Social Work Program is a carefully constructed baccalaureate degree curriculum accredited by the Council on Social Work Education (CSWE). 
+The Anderson University Social Work Program is a carefully constructed baccalaureate degree curriculum accredited by the Council on Social Work Education (CSWE)
 
-Students may apply for admission to the program when they have: 
+Students may apply for admission to the program when they have:
 
-- completed SOCI 2010 or 2020; SOWK 2000,2100 
+- completed SOCI 2010 or 2020; SOWK 2000,2100
 
-- earned a minimum 2.0 cumulative GPA 
+- earned a minimum 2.0 cumulative GPA
 
-- earned a minimum 2.5 GPA in the major with a grade of C- or better in all courses applicable to the major 
+- earned a minimum 2.5 GPA in the major with a grade of C- or better in all courses applicable to the major
 
-- earned a grade of C- or better in ENGL 1120 or its equivalent 
+- earned a grade of C- or better in ENGL 1120 or its equivalent
 
-The process for applying to the Social Work Program is to: 
+The process for applying to the Social Work Program is to:
 
-- submit a completed application form 
+- submit a completed application form
 
-- submit two letters of recommendation 
+- submit two letters of recommendation
 
-- complete an online social work ethics quiz 
+- complete an online social work ethics quiz
 
-- complete an interview with the Social Work Program faculty 
+- complete an interview with the Social Work Program faculty
 
-The social work faculty make the final decision on admission of a student to the Program. For more information, refer to the AU Social Work Program Student Handbook at _anderson.edu/academics/social-work_ . 
+The social work faculty make the final decision on admission of a student to the Program. For more information, refer to the AU Social Work Program Student Handbook at _anderson.edu/academics/social-work_
 
-## SOCIAL WORK MAJOR (64 hours) 
+## SOCIAL WORK MAJOR (64 hours)
 
-The social work major at Anderson University may be declared in the University Registrar’s office at any time after matriculation. However, continuation in the major is determined by admission to the Social Work Program. 
+The social work major at Anderson University may be declared in the University Registrar’s office at any time after matriculation. However, continuation in the major is determined by admission to the Social Work Program
 
-## Prerequisite courses for program admission 
+## Prerequisite courses for program admission
 
-●​ SOCI 2010 or 2020 
+●​ SOCI 2010 or 2020
 
-- SOWK 2000,2100 
+- SOWK 2000,2100
 
-## Foundation courses 
+## Foundation courses
 
-- BIOL 2040 
+- BIOL 2040
 
-- POSC 2100 
+- POSC 2100
 
-- PSYC 2000,2440 
+- PSYC 2000,2440
 
-- SOCI 2450,3100 
+- SOCI 2450,3100
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-106 
+106
 
-## Core courses 
+## Core courses
 
-●​ SOWK 2200,3100,4350,4710,4720,4730,4850 
+●​ SOWK 2200,3100,4350,4710,4720,4730,4850
 
-●​ SOCI 3700 
+●​ SOCI 3700
 
-Admission to the Social Work Program is a prerequisite for SOWK 4710,4720,4730, and 4850. To advance in the program following admission, students must earn a grade of C- or better in all courses applied to the major. 
+Admission to the Social Work Program is a prerequisite for SOWK 4710,4720,4730, and 4850. To advance in the program following admission, students must earn a grade of C- or better in all courses applied to the major
 
-Internship experiences in social service agencies are built into the coursework: SOWK 2100 (36 hours), SOWK 2200 (20 hours), and SOWK 4710 (20 hours). The practicum (SOWK 4850) consists of a full-time block field placement over the entire spring semester (442 hours). 
+Internship experiences in social service agencies are built into the coursework: SOWK 2100 (36 hours), SOWK 2200 (20 hours), and SOWK 4710 (20 hours). The practicum (SOWK 4850) consists of a full-time block field placement over the entire spring semester (442 hours)
 
-## SOCIAL WORK MINOR (17 hours) 
+## SOCIAL WORK MINOR (17 hours)
 
-The social work minor is a valuable addition to many majors including, but not limited to, criminal justice, psychology, nursing, education, Christian ministries,  and business administration. It is intended to accomplish the following: 
+The social work minor is a valuable addition to many majors including, but not limited to, criminal justice, psychology, nursing, education, Christian ministries,  and business administration. It is intended to accomplish the following:
 
-- prepare students from a range of disciplines to work collaboratively with social workers; 
+- prepare students from a range of disciplines to work collaboratively with social workers;
 
-- provide introductory knowledge and skills for work with at-risk populations; 
+- provide introductory knowledge and skills for work with at-risk populations;
 
-- equip students in advocating for the needs of individuals, families, organizations, and communities within the larger society; and 
+- equip students in advocating for the needs of individuals, families, organizations, and communities within the larger society; and
 
-- prepare students for entry into social work graduate programs after having completed a bachelor’s degree in another field. 
+- prepare students for entry into social work graduate programs after having completed a bachelor’s degree in another field
 
-A 20-hour internship is included to familiarize one with the role of social work in social service settings. The social work minor is not accredited and does not require admission to the social work program. 
+A 20-hour internship is included to familiarize one with the role of social work in social service settings. The social work minor is not accredited and does not require admission to the social work program
 
-- SOCI 2010 or 2020 
+- SOCI 2010 or 2020
 
-- SOWK 2000,2200*, 3100 
+- SOWK 2000,2200*, 3100
 
-- BIOL 2040 
+- BIOL 2040
 
-- _*SOWK 2200 typically requires SOWK 2100 be taken as a prerequisite/corequisite. This requirement is waived for the minor._ 
+- _*SOWK 2200 typically requires SOWK 2100 be taken as a prerequisite/corequisite. This requirement is waived for the minor._
 
-## SOCIOLOGY 
+## SOCIOLOGY
 
-The Sociology minor provides a solid liberal arts preparation for entry-level positions throughout the fields of social service, education, government, and business, as well as for graduate study, and complements many majors. Sociology students who enter human services fields often work with youth at risk, the elderly, or people experiencing problems related to poverty, substance abuse, the justice system, or other social problems. Those who enter careers in business may work in human resources, customer relations, sales, or marketing. 
+The Sociology minor provides a solid liberal arts preparation for entry-level positions throughout the fields of social service, education, government, and business, as well as for graduate study, and complements many majors. Sociology students who enter human services fields often work with youth at risk, the elderly, or people experiencing problems related to poverty, substance abuse, the justice system, or other social problems. Those who enter careers in business may work in human resources, customer relations, sales, or marketing
 
-## SOCIOLOGY MINOR (15 hours) 
+## SOCIOLOGY MINOR (15 hours)
 
-- SOCI 2010 - Introduction to Sociology (3) 
+- SOCI 2010 - Introduction to Sociology (3)
 
-- At least 6 hours from SOCI courses at the 3000/4000-level 
+- At least 6 hours from SOCI courses at the 3000/4000-level
 
-- Remaining hours from any SOCI-captioned course 
+- Remaining hours from any SOCI-captioned course
 
-## CRIM Courses 
+## CRIM Courses
 
 |2510|The Nature of Crime and Social Deviance|4 hours (4,0)|
 |---|---|---|
@@ -5951,9 +5951,9 @@ The Sociology minor provides a solid liberal arts preparation for entry-level po
 ||ammunition, unique tool marks, and various impressions (e.g., shoe prints, fabric properties, and||
 ||bloodstains).Offered: Semester II.||
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-107 
+107
 
 |RIM (|cont.)|||
 |---|---|---|---|
@@ -6014,9 +6014,9 @@ Anderson University Undergraduate Catalog 2025-26
 ||other courses.Consent: Department chair.Repeat: May be repeated (total credit not to exceed 8|||
 ||hours).Offered: With suffcient demand.|||
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-108 
+108
 
 |4810|Criminal Justice Internship I<br>1-4 hours (arranged)|
 |---|---|
@@ -6074,11 +6074,11 @@ Anderson University Undergraduate Catalog 2025-26
 ||Introduction to the statistical analysis of political, economic, and policy data using the R programming|
 ||language.Corequisite: Concurrent enrollment in MATH 2120.Offered: Semester II.|
 
-## POSC Courses 
+## POSC Courses
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-109 
+109
 
 |OSC (|cont.)||
 |---|---|---|
@@ -6142,11 +6142,11 @@ Anderson University Undergraduate Catalog 2025-26
 ||_Applies to the Global Ways of Knowing [AU Experience] component of theLiberal Arts Core Curriculum._||
 ||REREQUISITE: Upper-division standing.Offered: With suffcient demand.||
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-110 
+110
 
-POSC (cont.) 
+POSC (cont.)
 
 |OSC (|cont.)|
 |---|---|
@@ -6208,9 +6208,9 @@ POSC (cont.)
 ||standing.Repeat: May be repeated (total credit not to exceed 4 hours).Grade: CR/NC.Offered:|
 ||Semester I, II; Summer.|
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-111 
+111
 
 |4820 |International Internship<br>1-4|hours (arranged)|
 |---|---|---|
@@ -6233,7 +6233,7 @@ Anderson University Undergraduate Catalog 2025-26
 ||approaches, and practical experience from their major studies.Prerequisite: Senior standing.||
 ||Offered: Semester II.||
 
-## SOCI Courses 
+## SOCI Courses
 
 |2010|Introduction to Sociology|3 hours (3,0)|
 |---|---|---|
@@ -6272,9 +6272,9 @@ Anderson University Undergraduate Catalog 2025-26
 ||related factors that offer explanations for these behaviors.Prerequisite: ENGL 1120.Prerequisite or||
 ||Corequisite:SOCI 2010 or SOCI 2020.SAME AS:CRIM 2510.Offered: Semester II.||
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-112 
+112
 
 |OCI (c|ont.)||
 |---|---|---|
@@ -6336,9 +6336,9 @@ Anderson University Undergraduate Catalog 2025-26
 ||helping professions._Applies to the Personal Wellness [AU Experience] component of theLiberal Arts_||
 ||_Core Curriculum._ SAME AS:PSYC 3500.Offered: Semester I, 2025-26 (alternating years).||
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-113 
+113
 
 |SOCI (|cont.)|||
 |---|---|---|---|
@@ -6397,9 +6397,9 @@ Anderson University Undergraduate Catalog 2025-26
 ||delivery of services. Students develop human relations skills working with clients. Weekly group discussion|||
 ||(1.5 hours).Prerequisite or Corequisite:SOCI 2010 or 2020; SOWK 2000.Offered: Semester I.|||
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-114 
+114
 
 |OWK |(cont.)|||
 |---|---|---|---|
@@ -6461,71 +6461,71 @@ Anderson University Undergraduate Catalog 2025-26
 ||documenting services. Internship required (20 hours for the semester).Expectation: Admission to|||
 ||Social Work Program.Prerequisite: SOWK 2000,2100,2200.Offered: Semester II.|||
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-115 
+115
 
-4720 Social Work Practice with Families and Groups 3 hours (3,0) 
+4720 Social Work Practice with Families and Groups 3 hours (3,0)
 
-Emphasis on basic skills for generalist social work practice that include understanding and assessing family and small-group functioning, strategically planning interventions, and effectively terminating and evaluating services with these client groups. Common family issues are presented in tandem with ideas for interventions. A survey of group types is provided with techniques for effective facilitation. Prerequisite : SOWK 4710. Corequisite : SOWK 4730. Offered : Semester I. 
+Emphasis on basic skills for generalist social work practice that include understanding and assessing family and small-group functioning, strategically planning interventions, and effectively terminating and evaluating services with these client groups. Common family issues are presented in tandem with ideas for interventions. A survey of group types is provided with techniques for effective facilitation. Prerequisite : SOWK 4710. Corequisite : SOWK 4730. Offered : Semester I
 
-4730 Social Work Practice with Communities and Organizations 3 hours (3,0) 
+4730 Social Work Practice with Communities and Organizations 3 hours (3,0)
 
-Study of macro social work practice skills, interventions, and issues with communities and organizations. Emphasizes community organization as a viable practice method. The close interrelationship between community and organizations is explored, as well as concepts such as empowerment, asset-based community development, collective action, and problem solving. Prerequisite : SOWK 4710. Corequisite : SOWK 4720. Offered : Semester I. 
+Study of macro social work practice skills, interventions, and issues with communities and organizations. Emphasizes community organization as a viable practice method. The close interrelationship between community and organizations is explored, as well as concepts such as empowerment, asset-based community development, collective action, and problem solving. Prerequisite : SOWK 4710. Corequisite : SOWK 4720. Offered : Semester I
 
-4850 Social Work Practicum 12 hours (arranged) 
+4850 Social Work Practicum 12 hours (arranged)
 
-Block field placement (442 hours) in a social service agency under professional supervision. Requires full-time availability for the entire semester. _Applies to both the speaking-intensive and Experiential Ways of Knowing components of the Liberal Arts Core Curriculum._ Prerequisite : SOWK 4710,4720,4730. Offered : Semester II. 
+Block field placement (442 hours) in a social service agency under professional supervision. Requires full-time availability for the entire semester. _Applies to both the speaking-intensive and Experiential Ways of Knowing components of the Liberal Arts Core Curriculum._ Prerequisite : SOWK 4710,4720,4730. Offered : Semester II
 
-4920 Honors Study 4 hours (4,0) 
+4920 Honors Study 4 hours (4,0)
 
-Intensive study of a social work area not specifically covered by other courses. Prerequisite: Senior standing. Expectation: Minimum GPA of 3.5 or higher in SOWK courses counted toward the major. Consent: Program Director. Repeat: May be repeated (total credit not to exceed 8 hours). Offered: With sufficient demand. 
+Intensive study of a social work area not specifically covered by other courses. Prerequisite: Senior standing. Expectation: Minimum GPA of 3.5 or higher in SOWK courses counted toward the major. Consent: Program Director. Repeat: May be repeated (total credit not to exceed 8 hours). Offered: With sufficient demand
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-116 
+116
 
-## Multi-Disciplinary Programs 
+## Multi-Disciplinary Programs
 
-## HONORS PROGRAM 
+## HONORS PROGRAM
 
-_Program Directors:  Dean Miller Fox and Dr. Stull Faculty:  Dr. Blunt, Dr. T Fox, Dr. Kennedy, Dr. Murphy, Dr. Parks, Dr. Varner_ 
+_Program Directors:  Dean Miller Fox and Dr. Stull Faculty:  Dr. Blunt, Dr. T Fox, Dr. Kennedy, Dr. Murphy, Dr. Parks, Dr. Varner_
 
-The Anderson University honors program provides an intellectually enriched learning community for highly motivated students. The program is devoted to fostering within its honors scholars a passionate dedication to intellectual inquiry and spiritual development so they may serve as leaders in their professions and in their communities. Within this context, our scholars will be challenged to cultivate the life of the spirit, maturing in the Christian virtues of integrity, justice, and generosity. 
+The Anderson University honors program provides an intellectually enriched learning community for highly motivated students. The program is devoted to fostering within its honors scholars a passionate dedication to intellectual inquiry and spiritual development so they may serve as leaders in their professions and in their communities. Within this context, our scholars will be challenged to cultivate the life of the spirit, maturing in the Christian virtues of integrity, justice, and generosity
 
-Each honors course will be taken together as a cohort, and all meet Liberal Arts Core Curriculum areas required for Anderson University students. Honors courses are not designed to be more difficult or more work than other liberal arts courses. Instead, they involve discussions based on readings, and they are focused on intellectual and spiritual development. Many of these courses are team-taught and/or are interdisciplinary. 
+Each honors course will be taken together as a cohort, and all meet Liberal Arts Core Curriculum areas required for Anderson University students. Honors courses are not designed to be more difficult or more work than other liberal arts courses. Instead, they involve discussions based on readings, and they are focused on intellectual and spiritual development. Many of these courses are team-taught and/or are interdisciplinary
 
-Outside of the classroom, our honors scholars are engaged in campus activities, including service and leadership roles. Many scholars are athletes both on intercollegiate and intramural teams, as well as dancers, musicians, leaders in student government, and event participants. Students in our honors program are among the most engaged on campus, with the support to excel in all of the areas about which they are passionate. Throughout the program, honors scholars are encouraged to pursue opportunities for international study and travel and service to the church and community. Upon completion of this four-year program, honors scholars will receive special recognition at commencement and on their transcript. 
+Outside of the classroom, our honors scholars are engaged in campus activities, including service and leadership roles. Many scholars are athletes both on intercollegiate and intramural teams, as well as dancers, musicians, leaders in student government, and event participants. Students in our honors program are among the most engaged on campus, with the support to excel in all of the areas about which they are passionate. Throughout the program, honors scholars are encouraged to pursue opportunities for international study and travel and service to the church and community. Upon completion of this four-year program, honors scholars will receive special recognition at commencement and on their transcript
 
-## Scholars Courses 
+## Scholars Courses
 
-While the honors program is not a formal major or minor, students enrolled in the program must complete a series of small, discussion-based, interdisciplinary courses that satisfy liberal arts program requirements. These courses, as well as close interaction with faculty and peers, offer intellectually challenging experiences that will stimulate and refine the skills of clear expression, acute analysis, critical thinking, and imaginative problem-solving. 
+While the honors program is not a formal major or minor, students enrolled in the program must complete a series of small, discussion-based, interdisciplinary courses that satisfy liberal arts program requirements. These courses, as well as close interaction with faculty and peers, offer intellectually challenging experiences that will stimulate and refine the skills of clear expression, acute analysis, critical thinking, and imaginative problem-solving
 
-Honors scholars enroll in one honors course per semester during the freshman, sophomore, and junior years. In these first three years, scholars will participate in courses designed to enrich understanding of the humanities, science, and social science while creating a small community of learners dedicated to Christian scholarship. In the fourth year, they will pursue independent study in partnership with faculty mentors. 
+Honors scholars enroll in one honors course per semester during the freshman, sophomore, and junior years. In these first three years, scholars will participate in courses designed to enrich understanding of the humanities, science, and social science while creating a small community of learners dedicated to Christian scholarship. In the fourth year, they will pursue independent study in partnership with faculty mentors
 
-## Senior Scholars Honors Projects 
+## Senior Scholars Honors Projects
 
-The senior honors project is an intensive, original research project under the direction of an academic mentor. During the first semester of their senior year, honors scholars work on an honors project of their choice, with a presentation of the project in the second semester. The first semester of the senior year, honors scholars take the Honors Senior Seminar to help them plan their project and practice discussing it with an outside audience. 
+The senior honors project is an intensive, original research project under the direction of an academic mentor. During the first semester of their senior year, honors scholars work on an honors project of their choice, with a presentation of the project in the second semester. The first semester of the senior year, honors scholars take the Honors Senior Seminar to help them plan their project and practice discussing it with an outside audience
 
-Upon graduation, honors scholars will have completed 21 credits within the curriculum of the honors program. Twenty of these credits are applicable to the university’s liberal arts program curriculum. 
+Upon graduation, honors scholars will have completed 21 credits within the curriculum of the honors program. Twenty of these credits are applicable to the university’s liberal arts program curriculum
 
-## Eligibility 
+## Eligibility
 
-The honors program is cohort-based, and enrollment into the program is competitive and by invitation. Successful applicants have typically achieved combined SAT math and critical reading scores of at least 1200 (or equivalent ACT scores) and a GPA of at least 3.75 on a 4.0 scale. The Selection Committee generally looks for evidence of some or all of the following, among other factors: 
+The honors program is cohort-based, and enrollment into the program is competitive and by invitation. Successful applicants have typically achieved combined SAT math and critical reading scores of at least 1200 (or equivalent ACT scores) and a GPA of at least 3.75 on a 4.0 scale. The Selection Committee generally looks for evidence of some or all of the following, among other factors:
 
-- A variety of AP and honors classes taken in high school, along with excellent grades in those courses. 
+- A variety of AP and honors classes taken in high school, along with excellent grades in those courses
 
-- A résumé demonstrating an extracurricular activity or activities that the student has persevered in and been involved with for several years. 
+- A résumé demonstrating an extracurricular activity or activities that the student has persevered in and been involved with for several years
 
-- An openness to new ideas and to a life of the mind. 
+- An openness to new ideas and to a life of the mind
 
-For more information, visit _anderson.edu/academics/honors_ or email _honors@anderson.edu_ . 
+For more information, visit _anderson.edu/academics/honors_ or email _honors@anderson.edu_
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-117 
+117
 
-## HNRS Courses 
+## HNRS Courses
 
 |1000|Personal Enrichment Through Servant Leadership|0-1 hour|
 |---|---|---|
@@ -6569,13 +6569,13 @@ Anderson University Undergraduate Catalog 2025-26
 ||scholarly contribution, under the direction of an academic mentor.Repeat: May be repeated by||
 ||students whose senior thesis project spans two semesters.||
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-118 
+118
 
-## LIBERAL ARTS & INTERCULTURAL STUDIES 
+## LIBERAL ARTS & INTERCULTURAL STUDIES
 
-_Faculty: Prof. Coplin, Prof Grubbs, Prof. Willis_ 
+_Faculty: Prof. Coplin, Prof Grubbs, Prof. Willis_
 
 |LART Courses|LART Courses||
 |---|---|---|
@@ -6630,405 +6630,405 @@ _Faculty: Prof. Coplin, Prof Grubbs, Prof. Willis_
 ||to positively affect decision-making abilities as well as the personal, collegiate, and professional||
 ||relationships that defne success.Offered: Semester I; Summer.||
 
-## INCS Course 
+## INCS Course
 
 |3850 |Domestic/Global Experience|0 hours (arranged)|
 |---|---|---|
 ||Participation in an intercultural service/learning experience. Offered in conjunction with a TRI-S||
 ||program.Consent: Instructor.Offered: Semester I, II; Summer.||
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-119 
+119
 
-## PROFESSIONAL DEVELOPMENT & GENERAL STUDIES 
+## PROFESSIONAL DEVELOPMENT & GENERAL STUDIES
 
-_Program Coordinator/Advisor:  Prof. Peter Elliott_ 
+_Program Coordinator/Advisor:  Prof. Peter Elliott_
 
-Anderson University offers both a professional development major leading to a Bachelor of Arts degree and a general studies Associate of Science degree. Students interested in pursuing a professional development or general studies major must have a plan of study approved by the program director before admission to the major is granted. Students majoring in professional development must complete all liberal arts core requirements. Additionally, students in both majors  must complete a concentration of courses in one subject area. The subject area may be broadly defined as courses in common disciplines (i.e. science, modern language, business, etc.). 
+Anderson University offers both a professional development major leading to a Bachelor of Arts degree and a general studies Associate of Science degree. Students interested in pursuing a professional development or general studies major must have a plan of study approved by the program director before admission to the major is granted. Students majoring in professional development must complete all liberal arts core requirements. Additionally, students in both majors  must complete a concentration of courses in one subject area. The subject area may be broadly defined as courses in common disciplines (i.e. science, modern language, business, etc.)
 
-## PROFESSIONAL DEVELOPMENT MAJOR 
+## PROFESSIONAL DEVELOPMENT MAJOR
 
-- 30 hours (2.0 GPA) in concentration area 
+- 30 hours (2.0 GPA) in concentration area
 
-- LART 4500 
+- LART 4500
 
-Additional requirements for Bachelor of Arts degree: 
+Additional requirements for Bachelor of Arts degree:
 
-- at least 30 hours from upper-division courses 
+- at least 30 hours from upper-division courses
 
-- complete all liberal arts core requirements 
+- complete all liberal arts core requirements
 
-- complete 120 hours (2.0 GPA) 
+- complete 120 hours (2.0 GPA)
 
-## ASSOCIATE OF SCIENCE GENERAL STUDIES 
+## ASSOCIATE OF SCIENCE GENERAL STUDIES
 
-This two-year Associate of Science degree provides foundational courses for the university’s bachelor’s degrees. 
+This two-year Associate of Science degree provides foundational courses for the university’s bachelor’s degrees
 
-- 15-18 hours in a concentration area in any discipline approved by the program director. Online students may select concentrations in Business, Business Administration & Leadership, History, Ministry Studies, or Sociology. 
+- 15-18 hours in a concentration area in any discipline approved by the program director. Online students may select concentrations in Business, Business Administration & Leadership, History, Ministry Studies, or Sociology
 
-- At least 30 hours of _Liberal Arts Core Curriculum_ requirements from the following categories: 
+- At least 30 hours of _Liberal Arts Core Curriculum_ requirements from the following categories:
 
-   - ENGL 1110 
+   - ENGL 1110
 
-   - o ENGL 1120 
+   - o ENGL 1120
 
-   - COMM 1000 
+   - COMM 1000
 
-   - Quantitative Reasoning 
+   - Quantitative Reasoning
 
-   - BIBL 2000 
+   - BIBL 2000
 
-   - Personal Wellness 
+   - Personal Wellness
 
-   - Scientific Ways of Knowing 
+   - Scientific Ways of Knowing
 
-   - Humanistic and Artistic Ways of Knowing 
+   - Humanistic and Artistic Ways of Knowing
 
-   - Social and Behavioral Ways of Knowing 
+   - Social and Behavioral Ways of Knowing
 
-- Completion of 60 hours as well as other graduation requirements listed in this catalog. 
+- Completion of 60 hours as well as other graduation requirements listed in this catalog
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-120 
+120
 
-## STATISTICS 
+## STATISTICS
 
-_Program Coordinator:  Dr. Van Groningen_ 
+_Program Coordinator:  Dr. Van Groningen_
 
-_Faculty:  Dr. Frank, Dr. Griffith, Dr. Stull, Dr. Van Groningen_ 
+_Faculty:  Dr. Frank, Dr. Griffith, Dr. Stull, Dr. Van Groningen_
 
-Provides a coherent plan of study in statistics supporting students’ major fields of study. 
+Provides a coherent plan of study in statistics supporting students’ major fields of study
 
-## STATISTICS MINOR  (16 hours) 
+## STATISTICS MINOR  (16 hours)
 
-- MATH 2120 or PSYC 2440 
+- MATH 2120 or PSYC 2440
 
-- MATH 4010 
+- MATH 4010
 
-- Other courses selected from PSYC 3240, PSYC 4650, POSC 2420, POSC 3140, or MATH courses approved by the program director. 
+- Other courses selected from PSYC 3240, PSYC 4650, POSC 2420, POSC 3140, or MATH courses approved by the program director
 
-## WOMEN’S STUDIES 
+## WOMEN’S STUDIES
 
-_Program Coordinator:  Dr. Rogers_ 
+_Program Coordinator:  Dr. Rogers_
 
-_Faculty: Prof. Elliott, Dean Miller Fox, Prof. Pay, Prof. Poythress, Dean Willowby_ 
+_Faculty: Prof. Elliott, Dean Miller Fox, Prof. Pay, Prof. Poythress, Dean Willowby_
 
-An interdisciplinary minor focusing on the historical, cultural, sociological, political, and economic roles of women both nationally and globally. Emphasis is also placed on women’s issues as they affect the individual and the family. The women’s studies minor is hosted by the Department of History and Political Science. Students who declare this minor must meet with the coordinator for advising. 
+An interdisciplinary minor focusing on the historical, cultural, sociological, political, and economic roles of women both nationally and globally. Emphasis is also placed on women’s issues as they affect the individual and the family. The women’s studies minor is hosted by the Department of History and Political Science. Students who declare this minor must meet with the coordinator for advising
 
-## WOMEN’S STUDIES MINOR (15 hours) 
+## WOMEN’S STUDIES MINOR (15 hours)
 
-## Required Core Courses (6 hours) 
+## Required Core Courses (6 hours)
 
-- HIST 3260 
+- HIST 3260
 
-- HIST 4650* 
+- HIST 4650*
 
-_*With prior approval of program coordinator, may substitute one of the following courses:_ 
+_*With prior approval of program coordinator, may substitute one of the following courses:_
 
-o POSC 4650 o ENGL 4650 o SOCI 4650 
+o POSC 4650 o ENGL 4650 o SOCI 4650
 
-Remaining (9 hours) from: 
+Remaining (9 hours) from:
 
-- HIST 3455,4030 
+- HIST 3455,4030
 
-- SOCI 2020,2100,3100 
+- SOCI 2020,2100,3100
 
-- ENGL 3580 
+- ENGL 3580
 
-- POSC 3320 
+- POSC 3320
 
-- RLGN 3120 
+- RLGN 3120
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-121 
+121
 
-## College of Professional Studies 
+## College of Professional Studies
 
-_Dr. Dama O’Keefe, Dean_ 
+_Dr. Dama O’Keefe, Dean_
 
-## FALLS SCHOOL OF BUSINESS 
+## FALLS SCHOOL OF BUSINESS
 
-_Prof. Allison Eddelman, chair Faculty: Dr. Bates, Prof. Dougherty-Denny, Dr. Dulaney, Prof. Eddleman, Dr. Lee, Prof. Newton, Prof. Rasco, Dr. Shin, Dr. Tijerina_ 
+_Prof. Allison Eddelman, chair Faculty: Dr. Bates, Prof. Dougherty-Denny, Dr. Dulaney, Prof. Eddleman, Dr. Lee, Prof. Newton, Prof. Rasco, Dr. Shin, Dr. Tijerina_
 
-The mission of the Falls School of Business is to provide relevant experiential business education that enables students to discover and develop their confidence, competence, and character. This mission is realized through a commitment to teaching excellence and genuine concern for each individual student and is supported by a faculty commitment to continuous improvement, professional development and service to the community. 
+The mission of the Falls School of Business is to provide relevant experiential business education that enables students to discover and develop their confidence, competence, and character. This mission is realized through a commitment to teaching excellence and genuine concern for each individual student and is supported by a faculty commitment to continuous improvement, professional development and service to the community
 
-The Falls School of Business offers Bachelor of Arts, Master of Business Administration, Master of Organizational Leadership, and Doctor of Business Administration programs.  All three levels, undergraduate, masters, and doctorate, are accredited by the Accreditation Council for Collegiate Business Schools and Programs ( _ACBSP_ ), with the exception of our newest programs, Business Analytics, Engineering Management, Sports Management, Business and Integrated Leadership, and Master of Organizational Leadership which have not yet been accredited. 
+The Falls School of Business offers Bachelor of Arts, Master of Business Administration, Master of Organizational Leadership, and Doctor of Business Administration programs.  All three levels, undergraduate, masters, and doctorate, are accredited by the Accreditation Council for Collegiate Business Schools and Programs ( _ACBSP_ ), with the exception of our newest programs, Business Analytics, Engineering Management, Sports Management, Business and Integrated Leadership, and Master of Organizational Leadership which have not yet been accredited
 
-The Falls School of Business offers stand-alone majors and concentrations in: 
+The Falls School of Business offers stand-alone majors and concentrations in:
 
-- Accounting with Certified Public Accountant ( _CPA_ ) preparation, and an optional concentration in Certified Management Accountant ( _CMA_ ) preparation 
+- Accounting with Certified Public Accountant ( _CPA_ ) preparation, and an optional concentration in Certified Management Accountant ( _CMA_ ) preparation
 
-- Business Analytics 
+- Business Analytics
 
-- Engineering Management 
+- Engineering Management
 
-- Finance 
+- Finance
 
-- Management 
+- Management
 
-- Marketing 
+- Marketing
 
-- Sports Management 
+- Sports Management
 
-A complementary major in Business Administration is offered to students with a primary major outside the Falls School of Business.  A complementary major in Financial Planning is offered to students interested in pursuing a Certified Financial Planner (CFP) designation. 
+A complementary major in Business Administration is offered to students with a primary major outside the Falls School of Business.  A complementary major in Financial Planning is offered to students interested in pursuing a Certified Financial Planner (CFP) designation
 
-A wide selection of minors is available to all students, whether their major is inside or outside of the Falls School of Business 
+A wide selection of minors is available to all students, whether their major is inside or outside of the Falls School of Business
 
 |●|Accounting|●|Finance|
 |---|---|---|---|
 |●|Economics|●|Global Business|
 |●|Entrepreneurship|●|Management|
 
-- Marketing ●​ Social Media ●​ Sports Management 
+- Marketing ●​ Social Media ●​ Sports Management
 
-## BUSINESS CORE  (48 hrs) 
+## BUSINESS CORE  (48 hrs)
 
-The following core classes are required of all undergraduate business majors: 
+The following core classes are required of all undergraduate business majors:
 
-   - BSNS 2810 Principles of Marketing (3) ●​ BSNS 3120 Global Business  (3) 
+   - BSNS 2810 Principles of Marketing (3) ●​ BSNS 3120 Global Business  (3)
 
-- ACCT 2010 Principles of Accounting I (3) 
+- ACCT 2010 Principles of Accounting I (3)
 
-- ACCT 2020 Principles of Accounting II (3) 
+- ACCT 2020 Principles of Accounting II (3)
 
-   - BSNS 3420 Business Law (3) 
+   - BSNS 3420 Business Law (3)
 
-- BSNS 1050 Business as a Profession (3) 
+- BSNS 1050 Business as a Profession (3)
 
-   - BSNS 4500 Strategic Management (3) ●​ BSNS 4800 Business Internship (3) _*_ 
+   - BSNS 4500 Strategic Management (3) ●​ BSNS 4800 Business Internship (3) _*_
 
-- BSNS 2310 Spreadsheet Analytics (3) 
+- BSNS 2310 Spreadsheet Analytics (3)
 
-- BSNS 2450 Principles of Business Analytics (3) 
+- BSNS 2450 Principles of Business Analytics (3)
 
-   - BSNS 4910 Senior Seminar in Business & Ethics (3) ●​ ECON 2010 Principles of Macroeconomics (3) ●​ ECON 2020 Principles of Microeconomics (3) 
+   - BSNS 4910 Senior Seminar in Business & Ethics (3) ●​ ECON 2010 Principles of Macroeconomics (3) ●​ ECON 2020 Principles of Microeconomics (3)
 
-- BSNS 2510 Principles of Finance (3) 
+- BSNS 2510 Principles of Finance (3)
 
-- BSNS 2550 Business Communications (SI) (3) 
+- BSNS 2550 Business Communications (SI) (3)
 
-- BSNS 2710 Principles of Management (3) 
+- BSNS 2710 Principles of Management (3)
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-122 
+122
 
-## ACCOUNTING 
+## ACCOUNTING
 
-The accounting major is designed to provide a knowledge base in both financial and managerial accounting. Accounting courses expose the student to a broad perspective of accounting needed for management responsibility within a company, in the field of public accounting, and for studies in a graduate program. 
+The accounting major is designed to provide a knowledge base in both financial and managerial accounting. Accounting courses expose the student to a broad perspective of accounting needed for management responsibility within a company, in the field of public accounting, and for studies in a graduate program
 
-The major provides coursework that helps prepare students for the Certified Public Accountant (CPA) exam. Students wanting to take the Certified Management Accountant (CMA) exam can take the optional CMA concentration. 
+The major provides coursework that helps prepare students for the Certified Public Accountant (CPA) exam. Students wanting to take the Certified Management Accountant (CMA) exam can take the optional CMA concentration
 
-## ACCOUNTING MAJOR (73 hours ) 
+## ACCOUNTING MAJOR (73 hours )
 
-## Accounting with CPA preparation 
+## Accounting with CPA preparation
 
-- 48-hour business core 
+- 48-hour business core
 
-- 25-hour accounting core: ACCT 3010,3020,3110,3500,4020,4050,4100,4310,4900 
+- 25-hour accounting core: ACCT 3010,3020,3110,3500,4020,4050,4100,4310,4900
 
-- ACCT 4850 is strongly recommended for students preparing for the CPA exam. 
+- ACCT 4850 is strongly recommended for students preparing for the CPA exam
 
-Optional CMA preparation Concentration: 
+Optional CMA preparation Concentration:
 
-- BSNS 3240,3350,4150 
+- BSNS 3240,3350,4150
 
-- Recommended: ACCT 4860 
+- Recommended: ACCT 4860
 
-## ACCOUNTING MINOR (15 hours ) 
+## ACCOUNTING MINOR (15 hours )
 
-- 15 hours from ACCT courses 
+- 15 hours from ACCT courses
 
-## BUSINESS ADMINISTRATION 
+## BUSINESS ADMINISTRATION
 
-Courses in business administration are designed to provide general understanding of the operation of organizations, preparation for careers in administration in business and various other kinds of societal organizations, and preparation for graduate study. 
+Courses in business administration are designed to provide general understanding of the operation of organizations, preparation for careers in administration in business and various other kinds of societal organizations, and preparation for graduate study
 
-## MAJORS 
+## MAJORS
 
-## BUSINESS ANALYTICS MAJOR (67-68 hours ) 
+## BUSINESS ANALYTICS MAJOR (67-68 hours )
 
-●​ 48-hour business core 
+●​ 48-hour business core
 
-●​ CPSC 2020,2040,2100 
+●​ CPSC 2020,2040,2100
 
-●​ 3 hours from CPSC 2080,2330,4100 
+●​ 3 hours from CPSC 2080,2330,4100
 
-●​ BSNS 3390,4390 
+●​ BSNS 3390,4390
 
-## ENGINEERING MANAGEMENT MAJOR (66 hours ) 
+## ENGINEERING MANAGEMENT MAJOR (66 hours )
 
-●​ 48-hour business core 
+●​ 48-hour business core
 
-●​ ENGR 2001,2002,2003,2090,2310 
+●​ ENGR 2001,2002,2003,2090,2310
 
-- BSNS 3270,3240,4480 
+- BSNS 3270,3240,4480
 
-## FINANCE MAJOR (66 hours ) 
+## FINANCE MAJOR (66 hours )
 
-●​ 48-hour business core 
+●​ 48-hour business core
 
-●​ BSNS 3150,3350,4150,4160 
+●​ BSNS 3150,3350,4150,4160
 
-●​ ECON 3410 
+●​ ECON 3410
 
-●​ 3 hours from BSNS 4160 or ACCT 4020 
+●​ 3 hours from BSNS 4160 or ACCT 4020
 
-## MANAGEMENT MAJOR (68 hours ) 
+## MANAGEMENT MAJOR (68 hours )
 
-●​ 48-hour business core 
+●​ 48-hour business core
 
-●​ BSNS 3230,3240,3270,4010,4310,4480 
+●​ BSNS 3230,3240,3270,4010,4310,4480
 
-## MARKETING MAJOR (66 hours ) 
+## MARKETING MAJOR (66 hours )
 
-●​ 48-hour business core 
+●​ 48-hour business core
 
-●​ BSNS 3210,3220,3400,3550,4110,4330 
+●​ BSNS 3210,3220,3400,3550,4110,4330
 
-## SPORTS MANAGEMENT MAJOR (66 hrs .) 
+## SPORTS MANAGEMENT MAJOR (66 hrs .)
 
-●​ 48-hour business core ●​ BSNS 3130,4360,4560 ●​ COMM 2130,2140 
+●​ 48-hour business core ●​ BSNS 3130,4360,4560 ●​ COMM 2130,2140
 
-- SPRL 3300 
+- SPRL 3300
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-123 
+123
 
-## COMPLEMENTARY MAJORS 
+## COMPLEMENTARY MAJORS
 
-## BUSINESS ADMINISTRATION COMPLEMENTARY MAJOR (48 hours ) 
+## BUSINESS ADMINISTRATION COMPLEMENTARY MAJOR (48 hours )
 
-- 48-hour business core 
+- 48-hour business core
 
-●​ Available as a complementary major only; the student’s primary major must be outside the Falls School of Business. 
+●​ Available as a complementary major only; the student’s primary major must be outside the Falls School of Business
 
-## FINANCIAL PLANNING COMPLEMENTARY MAJOR  (27 hours ) 
+## FINANCIAL PLANNING COMPLEMENTARY MAJOR  (27 hours )
 
-- Preparation Coursework 
+- Preparation Coursework
 
-○​ ACCT 2010,2020 ○​ BSNS 2510 
+○​ ACCT 2010,2020 ○​ BSNS 2510
 
-●​ Financial Planning Coursework ○​ BSNS 3150,4150,4260,4350,4510 ○​ ACCT 4020 
+●​ Financial Planning Coursework ○​ BSNS 3150,4150,4260,4350,4510 ○​ ACCT 4020
 
-## MINORS 
+## MINORS
 
-## ECONOMICS MINOR 
+## ECONOMICS MINOR
 
-For majors within or outside of the Falls School of Business (18 hours) 
+For majors within or outside of the Falls School of Business (18 hours)
 
-●​ ECON 2010,2020,3020,3410 
+●​ ECON 2010,2020,3020,3410
 
-●​ 6 hours selected from the following: ˃ ECON 3110,3210,3850*, 4020 ˃ BSNS 4240 ˃ POSC 2200 
+●​ 6 hours selected from the following: ˃ ECON 3110,3210,3850*, 4020 ˃ BSNS 4240 ˃ POSC 2200
 
-## ENTREPRENEURSHIP MINOR 
+## ENTREPRENEURSHIP MINOR
 
-For majors within the Falls School of Business (18 hours) 
+For majors within the Falls School of Business (18 hours)
 
-●​ BSNS 3210,3270,4310 ●​ 9 hours from the following: ˃ ACCT 3110,4020 ˃ BSNS 3150,3220,3350,3400,4110,4240,4360 ˃ COMM 2200,2240,3250 ˃ PSYC 2000 ˃ SOCI 2010 
+●​ BSNS 3210,3270,4310 ●​ 9 hours from the following: ˃ ACCT 3110,4020 ˃ BSNS 3150,3220,3350,3400,4110,4240,4360 ˃ COMM 2200,2240,3250 ˃ PSYC 2000 ˃ SOCI 2010
 
-For majors outside of the Falls School of Business (15 hours) 
+For majors outside of the Falls School of Business (15 hours)
 
-●​ 12 hours from the following: ˃ ACCT 2010 ˃ BSNS 2710,2810,4310 
+●​ 12 hours from the following: ˃ ACCT 2010 ˃ BSNS 2710,2810,4310
 
-●​ 3 hours from BSNS 3210,3220,3240,3400,3420,4110 
+●​ 3 hours from BSNS 3210,3220,3240,3400,3420,4110
 
-## FINANCE MINOR 
+## FINANCE MINOR
 
-For majors within or outside of the Falls School of Business (18 hours) 
+For majors within or outside of the Falls School of Business (18 hours)
 
-●​ ACCT 2010 ●​ BSNS 2510,3350,4150 ●​ ECON 3410 ●​ 3 hours from BSNS 3150,4160,4260,4350 
+●​ ACCT 2010 ●​ BSNS 2510,3350,4150 ●​ ECON 3410 ●​ 3 hours from BSNS 3150,4160,4260,4350
 
-## GLOBAL BUSINESS MINOR 
+## GLOBAL BUSINESS MINOR
 
-For majors within the Falls School of Business, select an option (15 hours) 
+For majors within the Falls School of Business, select an option (15 hours)
 
-●​ Option 1: o 12-hour International Business Institute Program o 3 hours from either BSNS 3120 or 4120 
+●​ Option 1: o 12-hour International Business Institute Program o 3 hours from either BSNS 3120 or 4120
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-124 
+124
 
-●​ Option 2: o BSNS 3120 o 12 hours from the following: ˃ COMM 3050 ˃ INSC 3850 ˃ HIST 3240,3360,3370 ˃ POSC 3450,3510 ˃ HIST/RLGN 3320 ˃ FREN/GERM/SPAN 1020 or higher 
+●​ Option 2: o BSNS 3120 o 12 hours from the following: ˃ COMM 3050 ˃ INSC 3850 ˃ HIST 3240,3360,3370 ˃ POSC 3450,3510 ˃ HIST/RLGN 3320 ˃ FREN/GERM/SPAN 1020 or higher
 
-For majors outside of the Falls School of Business (18 hours) 
+For majors outside of the Falls School of Business (18 hours)
 
-●​ BSNS 2710,2810,3120 
+●​ BSNS 2710,2810,3120
 
-●​ ECON 2010 
+●​ ECON 2010
 
-●​ 6 hours from the following: ˃ COMM 3050 ˃ INSC 3850 ˃ HIST 3240,3360,3370 ˃ POSC 3450,3510 ˃ HIST/RLGN 3320 ˃ FREN/GERM/SPAN 1020 or higher 
+●​ 6 hours from the following: ˃ COMM 3050 ˃ INSC 3850 ˃ HIST 3240,3360,3370 ˃ POSC 3450,3510 ˃ HIST/RLGN 3320 ˃ FREN/GERM/SPAN 1020 or higher
 
-## MANAGEMENT MINOR 
+## MANAGEMENT MINOR
 
-For majors within the Falls School of Business (15 hours) 
+For majors within the Falls School of Business (15 hours)
 
-●​ BSNS 3230,3240,3270,4010,4310,4480 
+●​ BSNS 3230,3240,3270,4010,4310,4480
 
-For majors outside of the Falls School of Business (18 hours) 
+For majors outside of the Falls School of Business (18 hours)
 
-●​ BSNS 2710 
+●​ BSNS 2710
 
-●​ 15 hours from BSNS 3230,3240,3270,4010,4310,4480 
+●​ 15 hours from BSNS 3230,3240,3270,4010,4310,4480
 
-## MARKETING MINOR 
+## MARKETING MINOR
 
-For majors within the Falls School of Business (15 hours) 
+For majors within the Falls School of Business (15 hours)
 
-●​ BSNS 3210,3220,3400,3550,4110,4330 
+●​ BSNS 3210,3220,3400,3550,4110,4330
 
-For majors outside of the Falls School of Business (18 hours) 
+For majors outside of the Falls School of Business (18 hours)
 
-●​ BSNS 2810 
+●​ BSNS 2810
 
-●​ 15 hours from BSNS 3210,3220,3400,3550,4110,4330 
+●​ 15 hours from BSNS 3210,3220,3400,3550,4110,4330
 
-## SOCIAL MEDIA MINOR 
+## SOCIAL MEDIA MINOR
 
-For majors within the Falls School of Business (15 hours) 
+For majors within the Falls School of Business (15 hours)
 
-●​ BSNS 3400,3550,4330 
+●​ BSNS 3400,3550,4330
 
-- 6 hours from COMM 2130,2200,3370 
+- 6 hours from COMM 2130,2200,3370
 
-For majors outside the Falls School of Business (18 hours) 
+For majors outside the Falls School of Business (18 hours)
 
-●​ BSNS 2810,3400,3550,4330 
+●​ BSNS 2810,3400,3550,4330
 
-- 6 hours from COMM 2130,2200,3370 
+- 6 hours from COMM 2130,2200,3370
 
-## SPORTS MANAGEMENT MINOR 
+## SPORTS MANAGEMENT MINOR
 
-For majors within the Falls School of Business (15 hours): 
+For majors within the Falls School of Business (15 hours):
 
-●​ BSNS 3130,4360,4560 
+●​ BSNS 3130,4360,4560
 
-●​ 6 hours selected from the following: 
+●​ 6 hours selected from the following:
 
-˃ COMM 2130,2140 
+˃ COMM 2130,2140
 
-˃ SPRL 3300 
+˃ SPRL 3300
 
-> _ When taken to fulfill a requirement for a major, BSNS 4240 must have the prior approval of the student’s advisor. When taken to fulfill a minor requirement, the course must have the approval of the Department Chair of the Falls School of Business._ 
+> _ When taken to fulfill a requirement for a major, BSNS 4240 must have the prior approval of the student’s advisor. When taken to fulfill a minor requirement, the course must have the approval of the Department Chair of the Falls School of Business._
 
-> _* Practicum or internship must focus on experience related to the student’s major or minor._ 
+> _* Practicum or internship must focus on experience related to the student’s major or minor._
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-125 
+125
 
-## BUSINESS & INTEGRATIVE LEADERSHIP 
+## BUSINESS & INTEGRATIVE LEADERSHIP
 
-Business & Integrative Leadership is an accelerated online bachelor of arts degree program for adults. This major prepares adults with no or limited college credit for a professional career in business and organizational leadership. Students will develop key business skills as well as discover, understand, and learn to manage others as well as their own personal brand. 
+Business & Integrative Leadership is an accelerated online bachelor of arts degree program for adults. This major prepares adults with no or limited college credit for a professional career in business and organizational leadership. Students will develop key business skills as well as discover, understand, and learn to manage others as well as their own personal brand
 
-## BACHELOR OF ARTS 
+## BACHELOR OF ARTS
 
-## BUSINESS & INTEGRATIVE LEADERSHIP MAJOR 
+## BUSINESS & INTEGRATIVE LEADERSHIP MAJOR
 
-- Content area course requirements (39 hours) 
+- Content area course requirements (39 hours)
 
 |○|LEAD|2300|Social Problems and Their Impact on the Workplace (3)|
 |---|---|---|---|
@@ -7045,35 +7045,35 @@ Business & Integrative Leadership is an accelerated online bachelor of arts degr
 |○|LEAD|4550|Diversity and Intercultural Humility (3)|
 |○|LEAD|4990|Action Research Project (3)|
 
-●​ Additional Liberal Arts requirements (43 hours) 
+●​ Additional Liberal Arts requirements (43 hours)
 
-- Additional Electives (38 hours) – may be applied toward a minor, a complementary major or a second major. 
+- Additional Electives (38 hours) – may be applied toward a minor, a complementary major or a second major
 
-## CERTIFICATE PROGRAM 
+## CERTIFICATE PROGRAM
 
-Certificates are offered to adult learners in a non-degree seeking format, and consist of for-credit coursework which may be applied towards a degree. Each certificate is earned upon the successful completion of four selected Business & Integrative Leadership (LEAD) courses totaling 12 credit hours. The four seven-week courses may be completed at a pace which best fits the adult learner’s schedule. 
+Certificates are offered to adult learners in a non-degree seeking format, and consist of for-credit coursework which may be applied towards a degree. Each certificate is earned upon the successful completion of four selected Business & Integrative Leadership (LEAD) courses totaling 12 credit hours. The four seven-week courses may be completed at a pace which best fits the adult learner’s schedule
 
-## ●​ 12 hours selected from the following courses 
+## ●​ 12 hours selected from the following courses
 
-○​ LEAD 3000 Professional Development & Applied Ethics (3) ○​ LEAD 3100 Introduction to Information Systems & Analysis of Data (3) ○​ LEAD 3200 Issues in Management (3) ○​ LEAD 3260 Conflict Resolution (3) ○​ LEAD 3300 Managerial Accounting (3) 
+○​ LEAD 3000 Professional Development & Applied Ethics (3) ○​ LEAD 3100 Introduction to Information Systems & Analysis of Data (3) ○​ LEAD 3200 Issues in Management (3) ○​ LEAD 3260 Conflict Resolution (3) ○​ LEAD 3300 Managerial Accounting (3)
 
-○​ LEAD 3350 Managerial Finance (3) ○​ LEAD 3400 Managerial Economics (3) ○​ LEAD 3500 Managerial Marketing (3) ○​ LEAD 3550 Legal Environments of Business (3) ○​ LEAD 4300 Strategic Planning (3) ○​ LEAD 4550 Diversity & Intercultural Humility (3) 
+○​ LEAD 3350 Managerial Finance (3) ○​ LEAD 3400 Managerial Economics (3) ○​ LEAD 3500 Managerial Marketing (3) ○​ LEAD 3550 Legal Environments of Business (3) ○​ LEAD 4300 Strategic Planning (3) ○​ LEAD 4550 Diversity & Intercultural Humility (3)
 
-## INTERNATIONAL BUSINESS INSTITUTE (IBI) 
+## INTERNATIONAL BUSINESS INSTITUTE (IBI)
 
-The International Business Institute (IBI) Program is a 10-week, 12-credit-hour academic summer program that allows business students to incorporate a distinctive international experience into their field of study. The IBI program facilitates personal interaction with business leaders from top multinational corporations. Visits with industry leaders and top policymakers have included Daimler Benz, Nestlé, the Bank of England, and the British Parliament. Travel has included visits to England, Russia, Western and Eastern Europe, and Scandinavia. 
+The International Business Institute (IBI) Program is a 10-week, 12-credit-hour academic summer program that allows business students to incorporate a distinctive international experience into their field of study. The IBI program facilitates personal interaction with business leaders from top multinational corporations. Visits with industry leaders and top policymakers have included Daimler Benz, Nestlé, the Bank of England, and the British Parliament. Travel has included visits to England, Russia, Western and Eastern Europe, and Scandinavia
 
-The IBI Program may be taken to satisfy some requirements for the global business major, the global business minor, the global business concentration within the management major, or the global marketing concentration within the marketing major. The IBI Program courses are ECON 3250 and BSNS 4170,4250,4450. 
+The IBI Program may be taken to satisfy some requirements for the global business major, the global business minor, the global business concentration within the management major, or the global marketing concentration within the marketing major. The IBI Program courses are ECON 3250 and BSNS 4170,4250,4450
 
-Acceptance into the program is on a competitive basis. Students should apply early in the fall semester of their junior year. The program is normally completed the summer between the student’s junior and senior years. 
+Acceptance into the program is on a competitive basis. Students should apply early in the fall semester of their junior year. The program is normally completed the summer between the student’s junior and senior years
 
-For more information, visit _ibi-program.org_ or contact the Falls School of Business. 
+For more information, visit _ibi-program.org_ or contact the Falls School of Business
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-126 
+126
 
-## ACCT Courses 
+## ACCT Courses
 
 |2010|Principles of Accounting I||3 hours (3,0)|
 |---|---|---|---|
@@ -7132,11 +7132,11 @@ Anderson University Undergraduate Catalog 2025-26
 ||A study of ethics for the accounting profession, with attention both to law and personal choice.|||
 ||Prerequisite:Junior standing.Offered:Semester I.|||
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-127 
+127
 
-## BSNS Courses 
+## BSNS Courses
 
 |SNS |Courses||
 |---|---|---|
@@ -7200,9 +7200,9 @@ Anderson University Undergraduate Catalog 2025-26
 ||This course provides students the opportunity to study and experience the application of business||
 ||principles and processes in the sports industry.Offered:Semester I.||
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-128 
+128
 
 |SNS (|cont.)||
 |---|---|---|
@@ -7262,9 +7262,9 @@ Anderson University Undergraduate Catalog 2025-26
 ||techniques with a focus on data visualization to identify historical trends and relationships in||
 ||business.Prerequisite:BSNS 2450.||
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-129 
+129
 
 |SNS (|cont.)|
 |---|---|
@@ -7327,9 +7327,9 @@ Anderson University Undergraduate Catalog 2025-26
 ||international trade, and regional economic integration. Special attention is also given to the issues of|
 ||globalization and the problems of economic development.Consent:Instructor.Offered:At _IBI_.|
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-130 
+130
 
 |SNS (|cont.)||
 |---|---|---|
@@ -7390,9 +7390,9 @@ Anderson University Undergraduate Catalog 2025-26
 ||organizational behavior in the global frm. Ethical values and issues in global management will also be||
 ||discussed.Consent:Instructor.Offered:At _IBI_.||
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-131 
+131
 
 |SNS (|cont.)|
 |---|---|
@@ -7446,11 +7446,11 @@ Anderson University Undergraduate Catalog 2025-26
 ||course provides the opportunity for personal refection and assessment to develop greater|
 ||self-awareness.Prerequisite:Senior standing.Offered:Semester I, II.|
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-132 
+132
 
-## ECON Courses 
+## ECON Courses
 
 |CON |Courses|
 |---|---|
@@ -7503,11 +7503,11 @@ Anderson University Undergraduate Catalog 2025-26
 ||depending on topic.Repeat:May be repeated as long as the topic is different.Offered:With|
 ||suffcient demand.|
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-133 
+133
 
-## LEAD Courses 
+## LEAD Courses
 
 |1000|Personal and Professional Discovery||1 hour (1,0)|
 |---|---|---|---|
@@ -7570,9 +7570,9 @@ Anderson University Undergraduate Catalog 2025-26
 ||form a personal plan of action for leading a nonproft that addresses key organizational and strategic|||
 ||challenges.|||
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-134 
+134
 
 |EAD (|cont.)||
 |---|---|---|
@@ -7634,9 +7634,9 @@ Anderson University Undergraduate Catalog 2025-26
 ||emphasis on decision-making and confict resolution. Students develop strategies for effcient and||
 ||productive group management and determine which tasks are best handled within a group setting.||
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-135 
+135
 
 |EAD (|cont.)vvvvvvvvvvvvvvvv||
 |---|---|---|
@@ -7686,121 +7686,121 @@ Anderson University Undergraduate Catalog 2025-26
 ||measuring results. Each student gives an oral report of project fndings.Consent:Departmental||
 ||permission required.||
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-136 
+136
 
-## SCHOOL OF NURSING 
+## SCHOOL OF NURSING
 
-_Chair: Prof. Kari Bryan Faculty:  Dr. Boys, Prof. Bryan, Prof. Laker, Prof. Lopez, Prof. Lutterman, Prof. Sims, Prof. Willard_ 
+_Chair: Prof. Kari Bryan Faculty:  Dr. Boys, Prof. Bryan, Prof. Laker, Prof. Lopez, Prof. Lutterman, Prof. Sims, Prof. Willard_
 
-## PROFESSIONAL NURSING 
+## PROFESSIONAL NURSING
 
-Anderson University offers a four-year Bachelor of Science in Nursing (BSN) that emphasizes analytical skills, a liberal arts perspective, and expertise as a baccalaureate generalist. The BSN focuses on developing the student for beginning practice as a member of the profession who is a provider, educator, scholar, designer, manager, and coordinator of care. Students are taught to design innovative nursing care for individuals, families, communities, and populations with complex health states in a variety of health-care settings across the lifespan. The Anderson University School of Nursing (AUSON) Conceptual Framework borrows elements from the Ecological Model of Health as a way to comprehend the complex interplay between individuals, relationships, and environments. 
+Anderson University offers a four-year Bachelor of Science in Nursing (BSN) that emphasizes analytical skills, a liberal arts perspective, and expertise as a baccalaureate generalist. The BSN focuses on developing the student for beginning practice as a member of the profession who is a provider, educator, scholar, designer, manager, and coordinator of care. Students are taught to design innovative nursing care for individuals, families, communities, and populations with complex health states in a variety of health-care settings across the lifespan. The Anderson University School of Nursing (AUSON) Conceptual Framework borrows elements from the Ecological Model of Health as a way to comprehend the complex interplay between individuals, relationships, and environments
 
-Upon completion of the first year of prerequisites, students may be eligible for progression to nursing courses beginning in the sophomore year. Supporting and liberal arts courses are taken throughout the four-year curriculum and provide the basis for effective nursing practice and an understanding of the human experience. Transfer credit is evaluated by the University Registrar and the School of Nursing chair or his/her designate. 
+Upon completion of the first year of prerequisites, students may be eligible for progression to nursing courses beginning in the sophomore year. Supporting and liberal arts courses are taken throughout the four-year curriculum and provide the basis for effective nursing practice and an understanding of the human experience. Transfer credit is evaluated by the University Registrar and the School of Nursing chair or his/her designate
 
-All students must maintain a cumulative GPA of 2.0 or better for continuance in the nursing program. A minimum grade of C must be earned in each nursing class in order to advance. Students must also demonstrate proficiency in designing nursing care that creates a safe patient environment resulting in high-quality patient outcomes and must receive a satisfactory clinical evaluation to successfully complete any course. Upon graduation, students are eligible to take the National Council Licensure Examination ( _NCLEX_ ). A national NCLEX predictor computerized examination will be given during the second semester of the senior year. 
+All students must maintain a cumulative GPA of 2.0 or better for continuance in the nursing program. A minimum grade of C must be earned in each nursing class in order to advance. Students must also demonstrate proficiency in designing nursing care that creates a safe patient environment resulting in high-quality patient outcomes and must receive a satisfactory clinical evaluation to successfully complete any course. Upon graduation, students are eligible to take the National Council Licensure Examination ( _NCLEX_ ). A national NCLEX predictor computerized examination will be given during the second semester of the senior year
 
-Clinical experiences may include day, evening, and weekend hours. An accumulation of two failures in nursing courses will result in dismissal from the program. Students with extended progression times in the nursing major will meet nursing requirements of the class with which they graduate. 
+Clinical experiences may include day, evening, and weekend hours. An accumulation of two failures in nursing courses will result in dismissal from the program. Students with extended progression times in the nursing major will meet nursing requirements of the class with which they graduate
 
-The baccalaureate degree program in nursing at Anderson University is accredited by the Commission on Collegiate Nursing Education ( _http://www.ccneaccreditation.org_ ). 
+The baccalaureate degree program in nursing at Anderson University is accredited by the Commission on Collegiate Nursing Education ( _http://www.ccneaccreditation.org_ )
 
-Students considering graduate school are strongly encouraged to take _PSYC 2440 - Applied Statistics and Introduction to Research_ to satisfy the _Quantitative Reasoning component of the Liberal Arts Core Curriculum_ . 
+Students considering graduate school are strongly encouraged to take _PSYC 2440 - Applied Statistics and Introduction to Research_ to satisfy the _Quantitative Reasoning component of the Liberal Arts Core Curriculum_
 
-All who wish to major in nursing must be formally admitted to the School of Nursing. Acceptance to the School of Nursing is on a competitive basis. The requirements are below. 
+All who wish to major in nursing must be formally admitted to the School of Nursing. Acceptance to the School of Nursing is on a competitive basis. The requirements are below
 
-## ADMISSION TO THE BSN PROGRAM 
+## ADMISSION TO THE BSN PROGRAM
 
-## Acceptance for Current Students 
+## Acceptance for Current Students
 
-Students applying for admission to the major in the sophomore year must meet the following criteria and will be considered on a competitive and space-available basis: 
+Students applying for admission to the major in the sophomore year must meet the following criteria and will be considered on a competitive and space-available basis:
 
-- Grade of C or above in PSYC 2000; BIOL 2410,2420; NURS 2140 
+- Grade of C or above in PSYC 2000; BIOL 2410,2420; NURS 2140
 
-- Cumulative grade point average of 3.2 or higher 
+- Cumulative grade point average of 3.2 or higher
 
-- Completed criminal background check and drug testing * 
+- Completed criminal background check and drug testing *
 
-- Complete immunization history and physical examination * 
+- Complete immunization history and physical examination *
 
-- Completion of “Application for Admission” form 
+- Completion of “Application for Admission” form
 
-* _castlebranch.com_ 
+* _castlebranch.com_
 
-## Acceptance for Transfer Students 
+## Acceptance for Transfer Students
 
-- Completion of a grade of C or above in PSYC 2000; BIOL 2410,2420 (BIOL 2410 and 2420 must be taken at the same institution), or the equivalent transfer courses 
+- Completion of a grade of C or above in PSYC 2000; BIOL 2410,2420 (BIOL 2410 and 2420 must be taken at the same institution), or the equivalent transfer courses
 
-- NURS 2140 (may be taken concurrently with NURS 2241, NURS 2340, and NURS 2270 with SON dean’s permission). NURS 2140 must be successfully completed to progress to 3000-level nursing courses. 
+- NURS 2140 (may be taken concurrently with NURS 2241, NURS 2340, and NURS 2270 with SON dean’s permission). NURS 2140 must be successfully completed to progress to 3000-level nursing courses
 
-- Cumulative GPA of 3.2 or higher 
+- Cumulative GPA of 3.2 or higher
 
-- Transfer students who have transcripts from multiple universities will utilize an “average” of the cumulative GPAs in order to meet the cumulative GPA requirement. 
+- Transfer students who have transcripts from multiple universities will utilize an “average” of the cumulative GPAs in order to meet the cumulative GPA requirement
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-137 
+137
 
-- A minimum of 12 semester hours must be accrued in order to include the GPA. 
+- A minimum of 12 semester hours must be accrued in order to include the GPA
 
-- Transfer students not meeting the cumulative GPA requirement for admission to the AUSON must complete a minimum of 12 semester hours at Anderson University (50% of which must be within a traditional classroom setting) and obtain a cumulative GPA of at least 3.2 in order to apply to the School of Nursing. 
+- Transfer students not meeting the cumulative GPA requirement for admission to the AUSON must complete a minimum of 12 semester hours at Anderson University (50% of which must be within a traditional classroom setting) and obtain a cumulative GPA of at least 3.2 in order to apply to the School of Nursing
 
-- Transfer credits for prerequisite and supporting courses (PSYC 2000, PSYC 2510, BIOL 2410, BIOL 2420, BIOL 2230, CHEM 1000) must have been taken within the previous five academic years to be considered for academic credit. 
+- Transfer credits for prerequisite and supporting courses (PSYC 2000, PSYC 2510, BIOL 2410, BIOL 2420, BIOL 2230, CHEM 1000) must have been taken within the previous five academic years to be considered for academic credit
 
-- Required nursing courses must be successfully completed with AUSON. Nursing courses transferred from another institution will not be accepted in place of a required NURS course. 
+- Required nursing courses must be successfully completed with AUSON. Nursing courses transferred from another institution will not be accepted in place of a required NURS course
 
-- Completed criminal background check and drug testing * 
+- Completed criminal background check and drug testing *
 
-- Complete immunization history and physical examination * 
+- Complete immunization history and physical examination *
 
-- Completion of “Application for Admission” form 
+- Completion of “Application for Admission” form
 
-* _castlebranch.com_ 
+* _castlebranch.com_
 
-## ADMISSION TO THE ACCELERATED BSN PROGRAM 
+## ADMISSION TO THE ACCELERATED BSN PROGRAM
 
-- Completion of a bachelor's degree from an accredited and recognized college or university with a minimum cumulative GPA of 2.75 or higher. 
+- Completion of a bachelor's degree from an accredited and recognized college or university with a minimum cumulative GPA of 2.75 or higher
 
-- Prerequisite courses must be completed with a grade of C or above, prior to the clinical phase of the program. Prerequisite courses (or the equivalent transfer course) include: 
+- Prerequisite courses must be completed with a grade of C or above, prior to the clinical phase of the program. Prerequisite courses (or the equivalent transfer course) include:
 
-   - BIOL 2410 Anatomy/Physiology (4 hours) 
+   - BIOL 2410 Anatomy/Physiology (4 hours)
 
-   - BIOL 2420 Anatomy/Physiology II (4 hours) 
+   - BIOL 2420 Anatomy/Physiology II (4 hours)
 
-   - PSYC 2000 General Psychology (3 hours) 
+   - PSYC 2000 General Psychology (3 hours)
 
-   - PSYC 2510 Developmental Psychology (4 hours) 
+   - PSYC 2510 Developmental Psychology (4 hours)
 
-   - CHEM 1000 Intro to Chemistry (4 hours) 
+   - CHEM 1000 Intro to Chemistry (4 hours)
 
-   - BIOL 2230 Microbes and Disease (4 hours) 
+   - BIOL 2230 Microbes and Disease (4 hours)
 
-- Submission of a School of Nursing application, resume, two references, and an interview. 
+- Submission of a School of Nursing application, resume, two references, and an interview
 
-- Completed criminal background check and drug testing * 
+- Completed criminal background check and drug testing *
 
-- Complete immunization history and physical examination * 
+- Complete immunization history and physical examination *
 
-* _castlebranch.com_ 
+* _castlebranch.com_
 
-## BACHELOR OF SCIENCE IN NURSING (83 hours) 
+## BACHELOR OF SCIENCE IN NURSING (83 hours)
 
-Nursing Foundation (60 hours) 
+Nursing Foundation (60 hours)
 
-●​ NURS 2140,2231,2250,2241,2270,2340 ●​ NURS 3351,3361,3391 
+●​ NURS 2140,2231,2250,2241,2270,2340 ●​ NURS 3351,3361,3391
 
-●​ NURS 4451,4470,4510,4521,4950,4960,4970 
+●​ NURS 4451,4470,4510,4521,4950,4960,4970
 
-Supportive Sciences (23 hours) 
+Supportive Sciences (23 hours)
 
-●​ BIOL 2230,2410,2420 ●​ PSYC 2000,2510 ●​ CHEM 1000 
+●​ BIOL 2230,2410,2420 ●​ PSYC 2000,2510 ●​ CHEM 1000
 
-Liberal Arts Requirements (see Liberal Arts Framework in this catalog) 
+Liberal Arts Requirements (see Liberal Arts Framework in this catalog)
 
-_The AUSON strongly recommends NURS 2130 be taken before entering the major._ 
+_The AUSON strongly recommends NURS 2130 be taken before entering the major._
 
-## NURS Courses 
+## NURS Courses
 
 |NURS |Courses||
 |---|---|---|
@@ -7817,95 +7817,95 @@ _The AUSON strongly recommends NURS 2130 be taken before entering the major._
 ||required but highly recommended for nursing majors.Prerequisite: Freshman or Sophomore status.||
 ||Offered: Semester I.||
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-138 
+138
 
-## 2140 Introduction to Nursing 2 hours (2,0) 
+## 2140 Introduction to Nursing 2 hours (2,0)
 
-Introduces the practice of nursing from the perspective of the profession. Focuses on understanding nursing terminology, roles, socialization, values, rights, and responsibilities. Expanding on historical influences develops a working knowledge of current healthcare delivery and legal concerns. May be taken concurrently with NURS 2241 with the dean’s approval. Offered : Semester II. 
+Introduces the practice of nursing from the perspective of the profession. Focuses on understanding nursing terminology, roles, socialization, values, rights, and responsibilities. Expanding on historical influences develops a working knowledge of current healthcare delivery and legal concerns. May be taken concurrently with NURS 2241 with the dean’s approval. Offered : Semester II
 
-2170 Skills and Procedures Boot Camp 2 hours (1,1-13) Introduces novice nursing students to basic skills and procedures in preparation for clinical experiences. Skills and procedures obtained in this course include: The Health Insurance Portability and Accountability Act (HIPAA) training, and the protection of patient’s rights, infection control, handwashing, Personal Protective Equipment (PPE), fire safety, patient safety and ergonomics (ambulation, active and passive range of motion, restraints), communications skills, and vital signs: blood pressure, temperature, pulse, respirations, pulse oximetry, pain, height and weight). Additional skills and procedures include: activities of daily Living (ADL’s) (positioning/turning/transfers/ restraints, personal hygiene, bed making, proper feeding techniques, skin care, pressure prevention), care of assistive devices (hearing aids, artificial eyes, eyeglasses, and dentures), and the use of compression stockings. Expectation : For students with no prior patient care and health care training (Certified Nursing Assistant, Emergency Medical Technician, or Licensed Practical Nurse). Grade : CR/NC. Offered : Semester I. 
+2170 Skills and Procedures Boot Camp 2 hours (1,1-13) Introduces novice nursing students to basic skills and procedures in preparation for clinical experiences. Skills and procedures obtained in this course include: The Health Insurance Portability and Accountability Act (HIPAA) training, and the protection of patient’s rights, infection control, handwashing, Personal Protective Equipment (PPE), fire safety, patient safety and ergonomics (ambulation, active and passive range of motion, restraints), communications skills, and vital signs: blood pressure, temperature, pulse, respirations, pulse oximetry, pain, height and weight). Additional skills and procedures include: activities of daily Living (ADL’s) (positioning/turning/transfers/ restraints, personal hygiene, bed making, proper feeding techniques, skin care, pressure prevention), care of assistive devices (hearing aids, artificial eyes, eyeglasses, and dentures), and the use of compression stockings. Expectation : For students with no prior patient care and health care training (Certified Nursing Assistant, Emergency Medical Technician, or Licensed Practical Nurse). Grade : CR/NC. Offered : Semester I
 
-- 2231 Fundamentals I 5 hours (4,3-45 clinical hours) Introduces student to the nursing process through the AUSON Conceptual Framework focusing on individuals, families, communities, and populations. Students learn to conduct comprehensive and focused physical, behavioral, psychological, spiritual, socioeconomic, and environmental assessments of health and illness utilizing developmentally and culturally appropriate approaches. Basic psychomotor skills for delivery of efficient, safe, and compassionate care introduced and utilized with patients as students are considered novices and exhibit concrete thinking. Expectation : Admission to the program. Prerequisite : BIOL 2410,2420; PSYC 2000. Corequisite : NURS 2250, PSYC 2510, BIOL 2230. Offered : Semester I. 
+- 2231 Fundamentals I 5 hours (4,3-45 clinical hours) Introduces student to the nursing process through the AUSON Conceptual Framework focusing on individuals, families, communities, and populations. Students learn to conduct comprehensive and focused physical, behavioral, psychological, spiritual, socioeconomic, and environmental assessments of health and illness utilizing developmentally and culturally appropriate approaches. Basic psychomotor skills for delivery of efficient, safe, and compassionate care introduced and utilized with patients as students are considered novices and exhibit concrete thinking. Expectation : Admission to the program. Prerequisite : BIOL 2410,2420; PSYC 2000. Corequisite : NURS 2250, PSYC 2510, BIOL 2230. Offered : Semester I
 
-- 2241 Fundamentals II 5 hours (3,6-90 clinical hours) 
+- 2241 Fundamentals II 5 hours (3,6-90 clinical hours)
 
-   - Builds on the content of Fundamentals I in the continuing study of individuals, families, communities, and populations through use of the AUSON Conceptual Framework. The clinical component continues the development of comprehensive and focused physical, behavioral, psychological, spiritual, socioeconomic, and environmental assessments of health and illness utilizing developmentally and culturally appropriate approaches. Basic psychomotor skills for the delivery of efficient, safe, and compassionate care continue to be introduced and utilized with patients as students are considered novices and exhibit concrete thinking. Begins the study of the preparation and administration of medication in a safe care environment that results in high-quality patient outcomes. Prerequisite : NURS 2231,2250; PSYC 2510, BIOL 2230. Corequisite: CHEM 1000, NURS 2340. Offered : Semester II. 
+   - Builds on the content of Fundamentals I in the continuing study of individuals, families, communities, and populations through use of the AUSON Conceptual Framework. The clinical component continues the development of comprehensive and focused physical, behavioral, psychological, spiritual, socioeconomic, and environmental assessments of health and illness utilizing developmentally and culturally appropriate approaches. Basic psychomotor skills for the delivery of efficient, safe, and compassionate care continue to be introduced and utilized with patients as students are considered novices and exhibit concrete thinking. Begins the study of the preparation and administration of medication in a safe care environment that results in high-quality patient outcomes. Prerequisite : NURS 2231,2250; PSYC 2510, BIOL 2230. Corequisite: CHEM 1000, NURS 2340. Offered : Semester II
 
-## 2250 Foundational Strategies for NCLEX Success 1 hour (1,0) 
+## 2250 Foundational Strategies for NCLEX Success 1 hour (1,0)
 
-Focuses on foundational nursing concepts toward developing a framework for critical thinking and National Council Licensure Exam (NCLEX) test taking strategies. Utilizes test-taking resources to improve critical thinking and analyzing test questions. Students will develop strategies for studying, including applying course content into NCLEX questions, as well as strategies for managing test anxiety and for increasing test-taking skills. Offered : Semester I. 
+Focuses on foundational nursing concepts toward developing a framework for critical thinking and National Council Licensure Exam (NCLEX) test taking strategies. Utilizes test-taking resources to improve critical thinking and analyzing test questions. Students will develop strategies for studying, including applying course content into NCLEX questions, as well as strategies for managing test anxiety and for increasing test-taking skills. Offered : Semester I
 
-## 2270 Pathophysiological Basis for Pharmacology in Nursing 4 hours (3.0,2-30 lab hours) 
+## 2270 Pathophysiological Basis for Pharmacology in Nursing 4 hours (3.0,2-30 lab hours)
 
-Builds on the content and experiences of the introductory nursing courses. Includes consideration of individuals, families, communities, and populations through the use of the AUSON Conceptual Framework. Partners with the Fundamental course to continue the study of preparation and administration of medication in a safe care environment that results in high-quality patient outcomes. Course covers physiological processes including absorption, distribution, metabolism, and excretion of drugs. Drug action and interactions will also be discussed. Appropriate dosage calculation must be demonstrated by the student. Prerequisite : NURS 2231, PSYC 2510, BIOL 2230. Corequisite : CHEM 1000, NURS 2241. Offered : Semester II. 
+Builds on the content and experiences of the introductory nursing courses. Includes consideration of individuals, families, communities, and populations through the use of the AUSON Conceptual Framework. Partners with the Fundamental course to continue the study of preparation and administration of medication in a safe care environment that results in high-quality patient outcomes. Course covers physiological processes including absorption, distribution, metabolism, and excretion of drugs. Drug action and interactions will also be discussed. Appropriate dosage calculation must be demonstrated by the student. Prerequisite : NURS 2231, PSYC 2510, BIOL 2230. Corequisite : CHEM 1000, NURS 2241. Offered : Semester II
 
-2340 Personal and Community Health Nursing 2 hours (2,0) Uses the AUSON Conceptual Framework to analyze risks to health for individuals and population groups in the community setting. Students will learn strategies in primary, secondary, and tertiary prevention to apply to community health needs. Topics include environmental health issues, poverty, health disparities, equity, and the social determinants of health. Prerequisite : NURS 2231,2250; PSYC 2510, BIOL 2230. Corequisite : CHEM 1000, NURS 2241. Offered : Semester II. 
+2340 Personal and Community Health Nursing 2 hours (2,0) Uses the AUSON Conceptual Framework to analyze risks to health for individuals and population groups in the community setting. Students will learn strategies in primary, secondary, and tertiary prevention to apply to community health needs. Topics include environmental health issues, poverty, health disparities, equity, and the social determinants of health. Prerequisite : NURS 2231,2250; PSYC 2510, BIOL 2230. Corequisite : CHEM 1000, NURS 2241. Offered : Semester II
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-139 
+139
 
-## 3351 Adult Health I 6 hours (3,9-135 clinical hours) 
+## 3351 Adult Health I 6 hours (3,9-135 clinical hours)
 
-Builds on the content of 2000-level nursing courses and support courses. Focuses on the application of the AUSON Conceptual Framework and nursing process for patients, families, and communities. Implementation of evidence-based nursing interventions for managing acute and chronic care of patients and promoting health is included in study. Basic psychomotor skills for the delivery of efficient, safe, and compassionate care continue to be introduced and utilized with patients as students now function as advanced beginners and are to apply critical/ creative-thinking strategies. Prerequisite : CHEM 1000; NURS 2241,2340,2270. Offered : Semester I. 
+Builds on the content of 2000-level nursing courses and support courses. Focuses on the application of the AUSON Conceptual Framework and nursing process for patients, families, and communities. Implementation of evidence-based nursing interventions for managing acute and chronic care of patients and promoting health is included in study. Basic psychomotor skills for the delivery of efficient, safe, and compassionate care continue to be introduced and utilized with patients as students now function as advanced beginners and are to apply critical/ creative-thinking strategies. Prerequisite : CHEM 1000; NURS 2241,2340,2270. Offered : Semester I
 
-## 3361 Adult Health II 6 hours (3,9-135 clinical hours) 
+## 3361 Adult Health II 6 hours (3,9-135 clinical hours)
 
-- Builds upon the content and experiences from Adult Health 1. Emphasis on application of the AUSON Conceptual Framework and nursing process with individuals, families, communities, and populations. Implementation of evidence-based nursing interventions for managing acute and chronic care of patients and promoting health. Emphasizes communication with all members of the health-care team, including patient and patient’s support network. Practical experiences focus on increasing clinical reasoning skills. The application of critical/creative thinking is used as students practice as advanced beginners. Prerequisite : NURS 3351. Corequisite : NURS 3391. Offered : Semester II. 
+- Builds upon the content and experiences from Adult Health 1. Emphasis on application of the AUSON Conceptual Framework and nursing process with individuals, families, communities, and populations. Implementation of evidence-based nursing interventions for managing acute and chronic care of patients and promoting health. Emphasizes communication with all members of the health-care team, including patient and patient’s support network. Practical experiences focus on increasing clinical reasoning skills. The application of critical/creative thinking is used as students practice as advanced beginners. Prerequisite : NURS 3351. Corequisite : NURS 3391. Offered : Semester II
 
-## 3391 Evidence-Based Research 3 hours (3,0) 
+## 3391 Evidence-Based Research 3 hours (3,0)
 
-- Introduces nursing research with an in-depth study of the steps of the research process. Analysis of nursing research studies will occur. Explores research design and application of evidence-based practice methodology. Students critique research articles and develop a proposal related to a topic of significance to the practice of nursing. It is recommended that the math requirement be met prior to enrolling in the course. Prerequisite : NURS 3351 and ENGL 1120 or RN License. Corequisite : NURS 3361. Offered : Semester II. 
+- Introduces nursing research with an in-depth study of the steps of the research process. Analysis of nursing research studies will occur. Explores research design and application of evidence-based practice methodology. Students critique research articles and develop a proposal related to a topic of significance to the practice of nursing. It is recommended that the math requirement be met prior to enrolling in the course. Prerequisite : NURS 3351 and ENGL 1120 or RN License. Corequisite : NURS 3361. Offered : Semester II
 
-3400 Nursing Remediation 1-6 hours (arranged) 
+3400 Nursing Remediation 1-6 hours (arranged)
 
-Offered to nursing students who have been absent for more than one semester from their last clinical experience. Remediation may include, but is not limited to: ATI resources, simulation, and appropriate skills level check off. 
+Offered to nursing students who have been absent for more than one semester from their last clinical experience. Remediation may include, but is not limited to: ATI resources, simulation, and appropriate skills level check off
 
-3850 Practicum in Nursing 1-3 hours (arranged) 
+3850 Practicum in Nursing 1-3 hours (arranged)
 
-Individualized study, clinical experiences, research, and/or project. Consent : Dean. Repeat : May be repeated. Offered : Semester I, II. 
+Individualized study, clinical experiences, research, and/or project. Consent : Dean. Repeat : May be repeated. Offered : Semester I, II
 
-4451 Adult Health III 7 hours (4,9-135 clinical hours) 
+4451 Adult Health III 7 hours (4,9-135 clinical hours)
 
-- Builds upon the 2000- and 3000-level nursing courses and support courses. Focused application of the AUSON Conceptual Framework and nursing process with clients with complex medical issues. Patient care includes individuals, families, communities, and populations. Integration of evidence-based nursing interventions is required in the design of nursing systems. Students come to the course as advanced beginners, and through the integration of creative/critical judgment processes of analysis/synthesis, the development of competence in practice begins. Prerequisite : NURS 3361,3391. Corequisite : NURS 4470. Offered : Semester I. 
+- Builds upon the 2000- and 3000-level nursing courses and support courses. Focused application of the AUSON Conceptual Framework and nursing process with clients with complex medical issues. Patient care includes individuals, families, communities, and populations. Integration of evidence-based nursing interventions is required in the design of nursing systems. Students come to the course as advanced beginners, and through the integration of creative/critical judgment processes of analysis/synthesis, the development of competence in practice begins. Prerequisite : NURS 3361,3391. Corequisite : NURS 4470. Offered : Semester I
 
-4470 Seminar in Nursing 4 hours (4,0) 
+4470 Seminar in Nursing 4 hours (4,0)
 
-Professional standards of moral, ethical, and legal conduct are discussed. Students assume accountability for personal and professional behaviors by reflecting on one’s own beliefs and values as they relate to professional practice. Students identify personal, professional, and environmental risks that impact personal and professional choices on vulnerable populations. Prerequisite : NURS 3361,3391. Corequisite : NURS 4451. Offered : Semester I. 
+Professional standards of moral, ethical, and legal conduct are discussed. Students assume accountability for personal and professional behaviors by reflecting on one’s own beliefs and values as they relate to professional practice. Students identify personal, professional, and environmental risks that impact personal and professional choices on vulnerable populations. Prerequisite : NURS 3361,3391. Corequisite : NURS 4451. Offered : Semester I
 
-4510 Entry into Professional Nursing Practice 1 hour (1,0) 
+4510 Entry into Professional Nursing Practice 1 hour (1,0)
 
-Builds upon foundational strategies in preparation for the NCLEX exam and entry into professional practice. Students will examine and review computerized test-taking strategies, carefully analyzing any issues related to test-taking abilities and completing focus reviews and other NCLEX preparation resources. The process for licensure application and job-seeking strategies will also be discussed. Prerequisite : NURS 4451,4470. Corequisite : NURS 4521,4950,4960,4970. 
+Builds upon foundational strategies in preparation for the NCLEX exam and entry into professional practice. Students will examine and review computerized test-taking strategies, carefully analyzing any issues related to test-taking abilities and completing focus reviews and other NCLEX preparation resources. The process for licensure application and job-seeking strategies will also be discussed. Prerequisite : NURS 4451,4470. Corequisite : NURS 4521,4950,4960,4970
 
-4521 Child Health 4 hours (3,3-45 clinical hours) 
+4521 Child Health 4 hours (3,3-45 clinical hours)
 
-Builds on the experiences of prior courses and required synthesis and analysis of all previously learned material as the student progresses into specialized content of caring for children and families within the AUSON Conceptual Framework. The roles of the pediatric nurse are examined within health promotion, health maintenance, and health restoration. Developmental and family-centered nursing care concepts are integrated with liberal arts knowledge to identify nursing care needs of children. Prerequisite : NURS 4451 ( Note : If a student has a _didactic_ failure in NURS 4451 they _may_ continue to NURS 4521. If a student has a _clinical_ failure in NURS 4451, the student _may not_ continue in NURS 4521); NURS 4470. Corequisite : NURS 4950,4960,4970. Offered : Semester II. 
+Builds on the experiences of prior courses and required synthesis and analysis of all previously learned material as the student progresses into specialized content of caring for children and families within the AUSON Conceptual Framework. The roles of the pediatric nurse are examined within health promotion, health maintenance, and health restoration. Developmental and family-centered nursing care concepts are integrated with liberal arts knowledge to identify nursing care needs of children. Prerequisite : NURS 4451 ( Note : If a student has a _didactic_ failure in NURS 4451 they _may_ continue to NURS 4521. If a student has a _clinical_ failure in NURS 4451, the student _may not_ continue in NURS 4521); NURS 4470. Corequisite : NURS 4950,4960,4970. Offered : Semester II
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-140 
+140
 
-4 hours (2,6-90 clinical hours) 
+4 hours (2,6-90 clinical hours)
 
-## 4950 Intercultural Capstone 
+## 4950 Intercultural Capstone
 
-Emphasizes the value of human diversity in order to provide safe, high-quality care. Includes a discussion of the health care provider’s practice in a multicultural environment, providing culturally appropriate care across settings. Students are expected to immerse themselves in a culture other than their own through an intercultural experience. NOTE : Students should anticipate and plan for transportation costs and other expenses. Consent : Instructor. Prerequisite : NURS 4451,4470. Corequisite : NURS 4521,4960,4970. SAME AS: PUBH 4950. Offered : Semester II. 
+Emphasizes the value of human diversity in order to provide safe, high-quality care. Includes a discussion of the health care provider’s practice in a multicultural environment, providing culturally appropriate care across settings. Students are expected to immerse themselves in a culture other than their own through an intercultural experience. NOTE : Students should anticipate and plan for transportation costs and other expenses. Consent : Instructor. Prerequisite : NURS 4451,4470. Corequisite : NURS 4521,4960,4970. SAME AS: PUBH 4950. Offered : Semester II
 
-4960 Leadership Capstone 4 hours (2.5,4.5-67.5 clinical hours) 
+4960 Leadership Capstone 4 hours (2.5,4.5-67.5 clinical hours)
 
-Builds on previous nursing courses as the student moves toward becoming a competent generalist nurse, who designs, manages, coordinates, and provides care. Includes a practicum which allows the student to integrate new practice-related knowledge and skills. Critically analyzes leadership principles and management strategies and how they affect the organization and influence patient outcomes. Examines and applies total quality improvement processes and tools which impact patient safety and meet regulatory requirements. Analyzes the utilization and control of financial and human resources to promote quality patient care and optimize professional practice. Emphasizes the nurse as a consumer advocate. Prerequisite : NURS 4451,4470. Corequisite : NURS 4521,4950,4970. Offered : Semester II. 
+Builds on previous nursing courses as the student moves toward becoming a competent generalist nurse, who designs, manages, coordinates, and provides care. Includes a practicum which allows the student to integrate new practice-related knowledge and skills. Critically analyzes leadership principles and management strategies and how they affect the organization and influence patient outcomes. Examines and applies total quality improvement processes and tools which impact patient safety and meet regulatory requirements. Analyzes the utilization and control of financial and human resources to promote quality patient care and optimize professional practice. Emphasizes the nurse as a consumer advocate. Prerequisite : NURS 4451,4470. Corequisite : NURS 4521,4950,4970. Offered : Semester II
 
-4970 Clinical Capstone 2 hours (0.5,4.5-67.5 clinical hours) 
+4970 Clinical Capstone 2 hours (0.5,4.5-67.5 clinical hours)
 
-Building on prior nursing courses, students will have the opportunity to demonstrate competencies consistent with the program outcomes. In collaboration with the faculty and a preceptor in a chosen care setting, students will apply critical thinking, academic knowledge, and clinical skills in a real-life working environment. The purpose of this clinical immersion is for the student to understand expectations necessary to transition from student to novice nurse. Prerequisite : NURS 4451,4470. Corequisite : NURS 4521,4950,4960. Offered : Semester II. 
+Building on prior nursing courses, students will have the opportunity to demonstrate competencies consistent with the program outcomes. In collaboration with the faculty and a preceptor in a chosen care setting, students will apply critical thinking, academic knowledge, and clinical skills in a real-life working environment. The purpose of this clinical immersion is for the student to understand expectations necessary to transition from student to novice nurse. Prerequisite : NURS 4451,4470. Corequisite : NURS 4521,4950,4960. Offered : Semester II
 
-## NURS _Electives_ 
+## NURS _Electives_
 
-3560 Complementary and Alternative Therapies * 3 hours (3,0) 
+3560 Complementary and Alternative Therapies * 3 hours (3,0)
 
-Introduces students to different holistic therapeutic modalities such as massage and guided imagery. Explores herbal therapies as complementary and alternative to western traditional pharmacotherapies. Newer treatments in the areas of genomics, personalized medicine, and supplementary diagnostic procedures will also be investigated. 
+Introduces students to different holistic therapeutic modalities such as massage and guided imagery. Explores herbal therapies as complementary and alternative to western traditional pharmacotherapies. Newer treatments in the areas of genomics, personalized medicine, and supplementary diagnostic procedures will also be investigated
 
 |3570 ||Emergency Room Nursing Care|3 hours (3,0)|
 |---|---|---|---|
@@ -7920,257 +7920,257 @@ Introduces students to different holistic therapeutic modalities such as massage
 |||Prerequisite: CHEM 1000; NURS 2241,2340,2270.Offered: Semester I.||
 |3580|Enriching Clinical Reasoning and Judgment *||3 hours (3,0)|
 
-Utilizes current knowledge in assessment, anatomy, pathophysiology, and pharmacology to explore common patients, defining presenting symptoms such as shortness of breath, abdominal pain, and headache. Case studies allow students to further develop knowledge by exploring the primary patient problem supported by assessment findings, anatomy, and pathophysiology concepts. Utilizing clinical reasoning and judgment, students will explore nursing and pharmacological interventions in relation to the primary patient problem. Nursing systems thinking will be utilized to explore patient issues in relation to quality and safe care. Required for RNs who have been out of nursing practice for five years or more. 
+Utilizes current knowledge in assessment, anatomy, pathophysiology, and pharmacology to explore common patients, defining presenting symptoms such as shortness of breath, abdominal pain, and headache. Case studies allow students to further develop knowledge by exploring the primary patient problem supported by assessment findings, anatomy, and pathophysiology concepts. Utilizing clinical reasoning and judgment, students will explore nursing and pharmacological interventions in relation to the primary patient problem. Nursing systems thinking will be utilized to explore patient issues in relation to quality and safe care. Required for RNs who have been out of nursing practice for five years or more
 
-_* indicates course is online_ 
+_* indicates course is online_
 
-_Course description language utilizes American Association of Colleges of Nursing, Essentials of Baccalaureate Education for Professional Practice, 08_ 
+_Course description language utilizes American Association of Colleges of Nursing, Essentials of Baccalaureate Education for Professional Practice, 08_
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-141 
+141
 
-## DEPARTMENT OF ENGINEERING 
+## DEPARTMENT OF ENGINEERING
 
-_Chair: Dr. Kennedy Faculty: Dr. C Baker, Dr. Kennedy, Prof. McKenna, Dr. Troy, Prof. Wu; Prof. Baylor, Prof. George_ 
+_Chair: Dr. Kennedy Faculty: Dr. C Baker, Dr. Kennedy, Prof. McKenna, Dr. Troy, Prof. Wu; Prof. Baylor, Prof. George_
 
-The purpose of the Anderson University Engineering program is to educate highly qualified engineers to pursue Truth and serve humanity in accordance with Christian faith and action. As we live out this mission, we place high value on integrity, intentional community, and continuous improvement. The Department of Engineering offers majors in civil engineering, computer engineering, electrical engineering, mechanical engineering, and mechatronics engineering; as well as a complementary major or a minor in humanitarian engineering. Students gain broad scientific and engineering knowledge in the classroom while having opportunities to do significant research and design. Most graduates enter the workforce as an Engineering Intern (EI, the first step to becoming a licensed, professional engineer); others pursue graduate studies at larger research institutions. 
+The purpose of the Anderson University Engineering program is to educate highly qualified engineers to pursue Truth and serve humanity in accordance with Christian faith and action. As we live out this mission, we place high value on integrity, intentional community, and continuous improvement. The Department of Engineering offers majors in civil engineering, computer engineering, electrical engineering, mechanical engineering, and mechatronics engineering; as well as a complementary major or a minor in humanitarian engineering. Students gain broad scientific and engineering knowledge in the classroom while having opportunities to do significant research and design. Most graduates enter the workforce as an Engineering Intern (EI, the first step to becoming a licensed, professional engineer); others pursue graduate studies at larger research institutions
 
-_All required courses within all engineering majors and complementary majors must be completed with a minimum grade of C-._ 
+_All required courses within all engineering majors and complementary majors must be completed with a minimum grade of C-._
 
-## ENGINEERING CORE (49 hours) 
+## ENGINEERING CORE (49 hours)
 
-The following core classes are required of all Civil, Computer, Electrical, Mechanical, and Mechatronics Engineering majors: 
+The following core classes are required of all Civil, Computer, Electrical, Mechanical, and Mechatronics Engineering majors:
 
-- CHEM 2110 
+- CHEM 2110
 
-- PHYS 2240,2250 
+- PHYS 2240,2250
 
-- MATH 2010,2020,3010,3100 
+- MATH 2010,2020,3010,3100
 
-- ENGR 2001,2002,2003,2010,2030,2080,2090,2310,4950,4960 
+- ENGR 2001,2002,2003,2010,2030,2080,2090,2310,4950,4960
 
-## CIVIL ENGINEERING 
+## CIVIL ENGINEERING
 
-Students in the civil engineering program will learn the principles and skills necessary to analyze and design systems for the physical environment, including public works like dams, levees, roads and bridges. Students will gain experience in areas of mechanics, hydraulic and hydrologic systems, structural analysis and design, surveying, and geotechnical engineering. Students will apply their knowledge through experiential learning in hands-on laboratory environments. Students will gain enough depth and breadth in their experience to be well prepared for entering the civil engineering profession. 
+Students in the civil engineering program will learn the principles and skills necessary to analyze and design systems for the physical environment, including public works like dams, levees, roads and bridges. Students will gain experience in areas of mechanics, hydraulic and hydrologic systems, structural analysis and design, surveying, and geotechnical engineering. Students will apply their knowledge through experiential learning in hands-on laboratory environments. Students will gain enough depth and breadth in their experience to be well prepared for entering the civil engineering profession
 
-## Educational Objectives 
+## Educational Objectives
 
-Graduates of the Civil Engineering program at Anderson University are expected to demonstrate: 
+Graduates of the Civil Engineering program at Anderson University are expected to demonstrate:
 
-- Integrity, responsibility, stewardship, and ethical decision-making consistent with a Biblical worldview; 
+- Integrity, responsibility, stewardship, and ethical decision-making consistent with a Biblical worldview;
 
-- Service of others through engineering problem solving; 
+- Service of others through engineering problem solving;
 
-- Skillful interpersonal communication and effective collaboration; and 
+- Skillful interpersonal communication and effective collaboration; and
 
-- Application of foundational engineering knowledge to continually improve their education and skills. 
+- Application of foundational engineering knowledge to continually improve their education and skills
 
-CIVIL ENGINEERING MAJOR, BACHELOR OF SCIENCE  (92 hours) 
+CIVIL ENGINEERING MAJOR, BACHELOR OF SCIENCE  (92 hours)
 
-- 49-hour Engineering Core 
+- 49-hour Engineering Core
 
-- MATH 2120 
+- MATH 2120
 
-- ENGR 2110,3140,3330,3340,3350,3510,4130,4320,4330,4340,4350,4360 
+- ENGR 2110,3140,3330,3340,3350,3510,4130,4320,4330,4340,4350,4360
 
-- At least 3 additional hours from ENGR 2xxx and above 
+- At least 3 additional hours from ENGR 2xxx and above
 
-- A 4-hour science elective from PHYS 1020,1240, BIOL 1000,2210, CPSC 2020 
+- A 4-hour science elective from PHYS 1020,1240, BIOL 1000,2210, CPSC 2020
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-142 
+142
 
-## COMPUTER ENGINEERING 
+## COMPUTER ENGINEERING
 
-Students in the ABET-accredited computer engineering program will learn the principles and skills necessary to design, implement, and validate electronics hardware and software systems. Students will gain a solid foundation in a broad range of computer engineering topics, preparing them for careers in areas of electronics, digital logic, computer architecture, computer organization, and computer science, embedded systems and larger scale computer systems. Students will have the opportunity to see various applications of computer engineering to digital system design and computer design. 
+Students in the ABET-accredited computer engineering program will learn the principles and skills necessary to design, implement, and validate electronics hardware and software systems. Students will gain a solid foundation in a broad range of computer engineering topics, preparing them for careers in areas of electronics, digital logic, computer architecture, computer organization, and computer science, embedded systems and larger scale computer systems. Students will have the opportunity to see various applications of computer engineering to digital system design and computer design
 
-The Computer Engineering (BS) program is accredited by the Engineering Accreditation Commission of ABET, _www.abet.org_ , under the _General Criteria and Program Criteria for Electrical, Computer, Communications, Telecommunication(s) and Similarly Named Engineering Programs_ . 
+The Computer Engineering (BS) program is accredited by the Engineering Accreditation Commission of ABET, _www.abet.org_ , under the _General Criteria and Program Criteria for Electrical, Computer, Communications, Telecommunication(s) and Similarly Named Engineering Programs_
 
-## Educational Objectives 
+## Educational Objectives
 
-Graduates of the Computer Engineering program at Anderson University are expected to demonstrate: 
+Graduates of the Computer Engineering program at Anderson University are expected to demonstrate:
 
-- Integrity, responsibility, stewardship, and ethical decision-making consistent with a Biblical worldview; 
+- Integrity, responsibility, stewardship, and ethical decision-making consistent with a Biblical worldview;
 
-- Service of others through engineering problem solving; 
+- Service of others through engineering problem solving;
 
-- Skillful interpersonal communication and effective collaboration; and 
+- Skillful interpersonal communication and effective collaboration; and
 
-- Application of foundational engineering knowledge to continually improve their education and skills. 
+- Application of foundational engineering knowledge to continually improve their education and skills
 
-## COMPUTER ENGINEERING MAJOR, BACHELOR OF SCIENCE  (91 hours) 
+## COMPUTER ENGINEERING MAJOR, BACHELOR OF SCIENCE  (91 hours)
 
-- 49-hour Engineering Core 
+- 49-hour Engineering Core
 
-- MATH 2200,4010 
+- MATH 2200,4010
 
-- ENGR 2200,3030,3220,3260,3270,3280,4250 
+- ENGR 2200,3030,3220,3260,3270,3280,4250
 
-- CPSC 2420,2430,2500,4420 
+- CPSC 2420,2430,2500,4420
 
-- At least 3 additional hours from ENGR 2110,3080,4020, CPSC 3410,3520 
+- At least 3 additional hours from ENGR 2110,3080,4020, CPSC 3410,3520
 
-## ELECTRICAL ENGINEERING 
+## ELECTRICAL ENGINEERING
 
-Students in the ABET-accredited electrical engineering program will learn the principles and skills necessary to design, implement, and validate electrical and electronic systems. Students are exposed to a solid foundation in a diverse array of topics, preparing them for careers in the areas of electronics, design of integrated circuits, electromagnetics, power generation and transmission, telecommunications, control systems, and signal processing. 
+Students in the ABET-accredited electrical engineering program will learn the principles and skills necessary to design, implement, and validate electrical and electronic systems. Students are exposed to a solid foundation in a diverse array of topics, preparing them for careers in the areas of electronics, design of integrated circuits, electromagnetics, power generation and transmission, telecommunications, control systems, and signal processing
 
-The Electrical Engineering (BS) program is accredited by the Engineering Accreditation Commission of ABET, www.abet.org, under the _General Criteria and Program Criteria for Electrical, Computer, Communications, Telecommunication(s) and Similarly Named Engineering Programs_ . 
+The Electrical Engineering (BS) program is accredited by the Engineering Accreditation Commission of ABET, www.abet.org, under the _General Criteria and Program Criteria for Electrical, Computer, Communications, Telecommunication(s) and Similarly Named Engineering Programs_
 
-## Program Educational Objectives 
+## Program Educational Objectives
 
-Graduates of the Electrical Engineering program at Anderson University are expected to demonstrate: 
+Graduates of the Electrical Engineering program at Anderson University are expected to demonstrate:
 
-- Integrity, responsibility, stewardship, and ethical decision-making consistent with a Biblical worldview; 
+- Integrity, responsibility, stewardship, and ethical decision-making consistent with a Biblical worldview;
 
-- Service of others through engineering problem solving; 
+- Service of others through engineering problem solving;
 
-- Skillful interpersonal communication and effective collaboration; and 
+- Skillful interpersonal communication and effective collaboration; and
 
-- Application of foundational engineering knowledge to continually improve their education and skills. 
+- Application of foundational engineering knowledge to continually improve their education and skills
 
-## ELECTRICAL ENGINEERING MAJOR, BACHELOR OF SCIENCE  (92 hours) 
+## ELECTRICAL ENGINEERING MAJOR, BACHELOR OF SCIENCE  (92 hours)
 
-- 49-hour Engineering Core 
+- 49-hour Engineering Core
 
-- MATH 3020,4010 
+- MATH 3020,4010
 
-- ENGR 2200,3030,3220,3230,3240,3260,3270,3280,4230,4240,4250 
+- ENGR 2200,3030,3220,3230,3240,3260,3270,3280,4230,4240,4250
 
-- CPSC 2420 
+- CPSC 2420
 
-- At least 3 additional hours from ENGR 2110,3080,3180,4020 
+- At least 3 additional hours from ENGR 2110,3080,3180,4020
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-143 
+143
 
-## MECHANICAL ENGINEERING 
+## MECHANICAL ENGINEERING
 
-Students in the ABET-accredited mechanical engineering program will learn the principles and skills necessary to understand how heat and mechanical power can be used in the design of machines and other tools. Graduates of the mechanical engineering program will have a diverse background, with skills that equip them for careers in the automotive, aerospace, manufacturing, and consumer goods industries. 
+Students in the ABET-accredited mechanical engineering program will learn the principles and skills necessary to understand how heat and mechanical power can be used in the design of machines and other tools. Graduates of the mechanical engineering program will have a diverse background, with skills that equip them for careers in the automotive, aerospace, manufacturing, and consumer goods industries
 
-The Mechanical Engineering (BS) program is accredited by the Engineering Accreditation Commission of ABET, www.abet.org, under the _General Criteria and Program Criteria for Mechanical and Similarly named Engineering Programs_ . 
+The Mechanical Engineering (BS) program is accredited by the Engineering Accreditation Commission of ABET, www.abet.org, under the _General Criteria and Program Criteria for Mechanical and Similarly named Engineering Programs_
 
-## Educational Objectives 
+## Educational Objectives
 
-Graduates of the Computer Engineering program at Anderson University are expected to demonstrate: 
+Graduates of the Computer Engineering program at Anderson University are expected to demonstrate:
 
-- Integrity, responsibility, stewardship, and ethical decision-making consistent with a Biblical worldview; 
+- Integrity, responsibility, stewardship, and ethical decision-making consistent with a Biblical worldview;
 
-- Service of others through engineering problem solving; 
+- Service of others through engineering problem solving;
 
-- Skillful interpersonal communication and effective collaboration; and 
+- Skillful interpersonal communication and effective collaboration; and
 
-- Application of foundational engineering knowledge to continually improve their education and skills. 
+- Application of foundational engineering knowledge to continually improve their education and skills
 
-## MECHANICAL ENGINEERING MAJOR, BACHELOR OF SCIENCE  (92 hours) 
+## MECHANICAL ENGINEERING MAJOR, BACHELOR OF SCIENCE  (92 hours)
 
-- 49-hour Engineering Core 
+- 49-hour Engineering Core
 
-- MATH 3020 
+- MATH 3020
 
-- ENGR 2070,2110,3030,3110,3140,3150,3160,3180,3190,3510,3850,4110,4130,4140,4160,4320 
+- ENGR 2070,2110,3030,3110,3140,3150,3160,3180,3190,3510,3850,4110,4130,4140,4160,4320
 
-- At least 3 hours from ENGR 3xxx or above 
+- At least 3 hours from ENGR 3xxx or above
 
-## MECHATRONICS ENGINEERING 
+## MECHATRONICS ENGINEERING
 
-Mechatronics Engineering is the multidisciplinary union of mechanical, electrical, and computer engineering with application towards the design and control of electromechanical systems. Students in the ABET-accredited mechatronics engineering program will be engaged with topics from each of these disciplines, capped off by a course in Mechatronics System Design. These students will have focused hardware and software experience, and graduates will be prepared for careers in control systems, automation, autonomy, and electromechanical system design. 
+Mechatronics Engineering is the multidisciplinary union of mechanical, electrical, and computer engineering with application towards the design and control of electromechanical systems. Students in the ABET-accredited mechatronics engineering program will be engaged with topics from each of these disciplines, capped off by a course in Mechatronics System Design. These students will have focused hardware and software experience, and graduates will be prepared for careers in control systems, automation, autonomy, and electromechanical system design
 
-The Mechatronics Engineering (BS) program is accredited by the Engineering Accreditation Commission of ABET, www.abet.org, under the _General Criteria and Program Criteria for Mechanical and Similarly named Engineering Programs_ . 
+The Mechatronics Engineering (BS) program is accredited by the Engineering Accreditation Commission of ABET, www.abet.org, under the _General Criteria and Program Criteria for Mechanical and Similarly named Engineering Programs_
 
-## Educational Objectives 
+## Educational Objectives
 
-Graduates of the Computer Engineering program at Anderson University are expected to demonstrate 
+Graduates of the Computer Engineering program at Anderson University are expected to demonstrate
 
-- Integrity, responsibility, stewardship, and ethical decision-making consistent with a Biblical worldview; 
+- Integrity, responsibility, stewardship, and ethical decision-making consistent with a Biblical worldview;
 
-- Service of others through engineering problem solving; 
+- Service of others through engineering problem solving;
 
-- Skillful interpersonal communication and effective collaboration; and 
+- Skillful interpersonal communication and effective collaboration; and
 
-- Application of foundational engineering knowledge to continually improve their education and skills. 
+- Application of foundational engineering knowledge to continually improve their education and skills
 
-## MECHATRONICS ENGINEERING MAJOR, BACHELOR OF SCIENCE  (92 hours) 
+## MECHATRONICS ENGINEERING MAJOR, BACHELOR OF SCIENCE  (92 hours)
 
-- 49-hour Engineering Core 
+- 49-hour Engineering Core
 
-- MATH 2120 OR MATH 3020 
+- MATH 2120 OR MATH 3020
 
-- ENGR 2110,2200,3030,3110,3140,3150,3220,3280,3510,3850,4020 
+- ENGR 2110,2200,3030,3110,3140,3150,3220,3280,3510,3850,4020
 
-- CPSC 2020 OR 2500 
+- CPSC 2020 OR 2500
 
-- At least 6 hours from ENGR 3xxx or above, PHYS 3xxx or above, or CPSC 2xxx or above 
+- At least 6 hours from ENGR 3xxx or above, PHYS 3xxx or above, or CPSC 2xxx or above
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-144 
+144
 
-## HUMANITARIAN ENGINEERING 
+## HUMANITARIAN ENGINEERING
 
-Engineering skills are becoming increasingly useful in providing humanitarian aid and distributing basic necessities (water, power, communications) to underdeveloped communities, where the need is greatest. The core of Anderson University’s engineering program is to develop highly-qualified, innovative, servant leaders who are grounded in faith. 
+Engineering skills are becoming increasingly useful in providing humanitarian aid and distributing basic necessities (water, power, communications) to underdeveloped communities, where the need is greatest. The core of Anderson University’s engineering program is to develop highly-qualified, innovative, servant leaders who are grounded in faith
 
-The Humanitarian Engineering Complementary Major and Minor are aimed at equipping students to be “missionminded” engineers. In the complementary major, students will complete many core engineering courses along with courses focused on engineering design for service. Students will also broaden their skill set by taking courses outside of engineering, such as courses in Business, Christian Ministry, Modern Languages, Psychology, or Sociology. 
+The Humanitarian Engineering Complementary Major and Minor are aimed at equipping students to be “missionminded” engineers. In the complementary major, students will complete many core engineering courses along with courses focused on engineering design for service. Students will also broaden their skill set by taking courses outside of engineering, such as courses in Business, Christian Ministry, Modern Languages, Psychology, or Sociology
 
-The complementary major must be paired with existing engineering majors (CE, CpE, EE, ME, MxE), while the minor may be paired with any major. 
+The complementary major must be paired with existing engineering majors (CE, CpE, EE, ME, MxE), while the minor may be paired with any major
 
-## HUMANITARIAN ENGINEERING COMPLEMENTARY MAJOR  (47 hours) 
+## HUMANITARIAN ENGINEERING COMPLEMENTARY MAJOR  (47 hours)
 
-- PHYS 2240 
+- PHYS 2240
 
-- MATH 2010,2020 
+- MATH 2010,2020
 
-- ENGR 2001,2002,2003,2010,2030,2080,2090,3080,4950,4960 
+- ENGR 2001,2002,2003,2010,2030,2080,2090,3080,4950,4960
 
-- Select 13 hours from: 
+- Select 13 hours from:
 
-   - BSNS 2710,3120,4480 
+   - BSNS 2710,3120,4480
 
-   - CMIN 2000,3910 
+   - CMIN 2000,3910
 
-   - ENGR 2060 
+   - ENGR 2060
 
-   - PACT 2100,2200,2300,2400 
+   - PACT 2100,2200,2300,2400
 
-   - PHIL 2120,3250 
+   - PHIL 2120,3250
 
-   - PSYC 2000,2100,3200 
+   - PSYC 2000,2100,3200
 
-   - RLGN 2130,3040,3120 
+   - RLGN 2130,3040,3120
 
-   - SOCI 2020,2100,4350 
+   - SOCI 2020,2100,4350
 
-   - SPAN courses beyond 1020 or equivalent 
+   - SPAN courses beyond 1020 or equivalent
 
-## HUMANITARIAN ENGINEERING MINOR  (15-18 hours) 
+## HUMANITARIAN ENGINEERING MINOR  (15-18 hours)
 
-- ENGR 2080,2090,3080 
+- ENGR 2080,2090,3080
 
-- Select remaining 4-7 hours from: 
+- Select remaining 4-7 hours from:
 
-   - BSNS 2710,3120,4480 
+   - BSNS 2710,3120,4480
 
-   - CMIN 2000,3910 
+   - CMIN 2000,3910
 
-   - ENGR 2060 
+   - ENGR 2060
 
-   - PACT 2100,2200,2300,2400 
+   - PACT 2100,2200,2300,2400
 
-   - PHIL 2120,3250 
+   - PHIL 2120,3250
 
-   - PSYC 2000,2100,3200 
+   - PSYC 2000,2100,3200
 
-   - RLGN 2130,3040,3120 
+   - RLGN 2130,3040,3120
 
-   - SOCI 2020,2100,4350 
+   - SOCI 2020,2100,4350
 
-   - SPAN courses beyond 1020 or equivalent 
+   - SPAN courses beyond 1020 or equivalent
 
-## ENGR Courses 
+## ENGR Courses
 
-_For all courses numbered ENGR 2000 and above (except ENGR 2080), a laptop is required._ 
+_For all courses numbered ENGR 2000 and above (except ENGR 2080), a laptop is required._
 
 |2001|Introduction to Engineering (Lecture)|1 hour (1,2)|
 |---|---|---|
@@ -8191,9 +8191,9 @@ _For all courses numbered ENGR 2000 and above (except ENGR 2080), a laptop is re
 ||generators, oscilloscopes, and many basic electronic components.Corequisite: MATH 1220 or MATH 2010.||
 ||Offered: Semester I.||
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-145 
+145
 
 |NGR (|cont.)|
 |---|---|
@@ -8257,9 +8257,9 @@ Anderson University Undergraduate Catalog 2025-26
 ||to achieve the ideal paths of the particular points of interest. The kinematics will be applied to manipulator|
 ||analysis with an introduction to inverse kinematics.Prerequisite: ENGR 2110, MATH 3100.Offered: Semester I.|
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-146 
+146
 
 |NGR (|cont.)||
 |---|---|---|
@@ -8321,9 +8321,9 @@ Anderson University Undergraduate Catalog 2025-26
 ||memory allocation and handling, real-time operating systems (RTOS), and device drivers.Prerequisite:||
 ||CPSC 2500 and ENGR 2003 or ENGR 2200.Offered: Semester I, 2025-26.||
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-147 
+147
 
 |NGR (|cont.)||
 |---|---|---|
@@ -8388,9 +8388,9 @@ Anderson University Undergraduate Catalog 2025-26
 ||are conducted with appropriate equipment. Laboratory write-ups and technical reports are required.||
 ||Prerequisite:ENGR 4130.Corequisite:ENGR 3190,4160.Offered:Semester II.||
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-148 
+148
 
 |NGR (|cont.)|||
 |---|---|---|---|
@@ -8454,269 +8454,269 @@ Anderson University Undergraduate Catalog 2025-26
 ||required to attempt the Fundamentals of Engineering exam.Prerequisite: ENGR 4950.Offered:|||
 ||Semester II.|||
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-149 
+149
 
-## DEPARTMENT OF KINESIOLOGY 
+## DEPARTMENT OF KINESIOLOGY
 
-_Chair: Dr. J Scott Faculty: Prof. Keith, Prof. A. Miller, Dr. J Scott Instructors: Beach, T. Miller, Myhre, Palmer, Ferguson_ 
+_Chair: Dr. J Scott Faculty: Prof. Keith, Prof. A. Miller, Dr. J Scott Instructors: Beach, T. Miller, Myhre, Palmer, Ferguson_
 
-The Department of Kinesiology offers two majors designed to prepare students to enter careers, vocations, or service in healthcare, sport performance, clinical physiology, and sport and recreational leadership.  Three minors are available: athletic coaching, nutrition, and sport and recreational leadership. Additionally, the department offers activity courses designed to provide instruction in fundamental skills in selected sports and activities. 
+The Department of Kinesiology offers two majors designed to prepare students to enter careers, vocations, or service in healthcare, sport performance, clinical physiology, and sport and recreational leadership.  Three minors are available: athletic coaching, nutrition, and sport and recreational leadership. Additionally, the department offers activity courses designed to provide instruction in fundamental skills in selected sports and activities
 
-## EXERCISE SCIENCE 
+## EXERCISE SCIENCE
 
-Exercise science is a growing field that addresses issues of health and wellness as well as human performance. Anderson University’s exercise science major provides classroom, laboratory, and practical experiences for students interested in human performance and health. The exercise science program offers 3 concentrations: clinical exercise physiology, pre-health, and sport performance. The exercise science program prepares students for employment in a variety of health care settings and corporate wellness, as well as excellent pre-professional preparation for students desiring to pursue graduate degrees in allied health, such as exercise physiology, biomechanics, athletic training, physical therapy, occupational therapy, and physician assistant, amongst others. 
+Exercise science is a growing field that addresses issues of health and wellness as well as human performance. Anderson University’s exercise science major provides classroom, laboratory, and practical experiences for students interested in human performance and health. The exercise science program offers 3 concentrations: clinical exercise physiology, pre-health, and sport performance. The exercise science program prepares students for employment in a variety of health care settings and corporate wellness, as well as excellent pre-professional preparation for students desiring to pursue graduate degrees in allied health, such as exercise physiology, biomechanics, athletic training, physical therapy, occupational therapy, and physician assistant, amongst others
 
-All students must: 
+All students must:
 
-- maintain a cumulative GPA of 2.0 or better 
+- maintain a cumulative GPA of 2.0 or better
 
-- earn a C- or better for each course within the exercise science major 
+- earn a C- or better for each course within the exercise science major
 
-- demonstrate proficiency in the EXSC 4150 Exercise Testing and Prescription lab practicum exam with a grade of B- or better. 
+- demonstrate proficiency in the EXSC 4150 Exercise Testing and Prescription lab practicum exam with a grade of B- or better
 
-Any student falling short of the minimum standards is expected to address the shortcoming immediately. 
+Any student falling short of the minimum standards is expected to address the shortcoming immediately
 
-## EXERCISE SCIENCE CONCENTRATIONS 
+## EXERCISE SCIENCE CONCENTRATIONS
 
-Every Exercise Science major chooses one of three concentrations: 
+Every Exercise Science major chooses one of three concentrations:
 
-- Clinical Exercise Physiology - for those students desiring to pursue careers working with chronic diseased populations, cardiopulmonary rehabilitation, and cardiac stress testing, in addition to preparation for a master’s in exercise physiology. 
+- Clinical Exercise Physiology - for those students desiring to pursue careers working with chronic diseased populations, cardiopulmonary rehabilitation, and cardiac stress testing, in addition to preparation for a master’s in exercise physiology
 
-- Pre-Health - for those students desiring to prepare for an allied health field such as athletic training, physical therapy, occupational therapy, sports psychology, and physician assistant. 
+- Pre-Health - for those students desiring to prepare for an allied health field such as athletic training, physical therapy, occupational therapy, sports psychology, and physician assistant
 
-- Sports Performance - for those students desiring to pursue careers in strength and conditioning, personal training, health/wellness coordinators, community health centers, and senior adult fitness programs. 
+- Sports Performance - for those students desiring to pursue careers in strength and conditioning, personal training, health/wellness coordinators, community health centers, and senior adult fitness programs
 
-## EXERCISE SCIENCE MAJOR  (70 hours) 
+## EXERCISE SCIENCE MAJOR  (70 hours)
 
-Core Requirements (58 hours) : 
+Core Requirements (58 hours) :
 
-- BIOL 2410 Human Anatomy and Physiology I (4) 
+- BIOL 2410 Human Anatomy and Physiology I (4)
 
-- BIOL 2420 Human Anatomy and Physiology II (4) 
+- BIOL 2420 Human Anatomy and Physiology II (4)
 
-- EXSC 1360 Introduction to Exercise Science (2) 
+- EXSC 1360 Introduction to Exercise Science (2)
 
-- EXSC 1530 Principles of Strength and Conditioning (3) 
+- EXSC 1530 Principles of Strength and Conditioning (3)
 
-- EXSC 2455 Foundations of Exercise Leadership (3) 
+- EXSC 2455 Foundations of Exercise Leadership (3)
 
-- EXSC 2580 Sports Nutrition (3) 
+- EXSC 2580 Sports Nutrition (3)
 
-- EXSC 3470 Physiology of Exercise I (4) 
+- EXSC 3470 Physiology of Exercise I (4)
 
-   - Physiology of Exercise II (4) 
+   - Physiology of Exercise II (4)
 
-- EXSC 3480 
+- EXSC 3480
 
-   - Biomechanics I (4) 
+   - Biomechanics I (4)
 
-- EXSC 3520 
+- EXSC 3520
 
-   - Biomechanics II (4) 
+   - Biomechanics II (4)
 
-- EXSC 3530 
+- EXSC 3530
 
-   - Exercise Testing and Prescription (4) 
+   - Exercise Testing and Prescription (4)
 
-- EXSC 4150 
+- EXSC 4150
 
-   - Internship in Exercise Science (4) 
+   - Internship in Exercise Science (4)
 
-- EXSC 4800 
+- EXSC 4800
 
-      - Research in Exercise Science (3) 
+      - Research in Exercise Science (3)
 
-- EXSC 4910 
+- EXSC 4910
 
-- EXSC 4920 Seminar in Exercise Science (3) 
+- EXSC 4920 Seminar in Exercise Science (3)
 
-      - First Aid (2) 
+      - First Aid (2)
 
-- PEHS 1450 
+- PEHS 1450
 
-- PSYC 2000 General Psychology (3) 
+- PSYC 2000 General Psychology (3)
 
-- 4 hours from: 
+- 4 hours from:
 
-   - CHEM 1000 Introduction to Chemistry (4) 
+   - CHEM 1000 Introduction to Chemistry (4)
 
-   - CHEM 2110 General Chemistry I (4) 
+   - CHEM 2110 General Chemistry I (4)
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-150 
+150
 
-## _Exercise Science Majors must also complete one of the following Concentrations (12 hours)_ 
+## _Exercise Science Majors must also complete one of the following Concentrations (12 hours)_
 
-## Clinical Exercise Physiology Concentration 
+## Clinical Exercise Physiology Concentration
 
-- EXSC 4050 EKG and Cardiovascular Disease (3) 
+- EXSC 4050 EKG and Cardiovascular Disease (3)
 
-- EXSC 4160 Clinical Experience in Exercise Testing and Prescription (1) 
+- EXSC 4160 Clinical Experience in Exercise Testing and Prescription (1)
 
-- 8 hours from: 
+- 8 hours from:
 
-   - BIOL 2010 Medical Terminology (2) 
+   - BIOL 2010 Medical Terminology (2)
 
-   - EXSC 1530 Principles of Strength and Conditioning (3) 
+   - EXSC 1530 Principles of Strength and Conditioning (3)
 
-   - EXSC 2440 Stress Management (3) 
+   - EXSC 2440 Stress Management (3)
 
-   - EXSC 3300 Health Implications of Obesity (3) 
+   - EXSC 3300 Health Implications of Obesity (3)
 
-   - PSYC 3450 Health Psychology (4) 
+   - PSYC 3450 Health Psychology (4)
 
-   - BIOL 2040 Personal and Community Health (3) 
+   - BIOL 2040 Personal and Community Health (3)
 
-## Pre-Health Concentration 
+## Pre-Health Concentration
 
-- 12 hours from: 
+- 12 hours from:
 
-   - BIOL 2010 Medical Terminology (2) 
+   - BIOL 2010 Medical Terminology (2)
 
-   - BIOL 2210 Foundations of Modern Biology I (4) 
+   - BIOL 2210 Foundations of Modern Biology I (4)
 
-   - BIOL 2220 Foundations of Modern Biology II (4) 
+   - BIOL 2220 Foundations of Modern Biology II (4)
 
-   - CHEM 2120 General Chemistry II (4) 
+   - CHEM 2120 General Chemistry II (4)
 
-   - MATH 2120 Introduction to Statistics with Application (4) 
+   - MATH 2120 Introduction to Statistics with Application (4)
 
-   - PHYS 2140 General Physics I (4) 
+   - PHYS 2140 General Physics I (4)
 
-   - PHYS 2150 General Physics II (4) 
+   - PHYS 2150 General Physics II (4)
 
-   - PSYC 2510 Developmental Psychology (4) 
+   - PSYC 2510 Developmental Psychology (4)
 
-   - PSYC 3120 Abnormal Psychology (4) 
+   - PSYC 3120 Abnormal Psychology (4)
 
-   - PSYC 3450 Health Psychology (4) 
+   - PSYC 3450 Health Psychology (4)
 
-   - SOCI 2010 Intro to Sociology (3) 
+   - SOCI 2010 Intro to Sociology (3)
 
-   - PEHS 1550 Care and Prevention of Injuries and Illnesses (3) 
+   - PEHS 1550 Care and Prevention of Injuries and Illnesses (3)
 
-## Sports Performance Concentration 
+## Sports Performance Concentration
 
-- EXSC 4010 Advanced Resistance Training and Conditioning (3) 
+- EXSC 4010 Advanced Resistance Training and Conditioning (3)
 
-- 9 hours from: 
+- 9 hours from:
 
-   - BIOL 2010 Medical Terminology (2) 
+   - BIOL 2010 Medical Terminology (2)
 
-   - BIOL 2040 Personal and Community Health (3) 
+   - BIOL 2040 Personal and Community Health (3)
 
-   - EXSC 2440 Stress Management (3) 
+   - EXSC 2440 Stress Management (3)
 
-   - PEHS 1550 Care and Prevention of Injuries and Illnesses (3) 
+   - PEHS 1550 Care and Prevention of Injuries and Illnesses (3)
 
-   - PEHS 2340 Psychology of Coaching (2) 
+   - PEHS 2340 Psychology of Coaching (2)
 
-   - PETE 2250 Motor Behavior (3) 
+   - PETE 2250 Motor Behavior (3)
 
-   - SPRL 3150 Recreational Leadership (2) 
+   - SPRL 3150 Recreational Leadership (2)
 
-   - SPRL 3250 Legal Aspects of Sport and Recreation (3) 
+   - SPRL 3250 Legal Aspects of Sport and Recreation (3)
 
-   - SPRL 3300 Management of Sport Facilities and Events (3) 
+   - SPRL 3300 Management of Sport Facilities and Events (3)
 
-## NUTRITION MINOR   (16 hours) 
+## NUTRITION MINOR   (16 hours)
 
-The nutrition minor is an ideal minor to accompany majors within the Department of Kinesiology and other science majors at Anderson University. The minor is designed to provide a sound background in nutrition but without courses that stress clinical chemistry and dietetics. A minor in nutrition is an excellent choice for students who wish to enter the fitness, medical, health, and human services-related professions. It will strengthen the academic component of coursework in these fields and contribute to students becoming more effective practitioners. 
+The nutrition minor is an ideal minor to accompany majors within the Department of Kinesiology and other science majors at Anderson University. The minor is designed to provide a sound background in nutrition but without courses that stress clinical chemistry and dietetics. A minor in nutrition is an excellent choice for students who wish to enter the fitness, medical, health, and human services-related professions. It will strengthen the academic component of coursework in these fields and contribute to students becoming more effective practitioners
 
-## Required Courses 
+## Required Courses
 
-- EXSC 2140 Nutrition in Health and Disease (4) 
+- EXSC 2140 Nutrition in Health and Disease (4)
 
-- EXSC 2580 Sports Nutrition (3) 
+- EXSC 2580 Sports Nutrition (3)
 
-- EXSC 3100 Eating Disorders (3) 
+- EXSC 3100 Eating Disorders (3)
 
-- EXSC 3200 Nutrition in the Life Cycle (3) 
+- EXSC 3200 Nutrition in the Life Cycle (3)
 
-- EXSC 3300 Health Implications of Obesity (3) 
+- EXSC 3300 Health Implications of Obesity (3)
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-151 
+151
 
-## SPORT AND RECREATIONAL LEADERSHIP 
+## SPORT AND RECREATIONAL LEADERSHIP
 
-The sport and recreational leadership major prepares students to work in recreation and sports centers, with athletic programs, at camps, and/or in YMCAs, churches, businesses, etc. The goal of this major is to help young people find their niche in the sport and recreation industry. Students will take a common core of classes and then gain knowledge and experiences in specific areas of sport and recreation programming, management, business, and leadership. 
+The sport and recreational leadership major prepares students to work in recreation and sports centers, with athletic programs, at camps, and/or in YMCAs, churches, businesses, etc. The goal of this major is to help young people find their niche in the sport and recreation industry. Students will take a common core of classes and then gain knowledge and experiences in specific areas of sport and recreation programming, management, business, and leadership
 
-## SPORT & RECREATIONAL LEADERSHIP MAJOR (52 hours) 
+## SPORT & RECREATIONAL LEADERSHIP MAJOR (52 hours)
 
-- SPRL 1350,2450,2550,3150,3250,3300,4850 
+- SPRL 1350,2450,2550,3150,3250,3300,4850
 
-- PETE 1300,2250,3720,4900 
+- PETE 1300,2250,3720,4900
 
-- PEHS 1450,3340,3410 
+- PEHS 1450,3340,3410
 
-- EXSC 1530,2580 
+- EXSC 1530,2580
 
-- ACCT 2010 
+- ACCT 2010
 
-- BSNS 2710,2810 
+- BSNS 2710,2810
 
-## SPORT & RECREATIONAL LEADERSHIP MINOR  (16-17 hours) 
+## SPORT & RECREATIONAL LEADERSHIP MINOR  (16-17 hours)
 
-The sport and recreational leadership minor provides students in other majors with a relevant option regarding sports, physical activity, and recreation, which may enhance their career pathway. Through the intentional selection of courses within the sport and recreational leadership major, students may be prepared to work in recreation centers, sports facilities, churches, and camps. 
+The sport and recreational leadership minor provides students in other majors with a relevant option regarding sports, physical activity, and recreation, which may enhance their career pathway. Through the intentional selection of courses within the sport and recreational leadership major, students may be prepared to work in recreation centers, sports facilities, churches, and camps
 
-- PETE 1300 
+- PETE 1300
 
-- PEHS 1450 
+- PEHS 1450
 
-- SPRL 1350,2450,2550,3150 
+- SPRL 1350,2450,2550,3150
 
-- One course selected from the following options: 
+- One course selected from the following options:
 
-   - PETE 3720,4900 
+   - PETE 3720,4900
 
-   - SPRL 3300,4850 
+   - SPRL 3300,4850
 
-## ATHLETIC COACHING MINOR (15 hours) 
+## ATHLETIC COACHING MINOR (15 hours)
 
-The athletic coaching minor is a non-teaching program that offers students the opportunity to learn requisite skills to become coaches in a youth-sport setting. 
+The athletic coaching minor is a non-teaching program that offers students the opportunity to learn requisite skills to become coaches in a youth-sport setting
 
-## Coaching core (10-11 hours) 
+## Coaching core (10-11 hours)
 
-- PEHS 1450 
+- PEHS 1450
 
-- PEHS 1550 
+- PEHS 1550
 
-- EXSC 1530 or 4010 
+- EXSC 1530 or 4010
 
-- PEHS 2340 or 3340 
+- PEHS 2340 or 3340
 
-- 1 hour from PEHS 1200 and 1 hour from any coaching theory class (PEHS 3030,3040,3050,3060,3070,3080) 
+- 1 hour from PEHS 1200 and 1 hour from any coaching theory class (PEHS 3030,3040,3050,3060,3070,3080)
 
-- -OR-  2 hours from any two coaching theory classes 
+- -OR-  2 hours from any two coaching theory classes
 
-## Electives (4-5 hours) 
+## Electives (4-5 hours)
 
-- PEHS 1060,2020,2040,2260,2340,3030,3050,3060,3070,3080,3340,3410 
+- PEHS 1060,2020,2040,2260,2340,3030,3050,3060,3070,3080,3340,3410
 
-- EXSC 2580 
+- EXSC 2580
 
-- SPRL 1350,2550,3300 
+- SPRL 1350,2550,3300
 
-Students may earn only 1 hour of PEHS 2260 credit for the minor. 
+Students may earn only 1 hour of PEHS 2260 credit for the minor
 
-## ACTIVITY PROGRAM 
+## ACTIVITY PROGRAM
 
-The activity program provides instruction in fundamental skills in each sport or activity offered. The aim is to encourage individuals to develop the skills, strategies, and knowledge to participate at a recreational level. This program fosters personal enrichment of body, mind, and spirit through participation in physical activity. 
+The activity program provides instruction in fundamental skills in each sport or activity offered. The aim is to encourage individuals to develop the skills, strategies, and knowledge to participate at a recreational level. This program fosters personal enrichment of body, mind, and spirit through participation in physical activity
 
-Activity classes are offered in different formats. Some are taught daily in a six-week block. Others are taught two or three days a week for a semester. Some classes require a fee, which is charged to the student’s account at the beginning of the semester. Students are encouraged to bring and use their own sports equipment. 
+Activity classes are offered in different formats. Some are taught daily in a six-week block. Others are taught two or three days a week for a semester. Some classes require a fee, which is charged to the student’s account at the beginning of the semester. Students are encouraged to bring and use their own sports equipment
 
-An intramural/recreational program provides additional opportunities for regular physical activities. Swimming activities are offered in the natatorium. The weight room is open for recreational use during scheduled hours. 
+An intramural/recreational program provides additional opportunities for regular physical activities. Swimming activities are offered in the natatorium. The weight room is open for recreational use during scheduled hours
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-152 
+152
 
-## PEHS Courses 
+## PEHS Courses
 
 |1000|Fitness and Wellness for Life|2 hours (1,2)|
 |---|---|---|
@@ -8771,9 +8771,9 @@ Anderson University Undergraduate Catalog 2025-26
 |3060 |Techniques of Coaching Track|1 hour (1,1)|
 ||Offered: Semester II, 2026-27||
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-153 
+153
 
 |EHS (|cont.)|||
 |---|---|---|---|
@@ -8790,9 +8790,9 @@ Anderson University Undergraduate Catalog 2025-26
 ||Develops skills in the organization and administration of interscholastic athletics, including philosophy,|||
 ||scheduling, budget, equipment care, awards, legal aspects, and facilities.Offered: Semester II.|||
 
-## _Exercise Science Professional Program_ 
+## _Exercise Science Professional Program_
 
-## EXSC Courses 
+## EXSC Courses
 
 |1360|Introduction to Exercise Science|2 hours (2,0)|
 |---|---|---|
@@ -8834,9 +8834,9 @@ Anderson University Undergraduate Catalog 2025-26
 ||Analysis of factors involved in etiology, assessment, medical consequences, treatment, and prevention||
 ||of eating disorders.Offered: Semester II.||
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-154 
+154
 
 |3200 |Nutrition in the Life Cycle<br>3 hours (3,0)|
 |---|---|
@@ -8898,9 +8898,9 @@ Anderson University Undergraduate Catalog 2025-26
 ||_required._ Consent: Instructor.Prerequisite: EXSC 4150.Grade: CR/NC.Repeat: May be repeated.|
 ||Offered: Every semester as needed.|
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-155 
+155
 
 |XSC (|cont.)|
 |---|---|
@@ -8940,11 +8940,11 @@ Anderson University Undergraduate Catalog 2025-26
 ||applications that support teaching, coaching, and recreation (e.g., databases, PowerPoint, screencast,|
 ||geocaching, etc.).Offered: Semester I.|
 
-## PETE Courses 
+## PETE Courses
 
-## _Sport and Recreational Leadership Program_ 
+## _Sport and Recreational Leadership Program_
 
-SPRL Courses 
+SPRL Courses
 
 |1350|Physical Activity Cluster I - Focus on Team Sports|3 hours (0,4)|
 |---|---|---|
@@ -8960,9 +8960,9 @@ SPRL Courses
 ||Introduces planning, programming, and implementation of sports programs for youth and adults within||
 ||such organizations as recreation centers, YMCAs, churches, camps, and businesses.Offered: Semester I.||
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-156 
+156
 
 |PRL (|cont.)|
 |---|---|
@@ -8985,279 +8985,279 @@ Anderson University Undergraduate Catalog 2025-26
 ||Sport and recreational leadership major; junior standing.Consent: Instructor.Repeat: May be|
 ||repeated (total credit not to exceed 6 hours).Grade: CR/NC.Offered: Every semester as needed.|
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-157 
+157
 
-## DEPARTMENT OF TEACHER EDUCATION 
+## DEPARTMENT OF TEACHER EDUCATION
 
-_Chair: Dr. Trotter_ 
+_Chair: Dr. Trotter_
 
-_Faculty: Dr. R Baker, Prof. Hosier, Dr. Sample, Dr. Trotter_ 
+_Faculty: Dr. R Baker, Prof. Hosier, Dr. Sample, Dr. Trotter_
 
-## MISSION STATEMENT 
+## MISSION STATEMENT
 
-The mission of the Department of Teacher Education is to prepare professional educators of excellence in a Christ- centered environment cultivating excellence in the following areas: 
+The mission of the Department of Teacher Education is to prepare professional educators of excellence in a Christ- centered environment cultivating excellence in the following areas:
 
-- Content competence 
+- Content competence
 
-- Cultural connections 
+- Cultural connections
 
-- Christian character 
+- Christian character
 
-In line with the university’s mission, the Department of Teacher Education (DTE) seeks to prepare professional educators as teachers of excellence who integrate Christian faith and learning for service in a global society. The teacher education program is anchored in Anderson University’s commitment to the liberal arts curriculum, which includes the arts, humanities, mathematics, and social and natural sciences. The liberal arts are essential for developing competent educators. 
+In line with the university’s mission, the Department of Teacher Education (DTE) seeks to prepare professional educators as teachers of excellence who integrate Christian faith and learning for service in a global society. The teacher education program is anchored in Anderson University’s commitment to the liberal arts curriculum, which includes the arts, humanities, mathematics, and social and natural sciences. The liberal arts are essential for developing competent educators
 
-Education programs at the undergraduate level are based on both established and current research and sound professional practice. The philosophy, objectives, and outcomes for the teacher education program include contributions from the following: 
+Education programs at the undergraduate level are based on both established and current research and sound professional practice. The philosophy, objectives, and outcomes for the teacher education program include contributions from the following:
 
-- Interstate Teacher Assessment and Support Consortium (InTASC) Standards 
+- Interstate Teacher Assessment and Support Consortium (InTASC) Standards
 
-- Indiana Content and Developmental Standards for Educators 
+- Indiana Content and Developmental Standards for Educators
 
-- International Society for Technology in Education (ISTE) Standards 
+- International Society for Technology in Education (ISTE) Standards
 
-- National and state standards pertaining to each discipline (e.g., CEC, NCSS, NCTM, NCTE, NASM) 
+- National and state standards pertaining to each discipline (e.g., CEC, NCSS, NCTM, NCTE, NASM)
 
-- Philosophies and practices of the DTE and faculty in other content areas for licensure 
+- Philosophies and practices of the DTE and faculty in other content areas for licensure
 
-- Collaborative P-12 educators 
+- Collaborative P-12 educators
 
-The DTE offers undergraduate professional education in courses leading to licensure for the elementary, middle, and high school levels. Efforts to renew and improve teacher education by the Indiana Office of Educator Licensing and the national accreditation body, the Council for the Accreditation of Educator Preparation (CAEP), also govern the teacher education program. The DTE received ongoing accreditation by CAEP in 2024, with no areas of improvement cited. Due to these outside influences, regulations and standards governing teacher preparation programs change periodically. The programs of candidates admitted into the teacher education program at Anderson University are subject to those changes. Teacher education candidates are advised to meet regularly with their advisors to assure compliance with new requirements. Due to changing laws and accreditation requirements, there are occasional program policy changes that aren’t reflected in the current catalog. See the _Teacher Education Handbook_ for the most recent program guidelines and policies. 
+The DTE offers undergraduate professional education in courses leading to licensure for the elementary, middle, and high school levels. Efforts to renew and improve teacher education by the Indiana Office of Educator Licensing and the national accreditation body, the Council for the Accreditation of Educator Preparation (CAEP), also govern the teacher education program. The DTE received ongoing accreditation by CAEP in 2024, with no areas of improvement cited. Due to these outside influences, regulations and standards governing teacher preparation programs change periodically. The programs of candidates admitted into the teacher education program at Anderson University are subject to those changes. Teacher education candidates are advised to meet regularly with their advisors to assure compliance with new requirements. Due to changing laws and accreditation requirements, there are occasional program policy changes that aren’t reflected in the current catalog. See the _Teacher Education Handbook_ for the most recent program guidelines and policies
 
-## GENERAL INFORMATION FOR ADMISSION/RETENTION IN THE TEACHER EDUCATION PROGRAM 
+## GENERAL INFORMATION FOR ADMISSION/RETENTION IN THE TEACHER EDUCATION PROGRAM
 
-All who wish to major in education and seek licensure must be formally admitted to the teacher preparation program (TPP) after completing the prerequisite requirements. These requirements must be met prior to enrolling in upper-division education or subject-specific methods courses. Transfer students considering a major in education should meet with the DTE chair to assess eligibility. Admission to Anderson University neither implies nor guarantees acceptance into the teacher education program. 
+All who wish to major in education and seek licensure must be formally admitted to the teacher preparation program (TPP) after completing the prerequisite requirements. These requirements must be met prior to enrolling in upper-division education or subject-specific methods courses. Transfer students considering a major in education should meet with the DTE chair to assess eligibility. Admission to Anderson University neither implies nor guarantees acceptance into the teacher education program
 
-## TEACHER LICENSURE 
+## TEACHER LICENSURE
 
-Anderson University is regionally accredited by the Higher Learning Commission (HLC). Further, the teacher education program meets the national requirements of educator preparation programs through the Council for the Accreditation of Educator Preparation (CAEP) and the required licensing standards of the Indiana Office of Educator Licensing, as noted above. To be admitted to the teacher preparation program, candidates must earn at least a 2.75 GPA (overall and in the major content area). 
+Anderson University is regionally accredited by the Higher Learning Commission (HLC). Further, the teacher education program meets the national requirements of educator preparation programs through the Council for the Accreditation of Educator Preparation (CAEP) and the required licensing standards of the Indiana Office of Educator Licensing, as noted above. To be admitted to the teacher preparation program, candidates must earn at least a 2.75 GPA (overall and in the major content area)
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-158 
+158
 
-Overall and major GPA expectations increase to 3.0 to be admitted to the professional semester, which includes student teaching. In addition, all required licensing examinations must be passed by the third Friday in November for spring student teachers and the third Friday in June for fall student teachers. Alternatively, in lieu of passing scores, candidates may opt to complete a department-approved preparation/remediation plan for content and pedagogy exams in order to be admitted to the professional semester. Exam preparation/remediation must be completed by the established testing deadline. [NOTE: While not required for graduation, passing scores on all license examinations are required to attain licensure from the state]. _All fees for tests, background checks, and courses are the candidate’s responsibility._ 
+Overall and major GPA expectations increase to 3.0 to be admitted to the professional semester, which includes student teaching. In addition, all required licensing examinations must be passed by the third Friday in November for spring student teachers and the third Friday in June for fall student teachers. Alternatively, in lieu of passing scores, candidates may opt to complete a department-approved preparation/remediation plan for content and pedagogy exams in order to be admitted to the professional semester. Exam preparation/remediation must be completed by the established testing deadline. [NOTE: While not required for graduation, passing scores on all license examinations are required to attain licensure from the state]. _All fees for tests, background checks, and courses are the candidate’s responsibility._
 
-## PRE-ADMISSION 
+## PRE-ADMISSION
 
-- Overall GPA of 2.5 required for admission to EDUC 2030,2170,2200,2460, and 2860 
+- Overall GPA of 2.5 required for admission to EDUC 2030,2170,2200,2460, and 2860
 
-- Completion of EDUC 2000,2100, and 2110 with grades of C or better 
+- Completion of EDUC 2000,2100, and 2110 with grades of C or better
 
-- Completion of SPED 2400 with a grade of C or better 
+- Completion of SPED 2400 with a grade of C or better
 
-- Declaration of education teaching major 
+- Declaration of education teaching major
 
-## PROGRAM ADMISSION 
+## PROGRAM ADMISSION
 
-Elementary education majors must apply and be admitted to the teacher preparation program before enrolling in any 3000-level education course. Secondary & P-12 education majors must apply and be admitted to the program before enrolling in EDUC 3000, or any other 3000-level education course. 
+Elementary education majors must apply and be admitted to the teacher preparation program before enrolling in any 3000-level education course. Secondary & P-12 education majors must apply and be admitted to the program before enrolling in EDUC 3000, or any other 3000-level education course
 
-- Overall and major GPA must be 2.75 or higher. 
+- Overall and major GPA must be 2.75 or higher
 
-- The following courses completed with a grade less than C must be repeated: any EDUC course; any SPED course; ENGL 1110,1120. 
+- The following courses completed with a grade less than C must be repeated: any EDUC course; any SPED course; ENGL 1110,1120
 
-- Elementary education majors must also earn a C or higher in MATH 1100 and MATH 1110, but completion of these courses with a C or better is not required prior to admission to the program. 
+- Elementary education majors must also earn a C or higher in MATH 1100 and MATH 1110, but completion of these courses with a C or better is not required prior to admission to the program
 
-- Candidates must successfully complete a teacher preparation program (TPP) portfolio presentation. 
+- Candidates must successfully complete a teacher preparation program (TPP) portfolio presentation
 
-- Obtain passing scores on the individual Praxis Core Academic Skills for Educators tests in reading (156), writing (162), and math (150), or a composite score of 460 for all three tests. Candidates with an overall GPA of at least 
+- Obtain passing scores on the individual Praxis Core Academic Skills for Educators tests in reading (156), writing (162), and math (150), or a composite score of 460 for all three tests. Candidates with an overall GPA of at least
 
-- 3.75, who take but do not pass Praxis Core through individual scores or a composite, may still apply for admission. 
+- 3.75, who take but do not pass Praxis Core through individual scores or a composite, may still apply for admission
 
-- Candidates must have completed or be enrolled in EDUC 2460. 
+- Candidates must have completed or be enrolled in EDUC 2460
 
-- Candidates must have completed or be enrolled in EDUC 2170, EDUC 2860, or MUED 3110. 
+- Candidates must have completed or be enrolled in EDUC 2170, EDUC 2860, or MUED 3110
 
-_All fees for tests, background checks, and courses are the candidate’s responsibility._ 
+_All fees for tests, background checks, and courses are the candidate’s responsibility._
 
-## RETENTION IN TEACHER EDUCATION 
+## RETENTION IN TEACHER EDUCATION
 
-Candidates admitted to the  program are reviewed each semester. Acceptable performance to remain in good standing is defined by: 
+Candidates admitted to the  program are reviewed each semester. Acceptable performance to remain in good standing is defined by:
 
-- Maintaining at least a 2.75 overall GPA. 
+- Maintaining at least a 2.75 overall GPA
 
-- Earning at least a 2.75 GPA in the major. 
+- Earning at least a 2.75 GPA in the major
 
-- Completing required testing remediation before the last day of the term in the fall or spring semester after admission to the program: 
+- Completing required testing remediation before the last day of the term in the fall or spring semester after admission to the program:
 
-   - Candidates who did not earn a passing score on each of the basic skills exams (reading, writing, math) are required to remediate those skills through the DTE-adopted protocol. 
+   - Candidates who did not earn a passing score on each of the basic skills exams (reading, writing, math) are required to remediate those skills through the DTE-adopted protocol
 
-   - Candidates admitted to the program with the GPA exemption must complete additional remediation related to their required licensure exams. Those who fail either the reading or writing basic skills exam must remediate on their specific licensure exams. Elementary and math education majors who fail the math basic skills exams must remediate on math-specific licensure exams. Remediation will occur through the DTE-adopted protocols. 
+   - Candidates admitted to the program with the GPA exemption must complete additional remediation related to their required licensure exams. Those who fail either the reading or writing basic skills exam must remediate on their specific licensure exams. Elementary and math education majors who fail the math basic skills exams must remediate on math-specific licensure exams. Remediation will occur through the DTE-adopted protocols
 
-- Exhibiting continuous progress toward the knowledge, skills, and dispositions identified in the InTASC standards (e.g., as evaluated by key assessments, field experience evaluations, earning a C or better in all EDUC and SPED courses). 
+- Exhibiting continuous progress toward the knowledge, skills, and dispositions identified in the InTASC standards (e.g., as evaluated by key assessments, field experience evaluations, earning a C or better in all EDUC and SPED courses)
 
-- Adhering to all program, department, and university policies. 
+- Adhering to all program, department, and university policies
 
-Candidates who fail to make adequate progress toward program outcomes (academic and/or dispositional) may be recommended for departmental probation, counseled out of teacher education, or dismissed from the program. Candidates placed on probation will receive documentation that outlines conditions for full reinstatement. Probationary candidates will be permitted to enroll in EDUC and SPED coursework during their probationary term. Probation is limited to one instance of a single semester. If the condition is not removed at the end of the probationary semester, the candidate may be dismissed from the program. Appeals for retention beyond this probationary period must be made in writing to the Dean of the College of Professional Studies as well as the DTE chair. Candidates can apply for readmission only once. 
+Candidates who fail to make adequate progress toward program outcomes (academic and/or dispositional) may be recommended for departmental probation, counseled out of teacher education, or dismissed from the program. Candidates placed on probation will receive documentation that outlines conditions for full reinstatement. Probationary candidates will be permitted to enroll in EDUC and SPED coursework during their probationary term. Probation is limited to one instance of a single semester. If the condition is not removed at the end of the probationary semester, the candidate may be dismissed from the program. Appeals for retention beyond this probationary period must be made in writing to the Dean of the College of Professional Studies as well as the DTE chair. Candidates can apply for readmission only once
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-159 
+159
 
-## ADMISSION TO STUDENT TEACHING 
+## ADMISSION TO STUDENT TEACHING
 
-Student teaching is the culminating experience for all education majors seeking licensure. It includes full-time teaching in a classroom of the candidate’s licensure area(s). Admission criteria for student teaching include: 
+Student teaching is the culminating experience for all education majors seeking licensure. It includes full-time teaching in a classroom of the candidate’s licensure area(s). Admission criteria for student teaching include:
 
-- Overall and major GPA of 3.0; 
+- Overall and major GPA of 3.0;
 
-- Grades of C or better in EDUC and SPED courses; 
+- Grades of C or better in EDUC and SPED courses;
 
-- Satisfactory performance on all knowledge, skill, and disposition assessments; 
+- Satisfactory performance on all knowledge, skill, and disposition assessments;
 
-- Completion of 114 credit hours; 
+- Completion of 114 credit hours;
 
-- Satisfactory completion of a student teaching portfolio presentation; 
+- Satisfactory completion of a student teaching portfolio presentation;
 
-- Successful completion of Indiana content and pedagogy licensure tests by the third Friday of November for spring student teaching and the third Friday of June for fall student teaching. Candidates will not begin student teaching without passing all required Praxis exams (content and pedagogy) or completing the approved remediation plan/course by the testing deadline. 
+- Successful completion of Indiana content and pedagogy licensure tests by the third Friday of November for spring student teaching and the third Friday of June for fall student teaching. Candidates will not begin student teaching without passing all required Praxis exams (content and pedagogy) or completing the approved remediation plan/course by the testing deadline
 
-- Completion of a cleared, expanded criminal history check, suicide prevention training program, and CPR certification. Both the suicide prevention training program and the CPR certification must meet the requirements of the Indiana Department of Education. 
+- Completion of a cleared, expanded criminal history check, suicide prevention training program, and CPR certification. Both the suicide prevention training program and the CPR certification must meet the requirements of the Indiana Department of Education
 
-## EDUCATOR DISPOSITION ASSESSMENT 
+## EDUCATOR DISPOSITION ASSESSMENT
 
-The DTE expects all teacher candidates in the professional education program to engage in practices and behaviors that are characteristic of developing career teachers. We believe candidates must demonstrate the values, attitudes, and commitments of the developing professional educator. The DTE has adopted the Educator Disposition Assessment (EDA) instrument to both raise concerns and identify exemplary dispositional behavior of candidates as they progress through the teacher preparation program. Through the use of this curriculum, the DTE informs teacher candidates of the teacher education program’s dispositional expectations, assesses baseline dispositional data, and documents when changes have occurred in dispositions and under what set of circumstances. Candidates are expected to demonstrate proficiency of the dispositions identified on the EDA in coursework and in the field. When dispositional concerns are identified, candidates are provided additional support to encourage their professional growth and programmatic success. 
+The DTE expects all teacher candidates in the professional education program to engage in practices and behaviors that are characteristic of developing career teachers. We believe candidates must demonstrate the values, attitudes, and commitments of the developing professional educator. The DTE has adopted the Educator Disposition Assessment (EDA) instrument to both raise concerns and identify exemplary dispositional behavior of candidates as they progress through the teacher preparation program. Through the use of this curriculum, the DTE informs teacher candidates of the teacher education program’s dispositional expectations, assesses baseline dispositional data, and documents when changes have occurred in dispositions and under what set of circumstances. Candidates are expected to demonstrate proficiency of the dispositions identified on the EDA in coursework and in the field. When dispositional concerns are identified, candidates are provided additional support to encourage their professional growth and programmatic success
 
-## EDUCATION FIELD EXPERIENCES 
+## EDUCATION FIELD EXPERIENCES
 
-Teacher education candidates spend extended time working with students, classroom teachers, and university faculty in field experiences early in their major course work and throughout their program. These experiences provide practical application to the theories presented in concurrent education classes. Field experiences are supervised by university personnel. Teacher education candidates are required by the program to obtain a cleared, expanded criminal history check annually before entering the classroom for field experience. Some schools may require their own background check in addition to the one required by the DTE. This documentation and accompanying fees are the candidate’s responsibility. 
+Teacher education candidates spend extended time working with students, classroom teachers, and university faculty in field experiences early in their major course work and throughout their program. These experiences provide practical application to the theories presented in concurrent education classes. Field experiences are supervised by university personnel. Teacher education candidates are required by the program to obtain a cleared, expanded criminal history check annually before entering the classroom for field experience. Some schools may require their own background check in addition to the one required by the DTE. This documentation and accompanying fees are the candidate’s responsibility
 
-## STUDENT TEACHING 
+## STUDENT TEACHING
 
-Teacher education candidates spend approximately 16 weeks in the field during one semester of student teaching. The student teaching experience provides candidates with opportunities to plan and implement instruction, manage the classroom, evaluate student progress, communicate with other professionals and parents, and develop as professional educators under the supervision and mentoring of university and P-12 school personnel. Candidates are strongly discouraged from employment on or off campus during their student teaching semester. Candidates must meet all requirements listed above under Admission to Student Teaching. Candidates are responsible for all fees associated with testing, remediation, and coursework. Due to changing laws and accreditation requirements, there are occasional program policy changes that are not reflected in the current catalog. See the _Student Teaching Handbook_ for current expectations and policies related to the professional semester. 
+Teacher education candidates spend approximately 16 weeks in the field during one semester of student teaching. The student teaching experience provides candidates with opportunities to plan and implement instruction, manage the classroom, evaluate student progress, communicate with other professionals and parents, and develop as professional educators under the supervision and mentoring of university and P-12 school personnel. Candidates are strongly discouraged from employment on or off campus during their student teaching semester. Candidates must meet all requirements listed above under Admission to Student Teaching. Candidates are responsible for all fees associated with testing, remediation, and coursework. Due to changing laws and accreditation requirements, there are occasional program policy changes that are not reflected in the current catalog. See the _Student Teaching Handbook_ for current expectations and policies related to the professional semester
 
-## EDUCATION TEACHING MAJORS 
+## EDUCATION TEACHING MAJORS
 
-## ELEMENTARY EDUCATION (GRADES K-6) 
+## ELEMENTARY EDUCATION (GRADES K-6)
 
-An elementary education major prepares candidates to teach kindergarten through grade 6 in the general elementary classroom. All elementary education candidates earn embedded concentrations in Reading K-6 and Special Education K-6 with either serving as the required concentration for state licensure. The reading concentration does not provide an additional licensing area; however, it does signify that a candidate has received extra coursework and field experiences in designing effective reading instruction. The special education concentration may provide an additional licensing area in Mild Intervention (Grades K-6) for candidates who pass the corresponding licensure examination and complete student teaching with a focus on both general and special education students and classroom settings. Both concentrations will be printed on their license in addition to Elementary Education K-6. 
+An elementary education major prepares candidates to teach kindergarten through grade 6 in the general elementary classroom. All elementary education candidates earn embedded concentrations in Reading K-6 and Special Education K-6 with either serving as the required concentration for state licensure. The reading concentration does not provide an additional licensing area; however, it does signify that a candidate has received extra coursework and field experiences in designing effective reading instruction. The special education concentration may provide an additional licensing area in Mild Intervention (Grades K-6) for candidates who pass the corresponding licensure examination and complete student teaching with a focus on both general and special education students and classroom settings. Both concentrations will be printed on their license in addition to Elementary Education K-6
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-160 
+160
 
-## ELEMENTARY EDUCATION MAJOR  (102 hours) 
+## ELEMENTARY EDUCATION MAJOR  (102 hours)
 
-- EDUC 2000,2030,2100,2110,2170,2200,2460,2520,2730,3120,3300,4120,4125,4310,4320,4850,4910 
+- EDUC 2000,2030,2100,2110,2170,2200,2460,2520,2730,3120,3300,4120,4125,4310,4320,4850,4910
 
-- SPED 2400,2500,2550,3120,3200 
+- SPED 2400,2500,2550,3120,3200
 
-- MUED 2110 
+- MUED 2110
 
-- EDUC 4010 Student Teaching (10 hours; may be repeated up to a maximum of 20 hours) 
+- EDUC 4010 Student Teaching (10 hours; may be repeated up to a maximum of 20 hours)
 
-- EDUC 4930 Leadership Seminar in Character Education 
+- EDUC 4930 Leadership Seminar in Character Education
 
-- 21 hours in partial fulfillment of the Liberal Arts Curriculum that also meet state licensure requirements: 
+- 21 hours in partial fulfillment of the Liberal Arts Curriculum that also meet state licensure requirements:
 
-   - MATH 1100 ( _Quantitative Ways of Knowing_ ) 
+   - MATH 1100 ( _Quantitative Ways of Knowing_ )
 
-   - BIOL 1000, PHYS 1020 ( _Scientific Ways of Knowing_ ) 
+   - BIOL 1000, PHYS 1020 ( _Scientific Ways of Knowing_ )
 
-   - ENGL 3590; HIST 2030 or HIST 2040; HIST 2110 or 2120 ( _Humanistic & Artistic Ways of Knowing_ ) Note: HIST 2000 may fulfill licensing requirements in place of HIST 2030 or HIST 2040. 
+   - ENGL 3590; HIST 2030 or HIST 2040; HIST 2110 or 2120 ( _Humanistic & Artistic Ways of Knowing_ ) Note: HIST 2000 may fulfill licensing requirements in place of HIST 2030 or HIST 2040
 
-   - Students who completed the ICC and are exempt from the Raven Core must still fulfill licensing requirements with these specific courses or other courses approved by the department chair. 
+   - Students who completed the ICC and are exempt from the Raven Core must still fulfill licensing requirements with these specific courses or other courses approved by the department chair
 
-- 5 hours in supportive disciplines that also fulfill state licensure requirements: 
+- 5 hours in supportive disciplines that also fulfill state licensure requirements:
 
-   - CPSC 1030 
+   - CPSC 1030
 
-   - MATH 1110 
+   - MATH 1110
 
-## SECONDARY TEACHING (GRADES 5-12) 
+## SECONDARY TEACHING (GRADES 5-12)
 
-In addition to the Department of Teacher Education requirements below, candidates must complete requirements for their specific secondary teaching programs. 
+In addition to the Department of Teacher Education requirements below, candidates must complete requirements for their specific secondary teaching programs
 
-## SECONDARY TEACHER PREPARATION PROGRAM CORE   (43 hours) 
+## SECONDARY TEACHER PREPARATION PROGRAM CORE   (43 hours)
 
-- EDUC 2000,2100,2110,2460,2520,2860,3000,3100,3120,4710,4715 
+- EDUC 2000,2100,2110,2460,2520,2860,3000,3100,3120,4710,4715
 
-- SPED 2400 
+- SPED 2400
 
-- EDUC 4010 Student Teaching (10 credit hours) and EDUC 4930 
+- EDUC 4010 Student Teaching (10 credit hours) and EDUC 4930
 
-- Special Methods 4700 required prior to the professional semester and is counted in content area hours. 
+- Special Methods 4700 required prior to the professional semester and is counted in content area hours
 
-Requirements for the secondary teaching programs listed below may be found in the catalog sections of their respective departments. 
+Requirements for the secondary teaching programs listed below may be found in the catalog sections of their respective departments
 
-- Language Arts Teaching major (English) 
+- Language Arts Teaching major (English)
 
-- Mathematics Teaching major (Mathematics) 
+- Mathematics Teaching major (Mathematics)
 
-- Social Studies Teaching major (History) 
+- Social Studies Teaching major (History)
 
-## ALL Grade MUSIC TEACHING (GRADES P-12) 
+## ALL Grade MUSIC TEACHING (GRADES P-12)
 
-Requirements for the music education program may be found in the catalog section listed below. 
+Requirements for the music education program may be found in the catalog section listed below
 
-- Music Education major ( _School of Music & Performing Arts_ ) 
+- Music Education major ( _School of Music & Performing Arts_ )
 
-## EDUCATION (NON-LICENSE) MAJOR OR MINORS 
+## EDUCATION (NON-LICENSE) MAJOR OR MINORS
 
-Students who seek non-teaching careers related to the education of children or youth (e.g., child life specialist, youth program coordinator, youth counselor, community outreach coordinator, family support worker, religious education director, children’s ministry coordinator, behavioral specialist, child and adolescent therapist) may choose to pursue a non-license major or minor in education or a minor in special education, none of which lead to licensure as a teacher in the State of Indiana. 
+Students who seek non-teaching careers related to the education of children or youth (e.g., child life specialist, youth program coordinator, youth counselor, community outreach coordinator, family support worker, religious education director, children’s ministry coordinator, behavioral specialist, child and adolescent therapist) may choose to pursue a non-license major or minor in education or a minor in special education, none of which lead to licensure as a teacher in the State of Indiana
 
-## BACHELOR OF ARTS IN EDUCATION MAJOR (NON-LICENSE) 
+## BACHELOR OF ARTS IN EDUCATION MAJOR (NON-LICENSE)
 
-- 30 hours (subject to change) from approved DTE courses that include the following: o EDUC 2000,2030,2100,2110,2170,2200,2460,2520; SPED 2400 o EDUC 4810 (4-hour internship) 
+- 30 hours (subject to change) from approved DTE courses that include the following: o EDUC 2000,2030,2100,2110,2170,2200,2460,2520; SPED 2400 o EDUC 4810 (4-hour internship)
 
-## EDUCATION MINOR 
+## EDUCATION MINOR
 
-- 16 hours from approved DTE courses that include the following: o EDUC 2000,2100,2110,2460,4810 o SPED 2400 
+- 16 hours from approved DTE courses that include the following: o EDUC 2000,2100,2110,2460,4810 o SPED 2400
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-161 
+161
 
-## SPECIAL EDUCATION MINOR 
+## SPECIAL EDUCATION MINOR
 
-- 15 hours from approved DTE courses that include the following: 
+- 15 hours from approved DTE courses that include the following:
 
-   - SPED 2400,2500,2550,3120,3200 
+   - SPED 2400,2500,2550,3120,3200
 
-## READING SPECIALIST WITH TRAINING IN DYSLEXIA 
+## READING SPECIALIST WITH TRAINING IN DYSLEXIA
 
-Anderson University is approved by the Indiana Department of Education to prepare reading specialists with training in dyslexia. This position serves as a resource to principals, teachers, families, and students in the area of dyslexia, and helps the district with screening and intervention processes. 
+Anderson University is approved by the Indiana Department of Education to prepare reading specialists with training in dyslexia. This position serves as a resource to principals, teachers, families, and students in the area of dyslexia, and helps the district with screening and intervention processes
 
-## DYSLEXIA PROGRAM 
+## DYSLEXIA PROGRAM
 
-- All 15 credits are embedded in the elementary education major; however, teacher candidates must pass a competency requirement to complete the program and earn this designation. 
+- All 15 credits are embedded in the elementary education major; however, teacher candidates must pass a competency requirement to complete the program and earn this designation
 
-   - EDUC 2200,2730,3300,4850,4910 
+   - EDUC 2200,2730,3300,4850,4910
 
-   - SPED 3120 
+   - SPED 3120
 
-## TRANSITION TO TEACHING PROGRAM 
+## TRANSITION TO TEACHING PROGRAM
 
-## (Post-Baccalaureate Licensure) 
+## (Post-Baccalaureate Licensure)
 
-The Transition to Teaching Program (T2T), approved by the state of Indiana (IC 20-28-4: 511 IAC 13-1-1), is designed for those individuals with a baccalaureate degree and a desire to become a teacher. This program is specifically designed to recruit, prepare, and license talented individuals for teaching at the elementary (K-6) or secondary (5-12) levels. Admission requirements are established by the State of Indiana. Teacher candidates may select either an elementary or secondary track. See the _Department of Teacher Education Handbook for T2T_ for up-to-date guidance regarding program guidelines and policies. The program is subject to any changes from the Indiana Department of Education. 
+The Transition to Teaching Program (T2T), approved by the state of Indiana (IC 20-28-4: 511 IAC 13-1-1), is designed for those individuals with a baccalaureate degree and a desire to become a teacher. This program is specifically designed to recruit, prepare, and license talented individuals for teaching at the elementary (K-6) or secondary (5-12) levels. Admission requirements are established by the State of Indiana. Teacher candidates may select either an elementary or secondary track. See the _Department of Teacher Education Handbook for T2T_ for up-to-date guidance regarding program guidelines and policies. The program is subject to any changes from the Indiana Department of Education
 
-Admission to the T2T program is required. There is a separate calendar for the program. Visit the _T2T webpage_ for additional details regarding application and schedule or for additional information about the T2T program. 
+Admission to the T2T program is required. There is a separate calendar for the program. Visit the _T2T webpage_ for additional details regarding application and schedule or for additional information about the T2T program
 
-## T2T PROGRAM DESIGN 
+## T2T PROGRAM DESIGN
 
-The Transition to Teaching Program is a 12-month intensive program of educational coursework, field experiences, and a semester of clinical practice (student teaching), which, when successfully completed, leads to a recommendation for an Indiana teaching license. Coursework consists primarily of asynchronous online instruction. Teacher candidates must be available during the school day for 10-16 weeks for full-time study during student teaching, which may be permitted to occur as a part of a candidate’s employment in a K-12 setting. Coursework is compressed into modules throughout the program. 
+The Transition to Teaching Program is a 12-month intensive program of educational coursework, field experiences, and a semester of clinical practice (student teaching), which, when successfully completed, leads to a recommendation for an Indiana teaching license. Coursework consists primarily of asynchronous online instruction. Teacher candidates must be available during the school day for 10-16 weeks for full-time study during student teaching, which may be permitted to occur as a part of a candidate’s employment in a K-12 setting. Coursework is compressed into modules throughout the program
 
-All courses are in alignment with Indiana Educator Standards (REPA 3 developmental and content standards), Council for the Accreditation of Educator Preparation (CAEP) Standards, the Interstate New Teacher Assessment and Support Consortium (InTASC) Principles, the International Society for Technology in Education (ISTE) Standards, and the Indiana Office of Educator Licensing. 
+All courses are in alignment with Indiana Educator Standards (REPA 3 developmental and content standards), Council for the Accreditation of Educator Preparation (CAEP) Standards, the Interstate New Teacher Assessment and Support Consortium (InTASC) Principles, the International Society for Technology in Education (ISTE) Standards, and the Indiana Office of Educator Licensing
 
-## ELEMENTARY (K-6) TEACHING LICENSURE (24 hours) 
+## ELEMENTARY (K-6) TEACHING LICENSURE (24 hours)
 
-●​ EDUC 4200,4210,4215,4220,4221,4222,4231,4232,4240,4260,4280 
+●​ EDUC 4200,4210,4215,4220,4221,4222,4231,4232,4240,4260,4280
 
-## SECONDARY (5-12) TEACHING LICENSURE (18 hours) 
+## SECONDARY (5-12) TEACHING LICENSURE (18 hours)
 
-- EDUC 4200,4210,4215,4250,4251,4240,4260,4280 
+- EDUC 4200,4210,4215,4250,4251,4240,4260,4280
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-162 
+162
 
-## EDUC Courses 
+## EDUC Courses
 
-2000 Teaching as a Profession 2 hours (arranged) 
+2000 Teaching as a Profession 2 hours (arranged)
 
-Designed for the prospective teacher education candidate to examine and understand one’s values, beliefs, motivations, and goals; to be aware of and able to evaluate one’s personal learning characteristics; to be knowledgeable about the developmental stages in becoming a teacher; the history of education in the United States; and to develop a view of education as related to self, students, teachers, schools, community, the teaching profession, foundations, reform, and the future. Draws heavily upon class participation, classroom observations, research, and oral and written communication skills. Completion with a C or better required for all elementary and secondary education majors. Requires 10 hours of field experience. Offered : Semester I, II. 
+Designed for the prospective teacher education candidate to examine and understand one’s values, beliefs, motivations, and goals; to be aware of and able to evaluate one’s personal learning characteristics; to be knowledgeable about the developmental stages in becoming a teacher; the history of education in the United States; and to develop a view of education as related to self, students, teachers, schools, community, the teaching profession, foundations, reform, and the future. Draws heavily upon class participation, classroom observations, research, and oral and written communication skills. Completion with a C or better required for all elementary and secondary education majors. Requires 10 hours of field experience. Offered : Semester I, II
 
-2030 Learning and Teaching Mathematics in the Elementary Classroom 3 hours (arranged) 
+2030 Learning and Teaching Mathematics in the Elementary Classroom 3 hours (arranged)
 
-Develops content and pedagogical knowledge through state and national standards for the development and delivery of a well-designed, standards-based mathematics curriculum. Course activities include presentation of instructional materials, methods, and assessment related to elementary school mathematics. Completion with a  C or better required for all elementary education majors. Field experiences may be offered or required. Prerequisite : 2.5 overall GPA; MATH 1100,1110; EDUC 2000,2100,2110. Expectation : Grade of C or better in MATH 1100,1110. Offered : Semester I. 
+Develops content and pedagogical knowledge through state and national standards for the development and delivery of a well-designed, standards-based mathematics curriculum. Course activities include presentation of instructional materials, methods, and assessment related to elementary school mathematics. Completion with a  C or better required for all elementary education majors. Field experiences may be offered or required. Prerequisite : 2.5 overall GPA; MATH 1100,1110; EDUC 2000,2100,2110. Expectation : Grade of C or better in MATH 1100,1110. Offered : Semester I
 
 ||2100,2110.Expectation: Grade of C or better in MATH 1100,1110.Offered: Semester I.||
 |---|---|---|
@@ -9273,23 +9273,23 @@ Develops content and pedagogical knowledge through state and national standards 
 ||_Curriculum._ SAME AS:PSYC 2110.Offered: Semester I, II.||
 |2170|Teaching I: Curriculum and Instruction for Early Childhood<br>4 hours (arranged)||
 
-Focus on curriculum development and planning for kindergarten and primary grades, with emphasis on standards-based teaching and the use of developmentally appropriate strategies. Highlights distinctive aspects of instructing young children, including an introduction to classroom organization and management. Completion with a grade of C or better required for all elementary education majors. Requires 20 hours of field experience. Prerequisite : 2.5 overall GPA; EDUC 2000,2100,2110. Offered : Semester II. 
+Focus on curriculum development and planning for kindergarten and primary grades, with emphasis on standards-based teaching and the use of developmentally appropriate strategies. Highlights distinctive aspects of instructing young children, including an introduction to classroom organization and management. Completion with a grade of C or better required for all elementary education majors. Requires 20 hours of field experience. Prerequisite : 2.5 overall GPA; EDUC 2000,2100,2110. Offered : Semester II
 
-- 2200 Foundations of Reading Instruction 3 hours (3,0) Foundations of reading science are presented, including the Simple View of Reading (SVR), Scarborough’s Reading Rope, the five essential elements of reading (phonemic awareness, phonics, fluency, vocabulary, and comprehension) and language domains. Developmental progressions in reading, including systematic scope and sequences for phonological awareness and phonics, inform instruction. Teacher candidates learn how to promote effective word recognition skills in beginning and early readers. Research-based strategies in phonemic awareness, phonics, and fluency instruction are studied and applied. Candidates complete training in a scientifically-based intervention, emphasizing systematic and explicit phonics instruction. Prepares candidates for the IDOE-required science of reading literacy endorsement (passing score on additional Praxis exam required). Completion with a grade of C or better required for all elementary education majors. No field experience required. Prerequisite : 2.5 overall GPA; EDUC 2000,2100,2110,2170; SPED 2400. Offered : Semester I. 
+- 2200 Foundations of Reading Instruction 3 hours (3,0) Foundations of reading science are presented, including the Simple View of Reading (SVR), Scarborough’s Reading Rope, the five essential elements of reading (phonemic awareness, phonics, fluency, vocabulary, and comprehension) and language domains. Developmental progressions in reading, including systematic scope and sequences for phonological awareness and phonics, inform instruction. Teacher candidates learn how to promote effective word recognition skills in beginning and early readers. Research-based strategies in phonemic awareness, phonics, and fluency instruction are studied and applied. Candidates complete training in a scientifically-based intervention, emphasizing systematic and explicit phonics instruction. Prepares candidates for the IDOE-required science of reading literacy endorsement (passing score on additional Praxis exam required). Completion with a grade of C or better required for all elementary education majors. No field experience required. Prerequisite : 2.5 overall GPA; EDUC 2000,2100,2110,2170; SPED 2400. Offered : Semester I
 
-2460 Teaching in a Diverse Society 3 hours (3,0) 
+2460 Teaching in a Diverse Society 3 hours (3,0)
 
-Emphasis on the ways candidates will encounter diversity, including cultural and linguistic diversity, in educational settings. Explores changing demographics of schools, cultural competence, and defining one’s cultural self. Attention to how teacher candidates can support diverse learners by understanding and implementing culturally relevant pedagogical practices. Introduces strategies for instruction and engaging in culturally relevant teaching to meet the needs of all students. Completion with a grade of C or better required for all elementary and secondary education majors. No field experience required. Prerequisite : 2.5 overall GPA; EDUC 2000,2100,2110. Offered : Semester I, II. 
+Emphasis on the ways candidates will encounter diversity, including cultural and linguistic diversity, in educational settings. Explores changing demographics of schools, cultural competence, and defining one’s cultural self. Attention to how teacher candidates can support diverse learners by understanding and implementing culturally relevant pedagogical practices. Introduces strategies for instruction and engaging in culturally relevant teaching to meet the needs of all students. Completion with a grade of C or better required for all elementary and secondary education majors. No field experience required. Prerequisite : 2.5 overall GPA; EDUC 2000,2100,2110. Offered : Semester I, II
 
-2520 Technology in the Classroom 2 hours (2,0) 
+2520 Technology in the Classroom 2 hours (2,0)
 
-Increases the teacher candidate’s awareness of technology concepts and tools as a means of providing differential instruction in a student-centered classroom. The use of current technologies is framed within the ISTE Standards, sound learning theory, proven pedagogical principles, and current professional standards. Provides opportunities to develop skills and perceptivity in selecting, applying, integrating, and managing instructional technology in the K-12 classroom. Completion with a grade of C or better required for elementary and secondary education majors. No field experience required. Offered : Semester I, II. 
+Increases the teacher candidate’s awareness of technology concepts and tools as a means of providing differential instruction in a student-centered classroom. The use of current technologies is framed within the ISTE Standards, sound learning theory, proven pedagogical principles, and current professional standards. Provides opportunities to develop skills and perceptivity in selecting, applying, integrating, and managing instructional technology in the K-12 classroom. Completion with a grade of C or better required for elementary and secondary education majors. No field experience required. Offered : Semester I, II
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-163 
+163
 
-2730 Field Experiences in Reading Processes 1 hour (arranged) Completion with a grade of C or better required for all elementary education majors. Requires 15 hours of field experience. Expectation : Admission to teacher preparation program (TPP) required. Prerequisite : EDUC 2200. Corequisite : EDUC 3300. Offered : Semester II. 
+2730 Field Experiences in Reading Processes 1 hour (arranged) Completion with a grade of C or better required for all elementary education majors. Requires 15 hours of field experience. Expectation : Admission to teacher preparation program (TPP) required. Prerequisite : EDUC 2200. Corequisite : EDUC 3300. Offered : Semester II
 
 ||Prerequisite: EDUC 2200.Corequisite: EDUC 3300.Offered: Semester II.|
 |---|---|
@@ -9348,11 +9348,11 @@ Anderson University Undergraduate Catalog 2025-26
 ||_Experience] component of theLiberal Arts Core Curriculum._Grade of C or better required for education|
 ||majors.Offered: Summer.|
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-164 
+164
 
-4010 Student Teaching 10 hours (arranged) Observation, participation, and teaching in the school setting for 10-16 weeks on a full-day basis. Student teachers are expected to participate in all aspects of school responsibilities as part of the professional semester. Completion with a grade of C or better required for all education majors. REQUIREMENTS : See the _Admission to Student Teaching_ section in this catalog, the _Teacher Education_ 
+4010 Student Teaching 10 hours (arranged) Observation, participation, and teaching in the school setting for 10-16 weeks on a full-day basis. Student teachers are expected to participate in all aspects of school responsibilities as part of the professional semester. Completion with a grade of C or better required for all education majors. REQUIREMENTS : See the _Admission to Student Teaching_ section in this catalog, the _Teacher Education_
 
 ||REQUIREMENTS: See the _Admission to Student Teaching_section in this catalog, the _Teacher Education_|
 |---|---|
@@ -9412,13 +9412,13 @@ Anderson University Undergraduate Catalog 2025-26
 ||Expectation: Admission to teacher preparation program (TPP) required.Prerequisite: 3.0 GPA (overall|
 ||and major).Corequisite: EDUC 4710.Offered: Semester I.|
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-165 
+165
 
-4800 Internship in Youth Leadership 2 hours (1,2) 
+4800 Internship in Youth Leadership 2 hours (1,2)
 
-Opportunity for youth leadership [complementary] majors to practice training and presentation skills and content learned in prior courses in an applied setting relevant to the student’s career or personal goals. Required for youth leadership [complementary] majors. Consent : Department. Prerequisite : PSYC 4210. Grade : CR/NC. SAME AS: PSYC/SOCI 4800. Offered : Semester II. 
+Opportunity for youth leadership [complementary] majors to practice training and presentation skills and content learned in prior courses in an applied setting relevant to the student’s career or personal goals. Required for youth leadership [complementary] majors. Consent : Department. Prerequisite : PSYC 4210. Grade : CR/NC. SAME AS: PSYC/SOCI 4800. Offered : Semester II
 
 ||4210.Grade: CR/NC.SAME AS:PSYC/SOCI 4800.Offered: Semester II.|
 |---|---|
@@ -9427,65 +9427,65 @@ Opportunity for youth leadership [complementary] majors to practice training and
 ||Consent: Department.Repeat: May be repeated (total credits not to exceed 6 hours).Offered: As|
 ||needed.|
 
-4850 Reading Clinic 4 hours (arranged) 
+4850 Reading Clinic 4 hours (arranged)
 
-- An intensive clinical practicum designed to strengthen the teacher candidate’s skills in providing scientifically-based intervention services to students with significant reading difficulties/disabilities, including dyslexia. Candidates work with one to three students reading significantly below grade level. Instructional time is followed by reflection and discussion focusing on student profiles of reading development/disability, instructional strategies, and responsiveness to intervention and necessary modifications. Candidates write educational reports and/or hold conferences with parents addressing the participant’s current level of performance and recommended instructional support. Completion with a grade of C or better required for all elementary education majors. Requires 30 hours of field experience. Expectation : Admission to teacher preparation program (TPP) required. Prerequisite : EDUC 2200,2730,3300. Offered : Semester I. 
+- An intensive clinical practicum designed to strengthen the teacher candidate’s skills in providing scientifically-based intervention services to students with significant reading difficulties/disabilities, including dyslexia. Candidates work with one to three students reading significantly below grade level. Instructional time is followed by reflection and discussion focusing on student profiles of reading development/disability, instructional strategies, and responsiveness to intervention and necessary modifications. Candidates write educational reports and/or hold conferences with parents addressing the participant’s current level of performance and recommended instructional support. Completion with a grade of C or better required for all elementary education majors. Requires 30 hours of field experience. Expectation : Admission to teacher preparation program (TPP) required. Prerequisite : EDUC 2200,2730,3300. Offered : Semester I
 
-- 4910 Reading Research Seminar 1 hour (1,0) Teacher candidates complete online coursework in dyslexia screening, identification, and intervention and write a case study to determine if a student's reading skills are consistent with a dyslexic profile. The Simple View of Reading (SVR) theory and the International Dyslexia Association’s (IDA) definition of dyslexia provide the framework for the characteristic profile of dyslexia applied in the case study. Candidates learn evidence-based practices for teaching early writing skills and how to review curricular materials for alignment with the science of reading. Completion with a grade of C or better required for all elementary education majors. No field experience required. Expectation : Admission to teacher preparation program (TPP) required. Prerequisite : EDUC 4850. Offered : Semester II. 
+- 4910 Reading Research Seminar 1 hour (1,0) Teacher candidates complete online coursework in dyslexia screening, identification, and intervention and write a case study to determine if a student's reading skills are consistent with a dyslexic profile. The Simple View of Reading (SVR) theory and the International Dyslexia Association’s (IDA) definition of dyslexia provide the framework for the characteristic profile of dyslexia applied in the case study. Candidates learn evidence-based practices for teaching early writing skills and how to review curricular materials for alignment with the science of reading. Completion with a grade of C or better required for all elementary education majors. No field experience required. Expectation : Admission to teacher preparation program (TPP) required. Prerequisite : EDUC 4850. Offered : Semester II
 
-4930 Leadership Seminar in Character Education 2 hours (2,0) 
+4930 Leadership Seminar in Character Education 2 hours (2,0)
 
-- Required of all teacher candidates during their clinical practice experience. Designed as a study in leadership and the dynamics of character for teachers as classroom and school leaders. Examines critical issues for educators such as the learning environment, professionalism, school relations, and dispositions of classroom leadership. Presented in a seminar format with teacher candidates engaging in assigned readings, reflection, discussion, candidate-led presentations, research, and specific facets of performance. Completion with a grade of C or better required for all elementary and secondary education majors. Expectation : Admission to professional semester required. Consent : Department. Corequisite : EDUC 4010. Offered : Semester I, II. 
+- Required of all teacher candidates during their clinical practice experience. Designed as a study in leadership and the dynamics of character for teachers as classroom and school leaders. Examines critical issues for educators such as the learning environment, professionalism, school relations, and dispositions of classroom leadership. Presented in a seminar format with teacher candidates engaging in assigned readings, reflection, discussion, candidate-led presentations, research, and specific facets of performance. Completion with a grade of C or better required for all elementary and secondary education majors. Expectation : Admission to professional semester required. Consent : Department. Corequisite : EDUC 4010. Offered : Semester I, II
 
-## EDUC Courses (T2T) 
+## EDUC Courses (T2T)
 
-## 4200 The Profession of Teaching 3 hours (arranged) 
+## 4200 The Profession of Teaching 3 hours (arranged)
 
-- Through coursework, teacher candidates will develop insights to the culture and nature of instruction in K-12 classrooms, as well as an understanding of how to establish a community of learners through group norms, self-identification, and discussion of the five areas of holistic behaviors for optimal productivity. They will also develop an understanding of the principles of learning and student development as related to planning curriculum, learning activities, modes of delivery, and instructional pacing to meet the needs of each learner. Completion with a grade of C or better required for both elementary and secondary tracks. Virtual field experiences and observations may be offered or required. 
+- Through coursework, teacher candidates will develop insights to the culture and nature of instruction in K-12 classrooms, as well as an understanding of how to establish a community of learners through group norms, self-identification, and discussion of the five areas of holistic behaviors for optimal productivity. They will also develop an understanding of the principles of learning and student development as related to planning curriculum, learning activities, modes of delivery, and instructional pacing to meet the needs of each learner. Completion with a grade of C or better required for both elementary and secondary tracks. Virtual field experiences and observations may be offered or required
 
-4210 Psychology of Teaching 3 hours (3,0) 
+4210 Psychology of Teaching 3 hours (3,0)
 
-Addresses the most significant concepts, principles, theories, methodologies, and issues in the field of educational psychology and child development. Coursework requires teacher candidates to develop and apply an understanding of pedagogy by analyzing and integrating the science of learning with the art of teaching. The usage of technological formats to enhance learning will be addressed. Completion with a grade of C or better required for both elementary and secondary tracks. No field experience required. 
+Addresses the most significant concepts, principles, theories, methodologies, and issues in the field of educational psychology and child development. Coursework requires teacher candidates to develop and apply an understanding of pedagogy by analyzing and integrating the science of learning with the art of teaching. The usage of technological formats to enhance learning will be addressed. Completion with a grade of C or better required for both elementary and secondary tracks. No field experience required
 
-4215 Exceptional Learners 1 hour (arranged) 
+4215 Exceptional Learners 1 hour (arranged)
 
-Overview of characteristics and educational needs of students with mild disabilities. Historical, legal, and social perspectives will be considered. Teacher candidates study language, processing, behavioral, social, and academic issues that interfere with the academic achievement of students. The course objective is to provide the knowledge needed to work with students with mild disabilities in inclusive classrooms and in the community. Completion with a grade of C or better required for elementary and secondary tracks. Virtual field experiences and observations may be offered or required. Prerequisite : EDUC 4200,4210. 
+Overview of characteristics and educational needs of students with mild disabilities. Historical, legal, and social perspectives will be considered. Teacher candidates study language, processing, behavioral, social, and academic issues that interfere with the academic achievement of students. The course objective is to provide the knowledge needed to work with students with mild disabilities in inclusive classrooms and in the community. Completion with a grade of C or better required for elementary and secondary tracks. Virtual field experiences and observations may be offered or required. Prerequisite : EDUC 4200,4210
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-166 
+166
 
-4220 Differentiated Curriculum & Instruction: Mathematics 1 hour (arranged) 
+4220 Differentiated Curriculum & Instruction: Mathematics 1 hour (arranged)
 
-Elementary education candidates will articulate clear learning objectives and instructional strategies using a repertoire of flexible teaching and learning approaches: addressing current curriculum and student standards, using aspects of students’ background knowledge, diverse representations, and social/legal issues relating to special populations, and monitoring students’ understanding of content through a variety of means. Teacher candidates will study curriculum topics by examining the organization, materials, and resources of mathematics content and the implications for using them. Completion with a grade of C or better required for elementary track. Requires 3 hours of field experience. 
+Elementary education candidates will articulate clear learning objectives and instructional strategies using a repertoire of flexible teaching and learning approaches: addressing current curriculum and student standards, using aspects of students’ background knowledge, diverse representations, and social/legal issues relating to special populations, and monitoring students’ understanding of content through a variety of means. Teacher candidates will study curriculum topics by examining the organization, materials, and resources of mathematics content and the implications for using them. Completion with a grade of C or better required for elementary track. Requires 3 hours of field experience
 
-## 4221 Differentiated Curriculum & Instruction STEM 1 hour (arranged) Elementary education candidates study curriculum topics of science, technology, engineering, and mathematics (STEM) by examining the organization, materials, and resources of each content area and the implications for use in a classroom setting. Focus on integration of concepts and the pedagogical implications of interdisciplinary instruction. Selection of teaching and learning strategies such as modeling, cooperative learning, guided activities, use of journals, graphic organizers, and the inquiry method. Completion with a grade of C or better required for elementary track. Requires 3 hours of field experience. 4222 Differentiated Curriculum & Instruction Social Studies 1 hour (arranged) Elementary education candidates will study the scope and sequence and the pedagogical implications of interdisciplinary instruction using social studies concepts. Organization, resources, and materials for the teaching of social studies will be addressed. Focus on integration with children’s literature, as well as instructional differentiation for individual learning needs in the classroom. Completion with a grade of C or better required for elementary track. Requires 3 hours of field experience. 4231 Foundations of Reading Instruction (T2T - Elementary) 3 hours (arranged) 
+## 4221 Differentiated Curriculum & Instruction STEM 1 hour (arranged) Elementary education candidates study curriculum topics of science, technology, engineering, and mathematics (STEM) by examining the organization, materials, and resources of each content area and the implications for use in a classroom setting. Focus on integration of concepts and the pedagogical implications of interdisciplinary instruction. Selection of teaching and learning strategies such as modeling, cooperative learning, guided activities, use of journals, graphic organizers, and the inquiry method. Completion with a grade of C or better required for elementary track. Requires 3 hours of field experience. 4222 Differentiated Curriculum & Instruction Social Studies 1 hour (arranged) Elementary education candidates will study the scope and sequence and the pedagogical implications of interdisciplinary instruction using social studies concepts. Organization, resources, and materials for the teaching of social studies will be addressed. Focus on integration with children’s literature, as well as instructional differentiation for individual learning needs in the classroom. Completion with a grade of C or better required for elementary track. Requires 3 hours of field experience. 4231 Foundations of Reading Instruction (T2T - Elementary) 3 hours (arranged)
 
-Foundations of reading science are presented, including the Simple View of Reading (SVR), Scarborough’s Reading Rope, the five essential elements of reading (phonemic awareness, phonics, fluency, vocabulary, and comprehension), and language domains. Developmental progressions in reading, including systematic scope and sequences for phonological awareness and phonics, inform instruction. Teacher candidates learn how to promote effective word recognition skills in beginning and early readers. Research-based strategies in phonemic awareness, phonics, and fluency instruction are studied and applied.  Candidates continue studying reading science, including explicit instruction in comprehension, analysis of language and text structures, and instructional contexts for building knowledge and vocabulary. \Prepares candidates for the IDOE-required science of reading literacy endorsement (passing score on additional Praxis exam required). Completion with a grade of C or better required for elementary track. No field experience required. 
+Foundations of reading science are presented, including the Simple View of Reading (SVR), Scarborough’s Reading Rope, the five essential elements of reading (phonemic awareness, phonics, fluency, vocabulary, and comprehension), and language domains. Developmental progressions in reading, including systematic scope and sequences for phonological awareness and phonics, inform instruction. Teacher candidates learn how to promote effective word recognition skills in beginning and early readers. Research-based strategies in phonemic awareness, phonics, and fluency instruction are studied and applied.  Candidates continue studying reading science, including explicit instruction in comprehension, analysis of language and text structures, and instructional contexts for building knowledge and vocabulary. \Prepares candidates for the IDOE-required science of reading literacy endorsement (passing score on additional Praxis exam required). Completion with a grade of C or better required for elementary track. No field experience required
 
-4232 Research-Based Reading Methods: Instruction, Intervention, & Assessment (T2T - Elementary) 3 hours (arranged) Assessments aligned with reading science, including oral reading fluency and nonsense word reading measures, are administered and interpreted to inform initial and ongoing instruction. Candidates complete training in a scientifically-based intervention for primary-grade students experiencing difficulty learning to read. The intervention addresses all five essential areas of reading with an emphasis on systematic and explicit phonics instruction. Candidates learn evidence-based practices for teaching early writing skills and how to review curricular materials for alignment with the science of reading. Prepares candidates for the IDOE-required science of reading literacy endorsement (passing score on additional Praxis exam required). Completion with a grade of C or better required for elementary track. Requires 9 hours of field experience. 
+4232 Research-Based Reading Methods: Instruction, Intervention, & Assessment (T2T - Elementary) 3 hours (arranged) Assessments aligned with reading science, including oral reading fluency and nonsense word reading measures, are administered and interpreted to inform initial and ongoing instruction. Candidates complete training in a scientifically-based intervention for primary-grade students experiencing difficulty learning to read. The intervention addresses all five essential areas of reading with an emphasis on systematic and explicit phonics instruction. Candidates learn evidence-based practices for teaching early writing skills and how to review curricular materials for alignment with the science of reading. Prepares candidates for the IDOE-required science of reading literacy endorsement (passing score on additional Praxis exam required). Completion with a grade of C or better required for elementary track. Requires 9 hours of field experience
 
-2 hours (1,0) 
+2 hours (1,0)
 
-## 4240 Multidimensional Assessment for Student Learning 
+## 4240 Multidimensional Assessment for Student Learning
 
-Prepares teacher candidates with a strong knowledge base about assessments and their use in today’s classroom. Candidates will learn what assessment is, when and how to use a variety of assessment strategies, how to create assessments, ways to interpret and analyze the data and results, and how to use these interpretations to inform their teaching practice and impact on student learning. Through reflective writing, candidates will evaluate their understanding of assessment in the classroom and growth in the appropriate use of a variety of assessment strategies. Completion with a grade of C or better required for both elementary and secondary track. No field experience required. 
+Prepares teacher candidates with a strong knowledge base about assessments and their use in today’s classroom. Candidates will learn what assessment is, when and how to use a variety of assessment strategies, how to create assessments, ways to interpret and analyze the data and results, and how to use these interpretations to inform their teaching practice and impact on student learning. Through reflective writing, candidates will evaluate their understanding of assessment in the classroom and growth in the appropriate use of a variety of assessment strategies. Completion with a grade of C or better required for both elementary and secondary track. No field experience required
 
-## 4250 Reading in the Content Areas (T2T - Secondary) 2 hours (arranged) 
+## 4250 Reading in the Content Areas (T2T - Secondary) 2 hours (arranged)
 
-Teacher candidates will engage in a comprehensive exploration of literacy development, encompassing reading, writing, speaking, listening, academic standards, literacy frameworks, content-literacy, disciplinary-literacy, "teaching on the diagonal," and strategies for academically-diverse learners. Emphasizes the development of a literacy action plan that integrates effective instructional approaches, reflective practice, and inclusive learning environments. Completion with a grade of C or better required for secondary track. Requires 9 hours of field experience. 
+Teacher candidates will engage in a comprehensive exploration of literacy development, encompassing reading, writing, speaking, listening, academic standards, literacy frameworks, content-literacy, disciplinary-literacy, "teaching on the diagonal," and strategies for academically-diverse learners. Emphasizes the development of a literacy action plan that integrates effective instructional approaches, reflective practice, and inclusive learning environments. Completion with a grade of C or better required for secondary track. Requires 9 hours of field experience
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-167 
+167
 
-- 4251 Development of Middle/High School Instruction (T2T - Secondary) 1 hour (arranged) Designed to provide educators with effective teaching strategies tailored to the unique needs of young adolescent students in the United States. Through an exploration of physical, emotional, social, and intellectual changes characterizing this developmental stage, teacher candidates will learn to implement developmentally appropriate instruction that engages and motivates middle school students. Completion with a grade of C or better required for secondary track. Requires 9 hours of field experience. 
+- 4251 Development of Middle/High School Instruction (T2T - Secondary) 1 hour (arranged) Designed to provide educators with effective teaching strategies tailored to the unique needs of young adolescent students in the United States. Through an exploration of physical, emotional, social, and intellectual changes characterizing this developmental stage, teacher candidates will learn to implement developmentally appropriate instruction that engages and motivates middle school students. Completion with a grade of C or better required for secondary track. Requires 9 hours of field experience
 
-4260 Creating an Environment for Student Learning 2 hours (arranged) 
+4260 Creating an Environment for Student Learning 2 hours (arranged)
 
-Teacher candidates will analyze and reflect on the essential elements and plans to create an environment that promotes student learning. They will learn how to create a classroom climate that attends to interpersonal relations, motivational strategies, questioning techniques, school expectations, rules, routines, and procedures. Focus on developing responses to individual and cultural diversity, nonverbal communication skills, establishing and maintaining consistent standards of classroom behavior, and making the classroom environment as safe and conducive to learning as possible. Completion with a grade of C or better required for both elementary and secondary track. Requires 60 hours of field experience. 4280 Student Teaching (Clinical Practice) 4 hours (arranged) Observation, participation, and teaching in the school setting for 10-16 weeks on a full-day basis. Student teachers are expected to participate in all aspects of school responsibilities as part of the professional semester. Completion with a grade of C or better required for both elementary and secondary track. REQUIREMENTS : See the DTE Handbook for T2T for up-to-date guidance. Expectation : Admission to professional semester. Prerequisite : Overall GPA of 3.0. 
+Teacher candidates will analyze and reflect on the essential elements and plans to create an environment that promotes student learning. They will learn how to create a classroom climate that attends to interpersonal relations, motivational strategies, questioning techniques, school expectations, rules, routines, and procedures. Focus on developing responses to individual and cultural diversity, nonverbal communication skills, establishing and maintaining consistent standards of classroom behavior, and making the classroom environment as safe and conducive to learning as possible. Completion with a grade of C or better required for both elementary and secondary track. Requires 60 hours of field experience. 4280 Student Teaching (Clinical Practice) 4 hours (arranged) Observation, participation, and teaching in the school setting for 10-16 weeks on a full-day basis. Student teachers are expected to participate in all aspects of school responsibilities as part of the professional semester. Completion with a grade of C or better required for both elementary and secondary track. REQUIREMENTS : See the DTE Handbook for T2T for up-to-date guidance. Expectation : Admission to professional semester. Prerequisite : Overall GPA of 3.0
 
-## SPED Courses 
+## SPED Courses
 
 |2400 |Introduction to Mild Disabilities<br>3 hours (3,0)|
 |---|---|
@@ -9524,305 +9524,305 @@ Teacher candidates will analyze and reflect on the essential elements and plans 
 ||Requires 30 hours of feld experience.Expectation: Admission to the teacher preparation program|
 ||(TPP) required.Prerequisite: 2.75 overall GPA; SPED 2400,2500,2550.Offered: Semester I.|
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-168 
+168
 
-3200 Classroom Instruction for Mild Disabilities 3 hours (arranged) 
+3200 Classroom Instruction for Mild Disabilities 3 hours (arranged)
 
-Examines techniques for making and implementing data-driven decisions for educating students with mild disabilities. Development of instructionally sound individualized education programs (IEPs) and implementation in the least restrictive environment for students will be emphasized. Teacher candidates will learn to develop appropriate instruction and accommodations to provide access to the general curriculum for students with disabilities. Required for all students majoring in other fields but who are earning a special education minor. Completion with a grade of C or better required for all elementary education majors. Requires 60 hours of field experience. Expectation : Admission to the teacher preparation program (TPP) required. Prerequisite : SPED 2400,2500,2550,3120; 2.75 overall GPA. Offered : Semester II. 
+Examines techniques for making and implementing data-driven decisions for educating students with mild disabilities. Development of instructionally sound individualized education programs (IEPs) and implementation in the least restrictive environment for students will be emphasized. Teacher candidates will learn to develop appropriate instruction and accommodations to provide access to the general curriculum for students with disabilities. Required for all students majoring in other fields but who are earning a special education minor. Completion with a grade of C or better required for all elementary education majors. Requires 60 hours of field experience. Expectation : Admission to the teacher preparation program (TPP) required. Prerequisite : SPED 2400,2500,2550,3120; 2.75 overall GPA. Offered : Semester II
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-169 
+169
 
-# College of Theological, Graduate, & Online Studies 
+# College of Theological, Graduate, & Online Studies
 
-_Dr. Nathan Willowby, Dean_ 
+_Dr. Nathan Willowby, Dean_
 
-## SCHOOL OF THEOLOGY & CHRISTIAN MINISTRY 
+## SCHOOL OF THEOLOGY & CHRISTIAN MINISTRY
 
-_Dr. Overstreet, Academic Director_ 
+_Dr. Overstreet, Academic Director_
 
-_Faculty: Dr. Ketcham, Dr. Kilgore, Dr. Lozano, Dr. Overstreet, Dr. Varner, Dr. Willowby_ 
+_Faculty: Dr. Ketcham, Dr. Kilgore, Dr. Lozano, Dr. Overstreet, Dr. Varner, Dr. Willowby_
 
-Questions of truth and destiny confront each generation and are at the root of all human enterprises, necessitating that the very nature of the educational task focus on these basic issues. With a firm commitment to the centrality of the Christian tradition for all such considerations, the Department of Christian Ministry offers coursework and field experiences designed to accomplish the following: 
+Questions of truth and destiny confront each generation and are at the root of all human enterprises, necessitating that the very nature of the educational task focus on these basic issues. With a firm commitment to the centrality of the Christian tradition for all such considerations, the Department of Christian Ministry offers coursework and field experiences designed to accomplish the following:
 
-- Develop in all students a familiarity with and appreciation for the biblical foundations of the Christian faith; 
+- Develop in all students a familiarity with and appreciation for the biblical foundations of the Christian faith;
 
-- Make available from a Christian perspective a wide range of knowledge concerning the religious experience of humankind; 
+- Make available from a Christian perspective a wide range of knowledge concerning the religious experience of humankind;
 
-- Provide the biblical, theological, and pastoral Christian education, field courses, and experiences central to preparing enlightened and committed Christian leaders; and 
+- Provide the biblical, theological, and pastoral Christian education, field courses, and experiences central to preparing enlightened and committed Christian leaders; and
 
-- Develop students’ appreciation for and critical reflection on their own and others’ beliefs, practices, and experiences. 
+- Develop students’ appreciation for and critical reflection on their own and others’ beliefs, practices, and experiences
 
-Students seeking two or more majors in the department (including complementary majors) must earn a minimum of 15 hours that are unique to each major. Students seeking minors as well as majors in this department must choose a different area of study for the minor and present a minimum of 12 hours not applied to the major. 
+Students seeking two or more majors in the department (including complementary majors) must earn a minimum of 15 hours that are unique to each major. Students seeking minors as well as majors in this department must choose a different area of study for the minor and present a minimum of 12 hours not applied to the major
 
-## CHRISTIAN MINISTRIES EXPERIENTIAL EDUCATION 
+## CHRISTIAN MINISTRIES EXPERIENTIAL EDUCATION
 
-The Christian ministries and youth ministries majors also offer experiential education in ministry, including internships (CMIN 2810,4810,4860) and experiential courses (CMIN 3340,4650,4910) offered in conjunction with agencies such as Intern Academy, Remerge (Atlanta, GA), or Urban Studies in cities like Chicago or Indianapolis and the Heart Institute in Florida. CMIN 3340,4810, or 4860 will meet the experiential component of the liberal arts requirements for the Christian ministries major, the Christian ministries complementary major, and the youth ministries major. 
+The Christian ministries and youth ministries majors also offer experiential education in ministry, including internships (CMIN 2810,4810,4860) and experiential courses (CMIN 3340,4650,4910) offered in conjunction with agencies such as Intern Academy, Remerge (Atlanta, GA), or Urban Studies in cities like Chicago or Indianapolis and the Heart Institute in Florida. CMIN 3340,4810, or 4860 will meet the experiential component of the liberal arts requirements for the Christian ministries major, the Christian ministries complementary major, and the youth ministries major
 
-## BACHELOR OF ARTS + MASTER OF DIVINITY 5-YEAR (4+1) DEGREES 
+## BACHELOR OF ARTS + MASTER OF DIVINITY 5-YEAR (4+1) DEGREES
 
-The BA/MDiv 4+1 degree program is designed for undergraduate students who are highly motivated academically and sense an early call to ministry. It is designed to enable the student to complete both the BA and Master of Divinity degrees in a seamless 5-year program between Anderson University undergraduate studies and seminary preparation. (Traditionally, completing both the BA and MDiv degrees has taken an average of seven years.) Basic requirements for the 5-year program are: 
+The BA/MDiv 4+1 degree program is designed for undergraduate students who are highly motivated academically and sense an early call to ministry. It is designed to enable the student to complete both the BA and Master of Divinity degrees in a seamless 5-year program between Anderson University undergraduate studies and seminary preparation. (Traditionally, completing both the BA and MDiv degrees has taken an average of seven years.) Basic requirements for the 5-year program are:
 
-- Students must complete all requirements for an undergraduate BA degree at Anderson University and all requirements for the MDiv degree from AU Seminary. 
+- Students must complete all requirements for an undergraduate BA degree at Anderson University and all requirements for the MDiv degree from AU Seminary
 
-- Students must submit the appropriate form with the University Registrar so that graduate Seminary courses may be taken by undergraduates and substitute for the appropriate undergraduate courses. 
+- Students must submit the appropriate form with the University Registrar so that graduate Seminary courses may be taken by undergraduates and substitute for the appropriate undergraduate courses
 
-- The MDiv degree may be combined with the Christian Ministries or Youth Ministries majors. 
+- The MDiv degree may be combined with the Christian Ministries or Youth Ministries majors
 
-For more information and a complete outline of courses, contact the Chair of the Department of Christian Ministry, the Dean of the School of Theology and Christian Ministry, or the Anderson University Office of Admission. 
+For more information and a complete outline of courses, contact the Chair of the Department of Christian Ministry, the Dean of the School of Theology and Christian Ministry, or the Anderson University Office of Admission
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-170 
+170
 
-## MAJORS 
+## MAJORS
 
-The Christian ministries major is designed to prepare students to serve as Christian leaders and servants in the world. It offers undergraduate study of ministry which may lead to: (1) lay ministry while pursuing another profession; (2) a position of leadership in ministry in a local congregation, a church-related organization, or a related field; or (3) graduate study in ministry. This major is intended to be a first step in a plan of lifelong learning for ministry. Courses in the Christian ministries major include biblical and theological studies as well as ministry courses involving skill development in core ministry tasks, the exploration of various ministry options, and supervised practical experience. 
+The Christian ministries major is designed to prepare students to serve as Christian leaders and servants in the world. It offers undergraduate study of ministry which may lead to: (1) lay ministry while pursuing another profession; (2) a position of leadership in ministry in a local congregation, a church-related organization, or a related field; or (3) graduate study in ministry. This major is intended to be a first step in a plan of lifelong learning for ministry. Courses in the Christian ministries major include biblical and theological studies as well as ministry courses involving skill development in core ministry tasks, the exploration of various ministry options, and supervised practical experience
 
-## CHRISTIAN MINISTRIES MAJOR  (46 hours) 
+## CHRISTIAN MINISTRIES MAJOR  (46 hours)
 
-This major is designed for students desiring to enter ministry upon graduation, but who might choose to continue their studies later, and for students entering seminary immediately upon graduation. Courses in this major encourage ministry practice and informed reflection on that practice, giving students both depth and breadth of preparation. 
+This major is designed for students desiring to enter ministry upon graduation, but who might choose to continue their studies later, and for students entering seminary immediately upon graduation. Courses in this major encourage ministry practice and informed reflection on that practice, giving students both depth and breadth of preparation
 
-- 18 hours from departmental core courses: BIBL 2000,2050; RLGN 2000,2130,3040,3060 
+- 18 hours from departmental core courses: BIBL 2000,2050; RLGN 2000,2130,3040,3060
 
-- 15 hours from ministry core courses: CMIN 2000,3050,3080,3910,4250 
+- 15 hours from ministry core courses: CMIN 2000,3050,3080,3910,4250
 
-- 4 hours selected from the following internship courses: 
+- 4 hours selected from the following internship courses:
 
-   - CMIN 4860 
+   - CMIN 4860
 
-   - CMIN 3340 + CMIN 2810 
+   - CMIN 3340 + CMIN 2810
 
-   - MUSC 3800 + CMIN 2810 
+   - MUSC 3800 + CMIN 2810
 
-- 9 hours selected from the following: 
+- 9 hours selected from the following:
 
-   - BIBL, CMIN, PACT, PHIL, or RLGN captioned courses 
+   - BIBL, CMIN, PACT, PHIL, or RLGN captioned courses
 
-   - MUSC 3150,3160, or 3800 
+   - MUSC 3150,3160, or 3800
 
-## YOUTH MINISTRIES MAJOR  (49 hours) 
+## YOUTH MINISTRIES MAJOR  (49 hours)
 
-- 18 hours from departmental core courses: BIBL 2000,2050; RLGN 2000,2130,3040,3060 
+- 18 hours from departmental core courses: BIBL 2000,2050; RLGN 2000,2130,3040,3060
 
-- 6 hours from ministry core courses: CMIN 2000,4250 
+- 6 hours from ministry core courses: CMIN 2000,4250
 
-- 6 additional hours from ministry core courses: CMIN 3050,3080, or 3910 
+- 6 additional hours from ministry core courses: CMIN 3050,3080, or 3910
 
-- 6 hours from youth ministry courses: CMIN 2260,3260 
+- 6 hours from youth ministry courses: CMIN 2260,3260
 
-- 4 hours selected from the following internship courses: 
+- 4 hours selected from the following internship courses:
 
-   - CMIN 4860 
+   - CMIN 4860
 
-   - CMIN 3340 + CMIN 2810 
+   - CMIN 3340 + CMIN 2810
 
-   - MUSC 3800 + CMIN 2810 
+   - MUSC 3800 + CMIN 2810
 
-- 9 hours selected from the following: 
+- 9 hours selected from the following:
 
-   - BIBL, CMIN, PACT, PHIL, or RLGN captioned courses 
+   - BIBL, CMIN, PACT, PHIL, or RLGN captioned courses
 
-   - MUSC 3150,3160, or 3800 
+   - MUSC 3150,3160, or 3800
 
-_The student may wish to join this major with the Youth Leadership Complementary Major (Psychology Dept.)._ 
+_The student may wish to join this major with the Youth Leadership Complementary Major (Psychology Dept.)._
 
-## MINISTRY STUDIES ONLINE MAJOR  (34 hours) 
+## MINISTRY STUDIES ONLINE MAJOR  (34 hours)
 
-The major in Ministry Studies is an online major that is designed for either adult or traditional age students who are participants in formal residency-based partnerships. The major offers courses in biblical, theological, ethical, historical, and practical areas of ministry preparation and theological education. It will enable students to develop the foundational skills and knowledge needed for vocations in church ministry and other ministry contexts. The BA degree with a major in Ministry Studies requires the completion of the university’s Liberal Arts Core Requirements, which adult education students may take online as part of the total 120 credit hours that are required for the BA degree. 
+The major in Ministry Studies is an online major that is designed for either adult or traditional age students who are participants in formal residency-based partnerships. The major offers courses in biblical, theological, ethical, historical, and practical areas of ministry preparation and theological education. It will enable students to develop the foundational skills and knowledge needed for vocations in church ministry and other ministry contexts. The BA degree with a major in Ministry Studies requires the completion of the university’s Liberal Arts Core Requirements, which adult education students may take online as part of the total 120 credit hours that are required for the BA degree
 
-## Introductory Courses (9 hours) 
+## Introductory Courses (9 hours)
 
-- BIBL 2000 - Introduction to the Bible (3) 
+- BIBL 2000 - Introduction to the Bible (3)
 
-- CMIN 2000 - Introduction to Christian Ministry (3) 
+- CMIN 2000 - Introduction to Christian Ministry (3)
 
-- RLGN 1100 - Introduction to Spiritual Formation (3) 
+- RLGN 1100 - Introduction to Spiritual Formation (3)
 
-## Experiential Ministry and Theology courses (10 hours) 
+## Experiential Ministry and Theology courses (10 hours)
 
-- CMIN 4860 - Practicum in Ministry (4) 
+- CMIN 4860 - Practicum in Ministry (4)
 
-- RLGN 3040 - Introduction to Christian Theology (3) 
+- RLGN 3040 - Introduction to Christian Theology (3)
 
-- CMIN 4250 - Theology in a Ministry Context (3) 
+- CMIN 4250 - Theology in a Ministry Context (3)
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-171 
+171
 
-One course from EACH of the following categories (15 hours) 
+One course from EACH of the following categories (15 hours)
 
-- Biblical Studies (3 hours) 
+- Biblical Studies (3 hours)
 
-o BIBL 2050 - Methods of Biblical Exegesis (3) 
+o BIBL 2050 - Methods of Biblical Exegesis (3)
 
-- BIBL 2150 - Theological Interpretation of the Bible (3) 
+- BIBL 2150 - Theological Interpretation of the Bible (3)
 
-- BIBLxxxx - Bible-captioned elective (3) 
+- BIBLxxxx - Bible-captioned elective (3)
 
-o RLGN 2150 - Hermeneutics (3) 
+o RLGN 2150 - Hermeneutics (3)
 
-- Church History (3 hours) 
+- Church History (3 hours)
 
-   - HIST/RLGN 3060: History of Christianity (3) 
+   - HIST/RLGN 3060: History of Christianity (3)
 
-   - HIST/RLGN 3420: American Religious History (3) 
+   - HIST/RLGN 3420: American Religious History (3)
 
-o RLGN 3300: Beginnings of Christianity (3) 
+o RLGN 3300: Beginnings of Christianity (3)
 
-- Christian Ethics (3 hours) 
+- Christian Ethics (3 hours)
 
-   - RLGN 2130 - Introduction to Christian Ethics (3) 
+   - RLGN 2130 - Introduction to Christian Ethics (3)
 
-   - RLGN 3120 - Current Issues in Christian Ethics (3) 
+   - RLGN 3120 - Current Issues in Christian Ethics (3)
 
-- Educational Ministry (3 hours) 
+- Educational Ministry (3 hours)
 
-   - CMIN 2260: Educational Ministry with Youth (3) 
+   - CMIN 2260: Educational Ministry with Youth (3)
 
-o CMIN 3260: Leading, Teaching, and Discipling Youth (3) 
+o CMIN 3260: Leading, Teaching, and Discipling Youth (3)
 
-o CMIN 3910: Ministry Seminar (3) 
+o CMIN 3910: Ministry Seminar (3)
 
-- Practices of Ministry (3 hours) 
+- Practices of Ministry (3 hours)
 
-o CMIN 2270: Faith and Worship (3) 
+o CMIN 2270: Faith and Worship (3)
 
-- CMIN 3050: Homiletics (3) 
+- CMIN 3050: Homiletics (3)
 
-- CMIN 3080: Pastoral Care and Counseling (3) 
+- CMIN 3080: Pastoral Care and Counseling (3)
 
-## COMPLEMENTARY MAJORS 
+## COMPLEMENTARY MAJORS
 
-## CHRISTIAN MINISTRIES COMPLEMENTARY MAJOR  (28 hours) 
+## CHRISTIAN MINISTRIES COMPLEMENTARY MAJOR  (28 hours)
 
-The Christian ministries complementary major may be taken only in conjunction with another major. This approach strengthens students’ preparation for servanthood in today’s world by connecting theological, biblical, and ministerial knowledge with students’ bases of knowledge. It offers the opportunity to prepare for ministry while also preparing for another profession and gives students a broad base in preparation for graduate study in ministry. 
+The Christian ministries complementary major may be taken only in conjunction with another major. This approach strengthens students’ preparation for servanthood in today’s world by connecting theological, biblical, and ministerial knowledge with students’ bases of knowledge. It offers the opportunity to prepare for ministry while also preparing for another profession and gives students a broad base in preparation for graduate study in ministry
 
-- BIBL 2000, BIBL 2050; RLGN 2130,3040,3060 
+- BIBL 2000, BIBL 2050; RLGN 2130,3040,3060
 
-- CMIN 2000 
+- CMIN 2000
 
-- 3 hours from CMIN 3050,3080, or 3910 
+- 3 hours from CMIN 3050,3080, or 3910
 
-- At least 1 hour from CMIN 2810,4860 or 3340 
+- At least 1 hour from CMIN 2810,4860 or 3340
 
-- 3 additional hours from CMIN-captioned courses 
+- 3 additional hours from CMIN-captioned courses
 
-- 3 additional hours from upper-division courses offered by the department 
+- 3 additional hours from upper-division courses offered by the department
 
-## CHRISTIAN SPIRITUAL FORMATION COMPLEMENTARY MAJOR  (28-30 hours) 
+## CHRISTIAN SPIRITUAL FORMATION COMPLEMENTARY MAJOR  (28-30 hours)
 
-This complementary major may be taken only in conjunction with another major. It is designed to aid students in becoming complete and mature disciples of Jesus Christ by integrating their Christian faith with academic knowledge from their particular major and from the field of Christian spirituality. The major will include questions of worldview, interdisciplinary approaches to Christian spirituality, and departmental offerings aimed towards developing a holistic understanding of God, the world, and self. Students will study the history, theology, and practices of major figures in Christian spirituality and how to apply that knowledge to serve as Christian leaders in their professional lives and in society-at-large. 
+This complementary major may be taken only in conjunction with another major. It is designed to aid students in becoming complete and mature disciples of Jesus Christ by integrating their Christian faith with academic knowledge from their particular major and from the field of Christian spirituality. The major will include questions of worldview, interdisciplinary approaches to Christian spirituality, and departmental offerings aimed towards developing a holistic understanding of God, the world, and self. Students will study the history, theology, and practices of major figures in Christian spirituality and how to apply that knowledge to serve as Christian leaders in their professional lives and in society-at-large
 
-- 9 hours from the following: 
+- 9 hours from the following:
 
-   - RLGN 1100 
+   - RLGN 1100
 
-   - RLGN 2410 or 2430 
+   - RLGN 2410 or 2430
 
-   - RLGN 4960 
+   - RLGN 4960
 
-- Three of the following interdisciplinary courses (7-9 hours): 
+- Three of the following interdisciplinary courses (7-9 hours):
 
-   - ENGL 2580 
+   - ENGL 2580
 
-   - MUSC 3150 
+   - MUSC 3150
 
-   - PACT 2400 
+   - PACT 2400
 
-   - PSYC/SOCI 3500 
+   - PSYC/SOCI 3500
 
-   - PSYC 3200 
+   - PSYC 3200
 
-- One course from each of the following categories (12 hours): 
+- One course from each of the following categories (12 hours):
 
-   - Scripture : BIBL 2150 or BIBL/RLGN 3000 
+   - Scripture : BIBL 2150 or BIBL/RLGN 3000
 
-   - Tradition : RLGN 2270 or HIST/RLGN 3060 
+   - Tradition : RLGN 2270 or HIST/RLGN 3060
 
-   - Reason : PHIL 2000 or RLGN 3120 or RLGN/PHIL 3250 
+   - Reason : PHIL 2000 or RLGN 3120 or RLGN/PHIL 3250
 
-   - Experience : RLGN 3100 or CMIN 3340 
+   - Experience : RLGN 3100 or CMIN 3340
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-172 
+172
 
-## MINORS 
+## MINORS
 
-## BIBLICAL STUDIES MINOR  (15 hours) 
+## BIBLICAL STUDIES MINOR  (15 hours)
 
-- BIBL 2000,2050, RLGN 2150 
+- BIBL 2000,2050, RLGN 2150
 
-- 6 hours from BIBL courses (Christian Ministry majors with this minor will need 9 hours of BIBL courses due to the requirement of 12 hours of unduplicated courses.) 
+- 6 hours from BIBL courses (Christian Ministry majors with this minor will need 9 hours of BIBL courses due to the requirement of 12 hours of unduplicated courses.)
 
-BIBL 2110,2120,2210,2220 may be applied toward the minor. 
+BIBL 2110,2120,2210,2220 may be applied toward the minor
 
-## CHRISTIAN MINISTRIES MINOR  (16 hours) 
+## CHRISTIAN MINISTRIES MINOR  (16 hours)
 
-- CMIN 2000 
+- CMIN 2000
 
-- 9 additional hours chosen from CMIN courses 
+- 9 additional hours chosen from CMIN courses
 
-- 1 hour of CMIN 2810 Ministry Exploration 
+- 1 hour of CMIN 2810 Ministry Exploration
 
-- 3 upper-division hours from additional courses offered by the department 
+- 3 upper-division hours from additional courses offered by the department
 
-## CHRISTIAN SPIRITUAL FORMATION MINOR  (15 hours) 
+## CHRISTIAN SPIRITUAL FORMATION MINOR  (15 hours)
 
-The Christian Spiritual Formation (CSF) minor is designed for students who are interested in CSF but who are unable to take the CSF complementary major.  The CSF minor includes the three core courses of the complementary major, but it allows students to choose two courses that most interest them from the categories of Reason, Tradition, Scripture, and Experience. 
+The Christian Spiritual Formation (CSF) minor is designed for students who are interested in CSF but who are unable to take the CSF complementary major.  The CSF minor includes the three core courses of the complementary major, but it allows students to choose two courses that most interest them from the categories of Reason, Tradition, Scripture, and Experience
 
-- 9 hours from RLGN 1100; either RLGN 2410 or RLGN 2430; and RLGN 4960 
+- 9 hours from RLGN 1100; either RLGN 2410 or RLGN 2430; and RLGN 4960
 
-- 6 hours from two of the following categories: 
+- 6 hours from two of the following categories:
 
-   - Scripture : BIBL/RLGN 3000 or BIBL 2150 
+   - Scripture : BIBL/RLGN 3000 or BIBL 2150
 
-   - Tradition : HIST/RLGN 3060; RLGN 2270 
+   - Tradition : HIST/RLGN 3060; RLGN 2270
 
-   - Reason : RLGN/PHIL 3250; PHIL 2000; RLGN 3120 
+   - Reason : RLGN/PHIL 3250; PHIL 2000; RLGN 3120
 
-   - Experience : CMIN 3340; RLGN 3100 
+   - Experience : CMIN 3340; RLGN 3100
 
-## ETHICS MINOR  (15 hours) 
+## ETHICS MINOR  (15 hours)
 
-The ethics minor is designed to provide additional depth and strength in the critical study of moral and ethical deliberations and is particularly focused on continuing moral concerns facing humans, their institutions, and the wider creation. The ethics minor is designed to strengthen the knowledge base of departmental majors but may also complement the interests of students in other majors. 
+The ethics minor is designed to provide additional depth and strength in the critical study of moral and ethical deliberations and is particularly focused on continuing moral concerns facing humans, their institutions, and the wider creation. The ethics minor is designed to strengthen the knowledge base of departmental majors but may also complement the interests of students in other majors
 
-- PHIL 2120 
+- PHIL 2120
 
-- 4 courses from BIBL 3420, PHIL 3210, RLGN 2130, RLGN 3120, RLGN/PHIL 3250 
+- 4 courses from BIBL 3420, PHIL 3210, RLGN 2130, RLGN 3120, RLGN/PHIL 3250
 
-- COMM 3200 may be applied 
+- COMM 3200 may be applied
 
-## HISTORY OF CHRISTIANITY MINOR  (15 hours) 
+## HISTORY OF CHRISTIANITY MINOR  (15 hours)
 
-The history of Christianity minor aims to provide further understanding and appreciation of the nature, role, and diversity of Christian experience throughout history as well as reflection on the role and ability of the church’s past to inform its present and future. This minor is intended to strengthen the historical and contextual understanding of departmental majors but may also be of interest to students in other majors. 
+The history of Christianity minor aims to provide further understanding and appreciation of the nature, role, and diversity of Christian experience throughout history as well as reflection on the role and ability of the church’s past to inform its present and future. This minor is intended to strengthen the historical and contextual understanding of departmental majors but may also be of interest to students in other majors
 
-- RLGN/HIST 3060, BIBL/RLGN 3000 
+- RLGN/HIST 3060, BIBL/RLGN 3000
 
-- 3 courses from RLGN 2250, RLGN 2270, RLGN/HIST 3135, RLGN 3300, RLGN/HIST 3420 
+- 3 courses from RLGN 2250, RLGN 2270, RLGN/HIST 3135, RLGN 3300, RLGN/HIST 3420
 
-## PHILOSOPHY MINOR  (15 hours) 
+## PHILOSOPHY MINOR  (15 hours)
 
-Courses in philosophy involve students in relative consideration of the nature of humanity, society, morality, religion, the arts, and the natural world. These courses contribute to the liberal arts education in two basic ways: they help students understand and assess beliefs that are integral to their views of human existence, and they are meant to enable students to acquire philosophical skills and materials that enrich and integrate the study of other disciplines. Essential to the success of each course is an atmosphere of openness to diverse viewpoints and a respect for the high standards of critical thinking. 
+Courses in philosophy involve students in relative consideration of the nature of humanity, society, morality, religion, the arts, and the natural world. These courses contribute to the liberal arts education in two basic ways: they help students understand and assess beliefs that are integral to their views of human existence, and they are meant to enable students to acquire philosophical skills and materials that enrich and integrate the study of other disciplines. Essential to the success of each course is an atmosphere of openness to diverse viewpoints and a respect for the high standards of critical thinking
 
-- 15 hours from PHIL courses 
+- 15 hours from PHIL courses
 
-## RELIGION MINOR  (15 hours) 
+## RELIGION MINOR  (15 hours)
 
-- RLGN 2000,3060,3320 
+- RLGN 2000,3060,3320
 
-- Remaining hours from RLGN-captioned courses not applied to liberal arts requirements. 
+- Remaining hours from RLGN-captioned courses not applied to liberal arts requirements
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-173 
+173
 
-## BIBL Courses 
+## BIBL Courses
 
 |2000 |Introduction to the Bible<br>3 hours (3,0)|
 |---|---|
@@ -9881,9 +9881,9 @@ Anderson University Undergraduate Catalog 2025-26
 ||texts from the classical period. Emphasis on more extensive application of principles of exegesis.|
 ||Prerequisite:BIBL 3210.Offered:Semester II (with suffcient demand).|
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-174 
+174
 
 |IBL (c|ont.)|ont.)||
 |---|---|---|---|
@@ -9935,7 +9935,7 @@ Anderson University Undergraduate Catalog 2025-26
 ||3386  Former Prophets: Joshua/Judges|3 hours (3,0)||
 |339x |Hebrew Bible Writings||3 hours (3,0)|
 
-Study of the writings section of the Hebrew Bible examining individual books or meaningful clusters regarding background, purpose, content, and interpretation. Prerequisite: BIBL 2000. Repeat: May be repeated under a different number. 
+Study of the writings section of the Hebrew Bible examining individual books or meaningful clusters regarding background, purpose, content, and interpretation. Prerequisite: BIBL 2000. Repeat: May be repeated under a different number
 
 |3391|Psalms|3 hours (3,0)|
 |---|---|---|
@@ -9944,9 +9944,9 @@ Study of the writings section of the Hebrew Bible examining individual books or 
 |3394|Esther/Daniel|3 hours (3,0)|
 |3395|Ezra/Nehemiah|3 hours (3,0)|
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-175 
+175
 
 |BIBL (c|ont.)||
 |---|---|---|
@@ -10004,9 +10004,9 @@ Anderson University Undergraduate Catalog 2025-26
 ||building healthy faith communities, caring for people in need, and leading a ministry of reconciliation.||
 ||Prerequisite:CMIN 2000.SAME AS:PAST 6370.Offered:Semester I.||
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-176 
+176
 
 |MIN (|cont.)|
 |---|---|
@@ -10064,11 +10064,11 @@ Anderson University Undergraduate Catalog 2025-26
 ||Particular emphasis is placed on the practical consequences of ideas for leaders in politics and society.|
 ||Prerequisite:Sophomore standing.SAME AS:HIST/POSC 3010.Offered:Semester II 2025-26.|
 
-PHIL Courses 
+PHIL Courses
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-177 
+177
 
 |3200 |Nineteenth-Century Philosophy<br>3 hours (3,0)|
 |---|---|
@@ -10129,9 +10129,9 @@ Anderson University Undergraduate Catalog 2025-26
 |2900 |Honors Seminar<br>2-4 hours (arranged)|
 ||Consent:Department chair.Offered:With suffcient demand.|
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-178 
+178
 
 |LGN (|cont.)||
 |---|---|---|
@@ -10196,9 +10196,9 @@ Anderson University Undergraduate Catalog 2025-26
 ||_Confict Transformation [AU Experience] component of the Liberal Arts Core Curriculum._||
 ||Prerequisite:Upper-division standing.SAME AS:PHIL 3250.Offered:Semester I.||
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-179 
+179
 
 |LGN (|cont.)|
 |---|---|
@@ -10234,17 +10234,17 @@ Anderson University Undergraduate Catalog 2025-26
 ||more hours of coursework in the CSF major or instructor approval.Offered:With suffcient|
 ||demand.|
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-180 
+180
 
-## PEACE  &  CONFLICT TRANSFORMATION 
+## PEACE  &  CONFLICT TRANSFORMATION
 
-_Program Director: Dr. Varner_ 
+_Program Director: Dr. Varner_
 
-The Peace & Conflict Transformation (PACT) program at Anderson University is committed to addressing issues of peacemaking and the transformation of conflict on four distinct, but overlapping levels: Peace with God, Peace with Self, Peace with Neighbor, and Peace with the Other. The PACT minor is available to all students as a complement to any major. Students taking the PACT minor will engage in relevant issues through an interdisciplinary approach involving courses offered by departments across the Anderson University curriculum. 
+The Peace & Conflict Transformation (PACT) program at Anderson University is committed to addressing issues of peacemaking and the transformation of conflict on four distinct, but overlapping levels: Peace with God, Peace with Self, Peace with Neighbor, and Peace with the Other. The PACT minor is available to all students as a complement to any major. Students taking the PACT minor will engage in relevant issues through an interdisciplinary approach involving courses offered by departments across the Anderson University curriculum
 
-PEACE & CONFLICT TRANSFORMATION MINOR  (16-17 hours) 
+PEACE & CONFLICT TRANSFORMATION MINOR  (16-17 hours)
 
 |Foundation(6 hours):|||
 |---|---|---|
@@ -10264,7 +10264,7 @@ PEACE & CONFLICT TRANSFORMATION MINOR  (16-17 hours)
 |● ECON 2010 (3), 3190 (3)|● PACT 2300 (2)|● SOCI 2010 (3), 2020 (3), 3400 (3)|
 |Experiential(1 hour):|||
 
-●​ A 1-hour service or internship experience (requires formal approval by the PACT Director) 
+●​ A 1-hour service or internship experience (requires formal approval by the PACT Director)
 
 |PACT Courses|PACT Courses||
 |---|---|---|
@@ -10290,251 +10290,251 @@ PEACE & CONFLICT TRANSFORMATION MINOR  (16-17 hours)
 ||appropriation through research, presentation, and critique.Prerequisite: PACT 2100.Offered:||
 ||Semester II.||
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-181 
+181
 
-## GRADUATE BUSINESS PROGRAMS 
+## GRADUATE BUSINESS PROGRAMS
 
-## MASTER OF BUSINESS ADMINISTRATION (MBA) 
+## MASTER OF BUSINESS ADMINISTRATION (MBA)
 
-- Evening Program:  Designed for the working professional, this MBA program is offered in Fishers. Students are part of a cohort that normally meets one night per week. The program can be completed in two years and is fully accredited by the _Accreditation Council for Business Schools and Programs_ (ACBSP). 
+- Evening Program:  Designed for the working professional, this MBA program is offered in Fishers. Students are part of a cohort that normally meets one night per week. The program can be completed in two years and is fully accredited by the _Accreditation Council for Business Schools and Programs_ (ACBSP)
 
-- Daytime Program:  Designed for individuals who desire graduate-level studies in a Christian environment immediately following completion of their undergraduate program. The program is experiential in nature, emphasizes professional development, and utilizes an intense living-learning approach. The program can be completed in 10 months and is fully accredited by the _Accreditation Council for Business Schools and Programs_ (ACBSP). 
+- Daytime Program:  Designed for individuals who desire graduate-level studies in a Christian environment immediately following completion of their undergraduate program. The program is experiential in nature, emphasizes professional development, and utilizes an intense living-learning approach. The program can be completed in 10 months and is fully accredited by the _Accreditation Council for Business Schools and Programs_ (ACBSP)
 
-- Online Program:  Designed specifically for individuals who prefer learning via an online platform. The program provides scheduling flexibility without sacrificing quality or rigor. MBA courses are taught by full-time faculty from the Falls School of Business. Each course consists of online discussions, interaction with the faculty member, and application assignments related to the concepts. The program is fully accredited by the _Accreditation Council for Business Schools and Programs_ (ACBSP). 
+- Online Program:  Designed specifically for individuals who prefer learning via an online platform. The program provides scheduling flexibility without sacrificing quality or rigor. MBA courses are taught by full-time faculty from the Falls School of Business. Each course consists of online discussions, interaction with the faculty member, and application assignments related to the concepts. The program is fully accredited by the _Accreditation Council for Business Schools and Programs_ (ACBSP)
 
-## MASTER OF ORGANIZATIONAL LEADERSHIP (MOL) 
+## MASTER OF ORGANIZATIONAL LEADERSHIP (MOL)
 
-The MOL program is designed for individuals who are looking to grow their leadership expertise and provides scheduling flexibility without sacrificing quality or rigor.  Courses are taught by full-time faculty from the Falls School of Business. Each course consists of online discussions, interaction with the faculty member, and application assignments related to the concepts. 
+The MOL program is designed for individuals who are looking to grow their leadership expertise and provides scheduling flexibility without sacrificing quality or rigor.  Courses are taught by full-time faculty from the Falls School of Business. Each course consists of online discussions, interaction with the faculty member, and application assignments related to the concepts
 
-## DOCTOR OF BUSINESS ADMINISTRATION (DBA) 
+## DOCTOR OF BUSINESS ADMINISTRATION (DBA)
 
-Designed for individuals who are currently serving or desire to serve as faculty members at higher education teaching institutions. Students perform in-depth studies in four primary areas: teaching pedagogy, values/faith integration, research methodology, and a business major. The format is a unique blending of directed studies and on-campus residency weeks resulting in a doable, high quality doctoral program. The program is fully accredited by the _Accreditation Council for Business Schools and Programs_ (ACBSP). 
+Designed for individuals who are currently serving or desire to serve as faculty members at higher education teaching institutions. Students perform in-depth studies in four primary areas: teaching pedagogy, values/faith integration, research methodology, and a business major. The format is a unique blending of directed studies and on-campus residency weeks resulting in a doable, high quality doctoral program. The program is fully accredited by the _Accreditation Council for Business Schools and Programs_ (ACBSP)
 
-For more information about graduate business programs, visit anderson.edu/business or contact: 
+For more information about graduate business programs, visit anderson.edu/business or contact:
 
-Dr. Celesta Bates Director of Graduate Business Programs Falls School of Business College of Professional Studies (765) 641-4329 mba@anderson.edu dba@anderson.edu 
+Dr. Celesta Bates Director of Graduate Business Programs Falls School of Business College of Professional Studies (765) 641-4329 mba@anderson.edu dba@anderson.edu
 
-See also the Graduate Catalog on the Anderson University website. 
+See also the Graduate Catalog on the Anderson University website
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-182 
+182
 
-## GRADUATE MUSIC PROGRAM 
+## GRADUATE MUSIC PROGRAM
 
-## MASTER OF MUSIC EDUCATION (MME) 
+## MASTER OF MUSIC EDUCATION (MME)
 
-The Master of Music Education at Anderson University is designed for the practicing music educator who has one or more years of experience as a music teacher. The 32-hour degree is a hybrid program with courses completed virtually through Zoom or similar platforms or through summer courses on campus. Most courses can be completed during summer sessions (six weeks of coursework each summer), though a limited number of evening classes during the academic year may be required. 
+The Master of Music Education at Anderson University is designed for the practicing music educator who has one or more years of experience as a music teacher. The 32-hour degree is a hybrid program with courses completed virtually through Zoom or similar platforms or through summer courses on campus. Most courses can be completed during summer sessions (six weeks of coursework each summer), though a limited number of evening classes during the academic year may be required
 
-Separate tracks of study are available for instrumental, choral, and general music specialists. Students may also pursue three levels of Orff Schulwerk Certification as part of this degree program or other courses from the Summer Studies in Music Education program. 
+Separate tracks of study are available for instrumental, choral, and general music specialists. Students may also pursue three levels of Orff Schulwerk Certification as part of this degree program or other courses from the Summer Studies in Music Education program
 
-The MME program is accredited by the _National Association of Schools of Music_ . 
+The MME program is accredited by the _National Association of Schools of Music_
 
-For more information about the MME Program, visit _anderson.edu/academics/master-of-music-education_ or contact: 
+For more information about the MME Program, visit _anderson.edu/academics/master-of-music-education_ or contact:
 
-## Michelle Holmes 
+## Michelle Holmes
 
-Enrollment Specialist School of Music & Performing Arts College of Arts & Sciences (765) 641-4543 (800) 619-3047 toll-free _msholmes@anderson.edu anderson.edu/school-of-music-and-performing-arts_ 
+Enrollment Specialist School of Music & Performing Arts College of Arts & Sciences (765) 641-4543 (800) 619-3047 toll-free _msholmes@anderson.edu anderson.edu/school-of-music-and-performing-arts_
 
-See also the _Graduate Catalog_ on the Anderson University website. 
+See also the _Graduate Catalog_ on the Anderson University website
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-183 
+183
 
-## GRADUATE SEMINARY PROGRAMS 
+## GRADUATE SEMINARY PROGRAMS
 
-## MASTER OF DIVINITY (MDIV) 
+## MASTER OF DIVINITY (MDIV)
 
-The purpose of this degree program is to equip ministers of the Gospel — men and women — for ordained service. The Master of Divinity is the basic ministerial leadership degree for those preparing for ministry. This 72-hour degree program provides a broad preparation with a solid core in Bible, history, theology, mission, and pastoral ministry. 
+The purpose of this degree program is to equip ministers of the Gospel — men and women — for ordained service. The Master of Divinity is the basic ministerial leadership degree for those preparing for ministry. This 72-hour degree program provides a broad preparation with a solid core in Bible, history, theology, mission, and pastoral ministry
 
-The MDiv is offered both in residence and 100% online and is fully accredited by the _Association of Theological Schools_ (ATS) in both formats. 
+The MDiv is offered both in residence and 100% online and is fully accredited by the _Association of Theological Schools_ (ATS) in both formats
 
-## MASTER OF THEOLOGICAL STUDIES (MTS) 
+## MASTER OF THEOLOGICAL STUDIES (MTS)
 
-The Master of Theological Studies is a 45-hour degree program that provides a basic understanding of theological disciplines for further graduate study or for general educational purposes. The MTS provides a thesis track for students considering PhD or ThD programs as well as a non-thesis track. The MTS degree is not the preferred pathway to full-time ministry. 
+The Master of Theological Studies is a 45-hour degree program that provides a basic understanding of theological disciplines for further graduate study or for general educational purposes. The MTS provides a thesis track for students considering PhD or ThD programs as well as a non-thesis track. The MTS degree is not the preferred pathway to full-time ministry
 
-The MTS is offered both in residence and 100% online and is fully accredited by the _Association of Theological Schools_ (ATS) in both formats. 
+The MTS is offered both in residence and 100% online and is fully accredited by the _Association of Theological Schools_ (ATS) in both formats
 
-## MASTER OF ARTS IN CHRISTIAN MINISTRY (MACM) 
+## MASTER OF ARTS IN CHRISTIAN MINISTRY (MACM)
 
-This 42-hour degree program is designed for those currently serving in local congregations. The MACM degree offers specializations in student ministry, pastoral ministry, church administration, intercultural studies, and preaching. 
+This 42-hour degree program is designed for those currently serving in local congregations. The MACM degree offers specializations in student ministry, pastoral ministry, church administration, intercultural studies, and preaching
 
-The MACM is offered both in residence and 100% online and is fully accredited by the _Association of Theological Schools_ (ATS) in both formats. 
+The MACM is offered both in residence and 100% online and is fully accredited by the _Association of Theological Schools_ (ATS) in both formats
 
-For more information about graduate seminary programs, visit _anderson.edu/theology-christian-ministry_ or contact: 
+For more information about graduate seminary programs, visit _anderson.edu/theology-christian-ministry_ or contact:
 
-Dr. Gary Agee Enrollment Specialist School of Theology & Christian Ministry College of Theological, Graduate, & Online Studies (765) 641-4064 _gbagee@anderson.edu_ 
+Dr. Gary Agee Enrollment Specialist School of Theology & Christian Ministry College of Theological, Graduate, & Online Studies (765) 641-4064 _gbagee@anderson.edu_
 
-See also the _Graduate Catalog_ on the Anderson University website. 
+See also the _Graduate Catalog_ on the Anderson University website
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-184 
+184
 
-## Academic Support 
+## Academic Support
 
-## ASPIRE ADVISING PROGRAM 
+## ASPIRE ADVISING PROGRAM
 
-Academic advising at Anderson University is integral to “educating for a life of faith and service in the church and society,” so the advising program is about more than merely selecting classes for an upcoming semester—it also must help students understand and begin to pursue their broader life purpose. 
+Academic advising at Anderson University is integral to “educating for a life of faith and service in the church and society,” so the advising program is about more than merely selecting classes for an upcoming semester—it also must help students understand and begin to pursue their broader life purpose
 
-The heart of AU’s advising program isn’t a checklist or catalog. It’s the relationship between the student and his or her advisor. This is a partnership in which both student and advisor have important responsibilities. Advisors can help guide a student’s steps, but student success ultimately requires their careful thought and engagement. 
+The heart of AU’s advising program isn’t a checklist or catalog. It’s the relationship between the student and his or her advisor. This is a partnership in which both student and advisor have important responsibilities. Advisors can help guide a student’s steps, but student success ultimately requires their careful thought and engagement
 
-The Anderson University advising program has been designed to encourage and empower students to: 
+The Anderson University advising program has been designed to encourage and empower students to:
 
-- develop awareness of opportunities for academic, personal and professional growth; 
+- develop awareness of opportunities for academic, personal and professional growth;
 
-- design a multi-year strategic plan for selecting classes and complementary on- and off-campus activities and affiliations that enhance their learning experience; 
+- design a multi-year strategic plan for selecting classes and complementary on- and off-campus activities and affiliations that enhance their learning experience;
 
-- implement their academic program and effectively manage the broader area of personal and professional development; and 
+- implement their academic program and effectively manage the broader area of personal and professional development; and
 
-- continually reflect on and evaluate the appropriateness of their current academic and professionaldevelopment plan, and modify the plan as goals may change and circumstances require. 
+- continually reflect on and evaluate the appropriateness of their current academic and professionaldevelopment plan, and modify the plan as goals may change and circumstances require
 
-## Student’s Role in the Advising Process 
+## Student’s Role in the Advising Process
 
-To get the best results, students should take an active role in the process, keeping the following information in mind when doing scheduling or other progression planning:  Accept responsibility for their academic performance; prepare for each appointment by reviewing progress made, preparing the schedule they think they’ll need, and compiling a list of any questions they might have; and to: 
+To get the best results, students should take an active role in the process, keeping the following information in mind when doing scheduling or other progression planning:  Accept responsibility for their academic performance; prepare for each appointment by reviewing progress made, preparing the schedule they think they’ll need, and compiling a list of any questions they might have; and to:
 
-- Accept responsibility for deciding which classes to put on their schedule; 
+- Accept responsibility for deciding which classes to put on their schedule;
 
-- Be attentive to course prerequisites, and be aware of how their planning could be affected by classes that are scheduled on an every-other-year basis; 
+- Be attentive to course prerequisites, and be aware of how their planning could be affected by classes that are scheduled on an every-other-year basis;
 
-- Be familiar with university due dates, policies, and procedures so they can enroll in the courses they want and can make any changes before the deadlines for adding or dropping courses; 
+- Be familiar with university due dates, policies, and procedures so they can enroll in the courses they want and can make any changes before the deadlines for adding or dropping courses;
 
-- Talk with their advisor about extracurricular activities, internships, job prospects, etc., and develop a list of specific opportunities they might like to pursue; and 
+- Talk with their advisor about extracurricular activities, internships, job prospects, etc., and develop a list of specific opportunities they might like to pursue; and
 
-- Document completion of professional development experiences through their advisor’s Canvas advising page. 
+- Document completion of professional development experiences through their advisor’s Canvas advising page
 
-## Advisor’s Role in the Process 
+## Advisor’s Role in the Process
 
-Students may expect their advisor—as their partner in the advising process—to: 
+Students may expect their advisor—as their partner in the advising process—to:
 
-- Be approachable, listen carefully to the student’s questions and concerns, and be responsive to requests for meetings and assistance; 
+- Be approachable, listen carefully to the student’s questions and concerns, and be responsive to requests for meetings and assistance;
 
-- Understand and explain how the university’s curriculum, requirements, policies and procedures apply to the student’s academic program; 
+- Understand and explain how the university’s curriculum, requirements, policies and procedures apply to the student’s academic program;
 
-- Provide honest guidance and perspective in the development of attainable educational and professional goals; 
+- Provide honest guidance and perspective in the development of attainable educational and professional goals;
 
-- Assist in exploring major and career options that are in keeping with the student’s aptitudes, values and areas of interest; 
+- Assist in exploring major and career options that are in keeping with the student’s aptitudes, values and areas of interest;
 
-- Help track student progress in meeting the requirements of their program of study; 
+- Help track student progress in meeting the requirements of their program of study;
 
-- Assist in identifying opportunities for personal growth, including involvement in student organizations, internships and off-campus programs and associations; 
+- Assist in identifying opportunities for personal growth, including involvement in student organizations, internships and off-campus programs and associations;
 
-- Provide referrals to campus resources (e.g., _Center for Career & Calling_ ) that can assist students in achieving goals; and 
+- Provide referrals to campus resources (e.g., _Center for Career & Calling_ ) that can assist students in achieving goals; and
 
-- Maintain strict confidentiality pursuant to _FERPA_ regulations. 
+- Maintain strict confidentiality pursuant to _FERPA_ regulations
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-185 
+185
 
-## ACADEMIC STUDENT SUCCESS COACHING 
+## ACADEMIC STUDENT SUCCESS COACHING
 
-Academic coaches  within the Office of Educational Support Services work with students and student athletes who are either at-risk academically or have found themselves on “Academic Notice” pursuant to the university’s academic standards. Academic coaches meet individually with students, helping them to create a success plan and connecting them with campus resources where they can discover the tools needed in order to be successful. 
+Academic coaches  within the Office of Educational Support Services work with students and student athletes who are either at-risk academically or have found themselves on “Academic Notice” pursuant to the university’s academic standards. Academic coaches meet individually with students, helping them to create a success plan and connecting them with campus resources where they can discover the tools needed in order to be successful
 
-## ALPHA PROGRAM 
+## ALPHA PROGRAM
 
-Anderson University believes that all students entering the institution deserve a fair chance to succeed. In turn, success depends on students being adequately prepared to meet the rigors of college-level study. The Alpha Program is designed to support students who have the potential to succeed but have not fully developed the skills necessary for collegiate success. 
+Anderson University believes that all students entering the institution deserve a fair chance to succeed. In turn, success depends on students being adequately prepared to meet the rigors of college-level study. The Alpha Program is designed to support students who have the potential to succeed but have not fully developed the skills necessary for collegiate success
 
-In considering new student applications, the committee for admission carefully reviews several sources that serve as indicators of collegiate success. Based on these academic records and recommendations, the admission committee may accept students conditionally for participation in the Alpha program. As part of the program, students are expected to participate in a pre-collegiate orientation designed to acclimate students to campus before the beginning of classes. During the fall semester, participants are limited to enrolling in a maximum of 12-15 hours (depending on the major). In addition, Alpha students are required to enroll in LART 1010 (Strategies for Academic Success), a three-credit-hour course focusing on academic, study, and life skills (including Emotional Intelligence skills development) necessary for success in college. 
+In considering new student applications, the committee for admission carefully reviews several sources that serve as indicators of collegiate success. Based on these academic records and recommendations, the admission committee may accept students conditionally for participation in the Alpha program. As part of the program, students are expected to participate in a pre-collegiate orientation designed to acclimate students to campus before the beginning of classes. During the fall semester, participants are limited to enrolling in a maximum of 12-15 hours (depending on the major). In addition, Alpha students are required to enroll in LART 1010 (Strategies for Academic Success), a three-credit-hour course focusing on academic, study, and life skills (including Emotional Intelligence skills development) necessary for success in college
 
-## STUDENT ACCESSIBILITY SERVICES (SAS) 
+## STUDENT ACCESSIBILITY SERVICES (SAS)
 
-Anderson University offers learning-support services for all students who qualify under the Americans with Disabilities Act as amended and/or Section 504 of the Rehabilitation Act of 1973. To secure reasonable accommodations or auxiliary aids/services, it is the responsibility of the student to notify the appropriate institutional representative of the disability, provide current documentation of the disability, and request the specific accommodations and/or auxiliary aids/services needed. Certain accommodations and auxiliary aids/services may require advance notice to the director for student accessibility services. 
+Anderson University offers learning-support services for all students who qualify under the Americans with Disabilities Act as amended and/or Section 504 of the Rehabilitation Act of 1973. To secure reasonable accommodations or auxiliary aids/services, it is the responsibility of the student to notify the appropriate institutional representative of the disability, provide current documentation of the disability, and request the specific accommodations and/or auxiliary aids/services needed. Certain accommodations and auxiliary aids/services may require advance notice to the director for student accessibility services
 
-Documentation/evaluations must be completed by an appropriately trained professional and provide information about the current impact of the disability. The institution must be given a reasonable opportunity to evaluate requests. Requests are considered based on individual need. Accommodations and/or auxiliary aids/services may be denied in cases that cause an undue burden to the institution or that fundamentally alter the nature of the program. 
+Documentation/evaluations must be completed by an appropriately trained professional and provide information about the current impact of the disability. The institution must be given a reasonable opportunity to evaluate requests. Requests are considered based on individual need. Accommodations and/or auxiliary aids/services may be denied in cases that cause an undue burden to the institution or that fundamentally alter the nature of the program
 
-Students requesting reasonable accommodations and/or auxiliary aids/services should contact Teresa Coplin, director for _Student Accessibility Services_ , _Kissinger Academic Center for Excellence_ , at (765) 641-4223 or _tjcoplin@anderson.edu_ . 
+Students requesting reasonable accommodations and/or auxiliary aids/services should contact Teresa Coplin, director for _Student Accessibility Services_ , _Kissinger Academic Center for Excellence_ , at (765) 641-4223 or _tjcoplin@anderson.edu_
 
-## KISSINGER ACADEMIC CENTER FOR EXCELLENCE (KACE) 
+## KISSINGER ACADEMIC CENTER FOR EXCELLENCE (KACE)
 
-_KACE_ promotes academic excellence by providing a variety of free services for all Anderson University students. The center has individual and group-oriented resources, including peer-tutoring, academic workshops, and a dedicated writing center. The focus of KACE is on helping students achieve their academic potential through relationships, empowerment, and collaboration. Assistance may be related to a specific course or courses; to the improvement of abilities such as reading, writing, and specific study skill competencies; or to preparation for special exams such as Core and Casa. The _offce of student accessibility services_ is located within the center. 
+_KACE_ promotes academic excellence by providing a variety of free services for all Anderson University students. The center has individual and group-oriented resources, including peer-tutoring, academic workshops, and a dedicated writing center. The focus of KACE is on helping students achieve their academic potential through relationships, empowerment, and collaboration. Assistance may be related to a specific course or courses; to the improvement of abilities such as reading, writing, and specific study skill competencies; or to preparation for special exams such as Core and Casa. The _offce of student accessibility services_ is located within the center
 
-## Academic Enrichment 
+## Academic Enrichment
 
-## CCCU OFF-CAMPUS STUDY PROGRAM 
+## CCCU OFF-CAMPUS STUDY PROGRAM
 
-Anderson University is a member of the Council for Christian Colleges and Universities (CCCU), an organization of more than 180 colleges and universities. Through this membership, students are eligible to apply for a number of off-campus study programs through CCCU GlobalEd. Contact the University Registrar or visit _cccuglobaled.org_ for more information. 
+Anderson University is a member of the Council for Christian Colleges and Universities (CCCU), an organization of more than 180 colleges and universities. Through this membership, students are eligible to apply for a number of off-campus study programs through CCCU GlobalEd. Contact the University Registrar or visit _cccuglobaled.org_ for more information
 
-## CENTER FOR CAREER & CALLING 
+## CENTER FOR CAREER & CALLING
 
-The Center for Career & Calling assists students in the selection of a major and/or vocation based on individual personalities, skills, abilities, and passion. To prepare for a competitive and rapidly changing job market, students may participate in résumé reviews, resources for networking and job search strategies, employer information sessions, and career fair opportunities. For additional information, visit _anderson.edu/career_ . 
+The Center for Career & Calling assists students in the selection of a major and/or vocation based on individual personalities, skills, abilities, and passion. To prepare for a competitive and rapidly changing job market, students may participate in résumé reviews, resources for networking and job search strategies, employer information sessions, and career fair opportunities. For additional information, visit _anderson.edu/career_
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-186 
+186
 
-## CENTER FOR PUBLIC SERVICE 
+## CENTER FOR PUBLIC SERVICE
 
-The Center for Public Service (CPS) is a unique honors program for exceptional students preparing for careers in public service. Established in 1973 through a generous grant from the Lilly Endowment, CPS helps students prepare for their public service careers through membership in professional organizations, attendance at professional conferences, internships, off-campus study, and connections with public service professionals working in the area of their career interest. CPS fellows also use the program to develop a public service mindset, increase their awareness of societal needs, and gain firsthand knowledge of their career before graduation. The center’s approach is purposely flexible and individualized. Membership in CPS is highly competitive and based on a comprehensive application process. Students of sophomore standing or above with a GPA of at least 3.4 are eligible to apply. For additional information, visit _anderson.edu/academics/cps_ or email _cps@anderson.edu_ . 
+The Center for Public Service (CPS) is a unique honors program for exceptional students preparing for careers in public service. Established in 1973 through a generous grant from the Lilly Endowment, CPS helps students prepare for their public service careers through membership in professional organizations, attendance at professional conferences, internships, off-campus study, and connections with public service professionals working in the area of their career interest. CPS fellows also use the program to develop a public service mindset, increase their awareness of societal needs, and gain firsthand knowledge of their career before graduation. The center’s approach is purposely flexible and individualized. Membership in CPS is highly competitive and based on a comprehensive application process. Students of sophomore standing or above with a GPA of at least 3.4 are eligible to apply. For additional information, visit _anderson.edu/academics/cps_ or email _cps@anderson.edu_
 
-## CHICAGO CENTER 
+## CHICAGO CENTER
 
-Chicago Center semester and summer programs offer the opportunity for students from all majors to live and learn in Chicago while earning credit toward graduation. Three components comprise the program, including an internship in an urban organization, an independent study project that is related to the internship, and a course on urban issues. Students arrange their individualized program in cooperation with the Anderson University campus liaison and the Chicago Center staff. While in Chicago, students live and study with individuals from other small Midwest church-affiliated colleges and universities. The campus liaison is a faculty member from the Department of Social Sciences. 
+Chicago Center semester and summer programs offer the opportunity for students from all majors to live and learn in Chicago while earning credit toward graduation. Three components comprise the program, including an internship in an urban organization, an independent study project that is related to the internship, and a course on urban issues. Students arrange their individualized program in cooperation with the Anderson University campus liaison and the Chicago Center staff. While in Chicago, students live and study with individuals from other small Midwest church-affiliated colleges and universities. The campus liaison is a faculty member from the Department of Social Sciences
 
-## DEPARTMENTAL HONORS 
+## DEPARTMENTAL HONORS
 
-Students also may earn honors in the departments in which they do their major work. A student must attain a 3.0 GPA in all courses, a 3.5 GPA in all courses taken in a department, and must fulfill specific departmental requirements. Annually, each department may have at least one student receiving departmental honors. The maximum number receiving honors is approximately 10% of the graduates in the department. Departmental and institutional honors are open only to students pursuing a bachelor’s degree and are awarded after all work for the degree is completed. 
+Students also may earn honors in the departments in which they do their major work. A student must attain a 3.0 GPA in all courses, a 3.5 GPA in all courses taken in a department, and must fulfill specific departmental requirements. Annually, each department may have at least one student receiving departmental honors. The maximum number receiving honors is approximately 10% of the graduates in the department. Departmental and institutional honors are open only to students pursuing a bachelor’s degree and are awarded after all work for the degree is completed
 
-## HONOR SOCIETIES 
+## HONOR SOCIETIES
 
-Anderson University has chosen to participate in a number of national academic honor societies. Students whose academic achievement is sufficiently meritorious may be invited to join an honor society (or societies) based on overall GPA and academic major. National academic honor society chapters fostering the pursuit of scholarship at Anderson University include the following: 
+Anderson University has chosen to participate in a number of national academic honor societies. Students whose academic achievement is sufficiently meritorious may be invited to join an honor society (or societies) based on overall GPA and academic major. National academic honor society chapters fostering the pursuit of scholarship at Anderson University include the following:
 
-- Alpha Chi (top 10% of juniors and seniors maintaining a GPA of 3.7 or higher) 
+- Alpha Chi (top 10% of juniors and seniors maintaining a GPA of 3.7 or higher)
 
-- Phi Eta Sigma (freshmen) 
+- Phi Eta Sigma (freshmen)
 
-- Alpha Mu Gamma (modern languages) 
+- Alpha Mu Gamma (modern languages)
 
-- Delta Mu Delta (business) 
+- Delta Mu Delta (business)
 
-- Kappa Delta Pi (education) 
+- Kappa Delta Pi (education)
 
-- Kappa Mu Epsilon (mathematics) 
+- Kappa Mu Epsilon (mathematics)
 
-- Phi Alpha (social work) 
+- Phi Alpha (social work)
 
-- Phi Alpha Theta (history) 
+- Phi Alpha Theta (history)
 
-- Pi Kappa Lambda (music) 
+- Pi Kappa Lambda (music)
 
-- Pi Sigma Alpha (political science) 
+- Pi Sigma Alpha (political science)
 
-- Psi Chi (psychology) 
+- Psi Chi (psychology)
 
-- Sigma Tau Delta (English) 
+- Sigma Tau Delta (English)
 
-- Sigma Zeta – Upsilon chapter (mathematics and science) 
+- Sigma Zeta – Upsilon chapter (mathematics and science)
 
-## HONORS STUDY 
+## HONORS STUDY
 
-Honors study at Anderson University varies by department. In general, such study may take the form of advanced placement, institutional credit by examination, special sections in some courses, certain reading courses, tutorials, seminars, and individual study. In some instances, honors study begins at the freshman and sophomore levels, particularly advanced placement and special sections. Seminars and individual study are usually implemented at the junior and senior levels. Special reading courses and tutorials may be taken at either level. 
+Honors study at Anderson University varies by department. In general, such study may take the form of advanced placement, institutional credit by examination, special sections in some courses, certain reading courses, tutorials, seminars, and individual study. In some instances, honors study begins at the freshman and sophomore levels, particularly advanced placement and special sections. Seminars and individual study are usually implemented at the junior and senior levels. Special reading courses and tutorials may be taken at either level
 
-At any level, the primary purpose of honors study is not acceleration but enrichment in both scope and depth. Students considering honors study should consult their advisors or the University Registrar. For additional information, visit _anderson.edu/academics/honors_ and refer to the _Honors Program_ section in this catalog. 
+At any level, the primary purpose of honors study is not acceleration but enrichment in both scope and depth. Students considering honors study should consult their advisors or the University Registrar. For additional information, visit _anderson.edu/academics/honors_ and refer to the _Honors Program_ section in this catalog
 
-Anderson University Undergraduate Catalog 2025-26 
+Anderson University Undergraduate Catalog 2025-26
 
-187 
+187
 
-## INTERCOLLEGIATE ATHLETICS 
+## INTERCOLLEGIATE ATHLETICS
 
-Anderson University sponsors 18 intercollegiate athletic (9 men’s and 9 women’s) teams within the mission of the university and the NCAA Division III philosophy. The athletic program is understood as integral to the academic program, with the primary emphasis on the student-athlete. The department of athletics strives to recruit students who meet the academic standards and value the ethos of the university. For more information, visit _athletics.anderson.edu_ or contact the athletic director. 
+Anderson University sponsors 18 intercollegiate athletic (9 men’s and 9 women’s) teams within the mission of the university and the NCAA Division III philosophy. The athletic program is understood as integral to the academic program, with the primary emphasis on the student-athlete. The department of athletics strives to recruit students who meet the academic standards and value the ethos of the university. For more information, visit _athletics.anderson.edu_ or contact the athletic director
 
-## SUMMER STUDY 
+## SUMMER STUDY
 
-The summer school program offers students the possibility of attaining a full semester’s credit by participating throughout the entire summer term in a variety of delivery formats (e.g. face-to-face, blended, or online). Generally, summer classes are offered in either two 8-week sessions or one 16-week session. Also possible during the summer are specially arranged courses such as directed studies, TRI-S Global, and study-away programs. These courses are arranged to help students meet educational goals during the summer without requiring an on-campus presence. 
+The summer school program offers students the possibility of attaining a full semester’s credit by participating throughout the entire summer term in a variety of delivery formats (e.g. face-to-face, blended, or online). Generally, summer classes are offered in either two 8-week sessions or one 16-week session. Also possible during the summer are specially arranged courses such as directed studies, TRI-S Global, and study-away programs. These courses are arranged to help students meet educational goals during the summer without requiring an on-campus presence
 
-The summer school schedule of classes lists course offerings and information about other educational opportunities. A student who wants to enroll in summer classes should contact their academic advisor to identify available courses that will fulfill graduation or other requirements. Additionally, the student must meet with their financial aid counselor before registering for summer classes. 
+The summer school schedule of classes lists course offerings and information about other educational opportunities. A student who wants to enroll in summer classes should contact their academic advisor to identify available courses that will fulfill graduation or other requirements. Additionally, the student must meet with their financial aid counselor before registering for summer classes
 
-Students planning coursework elsewhere during the summer should consult with the _University Registrar_ . See also the _Transfer Credit from other Institutions_ section of this catalog. 
+Students planning coursework elsewhere during the summer should consult with the _University Registrar_ . See also the _Transfer Credit from other Institutions_ section of this catalog
 
-## TRI-S GLOBAL AND STUDY-AWAY 
+## TRI-S GLOBAL AND STUDY-AWAY
 
-The TRI-S (Serve, Study, and Share) and Study-Away Program serves as a resource for students interested in study-away, international or intercultural internships, or short-term service/learning experiences (TRI-S). The TRI-S and Study-Away staff maintain and direct a wide range of semester and summer programs focused on developing intercultural competence and assisting students in integrating an international or intercultural study experience with their degree program. They also advise students regarding the various aspects of international and intercultural study, including program selection, visas and travel documents, financial aid, safety and security issues, and the transfer of academic credit. Students are encouraged to contact the TRI-S and Study-Away Office early in their degree program when considering international or intercultural study opportunities. 
+The TRI-S (Serve, Study, and Share) and Study-Away Program serves as a resource for students interested in study-away, international or intercultural internships, or short-term service/learning experiences (TRI-S). The TRI-S and Study-Away staff maintain and direct a wide range of semester and summer programs focused on developing intercultural competence and assisting students in integrating an international or intercultural study experience with their degree program. They also advise students regarding the various aspects of international and intercultural study, including program selection, visas and travel documents, financial aid, safety and security issues, and the transfer of academic credit. Students are encouraged to contact the TRI-S and Study-Away Office early in their degree program when considering international or intercultural study opportunities
 
-TRI-S short-term study-away opportunities, seeks to expand the college campus into the world and open challenging and stimulating cross-cultural encounters through international and intercultural learning and service opportunities. Nearly 300 individuals annually volunteer to build, repair, paint, teach, counsel, research, sing, or provide nursing services in Africa, Australia, Asia, Europe, Latin America, the Caribbean, and the United States. These experiences are intensified as students work and/or live with individuals of different cultures. TRI-S programs are offered in the summer, during the international opportunity between semesters, or during spring break week. 
+TRI-S short-term study-away opportunities, seeks to expand the college campus into the world and open challenging and stimulating cross-cultural encounters through international and intercultural learning and service opportunities. Nearly 300 individuals annually volunteer to build, repair, paint, teach, counsel, research, sing, or provide nursing services in Africa, Australia, Asia, Europe, Latin America, the Caribbean, and the United States. These experiences are intensified as students work and/or live with individuals of different cultures. TRI-S programs are offered in the summer, during the international opportunity between semesters, or during spring break week
 
-Additional information is available on the _TRI-S webpage_ and also the _Study Away webpage_ . 
+Additional information is available on the _TRI-S webpage_ and also the _Study Away webpage_
 

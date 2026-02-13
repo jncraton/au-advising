@@ -93,7 +93,7 @@ for file in sys.argv[1:]:
 
     text = re.sub(r"(\d),\s+(\d)", r"\1,\2", text)
     
-    text = re.sub(r"\s+\n", r"\n", text)
+    text = re.sub(r"[ \t]+\n", r"\n", text)
 
     tokens = count_tokens(text, tokenizer)
     print(
