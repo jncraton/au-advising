@@ -1,42 +1,39 @@
 #!/usr/bin/python3
 
+import os
 import pandas as pd
 
 
-def scrape_table_to_markdown(url, drop_cols):
-    """Fetch tables from url and return as markdown string."""
+def scrape_largest_table(url, drop_cols):
+    # fetch all tables from the url and return the largest table
     try:
         tables = pd.read_html(url)
         if not tables:
-            return "No tables found"
+            return None
 
-        cleaned_markdown = []
-        for df in tables:
-            df = df.fillna('')
-            df.columns = df.columns.astype(str)
-            lower_cols = df.columns.str.lower()
-            to_drop = [
-                c for c in df.columns
-                if c.lower() in [d.lower() for d in drop_cols]
-            ]
-            df_filtered = df.drop(columns=to_drop)
-            cleaned_markdown.append(df_filtered.to_markdown(index=False))
-
-        return '\n\n'.join(cleaned_markdown)
-    except Exception as e:
-        return f"Error scraping tables: {e}"
+        largest = max(tables, key=lambda df: (df.shape[0], df.shape[1]))
+        df = largest.fillna("")
+        df.columns = df.columns.astype(str)
+        to_drop = [c for c in df.columns if c.lower() in {d.lower() for d in drop_cols}]
+        df_filtered = df.drop(columns=to_drop, errors="ignore")
+        return df_filtered
+    except Exception:
+        return None
 
 
 if __name__ == "__main__":
     drop_cols = ['class nbr', 'sectn req', 'topic', 'instr', 'grd', 'department']
     term_names = ["", "fall", "", "spring", "summer"]
     for term in ["2251", "2253", "2261", "2263"]:
-        target_url = (
-            f"https://basilisk.anderson.edu:4500/under_graduates.aspx?ListBox3={term}"
-        )
+        target_url = f"https://basilisk.anderson.edu:4500/under_graduates.aspx?ListBox3={term}"
 
         year = int(term[1:3])
-        filename = f"references/20{year}-{year+1}/schedule-{term_names[int(term[-1])]}.md"
+        filename = f"references/20{year}-{year+1}/schedule-{term_names[int(term[-1])]}.tsv"
+        os.makedirs(os.path.dirname(filename), exist_ok=True)
 
-        with open(filename, "w") as f:
-            f.write(scrape_table_to_markdown(target_url, drop_cols))
+        df = scrape_largest_table(target_url, drop_cols)
+        if df is None:
+            # create an empty file to signal failure
+            open(filename, "w").close()
+        else:
+            df.to_csv(filename, sep="\t", index=False, encoding="utf-8")
