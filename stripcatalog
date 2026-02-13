@@ -46,6 +46,7 @@ to_title_case = [
   "EXPECTATION",
   "CONSENT",
   "REPEAT",
+  "GRADE",
 ]
 
 tokenizer = load_tokenizer()
