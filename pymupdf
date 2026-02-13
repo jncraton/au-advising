@@ -1,0 +1,3 @@
+#!/usr/bin/python3
+
+uv run --with pymupdf4llm --with pymupdf-layout pdf2md.py "$1"
