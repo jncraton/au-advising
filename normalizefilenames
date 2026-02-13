@@ -32,6 +32,9 @@ def strip_extra_extensions(stem: str) -> str:
 
 def strip_version_noise(stem: str) -> str:
     patterns = [
+        r"sent\W+to\W+marcomm",
+        r"sent\W+pdf\W+to\W+marcomm",
+        r"ready\W+to\W+go\W+to\W+marcomm",
         r"[\-\.\s]rev\b",
         r"[\-\.\s]updated\b",
         r"[\-\.\s]revised\b",
@@ -43,7 +46,6 @@ def strip_version_noise(stem: str) -> str:
         r"[\-\.\s]major\b",
         r"[\-\.\s]docx\b",
         r"[\-\.\s]pdf\b",
-        r"sent to marcomm",
         r"\d\d\d+\-\d+",
         r"\d\d\d\d",
         r"[\(\)\-\d\s]+$",
