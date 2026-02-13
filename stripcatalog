@@ -3,7 +3,20 @@
 import sys
 import re
 
-remove = ['index', 'table of contents']
+remove = [
+  'table of contents',
+  'Letter from the President',
+  'HISTORICAL PERSPECTIVE',
+  'MISSION',
+  'LIVING THE MISSION',
+  'ETHOS STATEMENT',
+  'index',
+  'Preamble',
+  'At Our Core',
+  'CORE VALUES',
+  'COMMITMENT TO ACADEMIC INQUIRY',
+  'ACCREDITATIONS AND RELATIONSHIPS',
+]
 
 for file in sys.argv[1:]:
   text = open(file).read()
