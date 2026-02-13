@@ -1,4 +1,4 @@
-all: html skills.zip
+all: html skill.zip
 
 .PHONY: html
 
