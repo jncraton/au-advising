@@ -49,18 +49,6 @@ Term codes follow the pattern 2{yy}{term}, where yy is the last two digits of th
 
 Day codes are all single digit, with R used for Thursday an T for Tuesday.
 
-Formatting in our resources is irregular. Courses may be listed as MATH-2200 or MATH 2200. In the catalog, courses appear in sections by their department and are then listed without repeating the caption, like this:
-
-```markdown
-## MATH Courses
-
-## 2200 Discrete Math
-
-Course description
-```
-
-When using grep to gather data about a course like MATH-2200, you must use `grep 2200` and then identify the correct course by its surrounding description. `grep MATH-2200` will fail to return all results.
-
 # References
 
 References are sorted by year. Always reference advising sheets and catalogs from the student's catalog year. If a catalog year is not provided, refuse the request.
