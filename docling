@@ -1,3 +1,4 @@
 #!/bin/sh
 
-uvx docling --image-export-mode=placeholder "$1"
+uvx docling --ocr-lang eng,en,english --pipeline vlm --image-export-mode=placeholder "$1"
+
