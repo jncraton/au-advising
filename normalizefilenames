@@ -49,7 +49,7 @@ def normalize_filename(filename: str) -> str:
     stem = p.stem
     stem = strip_extra_extensions(stem)
     stem = strip_version_noise(stem)
-    stem = stem.strip(" ._-")
+    stem = re.sub(r"[\s\_\.]+", "-", stem)
     stem = stem.lower()
     if not stem:
         stem = "readme"
