@@ -49,6 +49,7 @@ def strip_version_noise(stem: str) -> str:
         r"\d\d\d+\-\d+",
         r"\d\d\d\d",
         r"[\(\)\-\d\s]+$",
+        r"^[\(\)\-\d\s]+",
         r"[\-\.\s]catalog$",
     ]
     for p in patterns:
