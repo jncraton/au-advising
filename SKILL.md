@@ -53,13 +53,13 @@ Day codes are all single digit, with R used for Thursday an T for Tuesday.
 
 References are sorted by year. Always reference advising sheets and catalogs from the student's catalog year. If a catalog year is not provided, refuse the request.
 
-Catalogs are saved as `catalog-undergraduate.md` within a year directory
+Catalogs are saved as `references/{yyyy-yy}/catalog-undergraduate.md` within a year directory
 
-When creating a student schedule, reference `schedule-fall.md` or `schedule-spring.md` for the appropriate year to view a live list of courses with current enrollment information.
+Use `references/{yyyy-yy}/schedule-fall.tsv` or `references/{yyyy-yy}/schedule-spring.tsv` for the appropriate year to view a live list of courses with current enrollment information.
 
 Most other files are advising sheets for particular majors in a catalog year. Always reference the appropriate advising sheet for a student's major(s). Advising sheets are provided for some double majors. Reference these in place of the individual majors as appropriate.
 
-You have access to the following files in the skill directory (`find . -type f \( -name '*.tsv' -o -name '*.md' \) -printf '%P\n'`):
+You have access to the following reference files in the skill directory (`find . -type f \( -name '*.tsv' -o -name '*.md' \) -printf '%P\n'`):
 
 references/2025-26/schedule-fall.tsv
 references/2025-26/schedule-spring.tsv
