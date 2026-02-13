@@ -37,10 +37,12 @@ def strip_version_noise(stem: str) -> str:
         r"[\-\.\s]final\b",
         r"[\-\.\s]web\b",
         r"[\-\.\s]done\b",
+        r"[\-\.\s]advising\b",
+        r"[\-\.\s]sheet\b",
         r"[\-\.\s]docx\b",
         r"[\-\.\s]pdf\b",
         r"sent to marcomm",
-        r"\d\d\d+\-\d\d\d+",
+        r"\d\d\d+\-\d+",
         r"\d\d\d\d",
         r"[\(\)\-\d\s]+$",
     ]
