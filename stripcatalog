@@ -40,6 +40,12 @@ drop_sections = [
   'ACCREDITATIONS AND RELATIONSHIPS',
 ]
 
+to_title_case = [
+  "PREREQUISITE",
+  "OFFERED",
+  "EXPECTATION",
+]
+
 tokenizer = load_tokenizer()
 
 for file in sys.argv[1:]:
@@ -54,6 +60,13 @@ for file in sys.argv[1:]:
   text = re.sub(r"## UNIVERSITY TRUSTEES.*", "", text, flags=re.I|re.DOTALL)
 
   text = re.sub("\n\n\n+", "\n\n", text)
+
+  for word in to_title_case:
+    text = re.sub(rf'\b{re.escape(word)}\b', word.title(), text)
+
+  text = re.sub(rf'\bSem\.', "Semester", text)
+  text = re.sub(rf'\bhrs\.', "hours", text)
+  text = re.sub(rf'\bhr\.', "hour", text)
 
   tokens = count_tokens(text, tokenizer)
   print(f"{file} bytes: {initial_size} => {len(text)} tokens: {initial_tokens} => {tokens}", file=sys.stderr)
