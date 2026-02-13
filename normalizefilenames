@@ -32,10 +32,7 @@ def strip_extra_extensions(stem: str) -> str:
 
 def strip_version_noise(stem: str) -> str:
     patterns = [
-        r"[ _-]?\(v?\d+[a-zA-Z0-9._-]*\)$",
-        r"[ _-]?v\d+[a-zA-Z0-9._-]*$",
-        r"[ _-]?\[\d+\]$",
-        r"[ _-]?\d+[a-zA-Z0-9._-]*$",
+        r"[\(\)\-\d\s]+$",
     ]
     for p in patterns:
         stem = re.sub(p, "", stem, flags=re.IGNORECASE)
