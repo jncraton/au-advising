@@ -44,6 +44,8 @@ to_title_case = [
   "PREREQUISITE",
   "OFFERED",
   "EXPECTATION",
+  "CONSENT",
+  "REPEAT",
 ]
 
 tokenizer = load_tokenizer()
