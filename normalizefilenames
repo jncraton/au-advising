@@ -35,6 +35,7 @@ def strip_version_noise(stem: str) -> str:
         r"sent\W+to\W+marcomm",
         r"sent\W+pdf\W+to\W+marcomm",
         r"ready\W+to\W+go\W+to\W+marcomm",
+        r"[\-\.\s]catalog\b",
         r"[\-\.\s]rev\b",
         r"[\-\.\s]updated\b",
         r"[\-\.\s]revised\b",
@@ -60,7 +61,7 @@ def normalize_filename(filename: str) -> str:
     if p.suffix.lower() != ".md":
         return filename
     stem = p.stem
-    stem = re.sub(r"[\s\_\.\,\&]+", "-", stem)
+    stem = re.sub(r"[\s\_\.\,\&\(\)]+", "-", stem)
     stem = strip_extra_extensions(stem)
     stem = strip_version_noise(stem)
     stem = re.sub(r"[\s\_\.\,]+", "-", stem)
