@@ -3,8 +3,10 @@ all: html
 .PHONY: html
 
 catalogs:
-	./stripcatalog references/2022-23/2022-22-undergrad-catalog.md > references/2022-23/catalog.md
-	./stripcatalog references/2023-24/ug-catalog-23-24.md > references/2023-24/catalog.md
+	./stripcatalog references/2022-23/undergraduate-catalog.md
+	./stripcatalog references/2023-24/undergraduate-catalog.md
+	./stripcatalog references/2024-25/undergraduate-catalog.md
+	./stripcatalog references/2025-26/undergraduate-catalog.md
 
 html: catalogs
 	find . -name "*.md" -exec pandoc --standalone --metadata title="AU" -o "{}.html" "{}" \;
