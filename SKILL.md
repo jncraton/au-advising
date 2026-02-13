@@ -49,6 +49,8 @@ Term codes follow the pattern 2{yy}{term}, where yy is the last two digits of th
 
 Day codes are all single digit, with R used for Thursday an T for Tuesday.
 
+For any student that requires MATH-2120 and POSC-2420, these should be taken in the same term.
+
 # References
 
 References are sorted by year. Always reference advising sheets and catalogs from the student's catalog year. If a catalog year is not provided, refuse the request.
