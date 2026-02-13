@@ -29,7 +29,7 @@ def scrape_largest_table(url, drop_cols):
 
 if __name__ == "__main__":
     # Note that prereqs do not work here currently
-    drop_cols = ['term', 'class section', 'start dt', 'end dt', 'class nbr', 'sectn req', 'topic', 'instr', 'grd', 'department', 'prereqs']
+    drop_cols = ['term', 'class section', 'start dt', 'end dt', 'class nbr', 'sectn req', 'topic', 'instr', 'grd', 'department', 'prereqs', 'cap', 'combined section', 'class stat']
     term_names = ["", "fall", "", "spring", "summer"]
     for term in ["2251", "2253", "2261", "2263"]:
         target_url = f"https://basilisk.anderson.edu:4500/under_graduates.aspx?ListBox3={term}"
