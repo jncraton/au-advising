@@ -23,8 +23,6 @@ Course prereqs must be satisfied.
 
 Courses should be selected that help the student efficiently make progress on their major and academic requirements.
 
-This carefully. After recommending a schedule, carefully confirm that there are not time conflict, prereq mismatches, or other issues.
-
 Produce schedules for each term as tables with the columns:
 
 - Course number
