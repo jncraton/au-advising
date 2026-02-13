@@ -1,4 +1,4 @@
-all: html
+all: html skills.zip
 
 .PHONY: html
 
@@ -11,6 +11,9 @@ catalogs:
 html: catalogs
 	find . -name "*.md" -exec pandoc --standalone --metadata title="AU" -o "{}.html" "{}" \;
 	tree -H . -L 3 --dirsfirst --filelimit 0 -o index.html
+
+skill.zip:
+	zip -9 $@ SKILL.md references/*/*.md
 
 clean:
 	rm -f *.html **/*.html
