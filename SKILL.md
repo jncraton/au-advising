@@ -31,6 +31,8 @@ Produce schedules for each term as tables with the columns:
   - Example: MATH-2200
 - Course name
   - Example: Discrete Math
+- Credit Hours
+  - Example: 3
 - Start time
   - Example: 9:00am
 - End time
