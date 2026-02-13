@@ -65,6 +65,8 @@ for file in sys.argv[1:]:
 
   text = re.sub(r"#+.*cont\..*", "", text, flags=re.I)
 
+  text = re.sub(r"#+\s*([\d\-]+\s*hour.*)", r"\1", text, flags=re.I)
+
   text = re.sub("\n\n\n+", "\n\n", text)
 
   for word in to_title_case:
