@@ -26,6 +26,8 @@ for file in sys.argv[1:]:
   for heading in remove:
     text = re.sub(r"(#{1,6})\s*(" + heading + r")\s*\n(.*?)(?=(?:\n^#{1,6}\s)|\Z)", "", text, flags=re.I|re.M|re.DOTALL)
 
+  text = re.sub(r"## UNIVERSITY TRUSTEES.*", "", text, flags=re.I|re.DOTALL)
+
   print(file, initial_size, len(text))
 
   print(text)
