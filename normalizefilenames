@@ -35,7 +35,6 @@ def strip_version_noise(stem: str) -> str:
         r"sent\W+to\W+marcomm",
         r"sent\W+pdf\W+to\W+marcomm",
         r"ready\W+to\W+go\W+to\W+marcomm",
-        r"[\-\.\s]catalog\b",
         r"[\-\.\s]rev\b",
         r"[\-\.\s]updated\b",
         r"[\-\.\s]revised\b",
@@ -50,6 +49,7 @@ def strip_version_noise(stem: str) -> str:
         r"\d\d\d+\-\d+",
         r"\d\d\d\d",
         r"[\(\)\-\d\s]+$",
+        r"[\-\.\s]catalog$",
     ]
     for p in patterns:
         stem = re.sub(p, "", stem, flags=re.IGNORECASE)
