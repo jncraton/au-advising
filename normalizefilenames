@@ -32,6 +32,14 @@ def strip_extra_extensions(stem: str) -> str:
 
 def strip_version_noise(stem: str) -> str:
     patterns = [
+        r"[\-\.\s]rev\b",
+        r"[\-\.\s]updated\b",
+        r"[\-\.\s]final\b",
+        r"[\-\.\s]web\b",
+        r"[\-\.\s]done\b",
+        r"sent to marcomm",
+        r"\d\d\d+\-\d\d\d+",
+        r"\d\d\d\d",
         r"[\(\)\-\d\s]+$",
     ]
     for p in patterns:
@@ -46,7 +54,7 @@ def normalize_filename(filename: str) -> str:
     stem = p.stem
     stem = strip_extra_extensions(stem)
     stem = strip_version_noise(stem)
-    stem = re.sub(r"[\s\_\.]+", "-", stem)
+    stem = re.sub(r"[\s\_\.\,]+", "-", stem)
     stem = stem.lower()
     if not stem:
         stem = "readme"
