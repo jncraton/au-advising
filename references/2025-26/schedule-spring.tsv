@@ -1,623 +1,623 @@
 crse	descr	min credit	max credit	days	start time	end time	newlibintensives	newlib	consent	instruction mode	enrolled	note	enrolling
-ACCT-2010-01	Principles of Accounting I (23)	3.0	3.0	MWF	10:00AM	10:50AM			No Consent Required	In Person	27		Open
-ACCT-2020-01	Principles of Accounting II (23)	3.0	3.0	MWF	01:00PM	01:50PM			No Consent Required	In Person	22		Open
-ACCT-3020-01	Intermediate Accounting II (23)	3.0	3.0	TR	01:00PM	02:15PM			No Consent Required	In Person	6		Open
-ACCT-3020-01	Intermediate Accounting II (23)	3.0	3.0	TR	01:00PM	02:15PM			No Consent Required	In Person	7		Open
-ACCT-3860-0E	Volunteer Income Tax Assistance Practicum (23)	1.0	1.0						No Consent Required	Asynchronous Online	10		Open
-ACCT-4020-01	Federal Income Tax (23)	3.0	3.0	MWF	11:00AM	11:50AM	Writing Intensive Upper Div		No Consent Required	In Person	16		Open
-ACCT-4310-01	Auditing (23)	3.0	3.0	MWF	01:00PM	01:50PM			No Consent Required	In Person	10		Open
-ARTS-1230-01	Painting for Liberal Arts (23)	3.0	3.0	MWF	02:00PM	02:50PM		WKNW 4 Aesthetic Ways Knowg	No Consent Required	In Person	24		Open
-ARTS-4114-01	Design for Digital Media (24)	3.0	3.0	MWF	11:00AM	11:50AM			No Consent Required	In Person	4		Open
-ARTS-4420-01	Design Methodology (24)	3.0	3.0	TR	01:00PM	02:15PM			No Consent Required	In Person	7		Open
-ARTS-4820-01	Internship (24)	1.0	4.0						No Consent Required	Asynchronous Online	0		Open
-ARTS-4820-02	Internship (24)	1.0	4.0						Not Enrolling	In Person	0		Closed
-ARTS-4950-01	Comprehensive Projects II (23)	4.0	4.0	TR	09:00AM	10:50AM	Speaking Intensive		No Consent Required	In Person	4		Open
-BIBL-2000-01	Intro to the Bible (23)	3.0	3.0	MWF	09:00AM	09:50AM		FSKL 6 Biblical Literacy	No Consent Required	In Person	29		Open
-BIBL-2000-02	Intro to the Bible (23)	3.0	3.0	MWF	10:00AM	10:50AM		FSKL 6 Biblical Literacy	No Consent Required	In Person	22		Open
-BIBL-2000-03	Intro to the Bible (23)	3.0	3.0	MWF	11:00AM	11:50AM		FSKL 6 Biblical Literacy	No Consent Required	In Person	31		Open
-BIBL-2120-0E	Beginning Hebrew II (23)	4.0	4.0					WKNW 6 Glob/Intcult Ways FL	No Consent Required	Asynchronous Online	0		Open
-BIBL-3410-0EA	Images of Jesus Then and Now (24)	3.0	3.0					WKNW 1 Christian Ways Knowg	No Consent Required	Asynchronous Online	31		Open
-BIBL-4910-01	Seminar (23)	1.0	4.0	TR	09:30AM	10:45AM			No Consent Required	In Person	2		Open
-BIOL-1000-01	Principles of Modern Biology (24)	4.0	4.0	MWF	01:00PM	01:50PM		WKNW 2 Scientific Ways Knowg	No Consent Required	In Person	10		Open
-BIOL-1000-01	Principles of Modern Biology (24)	4.0	4.0	R	01:00PM	02:50PM		WKNW 2 Scientific Ways Knowg	No Consent Required	In Person	10	laboratory	Open
-BIOL-2010-0E	Medical Terminology (24)	2.0	2.0						No Consent Required	Asynchronous Online	15		Open
-BIOL-2220-01	Foundations of Modern Biology II (24)	4.0	4.0	MWF	10:00AM	10:50AM			No Consent Required	In Person	21		Open
-BIOL-2220L-LA	Foundations of Modern Biology II (24) - Lab	0.0	0.0	T	01:00PM	02:50PM			No Consent Required	In Person	21		Open
-BIOL-2220L-LA	Foundations of Modern Biology II (24) - Lab	0.0	0.0	T	01:00PM	02:50PM			No Consent Required	In Person	21	laboratory	Open
-BIOL-2240-01	Cell Biology (24)	4.0	4.0	MWF	11:00AM	11:50AM			No Consent Required	In Person	12		Open
-BIOL-2240-01	Cell Biology (24)	4.0	4.0	T	01:00PM	03:50PM			No Consent Required	In Person	12		Open
-BIOL-2240-01	Cell Biology (24)	4.0	4.0	T	01:00PM	03:50PM			No Consent Required	In Person	12	laboratory	Open
-BIOL-2420-01	Human Anatomy and Physiology II (24)	4.0	4.0	MWF	01:00PM	01:50PM			No Consent Required	In Person	43		Open
-BIOL-2420L-LA	Human Anatomy and Physiology II (24) - Lab	0.0	0.0	T	09:00AM	10:50AM			No Consent Required	In Person	26		Open
-BIOL-2420L-LA	Human Anatomy and Physiology II (24) - Lab	0.0	0.0	T	09:00AM	10:50AM			No Consent Required	In Person	26	laboratory	Open
-BIOL-2420L-LB	Human Anatomy and Physiology II (24) - Lab	0.0	0.0	R	09:00AM	10:50AM			No Consent Required	In Person	17		Open
-BIOL-2420L-LB	Human Anatomy and Physiology II (24) - Lab	0.0	0.0	R	09:00AM	10:50AM			No Consent Required	In Person	17	laboratory	Open
-BIOL-4070-01	Ecology and Evolutionary Biology (24)	4.0	4.0	MWF	11:00AM	11:50AM			No Consent Required	In Person	7		Open
-BIOL-4070-01	Ecology and Evolutionary Biology (24)	4.0	4.0	T	01:00PM	02:50PM			No Consent Required	In Person	7		Open
-BIOL-4070-01	Ecology and Evolutionary Biology (24)	4.0	4.0	T	01:00PM	02:50PM			No Consent Required	In Person	7	laboratory	Open
-BIOL-4220-01	Biochemistry II (24)	4.0	4.0	MWF	09:00AM	09:50AM			No Consent Required	In Person	5	Same: BIOL/CHEM4220	Open
-BIOL-4220L-LA	Biochemistry II (24) - Lab	0.0	0.0	T	09:00AM	10:50AM			No Consent Required	In Person	5		Open
-BIOL-4910-01	Science Seminar I (24)	1.0	1.0	R	12:00PM	12:50PM			No Consent Required	In Person	5	Same: BIOL/CHEM/PHYS4910	Open
-BIOL-4920-01	Science Seminar II (24)	1.0	1.0	R	12:00PM	12:50PM	Speaking/Writing UpDiv Intens		No Consent Required	In Person	6	Same: BIOL/CHEM/PHYS4920	Open
-BSNS-2310-0E	Business Analytics (23)	3.0	3.0						No Consent Required	Asynchronous Online	36		Open
-BSNS-2450-01	Data Analysis and Decision Making for Business (23)	3.0	3.0	MWF	02:00PM	02:50PM			No Consent Required	In Person	23		Open
-BSNS-2510-01	Principles of Finance (23)	3.0	3.0						No Consent Required	Asynchronous Online	27		Open
-BSNS-2550-01	Business Communications (25)	3.0	3.0	MWF	11:00AM	11:50AM			No Consent Required	In Person	29		Open
-BSNS-2710-01	Principles of Management (23)	3.0	3.0	MWF	08:00AM	08:50AM			No Consent Required	In Person	28		Open
-BSNS-2810-01	Principles of Marketing (23)	3.0	3.0	TR	08:00AM	09:15AM			No Consent Required	In Person	26		Open
-BSNS-3120-01	Global Business (23)	3.0	3.0	TR	09:30AM	10:45AM	Writing Intensive Upper Div	WKNW 7 Glob/Intcult Ways GI	No Consent Required	In Person	24		Open
-BSNS-3240-01	Operations Management (23)	3.0	3.0	MWF	10:00AM	10:50AM			No Consent Required	In Person	9		Open
-BSNS-3350-0E	Corporate Finance (23)	3.0	3.0						No Consent Required	Asynchronous Online	11		Open
-BSNS-3420-01	Business Law (23)	3.0	3.0	TR	08:00AM	09:15AM		FSKL 2 Civ Discrse Crit Reas	No Consent Required	In Person	21		Open
-BSNS-4010-01	Organizational Behavior and Theory (23)	3.0	3.0	MWF	08:00AM	08:50AM			No Consent Required	In Person	7	Same: BSNS4010/PSYC3220	Open
-BSNS-4330-01	Marketing Management (23)	3.0	3.0	MWF	09:00AM	09:50AM			No Consent Required	In Person	13		Open
-BSNS-4360-01	Sport Sponsorship and Sales (23)	3.0	3.0	MWF	11:00AM	11:50AM			No Consent Required	In Person	12		Open
-BSNS-4400-01	Social Media (23)	3.0	3.0	MWF	10:00AM	10:50AM			No Consent Required	In Person	12		Open
-BSNS-4500-01	Strategic Management (23)	3.0	3.0	TR	01:00PM	02:15PM			No Consent Required	In Person	24		Open
-BSNS-4560-01	Bsns of Game-Day Exper (23)	3.0	3.0	MWF	01:00PM	01:50PM			No Consent Required	In Person	8		Open
-BSNS-4800-01	Business Internship (23)	1.0	4.0						No Consent Required	Asynchronous Online	6		Open
-BSNS-4800-02	Business Internship (23)	1.0	4.0						Not Enrolling	Asynchronous Online	1		Closed
-BSNS-4800-03	Business Internship (23)	1.0	4.0						Not Enrolling	Asynchronous Online	1		Closed
-BSNS-4910-01	Senior Seminar in Business (23)	3.0	3.0	MWF	02:00PM	02:50PM	Writing Intensive Upper Div		No Consent Required	In Person	26		Open
-CHEM-1000-01	Introduction to Chemistry (24)	4.0	4.0	MWF	11:00AM	11:50AM		WKNW 2 Scientific Ways Knowg	No Consent Required	In Person	40		Open
-CHEM-1000L-LA	Introduction to Chemistry (24) - Lab	0.0	0.0	T	03:00PM	04:50PM			No Consent Required	In Person	16		Open
-CHEM-1000L-LB	Introduction to Chemistry (24) - Lab	0.0	0.0	T	01:00PM	02:50PM			No Consent Required	In Person	23		Open
-CHEM-2120-01	General Chemistry II (24)	4.0	4.0	MWF	09:00AM	09:50AM			No Consent Required	In Person	26		Open
-CHEM-2120L-LA	General Chemistry II (24) - Lab	0.0	0.0	R	09:00AM	10:50AM			No Consent Required	In Person	20		Open
-CHEM-2120L-LB	General Chemistry II (24) - Lab	0.0	0.0	R	01:00PM	02:50PM			No Consent Required	In Person	7		Open
-CHEM-2220-01	Organic Chemistry II (24)	4.0	4.0	MWF	01:00PM	01:50PM			No Consent Required	In Person	9		Open
-CHEM-2220L-LA	Organic Chemistry II (24) - Lab	0.0	0.0	R	01:00PM	03:50PM			No Consent Required	In Person	9		Open
-CHEM-3140-01	Instrumental Analysis (23)	4.0	4.0	MWF	02:00PM	02:50PM			Consent Required	Synchronous Online	7		Open
-CHEM-4110-01	Thermodynamics and Kinetics (24)	4.0	4.0	MWF	08:00AM	08:50AM			Consent Required	In Person	5		Open
-CHEM-4110L-LA	Thermodynamics and Kinetics Lab (24)	0.0	0.0	T	01:00PM	02:50PM			Consent Required	In Person	5	laboratory	Open
-CHEM-4220-01	Biochemistry II (24)	4.0	4.0	MWF	09:00AM	09:50AM			No Consent Required	In Person	2	Same: BIOL/CHEM4220	Open
-CHEM-4220L-LA	Biochemistry II (24)	0.0	0.0	T	09:00AM	10:50AM			No Consent Required	In Person	2		Open
-CHEM-4520-01	Senior Physical Science Practicum II (24)	1.0	1.0	T	12:00PM	12:50PM			No Consent Required	In Person	6	Same: CHEM/PHYS4520	Open
-CHEM-4650-01	Independent Study (24)	1.0	4.0						No Consent Required	Asynchronous Online	0		Open
-CHEM-4920-01	Science Seminar II (24)	1.0	1.0	R	12:00PM	12:50PM	Speaking/Writing UpDiv Intens		No Consent Required	In Person	3	Same: BIOL/CHEM/PHYS4920	Open
-CMIN-2270-01	Faith and Worship (23)	3.0	3.0	MWF	10:00AM	10:50AM		FSKL 2 Civ Discrse Crit Reas	No Consent Required	In Person	20		Open
-CMIN-2810-01	Ministry Exploration (23)	1.0	1.0						No Consent Required	Asynchronous Online	3		Open
-CMIN-3050-0E	Homiletics (23)	3.0	3.0				Speaking Intensive		No Consent Required	Asynchronous Online	3		Open
-CMIN-3340-0E	The Community of Faith in an Urban Culture (24)	3.0	3.0						No Consent Required	Asynchronous Online	5		Open
-CMIN-3910-01	Ministry Seminar (24)	3.0	3.0	TR	02:30PM	03:45PM	Speaking Intensive		No Consent Required	In Person	7		Open
-CMIN-3910-0B	Ministry Seminar (24)	3.0	3.0				Speaking Intensive		No Consent Required	Asynchronous Online	7		Open
-CMIN-4250-0E	Theology in a Ministry Context (23)	3.0	3.0				Writing Intensive Upper Div		No Consent Required	Asynchronous Online	7		Open
-CMIN-4810-01	Internship (23)	1.0	4.0						No Consent Required	Asynchronous Online	1	Same: THFE7810/CMIN4810	Open
-CMIN-4810-02	Internship (23)	1.0	4.0						Not Enrolling	In Person	2	Same: THFE7810/CMIN4810	Closed
-COMM-1000-01	Introduction to Speech Communication (23)	3.0	3.0	TR	01:00PM	02:15PM		FSKL 4 Speaking/Listening	No Consent Required	In Person	17		Open
-COMM-1000-02	Introduction to Speech Communication (23)	3.0	3.0	TR	02:30PM	03:45PM		FSKL 4 Speaking/Listening	No Consent Required	In Person	9		Open
-COMM-1000-03	Introduction to Speech Communication (23)	3.0	3.0	MWF	11:00AM	11:50AM		FSKL 4 Speaking/Listening	No Consent Required	In Person	26		Open
-COMM-1000-04	Introduction to Speech Communication (23)	3.0	3.0	MWF	02:00PM	02:50PM		FSKL 4 Speaking/Listening	No Consent Required	In Person	24		Open
-COMM-2000-01	Media and Society (23)	3.0	3.0	MWF	09:00AM	09:50AM			No Consent Required	In Person	12		Open
-COMM-2020-01	Audio Concepts and Production (23)	3.0	3.0	TR	01:00PM	02:15PM			No Consent Required	In Person	7		Open
-COMM-2130-01	Writing for the Media (23)	3.0	3.0	TR	01:00PM	02:15PM	Writing Intensive		No Consent Required	In Person	8		Open
-COMM-2160-01	The Art of Storytelling (23)	3.0	3.0	TR	02:30PM	03:45PM	Writing Intensive		No Consent Required	In Person	11		Open
-COMM-2200-01	Visual Communication (23)	3.0	3.0	F	11:00AM	11:50AM			No Consent Required	In Person	8		Open
-COMM-2200-01	Visual Communication (23)	3.0	3.0	F	11:00AM	11:50AM			No Consent Required	In Person	8	laboratory	Open
-COMM-2200-01	Visual Communication (23)	3.0	3.0	MW	11:00AM	11:50AM			No Consent Required	In Person	8		Open
-COMM-2320-01	Multicamera and Studio Production (23)	4.0	4.0	MWF	01:00PM	02:50PM			No Consent Required	In Person	12		Open
-COMM-2850-01	Andersonian Staff (23)	1.0	1.0	R	12:00PM	12:50PM			No Consent Required	In Person	8		Open
-COMM-2860-01	Black Bird Media Lab (23)	1.0	1.0	W	03:00PM	04:50PM			No Consent Required	In Person	13		Open
-COMM-3050-01	Global Communication (24)	3.0	3.0	T	09:30AM	10:45AM		WKNW 6 Glob/Intcult Ways FL	No Consent Required	In Person	20		Open
-COMM-3860-01	Practicum Event Management (23)	1.0	2.0						No Consent Required	Asynchronous Online	2	Same: COMM/BSNS3860	Open
-COMM-4800-01	Internship (23)	1.0	4.0						No Consent Required	Asynchronous Online	1		Open
-COMM-4800-02	Internship (23)	1.0	4.0						No Consent Required	Asynchronous Online	0		Open
-COMM-4800-03	Internship (23)	1.0	4.0						No Consent Required	Asynchronous Online	0		Open
-CPSC-2020-01	Fundamentals of Computational Thinking and Programming (23)	4.0	4.0	MWF	10:00AM	10:50AM		FSKL 5 Quant Reasng	No Consent Required	In Person	15		Open
-CPSC-2020-01	Fundamentals of Computational Thinking and Programming (23)	4.0	4.0	R	09:00AM	10:50AM		FSKL 5 Quant Reasng	No Consent Required	In Person	15		Open
-CPSC-2030-01	Object-Oriented Analysis and Design (25)	4.0	4.0						No Consent Required	Asynchronous Online	12		Open
-CPSC-2250-01	Discrete Mathematical Structures (23)	4.0	4.0	MTRF	08:00AM	08:50AM			No Consent Required	In Person	5	Same: MATH2200/CPSC2250	Open
-CPSC-2300-01	System Administration (24)	3.0	3.0	F	01:00PM	02:50PM			No Consent Required	In Person	20		Open
-CPSC-2300-01	System Administration (24)	3.0	3.0	MW	01:00PM	01:50PM			No Consent Required	In Person	20		Open
-CPSC-2430-01	Programming Languages and Compilers (23)	2.0	2.0	R	01:00PM	02:50PM			No Consent Required	In Person	8		Open
-CPSC-2430-01	Programming Languages and Compilers (23)	2.0	2.0	W	02:00PM	02:50PM			No Consent Required	In Person	8		Open
-CPSC-2600-01	Topics in Computer Science: (23)	1.0	4.0	R	04:00PM	06:00PM			Consent Required	In Person	25		Open
-CPSC-3480-01	Network Security (25)	3.0	3.0	MW	02:00PM	02:50PM			No Consent Required	In Person	10		Open
-CPSC-3480-01	Network Security (25)	3.0	3.0	R	01:00PM	02:50PM			No Consent Required	In Person	10		Open
-CPSC-3540-01	Intro to Machine Learning (25)	3.0	3.0	MWF	11:00AM	11:50AM			No Consent Required	In Person	15		Open
-CPSC-4070-01	Cybersecurity Analysis and Digital Forensics (25)	3.0	3.0	MW	09:00AM	09:50AM			No Consent Required	In Person	17		Open
-CPSC-4070-01	Cybersecurity Analysis and Digital Forensics (25)	3.0	3.0	R	09:00AM	10:50AM			No Consent Required	In Person	17		Open
-CPSC-4420-01	Operating Systems (23)	4.0	4.0	F	01:00PM	02:50PM			No Consent Required	In Person	7		Open
-CPSC-4420-01	Operating Systems (23)	4.0	4.0	MTW	01:00PM	01:50PM			No Consent Required	In Person	7		Open
-CPSC-4480-01	Technical Certification (23)	1.0	1.0	F	09:00AM	09:50AM			No Consent Required	In Person	15		Open
-CPSC-4800-01	Software Engineering Intern (23)	2.0	4.0						Consent Required	In Person	2		Open
-CPSC-4820-01	Cybersecurity Internship (23)	2.0	4.0						Consent Required	In Person	0		Open
-CPSC-4820-02	Cybersecurity Internship (23)	2.0	4.0						Not Enrolling	In Person	1		Closed
-CPSC-4960-01	Senior Seminar Ethics (23)	1.0	1.0	T	12:00PM	12:50PM	Writing Intensive Upper Div		No Consent Required	In Person	14		Open
-CPSC-4970-01	Senior Project (23)	2.0	4.0						Not Enrolling	In Person	2		Closed
-CPSC-4970-02	Senior Project (23)	2.0	4.0						Consent Required	In Person	1		Open
-CPSC-4970-03	Senior Project (23)	2.0	4.0						Consent Required	In Person	2		Open
-CRIM-2510-0B	The Nature of Crime and Social Deviance (23)	4.0	4.0	MWF	11:00AM	11:50AM	Writing Intensive		No Consent Required	Hybrid	7	Same: CRIM/SOCI2510	Open
-CRIM-2520-0E	Introduction to Criminal Justice (23)	3.0	3.0						No Consent Required	Asynchronous Online	13		Open
-CRIM-2560-01	Introduction to Criminal Forensic Science (23)	3.0	3.0	MWF	10:00AM	10:50AM			No Consent Required	In Person	14		Open
-CRIM-2600-01	Topics in Criminal Justice: (23)	1.0	4.0	R	04:00PM	06:00PM			Consent Required	In Person	25		Open
-CRIM-3020-01	Principles of Law Enforcement (23)	3.0	3.0	TR	09:30AM	10:45AM			No Consent Required	In Person	9		Open
-CRIM-3350-01	Homeland Security (23)	3.0	3.0	MWF	02:00PM	02:50PM			No Consent Required	In Person	5	Same: POSC/CRIM3350	Open
-CRIM-4810-01	Criminal Justice Internship I (23)	1.0	4.0						No Consent Required	Asynchronous Online	2		Open
-CRIM-4820-01	Criminal Justice Internship II (23)	1.0	4.0						No Consent Required	Asynchronous Online	1		Open
-DANC-1150-01	Dance Repertory (23)	0.0	1.0						No Consent Required	Asynchronous Online	4		Open
-DANC-1320-01	Jazz I (23)	1.0	1.0	MWF	02:00PM	02:50PM		WKNW 4 Aesthet Ways (Exper)	No Consent Required	In Person	5		Open
-DANC-1420-01	Ballet I (24)	2.0	2.0	MWF	12:00PM	01:20PM		WKNW 4 Aesthet Ways (Exper)	No Consent Required	In Person	8		Open
-DANC-2110-01	Musical Theatre Dance Forms (23)	1.0	1.0	TR	01:00PM	02:15PM			No Consent Required	In Person	2		Open
-DANC-2120-01	Tap II (23)	1.0	1.0	TR	08:30AM	09:20AM		WKNW 4 Aesthet Ways (Exper)	No Consent Required	In Person	3		Open
-DANC-2220-01	Modern II (24)	2.0	2.0	MWF	03:00PM	04:20PM		WKNW 4 Aesthet Ways (Exper)	No Consent Required	In Person	2		Open
-DANC-2420-01	Ballet II (24)	2.0	2.0	MWF	08:30AM	09:50AM		WKNW 4 Aesthet Ways (Exper)	No Consent Required	In Person	5		Open
-DANC-2580-01	Dance Improvisation II (23)	1.0	1.0	TR	01:00PM	02:20PM			No Consent Required	Hybrid	1		Open
-DANC-2590-01	Dance Composition II (23)	2.0	2.0	TR	01:00PM	02:20PM			No Consent Required	Hybrid	1		Open
-DANC-3020-0E	Dance History II (24)	3.0	3.0						No Consent Required	Asynchronous Online	3		Open
-DANC-3120-01	Tap III (23)	1.0	1.0	TR	08:30AM	09:20AM		WKNW 4 Aesthet Ways (Exper)	No Consent Required	In Person	5		Open
-DANC-3220-01	Modern III (24)	2.0	2.0	MWF	03:00PM	04:20PM		WKNW 4 Aesthet Ways (Exper)	No Consent Required	In Person	3		Open
-DANC-3420-01	Ballet III (24)	2.0	2.0	MWF	08:30AM	09:50AM		WKNW 4 Aesthet Ways (Exper)	No Consent Required	In Person	1		Open
-DANC-3580-01	Dance Improvisation III (24)	1.0	1.0	TR	01:00PM	02:20PM			No Consent Required	Hybrid	1		Open
-DANC-3590-01	Dance Composition III (23)	2.0	2.0	TR	01:00PM	02:20PM			No Consent Required	Hybrid	3		Open
-ECON-2010-01	Principles of Macroeconomics (23)	3.0	3.0	MWF	11:00AM	11:50AM		WKNW 5 Social/Behav Ways	No Consent Required	In Person	25		Open
-ECON-2020-01	Principles of Microeconomics (23)	3.0	3.0	MWF	01:00PM	01:50PM			No Consent Required	In Person	15		Open
-ECON-3410-01	Money Banking and Financial Markets (23)	3.0	3.0	TR	09:30AM	10:45AM			No Consent Required	In Person	14		Open
-EDUC-2000-01	Teaching as a Profession (24)	2.0	2.0	TR	02:30PM	03:45PM			No Consent Required	In Person	11		Open
-EDUC-2100-01	Child and Adolescent Development (24)	3.0	3.0	MWF	11:00AM	11:50AM			No Consent Required	In Person	16		Open
-EDUC-2110-01	Educational Psychology: Learning in the Schools (24)	3.0	3.0	MWF	01:00PM	01:50PM		WKNW 5 Social/Behav Ways	No Consent Required	In Person	23	Same: PSYC/EDUC2110	Open
-EDUC-2170-01	Teaching I: Curriculum and Instruction for Early Childhood (24)	4.0	4.0	F	10:00AM	10:50AM			No Consent Required	In Person	21	Same: EDUC/CMIN2170 _hist	Open
-EDUC-2170-01	Teaching I: Curriculum and Instruction for Early Childhood (24)	4.0	4.0	MW	09:00AM	10:50AM			No Consent Required	In Person	21	Same: EDUC/CMIN2170 _hist	Open
-EDUC-2730-01	Field Experiences in Reading Processes (24)	1.0	1.0	T	08:00AM	09:15AM			No Consent Required	In Person	8		Open
-EDUC-2850-01	Practicum in Leadership Skills (24)	2.0	2.0	F	12:00PM	12:50PM			No Consent Required	In Person	4	Same: PSYC/EDUC/SOCI2850	Open
-EDUC-3120-01	Educational Assessment for the Classroom Teacher (24)	3.0	3.0	MWF	11:00AM	11:50AM	Writing Intensive Upper Div		No Consent Required	In Person	7		Open
-EDUC-3300-01	Research-Based Reading Methods: Instruction, Intervention, and Assessment (24)	3.0	3.0	MWF	09:00AM	09:50AM			No Consent Required	In Person	8		Open
-EDUC-4010-01	Student Teaching (24)	10.0	10.0						No Consent Required	Asynchronous Online	18		Open
-EDUC-4221-TE	Differentiated Curriculum and Instruction: STEM (24)	1.0	1.0						Consent Required	Asynchronous Online	1		Open
-EDUC-4222-TE	Differentiated Curriculum and Instruction: Social Studies (24)	1.0	1.0						Consent Required	Asynchronous Online	1		Open
+ACCT-2010-01	Principles of Accounting I	3.0	3.0	MWF	10:00AM	10:50AM			No Consent Required	In Person	27		Open
+ACCT-2020-01	Principles of Accounting II	3.0	3.0	MWF	01:00PM	01:50PM			No Consent Required	In Person	22		Open
+ACCT-3020-01	Intermediate Accounting II	3.0	3.0	TR	01:00PM	02:15PM			No Consent Required	In Person	6		Open
+ACCT-3020-01	Intermediate Accounting II	3.0	3.0	TR	01:00PM	02:15PM			No Consent Required	In Person	7		Open
+ACCT-3860-0E	Volunteer Income Tax Assistance Practicum	1.0	1.0						No Consent Required	Asynchronous Online	10		Open
+ACCT-4020-01	Federal Income Tax	3.0	3.0	MWF	11:00AM	11:50AM	Writing Intensive Upper Div		No Consent Required	In Person	16		Open
+ACCT-4310-01	Auditing	3.0	3.0	MWF	01:00PM	01:50PM			No Consent Required	In Person	10		Open
+ARTS-1230-01	Painting for Liberal Arts	3.0	3.0	MWF	02:00PM	02:50PM		WKNW 4 Aesthetic Ways Knowg	No Consent Required	In Person	24		Open
+ARTS-4114-01	Design for Digital Media	3.0	3.0	MWF	11:00AM	11:50AM			No Consent Required	In Person	4		Open
+ARTS-4420-01	Design Methodology	3.0	3.0	TR	01:00PM	02:15PM			No Consent Required	In Person	7		Open
+ARTS-4820-01	Internship	1.0	4.0						No Consent Required	Asynchronous Online	0		Open
+ARTS-4820-02	Internship	1.0	4.0						Not Enrolling	In Person	0		Closed
+ARTS-4950-01	Comprehensive Projects II	4.0	4.0	TR	09:00AM	10:50AM	Speaking Intensive		No Consent Required	In Person	4		Open
+BIBL-2000-01	Intro to the Bible	3.0	3.0	MWF	09:00AM	09:50AM		FSKL 6 Biblical Literacy	No Consent Required	In Person	29		Open
+BIBL-2000-02	Intro to the Bible	3.0	3.0	MWF	10:00AM	10:50AM		FSKL 6 Biblical Literacy	No Consent Required	In Person	22		Open
+BIBL-2000-03	Intro to the Bible	3.0	3.0	MWF	11:00AM	11:50AM		FSKL 6 Biblical Literacy	No Consent Required	In Person	31		Open
+BIBL-2120-0E	Beginning Hebrew II	4.0	4.0					WKNW 6 Glob/Intcult Ways FL	No Consent Required	Asynchronous Online	0		Open
+BIBL-3410-0EA	Images of Jesus Then and Now	3.0	3.0					WKNW 1 Christian Ways Knowg	No Consent Required	Asynchronous Online	31		Open
+BIBL-4910-01	Seminar	1.0	4.0	TR	09:30AM	10:45AM			No Consent Required	In Person	2		Open
+BIOL-1000-01	Principles of Modern Biology	4.0	4.0	MWF	01:00PM	01:50PM		WKNW 2 Scientific Ways Knowg	No Consent Required	In Person	10		Open
+BIOL-1000-01	Principles of Modern Biology	4.0	4.0	R	01:00PM	02:50PM		WKNW 2 Scientific Ways Knowg	No Consent Required	In Person	10	laboratory	Open
+BIOL-2010-0E	Medical Terminology	2.0	2.0						No Consent Required	Asynchronous Online	15		Open
+BIOL-2220-01	Foundations of Modern Biology II	4.0	4.0	MWF	10:00AM	10:50AM			No Consent Required	In Person	21		Open
+BIOL-2220L-LA	Foundations of Modern Biology II	0.0	0.0	T	01:00PM	02:50PM			No Consent Required	In Person	21		Open
+BIOL-2220L-LA	Foundations of Modern Biology II	0.0	0.0	T	01:00PM	02:50PM			No Consent Required	In Person	21	laboratory	Open
+BIOL-2240-01	Cell Biology	4.0	4.0	MWF	11:00AM	11:50AM			No Consent Required	In Person	12		Open
+BIOL-2240-01	Cell Biology	4.0	4.0	T	01:00PM	03:50PM			No Consent Required	In Person	12		Open
+BIOL-2240-01	Cell Biology	4.0	4.0	T	01:00PM	03:50PM			No Consent Required	In Person	12	laboratory	Open
+BIOL-2420-01	Human Anatomy and Physiology II	4.0	4.0	MWF	01:00PM	01:50PM			No Consent Required	In Person	43		Open
+BIOL-2420L-LA	Human Anatomy and Physiology II	0.0	0.0	T	09:00AM	10:50AM			No Consent Required	In Person	26		Open
+BIOL-2420L-LA	Human Anatomy and Physiology II	0.0	0.0	T	09:00AM	10:50AM			No Consent Required	In Person	26	laboratory	Open
+BIOL-2420L-LB	Human Anatomy and Physiology II	0.0	0.0	R	09:00AM	10:50AM			No Consent Required	In Person	17		Open
+BIOL-2420L-LB	Human Anatomy and Physiology II	0.0	0.0	R	09:00AM	10:50AM			No Consent Required	In Person	17	laboratory	Open
+BIOL-4070-01	Ecology and Evolutionary Biology	4.0	4.0	MWF	11:00AM	11:50AM			No Consent Required	In Person	7		Open
+BIOL-4070-01	Ecology and Evolutionary Biology	4.0	4.0	T	01:00PM	02:50PM			No Consent Required	In Person	7		Open
+BIOL-4070-01	Ecology and Evolutionary Biology	4.0	4.0	T	01:00PM	02:50PM			No Consent Required	In Person	7	laboratory	Open
+BIOL-4220-01	Biochemistry II	4.0	4.0	MWF	09:00AM	09:50AM			No Consent Required	In Person	5	Same: BIOL/CHEM4220	Open
+BIOL-4220L-LA	Biochemistry II	0.0	0.0	T	09:00AM	10:50AM			No Consent Required	In Person	5		Open
+BIOL-4910-01	Science Seminar I	1.0	1.0	R	12:00PM	12:50PM			No Consent Required	In Person	5	Same: BIOL/CHEM/PHYS4910	Open
+BIOL-4920-01	Science Seminar II	1.0	1.0	R	12:00PM	12:50PM	Speaking/Writing UpDiv Intens		No Consent Required	In Person	6	Same: BIOL/CHEM/PHYS4920	Open
+BSNS-2310-0E	Business Analytics	3.0	3.0						No Consent Required	Asynchronous Online	36		Open
+BSNS-2450-01	Data Analysis and Decision Making for Business	3.0	3.0	MWF	02:00PM	02:50PM			No Consent Required	In Person	23		Open
+BSNS-2510-01	Principles of Finance	3.0	3.0						No Consent Required	Asynchronous Online	27		Open
+BSNS-2550-01	Business Communications	3.0	3.0	MWF	11:00AM	11:50AM			No Consent Required	In Person	29		Open
+BSNS-2710-01	Principles of Management	3.0	3.0	MWF	08:00AM	08:50AM			No Consent Required	In Person	28		Open
+BSNS-2810-01	Principles of Marketing	3.0	3.0	TR	08:00AM	09:15AM			No Consent Required	In Person	26		Open
+BSNS-3120-01	Global Business	3.0	3.0	TR	09:30AM	10:45AM	Writing Intensive Upper Div	WKNW 7 Glob/Intcult Ways GI	No Consent Required	In Person	24		Open
+BSNS-3240-01	Operations Management	3.0	3.0	MWF	10:00AM	10:50AM			No Consent Required	In Person	9		Open
+BSNS-3350-0E	Corporate Finance	3.0	3.0						No Consent Required	Asynchronous Online	11		Open
+BSNS-3420-01	Business Law	3.0	3.0	TR	08:00AM	09:15AM		FSKL 2 Civ Discrse Crit Reas	No Consent Required	In Person	21		Open
+BSNS-4010-01	Organizational Behavior and Theory	3.0	3.0	MWF	08:00AM	08:50AM			No Consent Required	In Person	7	Same: BSNS4010/PSYC3220	Open
+BSNS-4330-01	Marketing Management	3.0	3.0	MWF	09:00AM	09:50AM			No Consent Required	In Person	13		Open
+BSNS-4360-01	Sport Sponsorship and Sales	3.0	3.0	MWF	11:00AM	11:50AM			No Consent Required	In Person	12		Open
+BSNS-4400-01	Social Media	3.0	3.0	MWF	10:00AM	10:50AM			No Consent Required	In Person	12		Open
+BSNS-4500-01	Strategic Management	3.0	3.0	TR	01:00PM	02:15PM			No Consent Required	In Person	24		Open
+BSNS-4560-01	Bsns of Game-Day Exper	3.0	3.0	MWF	01:00PM	01:50PM			No Consent Required	In Person	8		Open
+BSNS-4800-01	Business Internship	1.0	4.0						No Consent Required	Asynchronous Online	6		Open
+BSNS-4800-02	Business Internship	1.0	4.0						Not Enrolling	Asynchronous Online	1		Closed
+BSNS-4800-03	Business Internship	1.0	4.0						Not Enrolling	Asynchronous Online	1		Closed
+BSNS-4910-01	Senior Seminar in Business	3.0	3.0	MWF	02:00PM	02:50PM	Writing Intensive Upper Div		No Consent Required	In Person	26		Open
+CHEM-1000-01	Introduction to Chemistry	4.0	4.0	MWF	11:00AM	11:50AM		WKNW 2 Scientific Ways Knowg	No Consent Required	In Person	40		Open
+CHEM-1000L-LA	Introduction to Chemistry	0.0	0.0	T	03:00PM	04:50PM			No Consent Required	In Person	16		Open
+CHEM-1000L-LB	Introduction to Chemistry	0.0	0.0	T	01:00PM	02:50PM			No Consent Required	In Person	23		Open
+CHEM-2120-01	General Chemistry II	4.0	4.0	MWF	09:00AM	09:50AM			No Consent Required	In Person	26		Open
+CHEM-2120L-LA	General Chemistry II	0.0	0.0	R	09:00AM	10:50AM			No Consent Required	In Person	20		Open
+CHEM-2120L-LB	General Chemistry II	0.0	0.0	R	01:00PM	02:50PM			No Consent Required	In Person	7		Open
+CHEM-2220-01	Organic Chemistry II	4.0	4.0	MWF	01:00PM	01:50PM			No Consent Required	In Person	9		Open
+CHEM-2220L-LA	Organic Chemistry II	0.0	0.0	R	01:00PM	03:50PM			No Consent Required	In Person	9		Open
+CHEM-3140-01	Instrumental Analysis	4.0	4.0	MWF	02:00PM	02:50PM			Consent Required	Synchronous Online	7		Open
+CHEM-4110-01	Thermodynamics and Kinetics	4.0	4.0	MWF	08:00AM	08:50AM			Consent Required	In Person	5		Open
+CHEM-4110L-LA	Thermodynamics and Kinetics Lab	0.0	0.0	T	01:00PM	02:50PM			Consent Required	In Person	5	laboratory	Open
+CHEM-4220-01	Biochemistry II	4.0	4.0	MWF	09:00AM	09:50AM			No Consent Required	In Person	2	Same: BIOL/CHEM4220	Open
+CHEM-4220L-LA	Biochemistry II	0.0	0.0	T	09:00AM	10:50AM			No Consent Required	In Person	2		Open
+CHEM-4520-01	Senior Physical Science Practicum II	1.0	1.0	T	12:00PM	12:50PM			No Consent Required	In Person	6	Same: CHEM/PHYS4520	Open
+CHEM-4650-01	Independent Study	1.0	4.0						No Consent Required	Asynchronous Online	0		Open
+CHEM-4920-01	Science Seminar II	1.0	1.0	R	12:00PM	12:50PM	Speaking/Writing UpDiv Intens		No Consent Required	In Person	3	Same: BIOL/CHEM/PHYS4920	Open
+CMIN-2270-01	Faith and Worship	3.0	3.0	MWF	10:00AM	10:50AM		FSKL 2 Civ Discrse Crit Reas	No Consent Required	In Person	20		Open
+CMIN-2810-01	Ministry Exploration	1.0	1.0						No Consent Required	Asynchronous Online	3		Open
+CMIN-3050-0E	Homiletics	3.0	3.0				Speaking Intensive		No Consent Required	Asynchronous Online	3		Open
+CMIN-3340-0E	The Community of Faith in an Urban Culture	3.0	3.0						No Consent Required	Asynchronous Online	5		Open
+CMIN-3910-01	Ministry Seminar	3.0	3.0	TR	02:30PM	03:45PM	Speaking Intensive		No Consent Required	In Person	7		Open
+CMIN-3910-0B	Ministry Seminar	3.0	3.0				Speaking Intensive		No Consent Required	Asynchronous Online	7		Open
+CMIN-4250-0E	Theology in a Ministry Context	3.0	3.0				Writing Intensive Upper Div		No Consent Required	Asynchronous Online	7		Open
+CMIN-4810-01	Internship	1.0	4.0						No Consent Required	Asynchronous Online	1	Same: THFE7810/CMIN4810	Open
+CMIN-4810-02	Internship	1.0	4.0						Not Enrolling	In Person	2	Same: THFE7810/CMIN4810	Closed
+COMM-1000-01	Introduction to Speech Communication	3.0	3.0	TR	01:00PM	02:15PM		FSKL 4 Speaking/Listening	No Consent Required	In Person	17		Open
+COMM-1000-02	Introduction to Speech Communication	3.0	3.0	TR	02:30PM	03:45PM		FSKL 4 Speaking/Listening	No Consent Required	In Person	9		Open
+COMM-1000-03	Introduction to Speech Communication	3.0	3.0	MWF	11:00AM	11:50AM		FSKL 4 Speaking/Listening	No Consent Required	In Person	26		Open
+COMM-1000-04	Introduction to Speech Communication	3.0	3.0	MWF	02:00PM	02:50PM		FSKL 4 Speaking/Listening	No Consent Required	In Person	24		Open
+COMM-2000-01	Media and Society	3.0	3.0	MWF	09:00AM	09:50AM			No Consent Required	In Person	12		Open
+COMM-2020-01	Audio Concepts and Production	3.0	3.0	TR	01:00PM	02:15PM			No Consent Required	In Person	7		Open
+COMM-2130-01	Writing for the Media	3.0	3.0	TR	01:00PM	02:15PM	Writing Intensive		No Consent Required	In Person	8		Open
+COMM-2160-01	The Art of Storytelling	3.0	3.0	TR	02:30PM	03:45PM	Writing Intensive		No Consent Required	In Person	11		Open
+COMM-2200-01	Visual Communication	3.0	3.0	F	11:00AM	11:50AM			No Consent Required	In Person	8		Open
+COMM-2200-01	Visual Communication	3.0	3.0	F	11:00AM	11:50AM			No Consent Required	In Person	8	laboratory	Open
+COMM-2200-01	Visual Communication	3.0	3.0	MW	11:00AM	11:50AM			No Consent Required	In Person	8		Open
+COMM-2320-01	Multicamera and Studio Production	4.0	4.0	MWF	01:00PM	02:50PM			No Consent Required	In Person	12		Open
+COMM-2850-01	Andersonian Staff	1.0	1.0	R	12:00PM	12:50PM			No Consent Required	In Person	8		Open
+COMM-2860-01	Black Bird Media Lab	1.0	1.0	W	03:00PM	04:50PM			No Consent Required	In Person	13		Open
+COMM-3050-01	Global Communication	3.0	3.0	T	09:30AM	10:45AM		WKNW 6 Glob/Intcult Ways FL	No Consent Required	In Person	20		Open
+COMM-3860-01	Practicum Event Management	1.0	2.0						No Consent Required	Asynchronous Online	2	Same: COMM/BSNS3860	Open
+COMM-4800-01	Internship	1.0	4.0						No Consent Required	Asynchronous Online	1		Open
+COMM-4800-02	Internship	1.0	4.0						No Consent Required	Asynchronous Online	0		Open
+COMM-4800-03	Internship	1.0	4.0						No Consent Required	Asynchronous Online	0		Open
+CPSC-2020-01	Fundamentals of Computational Thinking and Programming	4.0	4.0	MWF	10:00AM	10:50AM		FSKL 5 Quant Reasng	No Consent Required	In Person	15		Open
+CPSC-2020-01	Fundamentals of Computational Thinking and Programming	4.0	4.0	R	09:00AM	10:50AM		FSKL 5 Quant Reasng	No Consent Required	In Person	15		Open
+CPSC-2030-01	Object-Oriented Analysis and Design	4.0	4.0						No Consent Required	Asynchronous Online	12		Open
+CPSC-2250-01	Discrete Mathematical Structures	4.0	4.0	MTRF	08:00AM	08:50AM			No Consent Required	In Person	5	Same: MATH2200/CPSC2250	Open
+CPSC-2300-01	System Administration	3.0	3.0	F	01:00PM	02:50PM			No Consent Required	In Person	20		Open
+CPSC-2300-01	System Administration	3.0	3.0	MW	01:00PM	01:50PM			No Consent Required	In Person	20		Open
+CPSC-2430-01	Programming Languages and Compilers	2.0	2.0	R	01:00PM	02:50PM			No Consent Required	In Person	8		Open
+CPSC-2430-01	Programming Languages and Compilers	2.0	2.0	W	02:00PM	02:50PM			No Consent Required	In Person	8		Open
+CPSC-2600-01	Topics in Computer Science:	1.0	4.0	R	04:00PM	06:00PM			Consent Required	In Person	25		Open
+CPSC-3480-01	Network Security	3.0	3.0	MW	02:00PM	02:50PM			No Consent Required	In Person	10		Open
+CPSC-3480-01	Network Security	3.0	3.0	R	01:00PM	02:50PM			No Consent Required	In Person	10		Open
+CPSC-3540-01	Intro to Machine Learning	3.0	3.0	MWF	11:00AM	11:50AM			No Consent Required	In Person	15		Open
+CPSC-4070-01	Cybersecurity Analysis and Digital Forensics	3.0	3.0	MW	09:00AM	09:50AM			No Consent Required	In Person	17		Open
+CPSC-4070-01	Cybersecurity Analysis and Digital Forensics	3.0	3.0	R	09:00AM	10:50AM			No Consent Required	In Person	17		Open
+CPSC-4420-01	Operating Systems	4.0	4.0	F	01:00PM	02:50PM			No Consent Required	In Person	7		Open
+CPSC-4420-01	Operating Systems	4.0	4.0	MTW	01:00PM	01:50PM			No Consent Required	In Person	7		Open
+CPSC-4480-01	Technical Certification	1.0	1.0	F	09:00AM	09:50AM			No Consent Required	In Person	15		Open
+CPSC-4800-01	Software Engineering Intern	2.0	4.0						Consent Required	In Person	2		Open
+CPSC-4820-01	Cybersecurity Internship	2.0	4.0						Consent Required	In Person	0		Open
+CPSC-4820-02	Cybersecurity Internship	2.0	4.0						Not Enrolling	In Person	1		Closed
+CPSC-4960-01	Senior Seminar Ethics	1.0	1.0	T	12:00PM	12:50PM	Writing Intensive Upper Div		No Consent Required	In Person	14		Open
+CPSC-4970-01	Senior Project	2.0	4.0						Not Enrolling	In Person	2		Closed
+CPSC-4970-02	Senior Project	2.0	4.0						Consent Required	In Person	1		Open
+CPSC-4970-03	Senior Project	2.0	4.0						Consent Required	In Person	2		Open
+CRIM-2510-0B	The Nature of Crime and Social Deviance	4.0	4.0	MWF	11:00AM	11:50AM	Writing Intensive		No Consent Required	Hybrid	7	Same: CRIM/SOCI2510	Open
+CRIM-2520-0E	Introduction to Criminal Justice	3.0	3.0						No Consent Required	Asynchronous Online	13		Open
+CRIM-2560-01	Introduction to Criminal Forensic Science	3.0	3.0	MWF	10:00AM	10:50AM			No Consent Required	In Person	14		Open
+CRIM-2600-01	Topics in Criminal Justice:	1.0	4.0	R	04:00PM	06:00PM			Consent Required	In Person	25		Open
+CRIM-3020-01	Principles of Law Enforcement	3.0	3.0	TR	09:30AM	10:45AM			No Consent Required	In Person	9		Open
+CRIM-3350-01	Homeland Security	3.0	3.0	MWF	02:00PM	02:50PM			No Consent Required	In Person	5	Same: POSC/CRIM3350	Open
+CRIM-4810-01	Criminal Justice Internship I	1.0	4.0						No Consent Required	Asynchronous Online	2		Open
+CRIM-4820-01	Criminal Justice Internship II	1.0	4.0						No Consent Required	Asynchronous Online	1		Open
+DANC-1150-01	Dance Repertory	0.0	1.0						No Consent Required	Asynchronous Online	4		Open
+DANC-1320-01	Jazz I	1.0	1.0	MWF	02:00PM	02:50PM		WKNW 4 Aesthet Ways (Exper)	No Consent Required	In Person	5		Open
+DANC-1420-01	Ballet I	2.0	2.0	MWF	12:00PM	01:20PM		WKNW 4 Aesthet Ways (Exper)	No Consent Required	In Person	8		Open
+DANC-2110-01	Musical Theatre Dance Forms	1.0	1.0	TR	01:00PM	02:15PM			No Consent Required	In Person	2		Open
+DANC-2120-01	Tap II	1.0	1.0	TR	08:30AM	09:20AM		WKNW 4 Aesthet Ways (Exper)	No Consent Required	In Person	3		Open
+DANC-2220-01	Modern II	2.0	2.0	MWF	03:00PM	04:20PM		WKNW 4 Aesthet Ways (Exper)	No Consent Required	In Person	2		Open
+DANC-2420-01	Ballet II	2.0	2.0	MWF	08:30AM	09:50AM		WKNW 4 Aesthet Ways (Exper)	No Consent Required	In Person	5		Open
+DANC-2580-01	Dance Improvisation II	1.0	1.0	TR	01:00PM	02:20PM			No Consent Required	Hybrid	1		Open
+DANC-2590-01	Dance Composition II	2.0	2.0	TR	01:00PM	02:20PM			No Consent Required	Hybrid	1		Open
+DANC-3020-0E	Dance History II	3.0	3.0						No Consent Required	Asynchronous Online	3		Open
+DANC-3120-01	Tap III	1.0	1.0	TR	08:30AM	09:20AM		WKNW 4 Aesthet Ways (Exper)	No Consent Required	In Person	5		Open
+DANC-3220-01	Modern III	2.0	2.0	MWF	03:00PM	04:20PM		WKNW 4 Aesthet Ways (Exper)	No Consent Required	In Person	3		Open
+DANC-3420-01	Ballet III	2.0	2.0	MWF	08:30AM	09:50AM		WKNW 4 Aesthet Ways (Exper)	No Consent Required	In Person	1		Open
+DANC-3580-01	Dance Improvisation III	1.0	1.0	TR	01:00PM	02:20PM			No Consent Required	Hybrid	1		Open
+DANC-3590-01	Dance Composition III	2.0	2.0	TR	01:00PM	02:20PM			No Consent Required	Hybrid	3		Open
+ECON-2010-01	Principles of Macroeconomics	3.0	3.0	MWF	11:00AM	11:50AM		WKNW 5 Social/Behav Ways	No Consent Required	In Person	25		Open
+ECON-2020-01	Principles of Microeconomics	3.0	3.0	MWF	01:00PM	01:50PM			No Consent Required	In Person	15		Open
+ECON-3410-01	Money Banking and Financial Markets	3.0	3.0	TR	09:30AM	10:45AM			No Consent Required	In Person	14		Open
+EDUC-2000-01	Teaching as a Profession	2.0	2.0	TR	02:30PM	03:45PM			No Consent Required	In Person	11		Open
+EDUC-2100-01	Child and Adolescent Development	3.0	3.0	MWF	11:00AM	11:50AM			No Consent Required	In Person	16		Open
+EDUC-2110-01	Educational Psychology: Learning in the Schools	3.0	3.0	MWF	01:00PM	01:50PM		WKNW 5 Social/Behav Ways	No Consent Required	In Person	23	Same: PSYC/EDUC2110	Open
+EDUC-2170-01	Teaching I: Curriculum and Instruction for Early Childhood	4.0	4.0	F	10:00AM	10:50AM			No Consent Required	In Person	21	Same: EDUC/CMIN2170 _hist	Open
+EDUC-2170-01	Teaching I: Curriculum and Instruction for Early Childhood	4.0	4.0	MW	09:00AM	10:50AM			No Consent Required	In Person	21	Same: EDUC/CMIN2170 _hist	Open
+EDUC-2730-01	Field Experiences in Reading Processes	1.0	1.0	T	08:00AM	09:15AM			No Consent Required	In Person	8		Open
+EDUC-2850-01	Practicum in Leadership Skills	2.0	2.0	F	12:00PM	12:50PM			No Consent Required	In Person	4	Same: PSYC/EDUC/SOCI2850	Open
+EDUC-3120-01	Educational Assessment for the Classroom Teacher	3.0	3.0	MWF	11:00AM	11:50AM	Writing Intensive Upper Div		No Consent Required	In Person	7		Open
+EDUC-3300-01	Research-Based Reading Methods: Instruction, Intervention, and Assessment	3.0	3.0	MWF	09:00AM	09:50AM			No Consent Required	In Person	8		Open
+EDUC-4010-01	Student Teaching	10.0	10.0						No Consent Required	Asynchronous Online	18		Open
+EDUC-4221-TE	Differentiated Curriculum and Instruction: STEM	1.0	1.0						Consent Required	Asynchronous Online	1		Open
+EDUC-4222-TE	Differentiated Curriculum and Instruction: Social Studies	1.0	1.0						Consent Required	Asynchronous Online	1		Open
 EDUC-4245-TE	Curriculum, Instruction and Assessment in the Secondary Classroom\u00A0	3.0	3.0						Consent Required	Asynchronous Online	4		Open
-EDUC-4250-TE	Reading in the Content Areas (T2T - Secondary) (24)	2.0	2.0						Consent Required	Asynchronous Online	12		Open
-EDUC-4260-TE	Creating an Environment for Student Learning (24)	2.0	2.0						Consent Required	Asynchronous Online	4		Open
+EDUC-4250-TE	Reading in the Content Areas (T2T - Secondary)	2.0	2.0						Consent Required	Asynchronous Online	12		Open
+EDUC-4260-TE	Creating an Environment for Student Learning	2.0	2.0						Consent Required	Asynchronous Online	4		Open
 EDUC-4265-TE	Classroom Culture, Management and\u00A0 the Law	3.0	3.0						Consent Required	Asynchronous Online	4		Open
-EDUC-4280-TE	Student Teaching (Clinical Practice) (24)	4.0	4.0						No Consent Required	Asynchronous Online	10		Open
-EDUC-4310-01	Integrated Teaching II: Language Arts and Social Studies (24)	4.0	4.0	MWF	01:00PM	02:50PM			No Consent Required	In Person	5		Open
-EDUC-4800-01	Internship in Youth Leadership (23)	2.0	2.0	MF	12:00PM	12:50PM			No Consent Required	In Person	6	Same: PSYC/EDUC/SOCI4800	Open
-EDUC-4910-0B	Dyslexia Seminar (24)	1.0	1.0	M	06:00PM	06:50PM			No Consent Required	Hybrid	11		Open
-EDUC-4930-01	Leadership Seminar in Character Education (24)	2.0	2.0	T	05:00PM	06:50PM			No Consent Required	In Person	13		Open
-ENGL-1110-02	Rhetoric and Composition (23)	3.0	3.0	MWF	01:00PM	01:50PM		FSKL 3 Written Comm	No Consent Required	In Person	14		Open
-ENGL-1120-01	Rhetoric and Research (23)	3.0	3.0	MWF	09:00AM	09:50AM		FSKL 3 Written Comm	No Consent Required	In Person	21		Open
-ENGL-1120-02	Rhetoric and Research (23)	3.0	3.0	MWF	10:00AM	10:50AM		FSKL 3 Written Comm	No Consent Required	In Person	18		Open
-ENGL-1120-03	Rhetoric and Research (23)	3.0	3.0	MWF	11:00AM	11:50AM		FSKL 3 Written Comm	No Consent Required	In Person	14		Open
-ENGL-1120-04	Rhetoric and Research (23)	3.0	3.0	MWF	11:00AM	11:50AM		FSKL 3 Written Comm	No Consent Required	In Person	13		Open
-ENGL-1120-06	Rhetoric and Research (23)	3.0	3.0	MWF	01:00PM	01:50PM		FSKL 3 Written Comm	No Consent Required	In Person	6		Open
-ENGL-1120-07	Rhetoric and Research (23)	3.0	3.0	MWF	01:00PM	01:50PM		FSKL 3 Written Comm	No Consent Required	In Person	19		Open
-ENGL-2220-01	Global Literature (24)	3.0	3.0	MWF	02:00PM	02:50PM		WKNW 7 Glob/Intcult Ways GI	No Consent Required	In Person	9		Open
-ENGL-2500-01	Appreciation of the Writing Craft (23)	2.0	2.0	MF	12:00PM	12:50PM	Writing Intensive	WKNW 4 Aesthet Ways (Appr)	No Consent Required	In Person	20		Open
-ENGL-2510-01	Creative Writing Workshop (23)	1.0	1.0	W	12:00PM	12:50PM		WKNW 4 Aesthet Ways (Exper)	No Consent Required	In Person	19		Open
-ENGL-3120-01	Creative Writing: Poetry (24)	3.0	3.0	TR	01:00PM	02:15PM	Writing Intensive Upper Div		No Consent Required	In Person	10		Open
-ENGL-3190-01	Composing Arguments (24)	3.0	3.0	MWF	10:00AM	10:50AM	Writing Intensive Upper Div	FSKL 2 Civ Discrse Crit Reas	No Consent Required	In Person	6		Open
-ENGL-3570-01	Studies in American Literature (24)	3.0	3.0	MWF	11:00AM	11:50AM			No Consent Required	In Person	10		Open
-ENGL-3590-01	Teaching Diversity through Young Adult Literature (24)	3.0	3.0	MWF	02:00PM	02:50PM		WKNW 4 Aesthetic Ways Knowg	No Consent Required	In Person	18		Open
-ENGL-3870-01	Literary Arts Practicum (23)	1.0	1.0						No Consent Required	Asynchronous Online	2		Open
-ENGL-3880-01	Writing Tutor Practicum (23)	1.0	1.0	M	01:00PM	01:50PM			No Consent Required	In Person	3		Open
-ENGR-2060-0E	Engineering Ethics (24)	2.0	2.0					FSKL 2 Civ Discrse Crit Reas	No Consent Required	Asynchronous Online	18		Open
-ENGR-2090-01	Systems Engineering (25)	3.0	3.0	MWF	08:00AM	08:50AM		WKNW 7 Glob/Intcult Ways GI	No Consent Required	In Person	61		Open
-ENGR-2110-01	Dynamics (24)	3.0	3.0						No Consent Required	Asynchronous Online	29		Open
-ENGR-2200-01	Foundations of Digital Electronics (24)	2.0	2.0	R	09:00AM	10:50AM			No Consent Required	In Person	12		Open
-ENGR-2200-01	Foundations of Digital Electronics (24)	2.0	2.0	R	09:00AM	10:50AM			No Consent Required	In Person	12	laboratory	Open
-ENGR-2200-01	Foundations of Digital Electronics (24)	2.0	2.0	T	09:00AM	09:50AM			No Consent Required	In Person	12		Open
-ENGR-2310-01	Computational Problem Solving (24)	3.0	3.0	MW	02:00PM	02:50PM			No Consent Required	In Person	34		Open
-ENGR-2310L-LA	Computational Problem Solving (24) - Lab	0.0	0.0	F	01:00PM	02:50PM			No Consent Required	In Person	13		Open
-ENGR-2310L-LB	Computational Problem Solving (24) - Lab	0.0	0.0	R	01:00PM	02:50PM			No Consent Required	In Person	21		Open
-ENGR-3080-01	Engineering Design for Service (24)	3.0	3.0	MWF	11:00AM	11:50AM			No Consent Required	In Person	16		Open
-ENGR-3180-01	Materials and Processes (24)	3.0	3.0	MWF	01:00PM	01:50PM			No Consent Required	In Person	29		Open
-ENGR-3190-01	Thermodyn: Cycle Analysis (24)	2.0	2.0	TR	08:00AM	08:50AM			No Consent Required	In Person	17		Open
-ENGR-3260-01	Embedded Systems (24)	3.0	3.0	MW	10:00AM	10:50AM			No Consent Required	In Person	18		Open
-ENGR-3260-01	Embedded Systems (24)	3.0	3.0	R	12:00PM	02:50PM			No Consent Required	In Person	18		Open
-ENGR-3260-01	Embedded Systems (24)	3.0	3.0	R	12:00PM	02:50PM			No Consent Required	In Person	18	laboratory	Open
-ENGR-3510-01	Solid Mechanics (24)	3.0	3.0	MWF	02:00PM	02:50PM			No Consent Required	In Person	30		Open
-ENGR-3850-01	Engineering Projects Laboratory (24)	1.0	1.0	M	03:00PM	04:50PM			No Consent Required	In Person	12		Open
-ENGR-4020-01	Mechatronics System Design (24)	4.0	4.0	MWF	09:00AM	09:50AM			No Consent Required	In Person	9		Open
-ENGR-4020-01	Mechatronics System Design (24)	4.0	4.0	T	01:00PM	02:50PM			No Consent Required	In Person	9		Open
-ENGR-4110-01	Machine Design (24)	3.0	3.0	MWF	10:00AM	10:50AM			No Consent Required	In Person	16		Open
-ENGR-4140-01	Thermal Properties Laboratory (25)	1.0	1.0	T	09:00AM	10:50AM			No Consent Required	In Person	9		Open
-ENGR-4230-01	Power Systems (24)	2.0	2.0	F	10:00AM	10:50AM			No Consent Required	In Person	16		Open
-ENGR-4230-01	Power Systems (24)	2.0	2.0	T	10:00AM	10:50AM			No Consent Required	In Person	16		Open
-ENGR-4320-01	Fluid Mechanics Laboratory (25)	1.0	1.0	R	09:00AM	10:50AM			No Consent Required	In Person	15		Open
-ENGR-4320-02	Fluid Mechanics Laboratory (25)	1.0	1.0	R	01:00PM	02:50PM			Not Enrolling	In Person	10	laboratory	Closed
-ENGR-4340-01	Structural Design (concrete) (24)	3.0	3.0	MWF	10:00AM	10:50AM			No Consent Required	Asynchronous Online	3		Open
-ENGR-4360-01	Transportation Engineering (24)	3.0	3.0	R	08:00AM	08:50AM			No Consent Required	Asynchronous Online	9		Open
-ENGR-4360-01	Transportation Engineering (24)	3.0	3.0	T	08:00AM	09:50AM			No Consent Required	Asynchronous Online	9		Open
-ENGR-4960-01	Engineering Senior Design II (24)	2.0	2.0	MW	12:00PM	12:50PM	Speaking/Writing UpDiv Intens		No Consent Required	In Person	18		Open
-EXSC-1530-01	Advanced Resistance Training and Conditioning (24)	3.0	3.0	MWF	11:00AM	11:50AM			No Consent Required	In Person	23		Open
-EXSC-2140-0EA	Nutrition in Health and Disease (24)	4.0	4.0					WKNW 2 Scientific Ways Knowg	No Consent Required	Asynchronous Online	39		Open
-EXSC-2455-01	Foundations of Exercise Leadership (23)	3.0	3.0	TR	01:00PM	02:15PM			No Consent Required	In Person	19		Open
-EXSC-2580-01	Sports Nutrition (23)	3.0	3.0	MWF	10:00AM	10:50AM			No Consent Required	In Person	15		Open
-EXSC-3100-0E	Eating Disorders (23)	3.0	3.0						No Consent Required	Asynchronous Online	15		Open
-EXSC-3480-01	Physiology of Exercise II (23)	4.0	4.0	MWF	10:00AM	10:50AM	Writing Intensive Upper Div		No Consent Required	In Person	17		Open
-EXSC-3480L-LA	Physiology of Exercise II (23) - Lab	0.0	0.0	R	09:00AM	10:50AM			No Consent Required	In Person	17		Open
-EXSC-3530-01	Biomechanics II (23)	4.0	4.0	MWF	11:00AM	11:50AM			No Consent Required	In Person	15		Open
-EXSC-3530L-LA	Biomechanics II (23) - Lab	0.0	0.0	T	09:00AM	10:50AM			No Consent Required	In Person	15		Open
-EXSC-4150-01	Exercise Testing and Prescription (24)	4.0	4.0	MWF	01:00PM	01:50PM			No Consent Required	In Person	17		Open
-EXSC-4150-01	Exercise Testing and Prescription (24)	4.0	4.0	T	09:00AM	02:50PM			No Consent Required	In Person	17		Open
-EXSC-4150-01	Exercise Testing and Prescription (24)	4.0	4.0	T	09:00AM	10:50AM			No Consent Required	In Person	17	laboratory	Open
-EXSC-4160-01	Clinical Experience in Exercise Testing and Prescription (23)	1.0	1.0						No Consent Required	Asynchronous Online	4		Open
-EXSC-4920-01	Seminar in Exercise Science (24)	3.0	3.0	MWF	09:00AM	09:50AM	Speaking Intensive		No Consent Required	In Person	14		Open
-HIST-2000-01	World History (23)	3.0	3.0	TR	01:00PM	02:15PM		WKNW 3 Civic Ways Knowg	No Consent Required	In Person	15		Open
-HIST-2040-01	Western Civilization II (23)	3.0	3.0	TR	09:30AM	10:45AM		WKNW 3 Civic Ways Knowg	No Consent Required	In Person	17		Open
-HIST-2110-01	American History I (23)	3.0	3.0	MWF	11:00AM	11:50AM		WKNW 3 Civic Ways Knowg	No Consent Required	In Person	35		Open
-HIST-2120-0EA	American History II (23)	3.0	3.0					WKNW 3 Civic Ways Knowg	No Consent Required	Asynchronous Online	23		Open
-HIST-2350-01	Foundation of Public History (24)	3.0	3.0	TR	09:30AM	10:45AM			No Consent Required	In Person	5		Open
-HIST-3010-01	History of Political Thought (24)	3.0	3.0	TR	02:30PM	03:45PM			No Consent Required	In Person	0	Same: HIST/POSC/PHIL3010	Open
-HIST-3100-01	Ancient History (24)	3.0	3.0	MWF	01:00PM	01:50PM		WKNW 7 Glob/Intcult Ways GI	No Consent Required	In Person	14		Open
-HIST-3190-01	Jewish Holocaust and its Historical Context (23)	3.0	3.0	MWF	09:00AM	09:50AM		WKNW 7 Glob/Intcult Ways GI	No Consent Required	In Person	26		Open
-HIST-3250-01	History of the Cold War (24)	3.0	3.0	MWF	02:00PM	02:50PM		WKNW 7 Glob/Intcult Ways GI	No Consent Required	In Person	15		Open
-HIST-3260-0EA	Women in the World 1800-Present (24)	3.0	3.0				Writing Intensive Upper Div	WKNW 7 Glob/Intcult Ways GI	No Consent Required	Asynchronous Online	34		Open
-HIST-3425-01	Slavery and Freedom in the Modern World 1800 to the Present (24)	3.0	3.0	TR	02:30PM	03:45PM	Writing Intensive Upper Div	WKNW 7 Glob/Intcult Ways GI	No Consent Required	In Person	10		Open
-HIST-3520-01	History of the Vietnam War (23)	3.0	3.0	MWF	03:00PM	03:50PM			No Consent Required	In Person	10		Open
-HIST-4800-01	Internship Public History (23)	1.0	4.0						No Consent Required	Asynchronous Online	2		Open
-HIST-4800-02	Internship Public History (23)	1.0	4.0						Not Enrolling	In Person	2		Closed
-HIST-4800-03	Internship Public History (23)	1.0	4.0						Consent Required	In Person	0		Open
-HIST-4930-01	Senior Seminar (23)	1.0	1.0	R	12:00PM	12:50PM			No Consent Required	In Person	6		Open
-HNRS-1000-01	Personal Enrichment through Servant Leadership (24)	0.0	1.0						No Consent Required	Asynchronous Online	11		Open
-HNRS-2125-01	The Scholar as Servant Leader (23)	2.0	2.0	MW	12:00PM	12:50PM			No Consent Required	In Person	22		Open
-HNRS-2300-01	Honors History (24)	3.0	3.0	MWF	12:00PM	12:50PM			No Consent Required	In Person	31		Open
-HNRS-3221-01	Traditionalism and Globalization (23)	3.0	3.0	MWF	12:00PM	12:50PM			No Consent Required	In Person	25		Open
-HNRS-3325-01	Christ and Culture (23)	3.0	3.0	MWF	12:00PM	12:50PM			No Consent Required	In Person	40		Open
-HNRS-4910-01	Honor Senior Seminar (24)	1.0	1.0	F	12:00PM	12:50PM			No Consent Required	In Person	14		Open
-LART-1000-01	College Survival Skills (23)	2.0	2.0	MW	12:00PM	12:50PM			No Consent Required	In Person	1		Open
-LART-1020-8E1	Strategies for Academic Success for Adult Learners (23)	3.0	3.0	R	06:00PM	06:50PM			No Consent Required	Asynchronous Online	4		Open
-LART-1020-8E2	Strategies for Academic Success for Adult Learners (23)	3.0	3.0	R	06:00PM	06:50PM			No Consent Required	Asynchronous Online	0		Open
-LART-1050-01	First-Year Experience Seminar (23)	1.0	1.0	R	12:00PM	12:50PM		FSKL 1 Undstnd College	No Consent Required	In Person	17		Open
-LART-1100-0EA	Critical-Thinking Seminar (23)	3.0	3.0	T	06:00PM	06:50PM		FSKL 2 Civ Discrse Crit Reas	No Consent Required	Asynchronous Online	9		Open
-LART-1200-01	Career and Life Planning (24)	1.0	1.0	MW	12:00PM	12:50PM			No Consent Required	In Person	11		Open
-MATH-1110-01	Elementary Mathematics-Geometry (23)	3.0	3.0	MWF	02:00PM	02:50PM			No Consent Required	In Person	15		Open
-MATH-1250-01	Explorations in Mathematics (23)	3.0	3.0	MWF	01:00PM	01:50PM		FSKL 5 Quant Reasng	No Consent Required	In Person	23		Open
-MATH-1300-01	Finite Mathematics (23)	3.0	3.0	MWF	11:00AM	11:50AM		FSKL 5 Quant Reasng	No Consent Required	In Person	20		Open
-MATH-2010-01	Calculus I (23)	4.0	4.0	TR	06:20PM	08:00PM		FSKL 5 Quant Reasng	No Consent Required	In Person	14		Open
-MATH-2020-01	Calculus II (23)	4.0	4.0	MTWF	10:00AM	10:50AM			No Consent Required	In Person	29		Open
-MATH-2120-02	Introductory Statistics with Applications (23)	3.0	3.0	MWF	01:00PM	01:50PM		FSKL 5 Quant Reasng	No Consent Required	In Person	27		Open
-MATH-2200-01	Discrete Mathematical Structures (23)	4.0	4.0	MTRF	08:00AM	08:50AM			No Consent Required	In Person	23	Same: MATH2200/CPSC2250	Open
-MATH-3020-01	Calculus III (23)	4.0	4.0	MTWF	10:00AM	10:50AM			No Consent Required	In Person	23		Open
-MATH-3100-01	Differential Equations (23)	3.0	3.0	MWF	09:00AM	09:50AM			No Consent Required	In Person	33		Open
-MLAN-2000-0E	Language and Society (23)	4.0	4.0					WKNW 7 Glob/Intcult Ways GI	No Consent Required	Asynchronous Online	15		Open
-MUBS-2020-0B	Introduction to Music Publishing (23)	3.0	3.0	R	01:00PM	02:20PM			No Consent Required	Hybrid	17	Same: MUBS2020/BSNS2040	Open
-MUBS-3100-0B	Artist Development (23)	2.0	2.0						No Consent Required	Asynchronous Online	5	Same: MUBS3100/BSNS3140	Open
-MUBS-3220-01	Advanced Recording Techniques (23)	2.0	2.0	T	07:30PM	09:00PM			No Consent Required	In Person	6	Same: MUBS3220/BSNS3260	Open
-MUBS-3370-01	Record Production (23)	2.0	2.0	T	05:30PM	07:10PM			No Consent Required	In Person	8	Same: MUBS/BSNS3370	Open
-MUBS-3470-0B	DIY for Musicians (23)	2.0	2.0	W	01:00PM	01:50PM			No Consent Required	Hybrid	3		Open
-MUBS-4500-01	Songwriter Showcase (23)	1.0	1.0						No Consent Required	Asynchronous Online	0		Open
-MUBS-4800-01	Internship in Music Business (23)	1.0	3.0						No Consent Required	Asynchronous Online	1	Same: MUBS4800/BSNS4810	Open
-MUBS-4900-01	Recording Label Seminar (23)	1.0	2.0	M	05:00PM	06:00PM			No Consent Required	In Person	4		Open
-MUBS-4900-02	Recording Label Seminar (23)	1.0	2.0	M	05:00PM	06:00PM			Not Enrolling	In Person	6		Closed
-MUBS-4950-01	Recording Project (24)	3.0	3.0						No Consent Required	Asynchronous Online	1		Open
-MUED-1000-01	Introduction to Music Education (23)	2.0	2.0	MW	08:00AM	08:50AM		FSKL 2 Civ Discrse Crit Reas	Consent Required	In Person	8		Open
-MUED-1300-01	Brass Techniques (23)	1.0	1.0	MW	12:00PM	12:50PM			No Consent Required	In Person	6		Open
-MUED-2110-01	Music for the Elementary Classroom (23)	2.0	2.0	TR	01:00PM	01:50PM		WKNW 4 Aesthet Ways (Appr)	No Consent Required	In Person	19		Open
-MUED-2470-01	Introduction to Conducting (23)	2.0	2.0	MW	02:00PM	02:50PM			No Consent Required	In Person	7		Open
-MUED-2510-01	Singer's Diction I (23)	2.0	2.0	MW	01:00PM	01:50PM			No Consent Required	In Person	6		Open
-MUED-4700-01	Methods of Teaching Music in the Public Schools (23)	2.0	2.0	R	05:30PM	07:00PM			No Consent Required	Asynchronous Online	5		Open
-MUPF- _0010-01	Unassigned Voice (23)	1.0	3.0						No Consent Required	Asynchronous Online	0		Open
-MUPF- _0020-01	Unassigned Piano (23)	1.0	3.0						No Consent Required	Asynchronous Online	0		Open
-MUPF- _0030-01	Unassignd Cl Piano (23)	2.0	2.0						No Consent Required	Asynchronous Online	0		Open
-MUPF- _0040-01	Unassigned Choirs (23)	1.0	2.0						No Consent Required	Asynchronous Online	0		Open
-MUPF- _0050-01	Unassigned Bands (23)	1.0	2.0						No Consent Required	Asynchronous Online	0		Open
-MUPF- _0060-01	Unassigned Piano (Music Education) (23)	1.0	3.0						No Consent Required	Asynchronous Online	0		Open
-MUPF-1060-01	Keyboard Class II (23)	2.0	2.0	MW	10:00AM	10:50AM			No Consent Required	In Person	6		Open
-MUPF-1060-02	Keyboard Class II (23)	2.0	2.0	MW	09:00AM	09:50AM			No Consent Required	In Person	7		Open
-MUPF-1080-01	Chorale (SATB Choir) (23)	0.0	1.0	MWF	03:00PM	04:30PM		WKNW 4 Aesthet Ways (Exper)	No Consent Required	In Person	33		Open
-MUPF-1080-02	Chorale (SATB Choir) (23)	0.0	1.0	MWF	03:00PM	04:30PM		WKNW 4 Aesthet Ways (Exper)	Not Enrolling	In Person	5		Closed
-MUPF-1080-03	Chorale (SATB Choir) (23)	0.0	1.0	MWF	03:00PM	04:30PM		WKNW 4 Aesthet Ways (Exper)	Consent Required	In Person	0		Open
-MUPF-1090-01	University Choir (23)	0.0	1.0	MWF	04:00PM	04:30PM		WKNW 4 Aesthet Ways (Exper)	No Consent Required	In Person	14		Open
-MUPF-1160-01	Music Theatre Production (23)	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	3		Open
-MUPF-1170-01	Introduction to Musical Theatre Performance (25)	2.0	2.0	TR	04:00PM	06:00PM		WKNW 4 Aesthet Ways (Exper)	No Consent Required	In Person	9		Open
-MUPF-1190-01	Instrumental Ensemble (23)	0.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	13		Open
-MUPF-1270-01	Symphonic Wind Ensemble (23)	0.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	17		Open
-MUPF-1280-01	Jazz Ensemble (23)	0.0	1.0	WF	04:30PM	05:45PM		WKNW 4 Aesthet Ways (Exper)	No Consent Required	In Person	5		Open
-MUPF-1350-01	Guitar Ensemble (23)	0.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	7		Open
-MUPF-1390-01	Percussion Ensemble (23)	0.0	1.0	T	05:00PM	06:30PM		WKNW 4 Aesthet Ways (Exper)	No Consent Required	In Person	4		Open
-MUPF-1530-01	Accompanying II (23)	1.0	1.0						No Consent Required	Asynchronous Online	0		Open
-MUPF-1700-01	Voice (23)	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-1700-02	Voice (23)	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-1700-03	Voice (23)	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	1		Open
-MUPF-1700-04	Voice (23)	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-1700-05	Voice (23)	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-1700-06	Voice (23)	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-1710-01	Piano (23)	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	1		Open
-MUPF-1710-02	Piano (23)	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	4		Open
-MUPF-1720-01	Harpsichord (23)	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-1730-01	Organ (23)	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-1740-01	Violin (23)	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-1750-01	Viola (23)	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-1760-01	Cello (23)	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-1770-01	Bass (23)	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	1		Open
-MUPF-1770-02	Bass (23)	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-1780-01	Flute/Piccolo (23)	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	1		Open
-MUPF-1790-01	Clarinet (23)	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	1		Open
-MUPF-1800-01	Oboe/English Horn (23)	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-1810-01	Bassoon (23)	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	1		Open
-MUPF-1820-01	Saxophone (23)	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	1		Open
-MUPF-1830-01	Trumpet/Cornet (23)	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	1		Open
-MUPF-1840-01	French Horn (23)	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-1850-01	Trombone (23)	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-1860-01	Baritone/Euphonium (23)	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-1870-01	Tuba (23)	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-1880-01	Percussion (23)	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	1		Open
-MUPF-1885-01	Harp (23)	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-1890-01	Guitar (23)	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	1		Open
-MUPF-1890-02	Guitar (23)	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	1		Open
-MUPF-1900-01	Composition (23)	1.0	1.0						No Consent Required	Asynchronous Online	0		Open
-MUPF-1900-02	Composition (23)	1.0	1.0						No Consent Required	Asynchronous Online	0		Open
-MUPF-1900-03	Composition (23)	1.0	1.0						No Consent Required	Asynchronous Online	0		Open
-MUPF-1900-04	Composition (23)	1.0	1.0						No Consent Required	Asynchronous Online	0		Open
-MUPF-1905-01	Songwriting (23)	1.0	1.0						No Consent Required	Asynchronous Online	0		Open
-MUPF-2600-01	Topics in Music Performance: (23)	1.0	4.0	TR	02:30PM	03:45PM			No Consent Required	In Person	6		Open
-MUPF-2700-01	Voice (23)	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	1		Open
-MUPF-2700-02	Voice (23)	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	11		Open
-MUPF-2700-03	Voice (23)	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	4		Open
-MUPF-2700-04	Voice (23)	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	11		Open
-MUPF-2700-05	Voice (23)	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	11		Open
-MUPF-2700-06	Voice (23)	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-2710-01	Piano (23)	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-2710-02	Piano (23)	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-2720-01	Harpsichord (23)	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-2730-01	Organ (23)	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-2740-01	Violin (23)	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	1		Open
-MUPF-2750-01	Viola (23)	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-2760-01	Cello (23)	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-2770-01	Bass (23)	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	1		Open
-MUPF-2770-02	Bass (23)	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-2780-01	Flute/Piccolo (23)	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	2		Open
-MUPF-2790-01	Clarinet (23)	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	1		Open
-MUPF-2800-01	Oboe/English Horn (23)	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-2810-01	Bassoon (23)	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-2820-01	Saxophone (23)	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-2830-01	Trumpet/Cornet (23)	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	1		Open
-MUPF-2840-01	French Horn (23)	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	1		Open
-MUPF-2850-01	Trombone (23)	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-2860-01	Baritone/Euphonium (23)	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-2870-01	Tuba (23)	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-2880-01	Percussion (23)	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	5		Open
-MUPF-2885-01	Harp (23)	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-2890-01	Guitar (23)	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	5		Open
-MUPF-2890-02	Guitar (23)	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-2900-01	Composition (23)	1.0	3.0						No Consent Required	Asynchronous Online	0		Open
-MUPF-2900-02	Composition (23)	1.0	3.0						No Consent Required	Asynchronous Online	0		Open
-MUPF-2900-03	Composition (23)	1.0	3.0						No Consent Required	Asynchronous Online	0		Open
-MUPF-2900-04	Composition (23)	1.0	3.0						No Consent Required	Asynchronous Online	0		Open
-MUPF-2905-01	Songwriting (23)	1.0	3.0						No Consent Required	Asynchronous Online	1		Open
-MUPF-3540-01	Voice Recital (23)	1.0	1.0						No Consent Required	Asynchronous Online	2		Open
-MUPF-3540-02	Voice Recital (23)	1.0	1.0						No Consent Required	Asynchronous Online	0		Open
-MUPF-3540-03	Voice Recital (23)	1.0	1.0						No Consent Required	Asynchronous Online	1		Open
-MUPF-3540-04	Voice Recital (23)	1.0	1.0						No Consent Required	Asynchronous Online	0		Open
-MUPF-3540-05	Voice Recital (23)	1.0	1.0						No Consent Required	Asynchronous Online	0		Open
-MUPF-3540-06	Voice Recital (23)	1.0	1.0						No Consent Required	Asynchronous Online	0		Open
-MUPF-3550-01	Keyboard Recital (23)	1.0	1.0						No Consent Required	Asynchronous Online	0		Open
-MUPF-3550-02	Keyboard Recital (23)	1.0	1.0						No Consent Required	Asynchronous Online	0		Open
-MUPF-3560-01	String/Guitar/Harp Recital (23)	1.0	1.0						No Consent Required	Asynchronous Online	0		Open
-MUPF-3560-02	String/Guitar/Harp Recital (23)	1.0	1.0						No Consent Required	Asynchronous Online	0		Open
-MUPF-3560-03	String/Guitar/Harp Recital (23)	1.0	1.0						No Consent Required	Asynchronous Online	0		Open
-MUPF-3560-04	String/Guitar/Harp Recital (23)	1.0	1.0						No Consent Required	Asynchronous Online	0		Open
-MUPF-3570-01	Woodwind Recital (23)	1.0	1.0						No Consent Required	Asynchronous Online	0		Open
-MUPF-3580-01	Brass Recital (23)	1.0	1.0						No Consent Required	Asynchronous Online	0		Open
-MUPF-3580-02	Brass Recital (23)	1.0	1.0						No Consent Required	Asynchronous Online	0		Open
-MUPF-3580-03	Brass Recital (23)	1.0	1.0						No Consent Required	Asynchronous Online	0		Open
-MUPF-3590-01	Percussion Recital (23)	1.0	1.0						No Consent Required	Asynchronous Online	0		Open
-MUPF-3700-01	Voice (23)	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-3700-02	Voice (23)	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-3700-03	Voice (23)	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-3700-04	Voice (23)	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-3700-05	Voice (23)	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-3700-06	Voice (23)	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-3710-01	Piano (23)	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-3710-02	Piano (23)	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-3720-01	Harpsichord (23)	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-3730-01	Organ (23)	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-3740-01	Violin (23)	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-3750-01	Viola (23)	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-3760-01	Cello (23)	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-3770-01	Bass (23)	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-3770-02	Bass (23)	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-3780-01	Flute/Piccolo (23)	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-3790-01	Clarinet (23)	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-3800-01	Oboe/English Horn (23)	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-3810-01	Bassoon (23)	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-3820-01	Saxophone (23)	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-3830-01	Trumpet/Cornet (23)	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-3840-01	French Horn (23)	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-3850-01	Trombone (23)	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-3860-01	Baritone/Euphonium (23)	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-3870-01	Tuba (23)	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-3880-01	Percussion (23)	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-3885-01	Harp (23)	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-3890-01	Guitar (23)	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-3890-02	Guitar (23)	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-3900-01	Composition (23)	1.0	1.0						No Consent Required	Asynchronous Online	0		Open
-MUPF-3900-02	Composition (23)	1.0	1.0						No Consent Required	Asynchronous Online	0		Open
-MUPF-3900-03	Composition (23)	1.0	1.0						No Consent Required	Asynchronous Online	0		Open
-MUPF-3900-04	Composition (23)	1.0	1.0						No Consent Required	Asynchronous Online	0		Open
-MUPF-3905-01	Songwriting (23)	1.0	1.0						No Consent Required	Asynchronous Online	0		Open
-MUPF-4540-01	Voice Recital (23)	2.0	2.0						No Consent Required	Asynchronous Online	0		Open
-MUPF-4540-02	Voice Recital (23)	2.0	2.0						No Consent Required	Asynchronous Online	0		Open
-MUPF-4540-03	Voice Recital (23)	2.0	2.0						No Consent Required	Asynchronous Online	2		Open
-MUPF-4540-04	Voice Recital (23)	2.0	2.0						No Consent Required	Asynchronous Online	0		Open
-MUPF-4540-05	Voice Recital (23)	2.0	2.0						No Consent Required	Asynchronous Online	0		Open
-MUPF-4540-06	Voice Recital (23)	2.0	2.0						No Consent Required	Asynchronous Online	0		Open
-MUPF-4550-01	Keyboard Recital (23)	2.0	2.0						No Consent Required	Asynchronous Online	0		Open
-MUPF-4550-02	Keyboard Recital (23)	2.0	2.0						No Consent Required	Asynchronous Online	0		Open
-MUPF-4560-01	String/Guitar/Harp Recital (23)	2.0	2.0						No Consent Required	Asynchronous Online	0		Open
-MUPF-4560-02	String/Guitar/Harp Recital (23)	2.0	2.0						No Consent Required	Asynchronous Online	0		Open
-MUPF-4560-03	String/Guitar/Harp Recital (23)	2.0	2.0						No Consent Required	Asynchronous Online	0		Open
-MUPF-4560-04	String/Guitar/Harp Recital (23)	2.0	2.0						No Consent Required	Asynchronous Online	0		Open
-MUPF-4570-01	Woodwind Recital (23)	2.0	2.0						No Consent Required	Asynchronous Online	0		Open
-MUPF-4580-01	Brass Recital (23)	2.0	2.0						No Consent Required	Asynchronous Online	0		Open
-MUPF-4580-02	Brass Recital (23)	2.0	2.0						No Consent Required	Asynchronous Online	0		Open
-MUPF-4580-03	Brass Recital (23)	2.0	2.0						No Consent Required	Asynchronous Online	0		Open
-MUPF-4590-01	Percussion Recital (23)	2.0	2.0						No Consent Required	Asynchronous Online	0		Open
-MUPF-4700-01	Voice (23)	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	2		Open
-MUPF-4700-02	Voice (23)	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	1		Open
-MUPF-4700-03	Voice (23)	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	5		Open
-MUPF-4700-04	Voice (23)	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	1		Open
-MUPF-4700-05	Voice (23)	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-4700-06	Voice (23)	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-4700-07	Voice (23)	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	Not Enrolling	In Person	2		Closed
-MUPF-4710-01	Piano (23)	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-4710-02	Piano (23)	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-4720-01	Harpsichord (23)	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-4730-01	Organ (23)	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-4740-01	Violin (23)	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-4750-01	Viola (23)	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-4760-01	Cello (23)	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-4770-01	Bass (23)	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-4770-02	Bass (23)	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-4780-01	Flute/Piccolo (23)	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-4790-01	Clarinet (23)	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-4800-01	Oboe/English Horn (23)	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-4810-01	Bassoon (23)	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-4820-01	Saxophone (23)	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-4830-01	Trumpet/Cornet (23)	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-4840-01	French Horn (23)	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-4850-01	Trombone (23)	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-4860-01	Baritone/Euphonium (23)	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-4870-01	Tuba (23)	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-4880-01	Percussion (23)	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	1		Open
-MUPF-4885-01	Harp (23)	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-4890-01	Guitar (23)	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-4890-02	Guitar (23)	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
-MUPF-4900-01	Composition (23)	1.0	3.0						No Consent Required	Asynchronous Online	0		Open
-MUPF-4900-02	Composition (23)	1.0	3.0						No Consent Required	Asynchronous Online	0		Open
-MUPF-4900-03	Composition (23)	1.0	3.0						No Consent Required	Asynchronous Online	0		Open
-MUPF-4900-04	Composition (23)	1.0	3.0						No Consent Required	Asynchronous Online	0		Open
-MUPF-4905-01	Songwriting (23)	1.0	3.0						No Consent Required	Asynchronous Online	0		Open
-MUSC-1020-01	Theory II (23)	3.0	3.0	MWF	11:00AM	11:50AM			No Consent Required	In Person	19		Open
-MUSC-1040-01	Aural Comprehension II (23)	1.0	1.0	TR	10:00AM	10:50AM			No Consent Required	In Person	22		Open
-MUSC-2020-01	Theory IV (23)	3.0	3.0	MWF	10:00AM	10:50AM			No Consent Required	In Person	10		Open
-MUSC-2040-01	Aural Comprehension IV (23)	1.0	1.0	TR	01:00PM	01:50PM			No Consent Required	In Person	6		Open
-MUSC-2110-01	Introduction to Music Literature (23)	2.0	2.0	TR	08:30AM	09:20AM		WKNW 4 Aesthet Ways (Appr)	No Consent Required	In Person	11		Open
-MUSC-2210-01	Music the Arts and Culture (23)	3.0	3.0	MWF	12:00PM	12:50PM		WKNW 4 Aesthetic Ways Knowg	No Consent Required	In Person	6		Open
-MUSC-2210-0EA	Music the Arts and Culture (23)	3.0	3.0					WKNW 4 Aesthetic Ways Knowg	No Consent Required	Asynchronous Online	13		Open
-MUSC-3040-01	Orchestration (23)	2.0	2.0	MW	01:00PM	01:50PM			No Consent Required	In Person	2		Open
-MUSC-3160-01	Sacred Music: Past and Current Uses (23)	3.0	3.0	MWF	01:00PM	01:50PM			Consent Required	In Person	5		Open
-MUSC-3800-01	Internship in Church Music (23)	1.0	3.0						No Consent Required	Asynchronous Online	0		Open
-MUSC-4950-01	Senior Project (23)	3.0	3.0						No Consent Required	Asynchronous Online	0		Open
-MUSC-4950-02	Senior Project (23)	3.0	3.0						No Consent Required	Asynchronous Online	0		Open
-MUSC-4955-01	Senior Presentation (23)	3.0	3.0				Speaking Intensive		No Consent Required	Asynchronous Online	0		Open
-MUSC-4955-02	Senior Presentation (23)	3.0	3.0				Speaking Intensive		No Consent Required	Asynchronous Online	0		Open
-MUTR-1170-01	Intro to Musical Theatre Performance (25)	2.0	2.0	TR	04:00PM	06:00PM		WKNW 4 Aesthet Ways (Exper)	No Consent Required	In Person	9		Open
-MUTR-2420-01	Voice Production for the Actor (25)	2.0	2.0	TR	09:30AM	10:50AM			No Consent Required	In Person	10	Same: MUTR/THEA2420	Open
-MUTR-4500-01	Musical Theatre Showcase (23)	2.0	2.0	MW	04:00PM	06:00PM			No Consent Required	In Person	4	Same: MUTR/THEA4500	Open
-NURS-1210-0E1	Nutrition for Healthy Living (23)	2.0	2.0					FSKL 7 Personal Wellness	No Consent Required	Asynchronous Online	34		Open
-NURS-2140-01	Introduction to Nursing (23)	2.0	2.0	TR	12:00PM	12:50PM			No Consent Required	In Person	27		Open
-NURS-2140-0E	Introduction to Nursing (23)	2.0	2.0						No Consent Required	Asynchronous Online	3		Open
-NURS-2241-01	Fundamentals II (23)	5.0	5.0	MW	08:00AM	09:20AM			No Consent Required	In Person	23		Open
-NURS-2241-01	Fundamentals II (23)	5.0	5.0	TR	07:00AM	11:50AM			No Consent Required	In Person	23	laboratory	Open
-NURS-2270-01	Pathophysiological Basis for Pharmacology in Nursing (23)	4.0	4.0	MW	09:30AM	10:50AM			No Consent Required	In Person	23		Open
-NURS-2270L-LA	Pathophysiological Basis for Pharmacology in Nursing (23) - Lab	0.0	0.0	R	01:00PM	02:50PM			No Consent Required	In Person	23		Open
-NURS-2340-0B	Personal and Community Health Nursing (23)	2.0	2.0						No Consent Required	Asynchronous Online	28		Open
-NURS-3361-01	Adult Health II (23)	6.0	6.0	MWF	11:00AM	11:50AM			No Consent Required	In Person	21		Open
-NURS-3361-01	Adult Health II (23)	6.0	6.0	TR	07:00AM	03:30PM			No Consent Required	In Person	21		Open
-NURS-3391-01	Evidence-Based Research (23)	3.0	3.0						No Consent Required	Asynchronous Online	21		Open
-NURS-4510-0E	Entry into Professional Nursing Practice (23)	1.0	1.0						No Consent Required	Asynchronous Online	14		Open
-NURS-4521-01	Child Health (23)	4.0	4.0	TR	09:00AM	11:00AM			No Consent Required	In Person	14		Open
-NURS-4950-01	Intercultural Capstone (24)	4.0	4.0	T	01:00PM	03:00PM			No Consent Required	In Person	14	Same: NURS/PUBH4950	Open
-NURS-4960-01	Leadership Capstone (23)	4.0	4.0	R	12:30PM	03:00PM			No Consent Required	In Person	14		Open
-NURS-4970-01	Clinical Capstone (24)	2.0	2.0						No Consent Required	Asynchronous Online	14		Open
-PACT-2400-01	Principles and Practices of Conflict Transformation (23)	2.0	2.0	M	05:00PM	07:00PM			No Consent Required	In Person	5		Open
-PEHS-1000-01	Fitness and Wellness for Life (23)	2.0	2.0	MWF	09:00AM	09:50AM		FSKL 7 Personal Wellness	No Consent Required	In Person	25		Open
-PEHS-1000-02	Fitness and Wellness for Life (23)	2.0	2.0	MWF	10:00AM	10:50AM		FSKL 7 Personal Wellness	No Consent Required	In Person	12		Open
-PEHS-1000-03	Fitness and Wellness for Life (23)	2.0	2.0	MWF	02:00PM	02:50PM		FSKL 7 Personal Wellness	No Consent Required	In Person	13		Open
-PEHS-1100-01	Beginning Swimming (23)	1.0	1.0	MW	02:00PM	02:00PM			No Consent Required	In Person	2		Open
-PEHS-1200-01	Co-Curricular Activity (23)	1.0	1.0						No Consent Required	Asynchronous Online	4		Open
-PEHS-1200-02	Co-Curricular Activity (23)	1.0	1.0						No Consent Required	Asynchronous Online	14		Open
-PEHS-1200-03	Co-Curricular Activity (23)	1.0	1.0						No Consent Required	Asynchronous Online	3		Open
-PEHS-1200-04	Co-Curricular Activity (23)	1.0	1.0						No Consent Required	Asynchronous Online	0		Open
-PEHS-1200-05	Co-Curricular Activity (23)	1.0	1.0						No Consent Required	Asynchronous Online	0		Open
-PEHS-1200-08	Co-Curricular Activity (23)	1.0	1.0						No Consent Required	Asynchronous Online	5		Open
-PEHS-1200-09	Co-Curricular Activity (23)	1.0	1.0						No Consent Required	Asynchronous Online	0		Open
-PEHS-1450-01	First Aid (23)	2.0	2.0	MWF	08:00AM	08:50AM			No Consent Required	In Person	16		Open
-PEHS-2260-01	Advanced Conditioning Sports Performance (23)	1.0	1.0						No Consent Required	Asynchronous Online	54		Open
-PEHS-2260-02	Advanced Conditioning Sports Performance (23)	1.0	1.0						No Consent Required	Asynchronous Online	10		Open
-PEHS-2260-03	Advanced Conditioning Sports Performance (23)	1.0	1.0						No Consent Required	Asynchronous Online	13		Open
-PEHS-2260-04	Advanced Conditioning Sports Performance (23)	1.0	1.0						No Consent Required	Asynchronous Online	12		Open
-PEHS-2260-05	Advanced Conditioning Sports Performance (23)	1.0	1.0						Consent Required	In Person	1		Open
-PEHS-2260-06	Advanced Conditioning Sports Performance (23)	1.0	1.0						Consent Required	In Person	1		Open
-PEHS-3050-01	Techniques of Coaching Football (23)	1.0	1.0	T	07:00PM	07:50PM			No Consent Required	In Person	15		Open
-PEHS-3070-01	Techniques of Coaching Basketball (23)	1.0	1.0						No Consent Required	Asynchronous Online	6		Open
-PEHS-3340-01	Sociology of Sport (23)	3.0	3.0	MWF	09:00AM	09:50AM	Writing Intensive Upper Div		No Consent Required	In Person	13		Open
-PEHS-3410-01	Sports Administration (23)	3.0	3.0	MWF	08:00AM	08:50AM			No Consent Required	In Person	6		Open
-PETE-1300-01	Introduction to Sports/Physical Activity/Recreation (23)	2.0	2.0	TR	09:00AM	09:50AM			No Consent Required	In Person	8		Open
-PETE-2250-01	Motor Behavior (23)	3.0	3.0	MWF	01:00PM	01:50PM	Writing Intensive		No Consent Required	In Person	9		Open
-PHIL-3010-01	History of Political Thought (24)	3.0	3.0	TR	02:30PM	03:45PM			No Consent Required	In Person	1	Same: HIST/POSC/PHIL3010	Open
-PHYS-2140-01	General Physics I (Algebra Based) (24)	4.0	4.0	MWF	08:00AM	08:50AM		WKNW 2 Scientific Ways Knowg	No Consent Required	In Person	23		Open
-PHYS-2140L-LA	General Physics I (Algebra Based) (24) - Lab	0.0	0.0	R	09:00AM	10:50AM			No Consent Required	In Person	11		Open
-PHYS-2140L-LB	General Physics I (Algebra Based) (24) - Lab	0.0	0.0	T	01:00PM	02:50PM			No Consent Required	In Person	5		Open
-PHYS-2140L-LC	General Physics I (Algebra Based) (24) - Lab	0.0	0.0	R	01:00PM	02:50PM			No Consent Required	In Person	7		Open
-PHYS-2240-01	General Physics I (Calculus Based) (24)	4.0	4.0	MWF	11:00AM	11:50AM		WKNW 2 Scientific Ways Knowg	No Consent Required	In Person	36		Open
-PHYS-2240L-LA	General Physics I (Calculus Based) (24) - Lab	0.0	0.0	R	09:00AM	10:50AM			No Consent Required	In Person	15		Open
-PHYS-2240L-LB	General Physics I (Calculus Based) (24) - Lab	0.0	0.0	T	01:00PM	02:50PM			No Consent Required	In Person	14		Open
-PHYS-2240L-LC	General Physics I (Calculus Based) (24) - Lab	0.0	0.0	R	01:00PM	02:50PM			No Consent Required	In Person	6		Open
-PHYS-4650-01	Independent Study (24)	1.0	4.0						No Consent Required	Asynchronous Online	0		Open
-POSC-2100-01	American National Government (23)	3.0	3.0	MWF	10:00AM	10:50AM		WKNW 3 Civic Ways Knowg	Not Enrolling	In Person	10		Closed
-POSC-2100-01	American National Government (23)	3.0	3.0	MWF	10:00AM	10:50AM		WKNW 3 Civic Ways Knowg	No Consent Required	In Person	12		Open
-POSC-2200-01	Public Policy (23)	3.0	3.0	MWF	10:00AM	10:50AM			No Consent Required	In Person	15		Open
-POSC-2420-01	Applied Statistics Lab (25)	2.0	2.0	TR	01:00PM	01:50PM			No Consent Required	In Person	12		Open
-POSC-2600-01	Topics in Political Science: (23)	1.0	5.0	R	04:00PM	06:00PM			Consent Required	In Person	25		Open
-POSC-2840-01	Model Diplomacy and Simulation Conferences (23)	0.0	1.0						No Consent Required	Asynchronous Online	16		Open
-POSC-2840-02	Model Diplomacy and Simulation Conferences (23)	0.0	1.0						Consent Required	In Person	3		Open
-POSC-3010-01	History of Political Thought (24)	3.0	3.0	TR	02:30PM	03:45PM			No Consent Required	In Person	3	Same: HIST/POSC/PHIL3010	Open
-POSC-3350-01	Homeland Security (23)	3.0	3.0	MWF	02:00PM	02:50PM			No Consent Required	In Person	10	Same: POSC/CRIM3350	Open
-POSC-3370-01	Intelligence and Security Studies (23)	3.0	3.0	TR	01:00PM	02:15PM	Speaking Intensive		No Consent Required	In Person	7		Open
-POSC-3370-01	Intelligence and Security Studies (23)	3.0	3.0	TR	01:00PM	02:15PM	Speaking Intensive		No Consent Required	In Person	8		Open
-POSC-4800-01	Government Internship (23)	1.0	4.0						No Consent Required	Asynchronous Online	1		Open
-POSC-4800-02	Government Internship (23)	1.0	4.0						No Consent Required	Asynchronous Online	0		Open
-POSC-4810-01	Legal Internship (23)	1.0	4.0						No Consent Required	Asynchronous Online	1		Open
-POSC-4820-01	International Internship (23)	1.0	4.0						No Consent Required	Asynchronous Online	0		Open
-POSC-4930-01	Senior Seminar (23)	1.0	1.0	R	12:00PM	12:50PM			No Consent Required	In Person	10		Open
-PSYC-2000-01	General Psychology (23)	3.0	3.0	MWF	10:00AM	10:50AM		WKNW 5 Social/Behav Ways	No Consent Required	In Person	25		Open
-PSYC-2000-02	General Psychology (23)	3.0	3.0	TR	02:30PM	03:45PM		WKNW 5 Social/Behav Ways	No Consent Required	In Person	29		Open
-PSYC-2010-01	Research Methods in Psychology (23)	3.0	3.0	TR	09:30AM	10:45AM	Writing Intensive		No Consent Required	In Person	22		Open
-PSYC-2100-01	Interpersonal Relationships (23)	4.0	4.0	MW	03:00PM	04:50PM			No Consent Required	In Person	16		Open
-PSYC-2100-02	Interpersonal Relationships (23)	4.0	4.0	TR	02:30PM	04:20PM			No Consent Required	In Person	12		Open
-PSYC-2110-01	Educational Psychology (23)	3.0	3.0	MWF	01:00PM	01:50PM		WKNW 5 Social/Behav Ways	No Consent Required	In Person	23	Same: PSYC/EDUC2110	Open
-PSYC-2440-01	Applied Statistics and Introduction to Research (23)	4.0	4.0	MTW	01:00PM	01:50PM		FSKL 5 Quant Reasng	No Consent Required	In Person	13		Open
-PSYC-2440-01	Applied Statistics and Introduction to Research (23)	4.0	4.0	R	01:00PM	01:50PM		FSKL 5 Quant Reasng	No Consent Required	In Person	13		Open
-PSYC-2850-01	Practicum in Leadership Skills (24)	2.0	2.0	F	12:00PM	12:50PM			No Consent Required	In Person	4	Same: PSYC/EDUC/SOCI2850	Open
-PSYC-3010-01	Social Psychology (23)	4.0	4.0	MW	01:00PM	02:50PM	Writing Intensive Upper Div		No Consent Required	In Person	8	Same: PSYC/SOCI/PUBH3010	Open
-PSYC-3220-01	Organizational Behavior and Theory (23)	3.0	3.0	MWF	08:00AM	08:50AM			No Consent Required	In Person	5	Same: BSNS4010/PSYC3220	Open
-PSYC-3330-01	Cognitive Psychology (23)	4.0	4.0	MTRF	10:00AM	10:50AM			No Consent Required	In Person	9		Open
-PSYC-3400-01	Memory (23)	4.0	4.0	MF	09:00AM	09:50AM			No Consent Required	In Person	21		Open
-PSYC-3400-01	Memory (23)	4.0	4.0	TR	08:30AM	09:20AM			No Consent Required	In Person	21		Open
-PSYC-4030-01	Counseling and Psychotherapy (23)	4.0	4.0	MTWR	10:00AM	10:50AM			No Consent Required	In Person	11		Open
-PSYC-4100-01	Leadership and Training Skills (23)	2.0	2.0	F	12:00PM	12:50PM			No Consent Required	In Person	3		Open
-PSYC-4520-01	Capstone Research II (23)	2.0	2.0	TR	12:00PM	12:50PM	Speaking Intensive		No Consent Required	In Person	11		Open
-PSYC-4800-01	Internship in Youth Leadership (24)	2.0	2.0	MF	12:00PM	12:50PM			No Consent Required	In Person	6	Same: PSYC/EDUC/SOCI4800	Open
-RLGN-1100-0EA	Introduction to Spiritual Formation (25)	3.0	3.0					FSKL 7 Personal Wellness	No Consent Required	Asynchronous Online	5		Open
-RLGN-3010-01	Faith in Context (24)	3.0	3.0	MWF	01:00PM	01:50PM		WKNW 1 Christian Ways Knowg	No Consent Required	In Person	15		Open
-RLGN-3010-02	Faith in Context (24)	3.0	3.0	TR	01:00PM	02:15PM		WKNW 1 Christian Ways Knowg	No Consent Required	In Person	12		Open
-RLGN-3040-01	Introduction to Christian Theology (24)	3.0	3.0	TR	01:00PM	02:15PM			No Consent Required	In Person	13		Open
-SOCI-2010-01	Intro to Sociology (23)	3.0	3.0	MWF	10:00AM	10:50AM		WKNW 5 Social/Behav Ways	No Consent Required	In Person	17		Open
-SOCI-2020-01	Social Problems (23)	3.0	3.0	MWF	01:00PM	01:50PM		WKNW 5 Social/Behav Ways	No Consent Required	In Person	5		Open
-SOCI-2020-0EA	Social Problems (23)	3.0	3.0					WKNW 5 Social/Behav Ways	No Consent Required	Asynchronous Online	15		Open
-SOCI-2450-01	Introduction to Issues in Race and Ethnicity (23)	3.0	3.0	TR	01:00PM	02:15PM			No Consent Required	In Person	6		Open
-SOCI-2510-0B	The Nature of Crime and Social Deviance (23)	4.0	4.0				Writing Intensive		No Consent Required	Asynchronous Online	1	Same: CRIM/SOCI2510	Open
-SOCI-2850-01	Practicum in Leadership Skills (24)	2.0	2.0	F	12:00PM	12:50PM			No Consent Required	In Person	4	Same: PSYC/EDUC/SOCI2850	Open
-SOCI-3010-01	Social Psychology (23)	4.0	4.0	MW	01:00PM	02:50PM	Writing Intensive Upper Div		No Consent Required	In Person	8	Same: PSYC/SOCI/PUBH3010	Open
-SOCI-3100-01	Human Sexuality (23)	3.0	3.0	MWF	12:00PM	12:50PM			No Consent Required	In Person	4		Open
-SOCI-3700-0E	Introduction to Social Research (23)	4.0	4.0				Writing Intensive Upper Div		No Consent Required	Asynchronous Online	8	Same: SOCI/PUBH3700	Open
-SOCI-4800-01	Internship in Youth Leadership (24)	2.0	2.0	MF	12:00PM	12:50PM			No Consent Required	In Person	6	Same: PSYC/EDUC/SOCI4800	Open
-SOWK-3100-0B	Social Welfare Policy (23)	4.0	4.0	TR	09:30AM	10:45AM			No Consent Required	Hybrid	3		Open
-SOWK-4710-01	Social Work Practice (23)	4.0	4.0	TR	01:00PM	02:50PM			No Consent Required	In Person	2		Open
-SOWK-4850-01	Social Work Practicum (23)	12.0	12.0	F	09:00AM	03:00PM	Speaking Intensive		No Consent Required	In Person	3		Open
-SPAN-1010-01	Elementary Spanish I (23)	4.0	4.0	TR	09:30AM	10:45AM		WKNW 6 Glob/Intcult Ways FL	No Consent Required	In Person	16		Open
-SPAN-1010-02	Elementary Spanish I (23)	4.0	4.0	MR	05:15PM	06:30PM		WKNW 6 Glob/Intcult Ways FL	No Consent Required	In Person	5		Open
-SPAN-1010-0E	Elementary Spanish I (23)	4.0	4.0					WKNW 6 Glob/Intcult Ways FL	Consent Required	Asynchronous Online	8		Open
-SPAN-1020-0E	Elementary Spanish II (23)	4.0	4.0					WKNW 6 Glob/Intcult Ways FL	No Consent Required	Asynchronous Online	12		Open
-SPAN-2600-01	Topics in Spanish: (23)	1.0	4.0	MWF	09:00AM	09:50AM			No Consent Required	In Person	6		Open
-SPAN-3020-01	Spanish Conversation (24)	4.0	4.0	MWF	02:00PM	02:50PM	Speaking Intensive	WKNW 7 Glob/Intcult Ways GI	No Consent Required	In Person	5		Open
-SPAN-3440-01	Latin American Civilization (24)	3.0	3.0	MWF	10:00AM	10:50AM			No Consent Required	In Person	5		Open
-SPAN-4550-01	Intensive Experience in Spanish (23)	1.0	6.0						No Consent Required	Asynchronous Online	0		Open
-SPAN-4660-01	Directed Individual Study (23)	1.0	4.0						No Consent Required	Asynchronous Online	0		Open
-SPED-2400-01	Introduction to Mild Disabilities (24)	3.0	3.0	TR	09:30AM	10:45AM		FSKL 2 Civ Discrse Crit Reas	No Consent Required	In Person	18		Open
-SPED-2550-01	Characteristics of Emotional and Behavioral Disorders of Children and Youth (24)	3.0	3.0	MWF	08:00AM	08:50AM			No Consent Required	Hybrid	23		Open
-SPED-3200-01	Classroom Instruction for Mild Disabilities (24)	3.0	3.0	M	04:00PM	05:30PM			No Consent Required	In Person	6		Open
-SPRL-2450-01	Physical Activity Cluster III: Focus on Recreational Activities and Outdoor Pursuits (23)	3.0	3.0	TR	01:00PM	02:50PM			No Consent Required	In Person	10		Open
-SPRL-3250-0E	Legal Aspects of Sport and Recreation (23)	3.0	3.0						No Consent Required	Asynchronous Online	5		Open
-SPRL-3300-01	Management of Sport Facilities and Events (23)	3.0	3.0	TR	01:00PM	02:15PM			No Consent Required	In Person	11		Open
-SPRL-4850-01	Practicum in Sport and Recreational Leadership (23)	3.0	3.0						No Consent Required	Asynchronous Online	2		Open
-THEA-2120-01	Acting II (23)	3.0	3.0	TR	01:00PM	02:20PM			No Consent Required	In Person	7		Open
-THEA-2210-01	Stagecraft (23)	3.0	3.0	TR	02:30PM	03:45PM			No Consent Required	In Person	10		Open
-THEA-2420-01	Voice Production for the Actor (25)	2.0	2.0	TR	09:30AM	10:50AM			No Consent Required	In Person	5	Same: MUTR/THEA2420	Open
-THEA-2890-01	Production Practicum (25)	1.0	1.0						No Consent Required	Asynchronous Online	5		Open
-THEA-3550-01	Lighting Design (23)	3.0	3.0						No Consent Required	Asynchronous Online	2		Open
-THEA-4500-01	Musical Theatre Showcase (23)	2.0	2.0	MW	04:00PM	06:00PM			No Consent Required	In Person	4	Same: MUTR/THEA4500	Open
-THEA-4800-01	Senior Project (23)	1.0	4.0						No Consent Required	Asynchronous Online	1		Open
+EDUC-4280-TE	Student Teaching (Clinical Practice)	4.0	4.0						No Consent Required	Asynchronous Online	10		Open
+EDUC-4310-01	Integrated Teaching II: Language Arts and Social Studies	4.0	4.0	MWF	01:00PM	02:50PM			No Consent Required	In Person	5		Open
+EDUC-4800-01	Internship in Youth Leadership	2.0	2.0	MF	12:00PM	12:50PM			No Consent Required	In Person	6	Same: PSYC/EDUC/SOCI4800	Open
+EDUC-4910-0B	Dyslexia Seminar	1.0	1.0	M	06:00PM	06:50PM			No Consent Required	Hybrid	11		Open
+EDUC-4930-01	Leadership Seminar in Character Education	2.0	2.0	T	05:00PM	06:50PM			No Consent Required	In Person	13		Open
+ENGL-1110-02	Rhetoric and Composition	3.0	3.0	MWF	01:00PM	01:50PM		FSKL 3 Written Comm	No Consent Required	In Person	14		Open
+ENGL-1120-01	Rhetoric and Research	3.0	3.0	MWF	09:00AM	09:50AM		FSKL 3 Written Comm	No Consent Required	In Person	21		Open
+ENGL-1120-02	Rhetoric and Research	3.0	3.0	MWF	10:00AM	10:50AM		FSKL 3 Written Comm	No Consent Required	In Person	18		Open
+ENGL-1120-03	Rhetoric and Research	3.0	3.0	MWF	11:00AM	11:50AM		FSKL 3 Written Comm	No Consent Required	In Person	14		Open
+ENGL-1120-04	Rhetoric and Research	3.0	3.0	MWF	11:00AM	11:50AM		FSKL 3 Written Comm	No Consent Required	In Person	13		Open
+ENGL-1120-06	Rhetoric and Research	3.0	3.0	MWF	01:00PM	01:50PM		FSKL 3 Written Comm	No Consent Required	In Person	6		Open
+ENGL-1120-07	Rhetoric and Research	3.0	3.0	MWF	01:00PM	01:50PM		FSKL 3 Written Comm	No Consent Required	In Person	19		Open
+ENGL-2220-01	Global Literature	3.0	3.0	MWF	02:00PM	02:50PM		WKNW 7 Glob/Intcult Ways GI	No Consent Required	In Person	9		Open
+ENGL-2500-01	Appreciation of the Writing Craft	2.0	2.0	MF	12:00PM	12:50PM	Writing Intensive	WKNW 4 Aesthet Ways (Appr)	No Consent Required	In Person	20		Open
+ENGL-2510-01	Creative Writing Workshop	1.0	1.0	W	12:00PM	12:50PM		WKNW 4 Aesthet Ways (Exper)	No Consent Required	In Person	19		Open
+ENGL-3120-01	Creative Writing: Poetry	3.0	3.0	TR	01:00PM	02:15PM	Writing Intensive Upper Div		No Consent Required	In Person	10		Open
+ENGL-3190-01	Composing Arguments	3.0	3.0	MWF	10:00AM	10:50AM	Writing Intensive Upper Div	FSKL 2 Civ Discrse Crit Reas	No Consent Required	In Person	6		Open
+ENGL-3570-01	Studies in American Literature	3.0	3.0	MWF	11:00AM	11:50AM			No Consent Required	In Person	10		Open
+ENGL-3590-01	Teaching Diversity through Young Adult Literature	3.0	3.0	MWF	02:00PM	02:50PM		WKNW 4 Aesthetic Ways Knowg	No Consent Required	In Person	18		Open
+ENGL-3870-01	Literary Arts Practicum	1.0	1.0						No Consent Required	Asynchronous Online	2		Open
+ENGL-3880-01	Writing Tutor Practicum	1.0	1.0	M	01:00PM	01:50PM			No Consent Required	In Person	3		Open
+ENGR-2060-0E	Engineering Ethics	2.0	2.0					FSKL 2 Civ Discrse Crit Reas	No Consent Required	Asynchronous Online	18		Open
+ENGR-2090-01	Systems Engineering	3.0	3.0	MWF	08:00AM	08:50AM		WKNW 7 Glob/Intcult Ways GI	No Consent Required	In Person	61		Open
+ENGR-2110-01	Dynamics	3.0	3.0						No Consent Required	Asynchronous Online	29		Open
+ENGR-2200-01	Foundations of Digital Electronics	2.0	2.0	R	09:00AM	10:50AM			No Consent Required	In Person	12		Open
+ENGR-2200-01	Foundations of Digital Electronics	2.0	2.0	R	09:00AM	10:50AM			No Consent Required	In Person	12	laboratory	Open
+ENGR-2200-01	Foundations of Digital Electronics	2.0	2.0	T	09:00AM	09:50AM			No Consent Required	In Person	12		Open
+ENGR-2310-01	Computational Problem Solving	3.0	3.0	MW	02:00PM	02:50PM			No Consent Required	In Person	34		Open
+ENGR-2310L-LA	Computational Problem Solving	0.0	0.0	F	01:00PM	02:50PM			No Consent Required	In Person	13		Open
+ENGR-2310L-LB	Computational Problem Solving	0.0	0.0	R	01:00PM	02:50PM			No Consent Required	In Person	21		Open
+ENGR-3080-01	Engineering Design for Service	3.0	3.0	MWF	11:00AM	11:50AM			No Consent Required	In Person	16		Open
+ENGR-3180-01	Materials and Processes	3.0	3.0	MWF	01:00PM	01:50PM			No Consent Required	In Person	29		Open
+ENGR-3190-01	Thermodyn: Cycle Analysis	2.0	2.0	TR	08:00AM	08:50AM			No Consent Required	In Person	17		Open
+ENGR-3260-01	Embedded Systems	3.0	3.0	MW	10:00AM	10:50AM			No Consent Required	In Person	18		Open
+ENGR-3260-01	Embedded Systems	3.0	3.0	R	12:00PM	02:50PM			No Consent Required	In Person	18		Open
+ENGR-3260-01	Embedded Systems	3.0	3.0	R	12:00PM	02:50PM			No Consent Required	In Person	18	laboratory	Open
+ENGR-3510-01	Solid Mechanics	3.0	3.0	MWF	02:00PM	02:50PM			No Consent Required	In Person	30		Open
+ENGR-3850-01	Engineering Projects Laboratory	1.0	1.0	M	03:00PM	04:50PM			No Consent Required	In Person	12		Open
+ENGR-4020-01	Mechatronics System Design	4.0	4.0	MWF	09:00AM	09:50AM			No Consent Required	In Person	9		Open
+ENGR-4020-01	Mechatronics System Design	4.0	4.0	T	01:00PM	02:50PM			No Consent Required	In Person	9		Open
+ENGR-4110-01	Machine Design	3.0	3.0	MWF	10:00AM	10:50AM			No Consent Required	In Person	16		Open
+ENGR-4140-01	Thermal Properties Laboratory	1.0	1.0	T	09:00AM	10:50AM			No Consent Required	In Person	9		Open
+ENGR-4230-01	Power Systems	2.0	2.0	F	10:00AM	10:50AM			No Consent Required	In Person	16		Open
+ENGR-4230-01	Power Systems	2.0	2.0	T	10:00AM	10:50AM			No Consent Required	In Person	16		Open
+ENGR-4320-01	Fluid Mechanics Laboratory	1.0	1.0	R	09:00AM	10:50AM			No Consent Required	In Person	15		Open
+ENGR-4320-02	Fluid Mechanics Laboratory	1.0	1.0	R	01:00PM	02:50PM			Not Enrolling	In Person	10	laboratory	Closed
+ENGR-4340-01	Structural Design (concrete)	3.0	3.0	MWF	10:00AM	10:50AM			No Consent Required	Asynchronous Online	3		Open
+ENGR-4360-01	Transportation Engineering	3.0	3.0	R	08:00AM	08:50AM			No Consent Required	Asynchronous Online	9		Open
+ENGR-4360-01	Transportation Engineering	3.0	3.0	T	08:00AM	09:50AM			No Consent Required	Asynchronous Online	9		Open
+ENGR-4960-01	Engineering Senior Design II	2.0	2.0	MW	12:00PM	12:50PM	Speaking/Writing UpDiv Intens		No Consent Required	In Person	18		Open
+EXSC-1530-01	Advanced Resistance Training and Conditioning	3.0	3.0	MWF	11:00AM	11:50AM			No Consent Required	In Person	23		Open
+EXSC-2140-0EA	Nutrition in Health and Disease	4.0	4.0					WKNW 2 Scientific Ways Knowg	No Consent Required	Asynchronous Online	39		Open
+EXSC-2455-01	Foundations of Exercise Leadership	3.0	3.0	TR	01:00PM	02:15PM			No Consent Required	In Person	19		Open
+EXSC-2580-01	Sports Nutrition	3.0	3.0	MWF	10:00AM	10:50AM			No Consent Required	In Person	15		Open
+EXSC-3100-0E	Eating Disorders	3.0	3.0						No Consent Required	Asynchronous Online	15		Open
+EXSC-3480-01	Physiology of Exercise II	4.0	4.0	MWF	10:00AM	10:50AM	Writing Intensive Upper Div		No Consent Required	In Person	17		Open
+EXSC-3480L-LA	Physiology of Exercise II	0.0	0.0	R	09:00AM	10:50AM			No Consent Required	In Person	17		Open
+EXSC-3530-01	Biomechanics II	4.0	4.0	MWF	11:00AM	11:50AM			No Consent Required	In Person	15		Open
+EXSC-3530L-LA	Biomechanics II	0.0	0.0	T	09:00AM	10:50AM			No Consent Required	In Person	15		Open
+EXSC-4150-01	Exercise Testing and Prescription	4.0	4.0	MWF	01:00PM	01:50PM			No Consent Required	In Person	17		Open
+EXSC-4150-01	Exercise Testing and Prescription	4.0	4.0	T	09:00AM	02:50PM			No Consent Required	In Person	17		Open
+EXSC-4150-01	Exercise Testing and Prescription	4.0	4.0	T	09:00AM	10:50AM			No Consent Required	In Person	17	laboratory	Open
+EXSC-4160-01	Clinical Experience in Exercise Testing and Prescription	1.0	1.0						No Consent Required	Asynchronous Online	4		Open
+EXSC-4920-01	Seminar in Exercise Science	3.0	3.0	MWF	09:00AM	09:50AM	Speaking Intensive		No Consent Required	In Person	14		Open
+HIST-2000-01	World History	3.0	3.0	TR	01:00PM	02:15PM		WKNW 3 Civic Ways Knowg	No Consent Required	In Person	15		Open
+HIST-2040-01	Western Civilization II	3.0	3.0	TR	09:30AM	10:45AM		WKNW 3 Civic Ways Knowg	No Consent Required	In Person	17		Open
+HIST-2110-01	American History I	3.0	3.0	MWF	11:00AM	11:50AM		WKNW 3 Civic Ways Knowg	No Consent Required	In Person	35		Open
+HIST-2120-0EA	American History II	3.0	3.0					WKNW 3 Civic Ways Knowg	No Consent Required	Asynchronous Online	23		Open
+HIST-2350-01	Foundation of Public History	3.0	3.0	TR	09:30AM	10:45AM			No Consent Required	In Person	5		Open
+HIST-3010-01	History of Political Thought	3.0	3.0	TR	02:30PM	03:45PM			No Consent Required	In Person	0	Same: HIST/POSC/PHIL3010	Open
+HIST-3100-01	Ancient History	3.0	3.0	MWF	01:00PM	01:50PM		WKNW 7 Glob/Intcult Ways GI	No Consent Required	In Person	14		Open
+HIST-3190-01	Jewish Holocaust and its Historical Context	3.0	3.0	MWF	09:00AM	09:50AM		WKNW 7 Glob/Intcult Ways GI	No Consent Required	In Person	26		Open
+HIST-3250-01	History of the Cold War	3.0	3.0	MWF	02:00PM	02:50PM		WKNW 7 Glob/Intcult Ways GI	No Consent Required	In Person	15		Open
+HIST-3260-0EA	Women in the World 1800-Present	3.0	3.0				Writing Intensive Upper Div	WKNW 7 Glob/Intcult Ways GI	No Consent Required	Asynchronous Online	34		Open
+HIST-3425-01	Slavery and Freedom in the Modern World 1800 to the Present	3.0	3.0	TR	02:30PM	03:45PM	Writing Intensive Upper Div	WKNW 7 Glob/Intcult Ways GI	No Consent Required	In Person	10		Open
+HIST-3520-01	History of the Vietnam War	3.0	3.0	MWF	03:00PM	03:50PM			No Consent Required	In Person	10		Open
+HIST-4800-01	Internship Public History	1.0	4.0						No Consent Required	Asynchronous Online	2		Open
+HIST-4800-02	Internship Public History	1.0	4.0						Not Enrolling	In Person	2		Closed
+HIST-4800-03	Internship Public History	1.0	4.0						Consent Required	In Person	0		Open
+HIST-4930-01	Senior Seminar	1.0	1.0	R	12:00PM	12:50PM			No Consent Required	In Person	6		Open
+HNRS-1000-01	Personal Enrichment through Servant Leadership	0.0	1.0						No Consent Required	Asynchronous Online	11		Open
+HNRS-2125-01	The Scholar as Servant Leader	2.0	2.0	MW	12:00PM	12:50PM			No Consent Required	In Person	22		Open
+HNRS-2300-01	Honors History	3.0	3.0	MWF	12:00PM	12:50PM			No Consent Required	In Person	31		Open
+HNRS-3221-01	Traditionalism and Globalization	3.0	3.0	MWF	12:00PM	12:50PM			No Consent Required	In Person	25		Open
+HNRS-3325-01	Christ and Culture	3.0	3.0	MWF	12:00PM	12:50PM			No Consent Required	In Person	40		Open
+HNRS-4910-01	Honor Senior Seminar	1.0	1.0	F	12:00PM	12:50PM			No Consent Required	In Person	14		Open
+LART-1000-01	College Survival Skills	2.0	2.0	MW	12:00PM	12:50PM			No Consent Required	In Person	1		Open
+LART-1020-8E1	Strategies for Academic Success for Adult Learners	3.0	3.0	R	06:00PM	06:50PM			No Consent Required	Asynchronous Online	4		Open
+LART-1020-8E2	Strategies for Academic Success for Adult Learners	3.0	3.0	R	06:00PM	06:50PM			No Consent Required	Asynchronous Online	0		Open
+LART-1050-01	First-Year Experience Seminar	1.0	1.0	R	12:00PM	12:50PM		FSKL 1 Undstnd College	No Consent Required	In Person	17		Open
+LART-1100-0EA	Critical-Thinking Seminar	3.0	3.0	T	06:00PM	06:50PM		FSKL 2 Civ Discrse Crit Reas	No Consent Required	Asynchronous Online	9		Open
+LART-1200-01	Career and Life Planning	1.0	1.0	MW	12:00PM	12:50PM			No Consent Required	In Person	11		Open
+MATH-1110-01	Elementary Mathematics-Geometry	3.0	3.0	MWF	02:00PM	02:50PM			No Consent Required	In Person	15		Open
+MATH-1250-01	Explorations in Mathematics	3.0	3.0	MWF	01:00PM	01:50PM		FSKL 5 Quant Reasng	No Consent Required	In Person	23		Open
+MATH-1300-01	Finite Mathematics	3.0	3.0	MWF	11:00AM	11:50AM		FSKL 5 Quant Reasng	No Consent Required	In Person	20		Open
+MATH-2010-01	Calculus I	4.0	4.0	TR	06:20PM	08:00PM		FSKL 5 Quant Reasng	No Consent Required	In Person	14		Open
+MATH-2020-01	Calculus II	4.0	4.0	MTWF	10:00AM	10:50AM			No Consent Required	In Person	29		Open
+MATH-2120-02	Introductory Statistics with Applications	3.0	3.0	MWF	01:00PM	01:50PM		FSKL 5 Quant Reasng	No Consent Required	In Person	27		Open
+MATH-2200-01	Discrete Mathematical Structures	4.0	4.0	MTRF	08:00AM	08:50AM			No Consent Required	In Person	23	Same: MATH2200/CPSC2250	Open
+MATH-3020-01	Calculus III	4.0	4.0	MTWF	10:00AM	10:50AM			No Consent Required	In Person	23		Open
+MATH-3100-01	Differential Equations	3.0	3.0	MWF	09:00AM	09:50AM			No Consent Required	In Person	33		Open
+MLAN-2000-0E	Language and Society	4.0	4.0					WKNW 7 Glob/Intcult Ways GI	No Consent Required	Asynchronous Online	15		Open
+MUBS-2020-0B	Introduction to Music Publishing	3.0	3.0	R	01:00PM	02:20PM			No Consent Required	Hybrid	17	Same: MUBS2020/BSNS2040	Open
+MUBS-3100-0B	Artist Development	2.0	2.0						No Consent Required	Asynchronous Online	5	Same: MUBS3100/BSNS3140	Open
+MUBS-3220-01	Advanced Recording Techniques	2.0	2.0	T	07:30PM	09:00PM			No Consent Required	In Person	6	Same: MUBS3220/BSNS3260	Open
+MUBS-3370-01	Record Production	2.0	2.0	T	05:30PM	07:10PM			No Consent Required	In Person	8	Same: MUBS/BSNS3370	Open
+MUBS-3470-0B	DIY for Musicians	2.0	2.0	W	01:00PM	01:50PM			No Consent Required	Hybrid	3		Open
+MUBS-4500-01	Songwriter Showcase	1.0	1.0						No Consent Required	Asynchronous Online	0		Open
+MUBS-4800-01	Internship in Music Business	1.0	3.0						No Consent Required	Asynchronous Online	1	Same: MUBS4800/BSNS4810	Open
+MUBS-4900-01	Recording Label Seminar	1.0	2.0	M	05:00PM	06:00PM			No Consent Required	In Person	4		Open
+MUBS-4900-02	Recording Label Seminar	1.0	2.0	M	05:00PM	06:00PM			Not Enrolling	In Person	6		Closed
+MUBS-4950-01	Recording Project	3.0	3.0						No Consent Required	Asynchronous Online	1		Open
+MUED-1000-01	Introduction to Music Education	2.0	2.0	MW	08:00AM	08:50AM		FSKL 2 Civ Discrse Crit Reas	Consent Required	In Person	8		Open
+MUED-1300-01	Brass Techniques	1.0	1.0	MW	12:00PM	12:50PM			No Consent Required	In Person	6		Open
+MUED-2110-01	Music for the Elementary Classroom	2.0	2.0	TR	01:00PM	01:50PM		WKNW 4 Aesthet Ways (Appr)	No Consent Required	In Person	19		Open
+MUED-2470-01	Introduction to Conducting	2.0	2.0	MW	02:00PM	02:50PM			No Consent Required	In Person	7		Open
+MUED-2510-01	Singer's Diction I	2.0	2.0	MW	01:00PM	01:50PM			No Consent Required	In Person	6		Open
+MUED-4700-01	Methods of Teaching Music in the Public Schools	2.0	2.0	R	05:30PM	07:00PM			No Consent Required	Asynchronous Online	5		Open
+MUPF- _0010-01	Unassigned Voice	1.0	3.0						No Consent Required	Asynchronous Online	0		Open
+MUPF- _0020-01	Unassigned Piano	1.0	3.0						No Consent Required	Asynchronous Online	0		Open
+MUPF- _0030-01	Unassignd Cl Piano	2.0	2.0						No Consent Required	Asynchronous Online	0		Open
+MUPF- _0040-01	Unassigned Choirs	1.0	2.0						No Consent Required	Asynchronous Online	0		Open
+MUPF- _0050-01	Unassigned Bands	1.0	2.0						No Consent Required	Asynchronous Online	0		Open
+MUPF- _0060-01	Unassigned Piano (Music Education)	1.0	3.0						No Consent Required	Asynchronous Online	0		Open
+MUPF-1060-01	Keyboard Class II	2.0	2.0	MW	10:00AM	10:50AM			No Consent Required	In Person	6		Open
+MUPF-1060-02	Keyboard Class II	2.0	2.0	MW	09:00AM	09:50AM			No Consent Required	In Person	7		Open
+MUPF-1080-01	Chorale (SATB Choir)	0.0	1.0	MWF	03:00PM	04:30PM		WKNW 4 Aesthet Ways (Exper)	No Consent Required	In Person	33		Open
+MUPF-1080-02	Chorale (SATB Choir)	0.0	1.0	MWF	03:00PM	04:30PM		WKNW 4 Aesthet Ways (Exper)	Not Enrolling	In Person	5		Closed
+MUPF-1080-03	Chorale (SATB Choir)	0.0	1.0	MWF	03:00PM	04:30PM		WKNW 4 Aesthet Ways (Exper)	Consent Required	In Person	0		Open
+MUPF-1090-01	University Choir	0.0	1.0	MWF	04:00PM	04:30PM		WKNW 4 Aesthet Ways (Exper)	No Consent Required	In Person	14		Open
+MUPF-1160-01	Music Theatre Production	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	3		Open
+MUPF-1170-01	Introduction to Musical Theatre Performance	2.0	2.0	TR	04:00PM	06:00PM		WKNW 4 Aesthet Ways (Exper)	No Consent Required	In Person	9		Open
+MUPF-1190-01	Instrumental Ensemble	0.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	13		Open
+MUPF-1270-01	Symphonic Wind Ensemble	0.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	17		Open
+MUPF-1280-01	Jazz Ensemble	0.0	1.0	WF	04:30PM	05:45PM		WKNW 4 Aesthet Ways (Exper)	No Consent Required	In Person	5		Open
+MUPF-1350-01	Guitar Ensemble	0.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	7		Open
+MUPF-1390-01	Percussion Ensemble	0.0	1.0	T	05:00PM	06:30PM		WKNW 4 Aesthet Ways (Exper)	No Consent Required	In Person	4		Open
+MUPF-1530-01	Accompanying II	1.0	1.0						No Consent Required	Asynchronous Online	0		Open
+MUPF-1700-01	Voice	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-1700-02	Voice	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-1700-03	Voice	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	1		Open
+MUPF-1700-04	Voice	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-1700-05	Voice	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-1700-06	Voice	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-1710-01	Piano	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	1		Open
+MUPF-1710-02	Piano	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	4		Open
+MUPF-1720-01	Harpsichord	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-1730-01	Organ	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-1740-01	Violin	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-1750-01	Viola	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-1760-01	Cello	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-1770-01	Bass	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	1		Open
+MUPF-1770-02	Bass	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-1780-01	Flute/Piccolo	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	1		Open
+MUPF-1790-01	Clarinet	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	1		Open
+MUPF-1800-01	Oboe/English Horn	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-1810-01	Bassoon	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	1		Open
+MUPF-1820-01	Saxophone	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	1		Open
+MUPF-1830-01	Trumpet/Cornet	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	1		Open
+MUPF-1840-01	French Horn	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-1850-01	Trombone	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-1860-01	Baritone/Euphonium	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-1870-01	Tuba	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-1880-01	Percussion	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	1		Open
+MUPF-1885-01	Harp	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-1890-01	Guitar	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	1		Open
+MUPF-1890-02	Guitar	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	1		Open
+MUPF-1900-01	Composition	1.0	1.0						No Consent Required	Asynchronous Online	0		Open
+MUPF-1900-02	Composition	1.0	1.0						No Consent Required	Asynchronous Online	0		Open
+MUPF-1900-03	Composition	1.0	1.0						No Consent Required	Asynchronous Online	0		Open
+MUPF-1900-04	Composition	1.0	1.0						No Consent Required	Asynchronous Online	0		Open
+MUPF-1905-01	Songwriting	1.0	1.0						No Consent Required	Asynchronous Online	0		Open
+MUPF-2600-01	Topics in Music Performance:	1.0	4.0	TR	02:30PM	03:45PM			No Consent Required	In Person	6		Open
+MUPF-2700-01	Voice	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	1		Open
+MUPF-2700-02	Voice	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	11		Open
+MUPF-2700-03	Voice	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	4		Open
+MUPF-2700-04	Voice	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	11		Open
+MUPF-2700-05	Voice	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	11		Open
+MUPF-2700-06	Voice	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-2710-01	Piano	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-2710-02	Piano	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-2720-01	Harpsichord	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-2730-01	Organ	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-2740-01	Violin	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	1		Open
+MUPF-2750-01	Viola	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-2760-01	Cello	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-2770-01	Bass	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	1		Open
+MUPF-2770-02	Bass	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-2780-01	Flute/Piccolo	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	2		Open
+MUPF-2790-01	Clarinet	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	1		Open
+MUPF-2800-01	Oboe/English Horn	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-2810-01	Bassoon	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-2820-01	Saxophone	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-2830-01	Trumpet/Cornet	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	1		Open
+MUPF-2840-01	French Horn	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	1		Open
+MUPF-2850-01	Trombone	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-2860-01	Baritone/Euphonium	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-2870-01	Tuba	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-2880-01	Percussion	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	5		Open
+MUPF-2885-01	Harp	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-2890-01	Guitar	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	5		Open
+MUPF-2890-02	Guitar	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-2900-01	Composition	1.0	3.0						No Consent Required	Asynchronous Online	0		Open
+MUPF-2900-02	Composition	1.0	3.0						No Consent Required	Asynchronous Online	0		Open
+MUPF-2900-03	Composition	1.0	3.0						No Consent Required	Asynchronous Online	0		Open
+MUPF-2900-04	Composition	1.0	3.0						No Consent Required	Asynchronous Online	0		Open
+MUPF-2905-01	Songwriting	1.0	3.0						No Consent Required	Asynchronous Online	1		Open
+MUPF-3540-01	Voice Recital	1.0	1.0						No Consent Required	Asynchronous Online	2		Open
+MUPF-3540-02	Voice Recital	1.0	1.0						No Consent Required	Asynchronous Online	0		Open
+MUPF-3540-03	Voice Recital	1.0	1.0						No Consent Required	Asynchronous Online	1		Open
+MUPF-3540-04	Voice Recital	1.0	1.0						No Consent Required	Asynchronous Online	0		Open
+MUPF-3540-05	Voice Recital	1.0	1.0						No Consent Required	Asynchronous Online	0		Open
+MUPF-3540-06	Voice Recital	1.0	1.0						No Consent Required	Asynchronous Online	0		Open
+MUPF-3550-01	Keyboard Recital	1.0	1.0						No Consent Required	Asynchronous Online	0		Open
+MUPF-3550-02	Keyboard Recital	1.0	1.0						No Consent Required	Asynchronous Online	0		Open
+MUPF-3560-01	String/Guitar/Harp Recital	1.0	1.0						No Consent Required	Asynchronous Online	0		Open
+MUPF-3560-02	String/Guitar/Harp Recital	1.0	1.0						No Consent Required	Asynchronous Online	0		Open
+MUPF-3560-03	String/Guitar/Harp Recital	1.0	1.0						No Consent Required	Asynchronous Online	0		Open
+MUPF-3560-04	String/Guitar/Harp Recital	1.0	1.0						No Consent Required	Asynchronous Online	0		Open
+MUPF-3570-01	Woodwind Recital	1.0	1.0						No Consent Required	Asynchronous Online	0		Open
+MUPF-3580-01	Brass Recital	1.0	1.0						No Consent Required	Asynchronous Online	0		Open
+MUPF-3580-02	Brass Recital	1.0	1.0						No Consent Required	Asynchronous Online	0		Open
+MUPF-3580-03	Brass Recital	1.0	1.0						No Consent Required	Asynchronous Online	0		Open
+MUPF-3590-01	Percussion Recital	1.0	1.0						No Consent Required	Asynchronous Online	0		Open
+MUPF-3700-01	Voice	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-3700-02	Voice	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-3700-03	Voice	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-3700-04	Voice	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-3700-05	Voice	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-3700-06	Voice	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-3710-01	Piano	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-3710-02	Piano	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-3720-01	Harpsichord	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-3730-01	Organ	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-3740-01	Violin	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-3750-01	Viola	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-3760-01	Cello	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-3770-01	Bass	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-3770-02	Bass	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-3780-01	Flute/Piccolo	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-3790-01	Clarinet	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-3800-01	Oboe/English Horn	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-3810-01	Bassoon	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-3820-01	Saxophone	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-3830-01	Trumpet/Cornet	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-3840-01	French Horn	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-3850-01	Trombone	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-3860-01	Baritone/Euphonium	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-3870-01	Tuba	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-3880-01	Percussion	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-3885-01	Harp	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-3890-01	Guitar	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-3890-02	Guitar	1.0	1.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-3900-01	Composition	1.0	1.0						No Consent Required	Asynchronous Online	0		Open
+MUPF-3900-02	Composition	1.0	1.0						No Consent Required	Asynchronous Online	0		Open
+MUPF-3900-03	Composition	1.0	1.0						No Consent Required	Asynchronous Online	0		Open
+MUPF-3900-04	Composition	1.0	1.0						No Consent Required	Asynchronous Online	0		Open
+MUPF-3905-01	Songwriting	1.0	1.0						No Consent Required	Asynchronous Online	0		Open
+MUPF-4540-01	Voice Recital	2.0	2.0						No Consent Required	Asynchronous Online	0		Open
+MUPF-4540-02	Voice Recital	2.0	2.0						No Consent Required	Asynchronous Online	0		Open
+MUPF-4540-03	Voice Recital	2.0	2.0						No Consent Required	Asynchronous Online	2		Open
+MUPF-4540-04	Voice Recital	2.0	2.0						No Consent Required	Asynchronous Online	0		Open
+MUPF-4540-05	Voice Recital	2.0	2.0						No Consent Required	Asynchronous Online	0		Open
+MUPF-4540-06	Voice Recital	2.0	2.0						No Consent Required	Asynchronous Online	0		Open
+MUPF-4550-01	Keyboard Recital	2.0	2.0						No Consent Required	Asynchronous Online	0		Open
+MUPF-4550-02	Keyboard Recital	2.0	2.0						No Consent Required	Asynchronous Online	0		Open
+MUPF-4560-01	String/Guitar/Harp Recital	2.0	2.0						No Consent Required	Asynchronous Online	0		Open
+MUPF-4560-02	String/Guitar/Harp Recital	2.0	2.0						No Consent Required	Asynchronous Online	0		Open
+MUPF-4560-03	String/Guitar/Harp Recital	2.0	2.0						No Consent Required	Asynchronous Online	0		Open
+MUPF-4560-04	String/Guitar/Harp Recital	2.0	2.0						No Consent Required	Asynchronous Online	0		Open
+MUPF-4570-01	Woodwind Recital	2.0	2.0						No Consent Required	Asynchronous Online	0		Open
+MUPF-4580-01	Brass Recital	2.0	2.0						No Consent Required	Asynchronous Online	0		Open
+MUPF-4580-02	Brass Recital	2.0	2.0						No Consent Required	Asynchronous Online	0		Open
+MUPF-4580-03	Brass Recital	2.0	2.0						No Consent Required	Asynchronous Online	0		Open
+MUPF-4590-01	Percussion Recital	2.0	2.0						No Consent Required	Asynchronous Online	0		Open
+MUPF-4700-01	Voice	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	2		Open
+MUPF-4700-02	Voice	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	1		Open
+MUPF-4700-03	Voice	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	5		Open
+MUPF-4700-04	Voice	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	1		Open
+MUPF-4700-05	Voice	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-4700-06	Voice	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-4700-07	Voice	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	Not Enrolling	In Person	2		Closed
+MUPF-4710-01	Piano	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-4710-02	Piano	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-4720-01	Harpsichord	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-4730-01	Organ	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-4740-01	Violin	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-4750-01	Viola	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-4760-01	Cello	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-4770-01	Bass	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-4770-02	Bass	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-4780-01	Flute/Piccolo	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-4790-01	Clarinet	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-4800-01	Oboe/English Horn	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-4810-01	Bassoon	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-4820-01	Saxophone	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-4830-01	Trumpet/Cornet	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-4840-01	French Horn	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-4850-01	Trombone	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-4860-01	Baritone/Euphonium	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-4870-01	Tuba	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-4880-01	Percussion	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	1		Open
+MUPF-4885-01	Harp	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-4890-01	Guitar	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-4890-02	Guitar	1.0	3.0					WKNW 4 Aesthet Ways (Exper)	No Consent Required	Asynchronous Online	0		Open
+MUPF-4900-01	Composition	1.0	3.0						No Consent Required	Asynchronous Online	0		Open
+MUPF-4900-02	Composition	1.0	3.0						No Consent Required	Asynchronous Online	0		Open
+MUPF-4900-03	Composition	1.0	3.0						No Consent Required	Asynchronous Online	0		Open
+MUPF-4900-04	Composition	1.0	3.0						No Consent Required	Asynchronous Online	0		Open
+MUPF-4905-01	Songwriting	1.0	3.0						No Consent Required	Asynchronous Online	0		Open
+MUSC-1020-01	Theory II	3.0	3.0	MWF	11:00AM	11:50AM			No Consent Required	In Person	19		Open
+MUSC-1040-01	Aural Comprehension II	1.0	1.0	TR	10:00AM	10:50AM			No Consent Required	In Person	22		Open
+MUSC-2020-01	Theory IV	3.0	3.0	MWF	10:00AM	10:50AM			No Consent Required	In Person	10		Open
+MUSC-2040-01	Aural Comprehension IV	1.0	1.0	TR	01:00PM	01:50PM			No Consent Required	In Person	6		Open
+MUSC-2110-01	Introduction to Music Literature	2.0	2.0	TR	08:30AM	09:20AM		WKNW 4 Aesthet Ways (Appr)	No Consent Required	In Person	11		Open
+MUSC-2210-01	Music the Arts and Culture	3.0	3.0	MWF	12:00PM	12:50PM		WKNW 4 Aesthetic Ways Knowg	No Consent Required	In Person	6		Open
+MUSC-2210-0EA	Music the Arts and Culture	3.0	3.0					WKNW 4 Aesthetic Ways Knowg	No Consent Required	Asynchronous Online	13		Open
+MUSC-3040-01	Orchestration	2.0	2.0	MW	01:00PM	01:50PM			No Consent Required	In Person	2		Open
+MUSC-3160-01	Sacred Music: Past and Current Uses	3.0	3.0	MWF	01:00PM	01:50PM			Consent Required	In Person	5		Open
+MUSC-3800-01	Internship in Church Music	1.0	3.0						No Consent Required	Asynchronous Online	0		Open
+MUSC-4950-01	Senior Project	3.0	3.0						No Consent Required	Asynchronous Online	0		Open
+MUSC-4950-02	Senior Project	3.0	3.0						No Consent Required	Asynchronous Online	0		Open
+MUSC-4955-01	Senior Presentation	3.0	3.0				Speaking Intensive		No Consent Required	Asynchronous Online	0		Open
+MUSC-4955-02	Senior Presentation	3.0	3.0				Speaking Intensive		No Consent Required	Asynchronous Online	0		Open
+MUTR-1170-01	Intro to Musical Theatre Performance	2.0	2.0	TR	04:00PM	06:00PM		WKNW 4 Aesthet Ways (Exper)	No Consent Required	In Person	9		Open
+MUTR-2420-01	Voice Production for the Actor	2.0	2.0	TR	09:30AM	10:50AM			No Consent Required	In Person	10	Same: MUTR/THEA2420	Open
+MUTR-4500-01	Musical Theatre Showcase	2.0	2.0	MW	04:00PM	06:00PM			No Consent Required	In Person	4	Same: MUTR/THEA4500	Open
+NURS-1210-0E1	Nutrition for Healthy Living	2.0	2.0					FSKL 7 Personal Wellness	No Consent Required	Asynchronous Online	34		Open
+NURS-2140-01	Introduction to Nursing	2.0	2.0	TR	12:00PM	12:50PM			No Consent Required	In Person	27		Open
+NURS-2140-0E	Introduction to Nursing	2.0	2.0						No Consent Required	Asynchronous Online	3		Open
+NURS-2241-01	Fundamentals II	5.0	5.0	MW	08:00AM	09:20AM			No Consent Required	In Person	23		Open
+NURS-2241-01	Fundamentals II	5.0	5.0	TR	07:00AM	11:50AM			No Consent Required	In Person	23	laboratory	Open
+NURS-2270-01	Pathophysiological Basis for Pharmacology in Nursing	4.0	4.0	MW	09:30AM	10:50AM			No Consent Required	In Person	23		Open
+NURS-2270L-LA	Pathophysiological Basis for Pharmacology in Nursing	0.0	0.0	R	01:00PM	02:50PM			No Consent Required	In Person	23		Open
+NURS-2340-0B	Personal and Community Health Nursing	2.0	2.0						No Consent Required	Asynchronous Online	28		Open
+NURS-3361-01	Adult Health II	6.0	6.0	MWF	11:00AM	11:50AM			No Consent Required	In Person	21		Open
+NURS-3361-01	Adult Health II	6.0	6.0	TR	07:00AM	03:30PM			No Consent Required	In Person	21		Open
+NURS-3391-01	Evidence-Based Research	3.0	3.0						No Consent Required	Asynchronous Online	21		Open
+NURS-4510-0E	Entry into Professional Nursing Practice	1.0	1.0						No Consent Required	Asynchronous Online	14		Open
+NURS-4521-01	Child Health	4.0	4.0	TR	09:00AM	11:00AM			No Consent Required	In Person	14		Open
+NURS-4950-01	Intercultural Capstone	4.0	4.0	T	01:00PM	03:00PM			No Consent Required	In Person	14	Same: NURS/PUBH4950	Open
+NURS-4960-01	Leadership Capstone	4.0	4.0	R	12:30PM	03:00PM			No Consent Required	In Person	14		Open
+NURS-4970-01	Clinical Capstone	2.0	2.0						No Consent Required	Asynchronous Online	14		Open
+PACT-2400-01	Principles and Practices of Conflict Transformation	2.0	2.0	M	05:00PM	07:00PM			No Consent Required	In Person	5		Open
+PEHS-1000-01	Fitness and Wellness for Life	2.0	2.0	MWF	09:00AM	09:50AM		FSKL 7 Personal Wellness	No Consent Required	In Person	25		Open
+PEHS-1000-02	Fitness and Wellness for Life	2.0	2.0	MWF	10:00AM	10:50AM		FSKL 7 Personal Wellness	No Consent Required	In Person	12		Open
+PEHS-1000-03	Fitness and Wellness for Life	2.0	2.0	MWF	02:00PM	02:50PM		FSKL 7 Personal Wellness	No Consent Required	In Person	13		Open
+PEHS-1100-01	Beginning Swimming	1.0	1.0	MW	02:00PM	02:00PM			No Consent Required	In Person	2		Open
+PEHS-1200-01	Co-Curricular Activity	1.0	1.0						No Consent Required	Asynchronous Online	4		Open
+PEHS-1200-02	Co-Curricular Activity	1.0	1.0						No Consent Required	Asynchronous Online	14		Open
+PEHS-1200-03	Co-Curricular Activity	1.0	1.0						No Consent Required	Asynchronous Online	3		Open
+PEHS-1200-04	Co-Curricular Activity	1.0	1.0						No Consent Required	Asynchronous Online	0		Open
+PEHS-1200-05	Co-Curricular Activity	1.0	1.0						No Consent Required	Asynchronous Online	0		Open
+PEHS-1200-08	Co-Curricular Activity	1.0	1.0						No Consent Required	Asynchronous Online	5		Open
+PEHS-1200-09	Co-Curricular Activity	1.0	1.0						No Consent Required	Asynchronous Online	0		Open
+PEHS-1450-01	First Aid	2.0	2.0	MWF	08:00AM	08:50AM			No Consent Required	In Person	16		Open
+PEHS-2260-01	Advanced Conditioning Sports Performance	1.0	1.0						No Consent Required	Asynchronous Online	54		Open
+PEHS-2260-02	Advanced Conditioning Sports Performance	1.0	1.0						No Consent Required	Asynchronous Online	10		Open
+PEHS-2260-03	Advanced Conditioning Sports Performance	1.0	1.0						No Consent Required	Asynchronous Online	13		Open
+PEHS-2260-04	Advanced Conditioning Sports Performance	1.0	1.0						No Consent Required	Asynchronous Online	12		Open
+PEHS-2260-05	Advanced Conditioning Sports Performance	1.0	1.0						Consent Required	In Person	1		Open
+PEHS-2260-06	Advanced Conditioning Sports Performance	1.0	1.0						Consent Required	In Person	1		Open
+PEHS-3050-01	Techniques of Coaching Football	1.0	1.0	T	07:00PM	07:50PM			No Consent Required	In Person	15		Open
+PEHS-3070-01	Techniques of Coaching Basketball	1.0	1.0						No Consent Required	Asynchronous Online	6		Open
+PEHS-3340-01	Sociology of Sport	3.0	3.0	MWF	09:00AM	09:50AM	Writing Intensive Upper Div		No Consent Required	In Person	13		Open
+PEHS-3410-01	Sports Administration	3.0	3.0	MWF	08:00AM	08:50AM			No Consent Required	In Person	6		Open
+PETE-1300-01	Introduction to Sports/Physical Activity/Recreation	2.0	2.0	TR	09:00AM	09:50AM			No Consent Required	In Person	8		Open
+PETE-2250-01	Motor Behavior	3.0	3.0	MWF	01:00PM	01:50PM	Writing Intensive		No Consent Required	In Person	9		Open
+PHIL-3010-01	History of Political Thought	3.0	3.0	TR	02:30PM	03:45PM			No Consent Required	In Person	1	Same: HIST/POSC/PHIL3010	Open
+PHYS-2140-01	General Physics I (Algebra Based)	4.0	4.0	MWF	08:00AM	08:50AM		WKNW 2 Scientific Ways Knowg	No Consent Required	In Person	23		Open
+PHYS-2140L-LA	General Physics I (Algebra Based)	0.0	0.0	R	09:00AM	10:50AM			No Consent Required	In Person	11		Open
+PHYS-2140L-LB	General Physics I (Algebra Based)	0.0	0.0	T	01:00PM	02:50PM			No Consent Required	In Person	5		Open
+PHYS-2140L-LC	General Physics I (Algebra Based)	0.0	0.0	R	01:00PM	02:50PM			No Consent Required	In Person	7		Open
+PHYS-2240-01	General Physics I (Calculus Based)	4.0	4.0	MWF	11:00AM	11:50AM		WKNW 2 Scientific Ways Knowg	No Consent Required	In Person	36		Open
+PHYS-2240L-LA	General Physics I (Calculus Based)	0.0	0.0	R	09:00AM	10:50AM			No Consent Required	In Person	15		Open
+PHYS-2240L-LB	General Physics I (Calculus Based)	0.0	0.0	T	01:00PM	02:50PM			No Consent Required	In Person	14		Open
+PHYS-2240L-LC	General Physics I (Calculus Based)	0.0	0.0	R	01:00PM	02:50PM			No Consent Required	In Person	6		Open
+PHYS-4650-01	Independent Study	1.0	4.0						No Consent Required	Asynchronous Online	0		Open
+POSC-2100-01	American National Government	3.0	3.0	MWF	10:00AM	10:50AM		WKNW 3 Civic Ways Knowg	Not Enrolling	In Person	10		Closed
+POSC-2100-01	American National Government	3.0	3.0	MWF	10:00AM	10:50AM		WKNW 3 Civic Ways Knowg	No Consent Required	In Person	12		Open
+POSC-2200-01	Public Policy	3.0	3.0	MWF	10:00AM	10:50AM			No Consent Required	In Person	15		Open
+POSC-2420-01	Applied Statistics Lab	2.0	2.0	TR	01:00PM	01:50PM			No Consent Required	In Person	12		Open
+POSC-2600-01	Topics in Political Science:	1.0	5.0	R	04:00PM	06:00PM			Consent Required	In Person	25		Open
+POSC-2840-01	Model Diplomacy and Simulation Conferences	0.0	1.0						No Consent Required	Asynchronous Online	16		Open
+POSC-2840-02	Model Diplomacy and Simulation Conferences	0.0	1.0						Consent Required	In Person	3		Open
+POSC-3010-01	History of Political Thought	3.0	3.0	TR	02:30PM	03:45PM			No Consent Required	In Person	3	Same: HIST/POSC/PHIL3010	Open
+POSC-3350-01	Homeland Security	3.0	3.0	MWF	02:00PM	02:50PM			No Consent Required	In Person	10	Same: POSC/CRIM3350	Open
+POSC-3370-01	Intelligence and Security Studies	3.0	3.0	TR	01:00PM	02:15PM	Speaking Intensive		No Consent Required	In Person	7		Open
+POSC-3370-01	Intelligence and Security Studies	3.0	3.0	TR	01:00PM	02:15PM	Speaking Intensive		No Consent Required	In Person	8		Open
+POSC-4800-01	Government Internship	1.0	4.0						No Consent Required	Asynchronous Online	1		Open
+POSC-4800-02	Government Internship	1.0	4.0						No Consent Required	Asynchronous Online	0		Open
+POSC-4810-01	Legal Internship	1.0	4.0						No Consent Required	Asynchronous Online	1		Open
+POSC-4820-01	International Internship	1.0	4.0						No Consent Required	Asynchronous Online	0		Open
+POSC-4930-01	Senior Seminar	1.0	1.0	R	12:00PM	12:50PM			No Consent Required	In Person	10		Open
+PSYC-2000-01	General Psychology	3.0	3.0	MWF	10:00AM	10:50AM		WKNW 5 Social/Behav Ways	No Consent Required	In Person	25		Open
+PSYC-2000-02	General Psychology	3.0	3.0	TR	02:30PM	03:45PM		WKNW 5 Social/Behav Ways	No Consent Required	In Person	29		Open
+PSYC-2010-01	Research Methods in Psychology	3.0	3.0	TR	09:30AM	10:45AM	Writing Intensive		No Consent Required	In Person	22		Open
+PSYC-2100-01	Interpersonal Relationships	4.0	4.0	MW	03:00PM	04:50PM			No Consent Required	In Person	16		Open
+PSYC-2100-02	Interpersonal Relationships	4.0	4.0	TR	02:30PM	04:20PM			No Consent Required	In Person	12		Open
+PSYC-2110-01	Educational Psychology	3.0	3.0	MWF	01:00PM	01:50PM		WKNW 5 Social/Behav Ways	No Consent Required	In Person	23	Same: PSYC/EDUC2110	Open
+PSYC-2440-01	Applied Statistics and Introduction to Research	4.0	4.0	MTW	01:00PM	01:50PM		FSKL 5 Quant Reasng	No Consent Required	In Person	13		Open
+PSYC-2440-01	Applied Statistics and Introduction to Research	4.0	4.0	R	01:00PM	01:50PM		FSKL 5 Quant Reasng	No Consent Required	In Person	13		Open
+PSYC-2850-01	Practicum in Leadership Skills	2.0	2.0	F	12:00PM	12:50PM			No Consent Required	In Person	4	Same: PSYC/EDUC/SOCI2850	Open
+PSYC-3010-01	Social Psychology	4.0	4.0	MW	01:00PM	02:50PM	Writing Intensive Upper Div		No Consent Required	In Person	8	Same: PSYC/SOCI/PUBH3010	Open
+PSYC-3220-01	Organizational Behavior and Theory	3.0	3.0	MWF	08:00AM	08:50AM			No Consent Required	In Person	5	Same: BSNS4010/PSYC3220	Open
+PSYC-3330-01	Cognitive Psychology	4.0	4.0	MTRF	10:00AM	10:50AM			No Consent Required	In Person	9		Open
+PSYC-3400-01	Memory	4.0	4.0	MF	09:00AM	09:50AM			No Consent Required	In Person	21		Open
+PSYC-3400-01	Memory	4.0	4.0	TR	08:30AM	09:20AM			No Consent Required	In Person	21		Open
+PSYC-4030-01	Counseling and Psychotherapy	4.0	4.0	MTWR	10:00AM	10:50AM			No Consent Required	In Person	11		Open
+PSYC-4100-01	Leadership and Training Skills	2.0	2.0	F	12:00PM	12:50PM			No Consent Required	In Person	3		Open
+PSYC-4520-01	Capstone Research II	2.0	2.0	TR	12:00PM	12:50PM	Speaking Intensive		No Consent Required	In Person	11		Open
+PSYC-4800-01	Internship in Youth Leadership	2.0	2.0	MF	12:00PM	12:50PM			No Consent Required	In Person	6	Same: PSYC/EDUC/SOCI4800	Open
+RLGN-1100-0EA	Introduction to Spiritual Formation	3.0	3.0					FSKL 7 Personal Wellness	No Consent Required	Asynchronous Online	5		Open
+RLGN-3010-01	Faith in Context	3.0	3.0	MWF	01:00PM	01:50PM		WKNW 1 Christian Ways Knowg	No Consent Required	In Person	15		Open
+RLGN-3010-02	Faith in Context	3.0	3.0	TR	01:00PM	02:15PM		WKNW 1 Christian Ways Knowg	No Consent Required	In Person	12		Open
+RLGN-3040-01	Introduction to Christian Theology	3.0	3.0	TR	01:00PM	02:15PM			No Consent Required	In Person	13		Open
+SOCI-2010-01	Intro to Sociology	3.0	3.0	MWF	10:00AM	10:50AM		WKNW 5 Social/Behav Ways	No Consent Required	In Person	17		Open
+SOCI-2020-01	Social Problems	3.0	3.0	MWF	01:00PM	01:50PM		WKNW 5 Social/Behav Ways	No Consent Required	In Person	5		Open
+SOCI-2020-0EA	Social Problems	3.0	3.0					WKNW 5 Social/Behav Ways	No Consent Required	Asynchronous Online	15		Open
+SOCI-2450-01	Introduction to Issues in Race and Ethnicity	3.0	3.0	TR	01:00PM	02:15PM			No Consent Required	In Person	6		Open
+SOCI-2510-0B	The Nature of Crime and Social Deviance	4.0	4.0				Writing Intensive		No Consent Required	Asynchronous Online	1	Same: CRIM/SOCI2510	Open
+SOCI-2850-01	Practicum in Leadership Skills	2.0	2.0	F	12:00PM	12:50PM			No Consent Required	In Person	4	Same: PSYC/EDUC/SOCI2850	Open
+SOCI-3010-01	Social Psychology	4.0	4.0	MW	01:00PM	02:50PM	Writing Intensive Upper Div		No Consent Required	In Person	8	Same: PSYC/SOCI/PUBH3010	Open
+SOCI-3100-01	Human Sexuality	3.0	3.0	MWF	12:00PM	12:50PM			No Consent Required	In Person	4		Open
+SOCI-3700-0E	Introduction to Social Research	4.0	4.0				Writing Intensive Upper Div		No Consent Required	Asynchronous Online	8	Same: SOCI/PUBH3700	Open
+SOCI-4800-01	Internship in Youth Leadership	2.0	2.0	MF	12:00PM	12:50PM			No Consent Required	In Person	6	Same: PSYC/EDUC/SOCI4800	Open
+SOWK-3100-0B	Social Welfare Policy	4.0	4.0	TR	09:30AM	10:45AM			No Consent Required	Hybrid	3		Open
+SOWK-4710-01	Social Work Practice	4.0	4.0	TR	01:00PM	02:50PM			No Consent Required	In Person	2		Open
+SOWK-4850-01	Social Work Practicum	12.0	12.0	F	09:00AM	03:00PM	Speaking Intensive		No Consent Required	In Person	3		Open
+SPAN-1010-01	Elementary Spanish I	4.0	4.0	TR	09:30AM	10:45AM		WKNW 6 Glob/Intcult Ways FL	No Consent Required	In Person	16		Open
+SPAN-1010-02	Elementary Spanish I	4.0	4.0	MR	05:15PM	06:30PM		WKNW 6 Glob/Intcult Ways FL	No Consent Required	In Person	5		Open
+SPAN-1010-0E	Elementary Spanish I	4.0	4.0					WKNW 6 Glob/Intcult Ways FL	Consent Required	Asynchronous Online	8		Open
+SPAN-1020-0E	Elementary Spanish II	4.0	4.0					WKNW 6 Glob/Intcult Ways FL	No Consent Required	Asynchronous Online	12		Open
+SPAN-2600-01	Topics in Spanish:	1.0	4.0	MWF	09:00AM	09:50AM			No Consent Required	In Person	6		Open
+SPAN-3020-01	Spanish Conversation	4.0	4.0	MWF	02:00PM	02:50PM	Speaking Intensive	WKNW 7 Glob/Intcult Ways GI	No Consent Required	In Person	5		Open
+SPAN-3440-01	Latin American Civilization	3.0	3.0	MWF	10:00AM	10:50AM			No Consent Required	In Person	5		Open
+SPAN-4550-01	Intensive Experience in Spanish	1.0	6.0						No Consent Required	Asynchronous Online	0		Open
+SPAN-4660-01	Directed Individual Study	1.0	4.0						No Consent Required	Asynchronous Online	0		Open
+SPED-2400-01	Introduction to Mild Disabilities	3.0	3.0	TR	09:30AM	10:45AM		FSKL 2 Civ Discrse Crit Reas	No Consent Required	In Person	18		Open
+SPED-2550-01	Characteristics of Emotional and Behavioral Disorders of Children and Youth	3.0	3.0	MWF	08:00AM	08:50AM			No Consent Required	Hybrid	23		Open
+SPED-3200-01	Classroom Instruction for Mild Disabilities	3.0	3.0	M	04:00PM	05:30PM			No Consent Required	In Person	6		Open
+SPRL-2450-01	Physical Activity Cluster III: Focus on Recreational Activities and Outdoor Pursuits	3.0	3.0	TR	01:00PM	02:50PM			No Consent Required	In Person	10		Open
+SPRL-3250-0E	Legal Aspects of Sport and Recreation	3.0	3.0						No Consent Required	Asynchronous Online	5		Open
+SPRL-3300-01	Management of Sport Facilities and Events	3.0	3.0	TR	01:00PM	02:15PM			No Consent Required	In Person	11		Open
+SPRL-4850-01	Practicum in Sport and Recreational Leadership	3.0	3.0						No Consent Required	Asynchronous Online	2		Open
+THEA-2120-01	Acting II	3.0	3.0	TR	01:00PM	02:20PM			No Consent Required	In Person	7		Open
+THEA-2210-01	Stagecraft	3.0	3.0	TR	02:30PM	03:45PM			No Consent Required	In Person	10		Open
+THEA-2420-01	Voice Production for the Actor	2.0	2.0	TR	09:30AM	10:50AM			No Consent Required	In Person	5	Same: MUTR/THEA2420	Open
+THEA-2890-01	Production Practicum	1.0	1.0						No Consent Required	Asynchronous Online	5		Open
+THEA-3550-01	Lighting Design	3.0	3.0						No Consent Required	Asynchronous Online	2		Open
+THEA-4500-01	Musical Theatre Showcase	2.0	2.0	MW	04:00PM	06:00PM			No Consent Required	In Person	4	Same: MUTR/THEA4500	Open
+THEA-4800-01	Senior Project	1.0	4.0						No Consent Required	Asynchronous Online	1		Open

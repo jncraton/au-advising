@@ -22,6 +22,22 @@ def scrape_largest_table(url, drop_cols):
             
         to_drop = [c for c in df.columns if c.lower() in {d.lower() for d in drop_cols}]
         df_filtered = df.drop(columns=to_drop, errors="ignore")
+
+        descr_cols = [c for c in df_filtered.columns if c.lower() == "descr"]
+        if descr_cols:
+            col = descr_cols[0]
+
+            def _clean_descr(x):
+                s = str(x)
+                for tag in ("(23)", "(24)", "(25)"):
+                    i = s.find(tag)
+                    if i != -1:
+                        s = s[:i]
+                        break
+                return s.strip()
+
+            df_filtered[col] = df_filtered[col].astype(str).apply(_clean_descr)
+
         return df_filtered
     except Exception:
         return None
