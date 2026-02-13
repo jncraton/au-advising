@@ -88,4 +88,5 @@ for file in sys.argv[1:]:
   tokens = count_tokens(text, tokenizer)
   print(f"{file} bytes: {initial_size} => {len(text)} tokens: {initial_tokens} => {tokens}", file=sys.stderr)
 
-  print(text)
+    with open(file, "w", encoding="utf-8") as fh:
+        fh.write(text)
