@@ -1,0 +1,18 @@
+#! /usr/bin/python3
+
+import sys
+import re
+
+remove = ['index', 'table of contents']
+
+for file in sys.argv[1:]:
+  text = open(file).read()
+
+  initial_size = len(text)
+
+  for heading in remove:
+    text = re.sub(r"(#{1,6})\s*(" + heading + r")\s*\n(.*?)(?=(?:\n^#{1,6}\s)|\Z)", "", text, flags=re.I|re.M|re.DOTALL)
+
+  print(file, initial_size, len(text))
+
+  print(text)
