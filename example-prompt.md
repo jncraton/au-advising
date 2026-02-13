@@ -1,6 +1,6 @@
 Use the advising skill.
 
-I am working with a computer science major on the 2025-26 academic catalog who has completed the following courses as of the completion of the Spring 2026 term:
+I am working with a computer science (BA not BS) major on the 2025-26 academic catalog who has completed the following courses as of the completion of the Spring 2026 term:
 
 CPSC-2020
 ENGL-1120
