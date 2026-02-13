@@ -59,8 +59,12 @@ When creating a student schedule, reference `schedule-fall.md` or `schedule-spri
 
 Most other files are advising sheets for particular majors in a catalog year. Always reference the appropriate advising sheet for a student's major(s). Advising sheets are provided for some double majors. Reference these in place of the individual majors as appropriate.
 
-You have access to the following files in the skill directory (`find . -type f -name '*.md' -printf '%P\n'`):
+You have access to the following files in the skill directory (`find . -type f \( -name '*.tsv' -o -name '*.md' \) -printf '%P\n'`):
 
+references/2025-26/schedule-fall.tsv
+references/2025-26/schedule-spring.tsv
+references/2026-27/schedule-fall.tsv
+references/2026-27/schedule-spring.tsv
 references/2021-22/advising-sheets-au-danc-complementary.md
 references/2021-22/advising-sheets-version-au-danc.md
 references/2021-22/bible-religion.md
@@ -285,12 +289,9 @@ references/2024-25/business-marketing.md
 references/2024-25/global-business.md
 references/2024-25/nursing-copy1.md
 references/2024-25/sport-marketing.md
-references/2025-26/schedule-fall.md
-references/2025-26/schedule-spring.md
 references/2025-26/public-relations-comp-35-hours.md
 references/2025-26/c-delivery-notice.md
 references/2025-26/cinema-media-arts.md
-references/2025-26/undergraduate-catalog.md
 references/2025-26/accounting.md
 references/2025-26/actuarial-science.md
 references/2025-26/ba-musical-theatre.md
@@ -363,5 +364,4 @@ references/2025-26/worship-arts.md
 references/2025-26/writing-academic.md
 references/2025-26/yld-comp.md
 references/2025-26/youth-ministries.md
-references/2026-27/schedule-fall.md
-references/2026-27/schedule-spring.md
+references/2025-26/undergraduate-catalog.md
