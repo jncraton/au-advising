@@ -2,6 +2,28 @@
 
 import sys
 import re
+from tokenizers import Tokenizer
+
+def load_tokenizer():
+    """Load the Gemma 3 tokenizer from Hugging Face."""
+    try:
+        tokenizer = Tokenizer.from_pretrained("jncraton/gemma-3-270m-ct2-int8")
+        return tokenizer
+    except Exception as e:
+        print(f"Warning: Could not load tokenizer: {e}")
+        return None
+
+
+def count_tokens(text, tokenizer):
+    """Count tokens in the given text using the provided tokenizer."""
+    if tokenizer is None:
+        return 0
+    try:
+        encoding = tokenizer.encode(text)
+        return len(encoding.ids)
+    except Exception as e:
+        print(f"Warning: Could not count tokens: {e}")
+        return 0
 
 remove = [
   'table of contents',
@@ -18,10 +40,13 @@ remove = [
   'ACCREDITATIONS AND RELATIONSHIPS',
 ]
 
+tokenizer = load_tokenizer()
+
 for file in sys.argv[1:]:
   text = open(file).read()
 
   initial_size = len(text)
+  initial_tokens = count_tokens(text, tokenizer)
 
   for heading in remove:
     text = re.sub(r"(#{1,6})\s*(" + heading + r")\s*\n(.*?)(?=(?:\n^#{1,6}\s)|\Z)", "", text, flags=re.I|re.M|re.DOTALL)
@@ -30,6 +55,7 @@ for file in sys.argv[1:]:
 
   text = re.sub("\n\n\n+", "\n\n", text)
 
-  print(file, initial_size, len(text))
+  tokens = count_tokens(text, tokenizer)
+  print(f"{file} bytes: {initial_size} => {len(text)} tokens: {initial_tokens} => {tokens}")
 
   print(text)
