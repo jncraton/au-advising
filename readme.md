@@ -4,4 +4,4 @@ A complilation of public advising docs collected from <https://anderson.edu/acad
 
 ## Resources
 
-Catalogs, liberal arts requirements, and major advising sheets for 2022-23 through 2025-26
+Catalogs, liberal arts requirements, and major advising sheets for 2021-22 through 2025-26
