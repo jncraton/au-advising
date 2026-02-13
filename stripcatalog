@@ -4,6 +4,7 @@ import sys
 import re
 from tokenizers import Tokenizer
 
+
 def load_tokenizer():
     """Load the Gemma 3 tokenizer from Hugging Face."""
     try:
@@ -25,68 +26,78 @@ def count_tokens(text, tokenizer):
         print(f"Warning: Could not count tokens: {e}")
         return 0
 
+
 drop_sections = [
-  'table of contents',
-  'Letter from the President',
-  'HISTORICAL PERSPECTIVE',
-  'MISSION',
-  'LIVING THE MISSION',
-  'ETHOS STATEMENT',
-  'index',
-  'Preamble',
-  'At Our Core',
-  'CORE VALUES',
-  'COMMITMENT TO ACADEMIC INQUIRY',
-  'ACCREDITATIONS AND RELATIONSHIPS',
+    "table of contents",
+    "Letter from the President",
+    "HISTORICAL PERSPECTIVE",
+    "MISSION",
+    "LIVING THE MISSION",
+    "ETHOS STATEMENT",
+    "index",
+    "Preamble",
+    "At Our Core",
+    "CORE VALUES",
+    "COMMITMENT TO ACADEMIC INQUIRY",
+    "ACCREDITATIONS AND RELATIONSHIPS",
 ]
 
 to_title_case = [
-  "PREREQUISITE",
-  "COREQUISITE",
-  "OFFERED",
-  "EXPECTATION",
-  "CONSENT",
-  "REPEAT",
-  "GRADE",
+    "PREREQUISITE",
+    "COREQUISITE",
+    "OFFERED",
+    "EXPECTATION",
+    "CONSENT",
+    "REPEAT",
+    "GRADE",
 ]
 
 tokenizer = load_tokenizer()
 
 for file in sys.argv[1:]:
-  text = open(file).read()
+    with open(file, "r", encoding="utf-8") as fh:
+        text = fh.read()
 
-  initial_size = len(text)
-  initial_tokens = count_tokens(text, tokenizer)
+    initial_size = len(text)
+    initial_tokens = count_tokens(text, tokenizer)
 
-  for heading in drop_sections:
-    text = re.sub(r"(#{1,6})\s*(" + heading + r")\s*\n(.*?)(?=(?:\n^#{1,6}\s)|\Z)", "", text, flags=re.I|re.M|re.DOTALL)
+    for heading in drop_sections:
+        text = re.sub(
+            r"(#{1,6})\s*(" + heading + r")\s*\n(.*?)(?=(?:\n^#{1,6}\s)|\Z)",
+            "",
+            text,
+            flags=re.I | re.M | re.DOTALL,
+        )
 
-  text = re.sub(r"#+ UNIVERSITY TRUSTEES.*", "", text, flags=re.I|re.DOTALL)
-  text = re.sub(r"#+ OFFICERS OF THE CORPORATION.*", "", text, flags=re.I|re.DOTALL)
+    text = re.sub(r"#+ UNIVERSITY TRUSTEES.*", "", text, flags=re.I | re.DOTALL)
+    text = re.sub(r"#+ OFFICERS OF THE CORPORATION.*", "", text, flags=re.I | re.DOTALL)
 
-  text = re.sub(r"#+.*cont\..*", "", text, flags=re.I)
+    text = re.sub(r"#+.*cont\..*", "", text, flags=re.I)
 
-  text = re.sub(r"#+\s*([\d\-]+\s*hour.*)", r"\1", text, flags=re.I)
-  
-  text = re.sub(r"(#+.*):", r"\1", text, flags=re.I)
+    text = re.sub(r"#+\s*([\d\-]+\s*hour.*)", r"\1", text, flags=re.I)
 
-  text = re.sub("\n\n\n+", "\n\n", text)
+    text = re.sub(r"(#+.*):", r"\1", text, flags=re.I)
 
-  for word in to_title_case:
-    text = re.sub(rf'\b{re.escape(word)}\b', word.title(), text)
+    text = re.sub("\n\n\n+", "\n\n", text)
 
-  text = re.sub(rf'\bSem\.', "Semester", text)
-  text = re.sub(rf'\bhrs\.', "hours", text)
-  text = re.sub(rf'\bhr\.', "hour", text)
+    for word in to_title_case:
+        text = re.sub(rf"\b{re.escape(word)}\b", word.title(), text)
 
-  text = re.sub(r"\.\n", "\n", text)
-  
-  text = re.sub(r"\n- o ", "\n  - ", text)
-  
-  text = re.sub(r"(\d),\s+(\d)", r"\1,\2", text)
+    text = re.sub(rf"\bSem\.", "Semester", text)
+    text = re.sub(rf"\bhrs\.", "hours", text)
+    text = re.sub(rf"\bhr\.", "hour", text)
 
-  tokens = count_tokens(text, tokenizer)
-  print(f"{file} bytes: {initial_size} => {len(text)} tokens: {initial_tokens} => {tokens}", file=sys.stderr)
+    text = re.sub(r"\.\n", "\n", text)
+
+    text = re.sub(r"\n- o ", "\n  - ", text)
+
+    text = re.sub(r"(\d),\s+(\d)", r"\1,\2", text)
+
+    tokens = count_tokens(text, tokenizer)
+    print(
+        f"{file} bytes: {initial_size} => {len(text)} tokens: {initial_tokens} => {tokens}",
+        file=sys.stderr,
+    )
 
     with open(file, "w", encoding="utf-8") as fh:
         fh.write(text)
