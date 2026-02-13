@@ -1,0 +1,32 @@
+#!/usr/bin/python3
+
+import sys
+from tokenizers import Tokenizer
+
+def load_tokenizer():
+    """Load the Gemma 3 tokenizer from Hugging Face."""
+    try:
+        tokenizer = Tokenizer.from_pretrained("jncraton/gemma-3-270m-ct2-int8")
+        return tokenizer
+    except Exception as e:
+        print(f"Warning: Could not load tokenizer: {e}")
+        return None
+
+
+def count_tokens(text, tokenizer):
+    """Count tokens in the given text using the provided tokenizer."""
+    if tokenizer is None:
+        return 0
+    try:
+        encoding = tokenizer.encode(text)
+        return len(encoding.ids)
+    except Exception as e:
+        print(f"Warning: Could not count tokens: {e}")
+        return 0
+
+if __name__ == "__main__":
+  tokenizer = load_tokenizer()
+
+  for file in sys.argv[1:]:
+    text = open(file).read()
+    print(file, count_tokens(text, tokenizer))
