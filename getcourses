@@ -3,27 +3,35 @@
 import pandas as pd
 
 
-def scrape_table_to_markdown(url):
+def scrape_table_to_markdown(url, drop_cols):
     """Fetch tables from url and return as markdown string."""
     try:
         tables = pd.read_html(url)
         if not tables:
             return "No tables found"
 
-        markdown_tables = []
-        for table in tables:
-            markdown_tables.append(table.to_markdown(index=False))
+        cleaned_markdown = []
+        for df in tables:
+            df.columns = df.columns.astype(str)
+            lower_cols = df.columns.str.lower()
+            to_drop = [
+                c for c in df.columns
+                if c.lower() in [d.lower() for d in drop_cols]
+            ]
+            df_filtered = df.drop(columns=to_drop)
+            cleaned_markdown.append(df_filtered.to_markdown(index=False))
 
-        return "\n\n".join(markdown_tables)
+        return '\n\n'.join(cleaned_markdown)
     except Exception as e:
         return f"Error scraping tables: {e}"
 
 
 if __name__ == "__main__":
+    drop_cols = ['class nbr', 'sectn req', 'topic', 'instr']
     for term in ["2261", "2263"]:
         target_url = (
             f"https://basilisk.anderson.edu:4500/under_graduates.aspx?ListBox3={term}"
         )
 
         with open(f"terms/{term}.md", "w") as f:
-            f.write(scrape_table_to_markdown(target_url))
+            f.write(scrape_table_to_markdown(target_url, drop_cols))
