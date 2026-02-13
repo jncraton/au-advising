@@ -16,4 +16,4 @@ skill.zip:
 	zip -9 $@ SKILL.md references/*/*.md
 
 clean:
-	rm -f *.html **/*.html
+	rm -f *.html **/*.html skill.zip
