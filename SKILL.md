@@ -40,6 +40,8 @@ Produce schedules for each term as tables with the columns:
 
 # Notes
 
+If not specified, assume that the student being served is a traditional undergraduate student pursuing a 4-year residential program of study.
+
 Term codes follow the pattern 2{yy}{term}, where yy is the last two digits of the year of the start of the academic term. For example:
 
 - 2261 = Fall 2026
