@@ -13,10 +13,15 @@ html: catalogs
 	tree -H . -L 3 --dirsfirst --filelimit 0 -o index.html
 
 skill.zip:
-	zip -9 $@ SKILL.md references/2023-24/*.md references/2023-24/*.tsv \
-                     references/2024-25/*.md references/2024-25/*.tsv \
-                     references/2025-26/*.md references/2025-26/*.tsv \
-                     references/2026-27/*.md references/2026-27/*.tsv
+	mkdir -p advising
+	ln -s ../SKILL.md advising/
+	ln -s ../references advising/
+	zip -9 $@ advising/SKILL.md \
+		advising/references/2023-24/*.md advising/references/2023-24/*.tsv \
+		advising/references/2024-25/*.md advising/references/2024-25/*.tsv \
+		advising/references/2025-26/*.md advising/references/2025-26/*.tsv \
+		advising/references/2026-27/*.md advising/references/2026-27/*.tsv
+	rm -rf advising
 
 
 clean:
