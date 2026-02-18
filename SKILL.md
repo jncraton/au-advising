@@ -81,31 +81,34 @@ You have access to the following reference files in the skill directory (`find .
     references/2023-24/course-descriptions.md
     references/2023-24/cybersecurity-accounting.md
     references/2023-24/cybersecurity-business-administration-comp.md
+    references/2023-24/cybersecurity-criminal-justice.md
     references/2023-24/cybersecurity-cs-ba.md
     references/2023-24/cybersecurity-cs-comp.md
-    references/2023-24/cybersecurity-criminal-justice.md
     references/2023-24/cybersecurity-national-security-studies.md
     references/2023-24/cybersecurity.md
     references/2023-24/data-science-ba.md
     references/2023-24/data-science-bs.md
     references/2023-24/data-science-complementary.md
-    references/2023-24/language-arts-teaching-updates-yr.md
     references/2023-24/language-arts-teaching-updates-yr-copy1.md
+    references/2023-24/language-arts-teaching-updates-yr.md
     references/2023-24/liberal-arts-requirements.md
     references/2023-24/mechatronics-engineering.md
-    references/2023-24/multimedia-journalism-comp-30-hours.md
     references/2023-24/multimedia-journalism-42-hours.md
+    references/2023-24/multimedia-journalism-comp-30-hours.md
     references/2023-24/public-health-sheets-update.md
-    references/2023-24/public-relations-majors-3-3-23-3-3-now.md
     references/2023-24/public-relations-comp-35-hours.md
+    references/2023-24/public-relations-majors-3-3-23-3-3-now.md
     references/2023-24/sport-rec-leadership.md
-    references/2023-24/visual-comm-design-2-marcom.md
     references/2023-24/undergraduate-catalog.md
-    references/2024-25/undergraduate-catalog.md
+    references/2023-24/visual-comm-design-2-marcom.md
     references/2024-25/accounting.md
     references/2024-25/actuarial-science.md
-    references/2024-25/christian-ministries.md
+    references/2024-25/business-administration-comp.md
+    references/2024-25/business-analytics.md
+    references/2024-25/business-management.md
+    references/2024-25/business-marketing.md
     references/2024-25/christian-ministries-mdiv.md
+    references/2024-25/christian-ministries.md
     references/2024-25/cinema-media-arts.md
     references/2024-25/civil-engineering-catalog.md
     references/2024-25/computer-science-ba.md
@@ -125,9 +128,10 @@ You have access to the following reference files in the skill directory (`find .
     references/2024-25/electrical-engineering.md
     references/2024-25/elementary-education-k-6-with-embedded-reading-special-education-concentrations-catalog.md
     references/2024-25/engineering-management-ba.md
-    references/2024-25/exercise-science.md
     references/2024-25/exercise-science-copy1.md
+    references/2024-25/exercise-science.md
     references/2024-25/general-studies.md
+    references/2024-25/global-business.md
     references/2024-25/history-aug.md
     references/2024-25/history-jan.md
     references/2024-25/instrumental-performance.md
@@ -137,31 +141,34 @@ You have access to the following reference files in the skill directory (`find .
     references/2024-25/mathematics-ba.md
     references/2024-25/mathematics-bs.md
     references/2024-25/mathematics-teaching.md
-    references/2024-25/mechanical-engineering.md
     references/2024-25/mechanical-engineering-copy1.md
-    references/2024-25/mechatronics-engineering.md
+    references/2024-25/mechanical-engineering.md
     references/2024-25/mechatronics-engineering-copy1.md
+    references/2024-25/mechatronics-engineering.md
     references/2024-25/ministry-studies.md
-    references/2024-25/multimedia-journalism-comp-30-hours.md
     references/2024-25/multimedia-journalism-42-hours.md
-    references/2024-25/music.md
-    references/2024-25/music-education.md
+    references/2024-25/multimedia-journalism-comp-30-hours.md
     references/2024-25/music-business.md
+    references/2024-25/music-education.md
+    references/2024-25/music.md
     references/2024-25/national-security.md
+    references/2024-25/nursing-copy1.md
     references/2024-25/nursing.md
-    references/2024-25/political-science.md
     references/2024-25/political-science-philosophy-economics.md
+    references/2024-25/political-science.md
     references/2024-25/professional-development.md
     references/2024-25/psychology-comp.md
     references/2024-25/psychology.md
     references/2024-25/public-health-sheets.md
     references/2024-25/public-history-jan.md
     references/2024-25/public-relations-comp-35-hours.md
-    references/2024-25/sprl-4yr-plan.md
     references/2024-25/social-studies-education-revisions-as-march.md
     references/2024-25/spanish-complementary.md
     references/2024-25/spanish.md
+    references/2024-25/sport-marketing.md
     references/2024-25/sport-rec-leadership.md
+    references/2024-25/sprl-4yr-plan.md
+    references/2024-25/undergraduate-catalog.md
     references/2024-25/undergradute-sap-policy-update.md
     references/2024-25/visual-comm-design.md
     references/2024-25/voice-performance-bm.md
@@ -169,42 +176,34 @@ You have access to the following reference files in the skill directory (`find .
     references/2024-25/writing-academic.md
     references/2024-25/yld-comp.md
     references/2024-25/youth-ministries.md
-    references/2024-25/business-analytics.md
-    references/2024-25/business-administration-comp.md
-    references/2024-25/business-management.md
-    references/2024-25/business-marketing.md
-    references/2024-25/global-business.md
-    references/2024-25/nursing-copy1.md
-    references/2024-25/sport-marketing.md
-    references/2025-26/public-relations-comp-35-hours.md
-    references/2025-26/c-delivery-notice.md
-    references/2025-26/cinema-media-arts.md
     references/2025-26/accounting.md
     references/2025-26/actuarial-science.md
     references/2025-26/ba-musical-theatre.md
-    references/2025-26/bm-voice-performance.md
     references/2025-26/biochemistry-ba.md
     references/2025-26/biochemistry-bs.md
     references/2025-26/biology-ba.md
     references/2025-26/biology-bs.md
+    references/2025-26/bm-voice-performance.md
     references/2025-26/business-administration-comp.md
     references/2025-26/business-analytics.md
+    references/2025-26/c-delivery-notice.md
     references/2025-26/christian-ministries-comp.md
-    references/2025-26/christian-ministries.md
     references/2025-26/christian-ministries-mdiv.md
+    references/2025-26/christian-ministries.md
     references/2025-26/christian-spiritual-formation-comp.md
+    references/2025-26/cinema-media-arts.md
     references/2025-26/civil-engineering.md
     references/2025-26/computer-engineering.md
     references/2025-26/computer-science-ba.md
     references/2025-26/computer-science-bs.md
     references/2025-26/computer-science-complementary.md
     references/2025-26/copy-sprl-4yr-plan.md
-    references/2025-26/criminal-justice.md
     references/2025-26/criminal-justice-associates.md
-    references/2025-26/cybersecurity.md
+    references/2025-26/criminal-justice.md
     references/2025-26/cybersecurity-cs-ba.md
     references/2025-26/cybersecurity-cs-complementary.md
     references/2025-26/cybersecurity-national-security-studies.md
+    references/2025-26/cybersecurity.md
     references/2025-26/data-science-ba.md
     references/2025-26/data-science-bs.md
     references/2025-26/data-science-complementary.md
@@ -229,26 +228,30 @@ You have access to the following reference files in the skill directory (`find .
     references/2025-26/mechanical-engineering.md
     references/2025-26/mechatronics-engineering.md
     references/2025-26/ministry-studies.md
-    references/2025-26/multimedia-journalism-comp-30-hours.md
     references/2025-26/multimedia-journalism-42-hours.md
-    references/2025-26/music.md
-    references/2025-26/music-education.md
+    references/2025-26/multimedia-journalism-comp-30-hours.md
     references/2025-26/music-business.md
+    references/2025-26/music-education.md
+    references/2025-26/music.md
     references/2025-26/national-security.md
     references/2025-26/nursing.md
-    references/2025-26/political-science.md
     references/2025-26/political-science-philosophy-economics.md
+    references/2025-26/political-science.md
     references/2025-26/professional-development.md
     references/2025-26/psychology-comp.md
     references/2025-26/psychology.md
     references/2025-26/public-history-january.md
+    references/2025-26/public-relations-comp-35-hours.md
     references/2025-26/public-relations-majors.md
     references/2025-26/social-studies-education-january.md
     references/2025-26/social-work.md
     references/2025-26/sports-management.md
+    references/2025-26/undergraduate-catalog.md
     references/2025-26/voice-performance.md
     references/2025-26/worship-arts.md
     references/2025-26/writing-academic.md
     references/2025-26/yld-comp.md
     references/2025-26/youth-ministries.md
-    references/2025-26/undergraduate-catalog.md
+
+
+
