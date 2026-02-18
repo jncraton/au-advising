@@ -13,15 +13,15 @@ html: skill.zip
 	tree -H . -L 3 --dirsfirst --filelimit 0 -o index.html
 
 skill.zip:
-	mkdir -p advising
-	ln -s ../SKILL.md advising/
-	ln -s ../references advising/
-	zip -9 $@ advising/SKILL.md \
-		advising/references/2023-24/*.md advising/references/2023-24/*.tsv \
-		advising/references/2024-25/*.md advising/references/2024-25/*.tsv \
-		advising/references/2025-26/*.md advising/references/2025-26/*.tsv \
-		advising/references/2026-27/*.md advising/references/2026-27/*.tsv
-	rm -rf advising
+	mkdir -p au-advising
+	ln -s ../SKILL.md au-advising/
+	ln -s ../references au-advising/
+	zip -9 $@ au-advising/SKILL.md \
+		au-advising/references/2023-24/*.md au-advising/references/2023-24/*.tsv \
+		au-advising/references/2024-25/*.md au-advising/references/2024-25/*.tsv \
+		au-advising/references/2025-26/*.md au-advising/references/2025-26/*.tsv \
+		au-advising/references/2026-27/*.md au-advising/references/2026-27/*.tsv
+	rm -rf au-advising
 
 
 clean:

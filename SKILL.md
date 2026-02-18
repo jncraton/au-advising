@@ -1,6 +1,6 @@
 ---
-name: advising
-description: Build schedules and provide advising support for students
+name: au-advising
+description: Build schedules and provide advising support for Anderson University students
 ---
 
 Perform as an academic advisor.
