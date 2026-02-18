@@ -252,6 +252,3 @@ You have access to the following reference files in the skill directory (`find .
     references/2025-26/writing-academic.md
     references/2025-26/yld-comp.md
     references/2025-26/youth-ministries.md
-
-
-

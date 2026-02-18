@@ -93,7 +93,25 @@ def replace_list_in_skill(skill_path: Path, entries: list[str]) -> int:
     while j < len(lines) and lines[j].startswith(' '):
         j += 1
     new_block = ''.join('    ' + e + '\n' for e in entries)
-    new_rest = ''.join(lines[:start_line]) + new_block + '\n' + ''.join(lines[j:])
+    # remove any blank lines that follow the old list so we only insert a single
+    # blank line between the new list and the remainder of the file
+    k = j
+    while k < len(lines) and lines[k].strip() == '':
+        k += 1
+    tail = ''.join(lines[k:])
+
+    if new_block:
+        if tail:
+            # leave exactly one blank line after the list
+            new_rest = ''.join(lines[:start_line]) + new_block + '\n' + tail
+        else:
+            # file ends after the list; ensure it ends with a single newline
+            if not new_block.endswith('\n'):
+                new_block += '\n'
+            new_rest = ''.join(lines[:start_line]) + new_block
+    else:
+        # no entries — just join the non-blank remainder
+        new_rest = ''.join(lines[:start_line]) + tail
     backup = skill_path.with_suffix('.md.bak')
     shutil.copy2(skill_path, backup)
     skill_path.write_text(head + new_rest, encoding='utf8')
