@@ -1,0 +1,116 @@
+#!/usr/bin/env python3
+from pathlib import Path
+import sys
+import shutil
+
+
+def find_skill_md(start: Path) -> Path | None:
+    for p in (start, *start.iterdir()):
+        if not isinstance(p, Path):
+            p = Path(p)
+        candidate = p / 'SKILL.md' if p.is_dir() else None
+        if candidate and candidate.exists():
+            return candidate
+    explicit = start / 'SKILL.md'
+    return explicit if explicit.exists() else None
+
+
+def find_references_dir(start: Path) -> Path | None:
+    refs = start / 'references'
+    if refs.exists() and refs.is_dir():
+        return refs
+    for d in start.rglob('references'):
+        if d.is_dir():
+            return d
+    return None
+
+
+def gather_reference_files(refs_dir: Path) -> list[str]:
+    tsv_files: list[str] = []
+    md_files: list[str] = []
+    for p in sorted(refs_dir.rglob('*')):
+        if not p.is_file():
+            continue
+        ext = p.suffix.lower()
+        if ext not in ('.md', '.tsv'):
+            continue
+
+        # Determine whether this file lives under a year directory like 2022-23
+        try:
+            rel_within = p.relative_to(refs_dir)
+        except Exception:
+            rel_within = None
+
+        if rel_within and len(rel_within.parts) >= 1:
+            year_dir = rel_within.parts[0]
+            # Accept directories matching YYYY-YY and skip those with start year < 2023
+            if len(year_dir) >= 4 and year_dir[:4].isdigit():
+                try:
+                    start_year = int(year_dir[:4])
+                except Exception:
+                    start_year = None
+                if start_year is not None and start_year < 2023:
+                    continue
+
+        try:
+            rel = p.relative_to(refs_dir.parent)
+        except Exception:
+            rel = p
+        entry = str(rel).replace('\\', '/')
+        if ext == '.tsv':
+            tsv_files.append(entry)
+        else:
+            md_files.append(entry)
+
+    # Ensure TSV files appear first, then markdown files
+    return tsv_files + md_files
+
+
+def replace_list_in_skill(skill_path: Path, entries: list[str]) -> int:
+    text = skill_path.read_text(encoding='utf8')
+    marker = 'You have access to the following'
+    idx = text.find(marker)
+    if idx == -1:
+        return 2
+    # include the remainder of the line containing the marker so we preserve
+    # any parenthetical example or punctuation that follows the phrase
+    line_end = text.find('\n', idx)
+    if line_end == -1:
+        head = text
+        rest = ''
+    else:
+        head = text[: line_end + 1]
+        rest = text[line_end + 1 :]
+    lines = rest.splitlines(keepends=True)
+    i = 0
+    while i < len(lines) and lines[i].strip() == '':
+        i += 1
+    if i >= len(lines) or not lines[i].startswith(' '):
+        start_line = i
+    else:
+        start_line = i
+    j = start_line
+    while j < len(lines) and lines[j].startswith(' '):
+        j += 1
+    new_block = ''.join('    ' + e + '\n' for e in entries)
+    new_rest = ''.join(lines[:start_line]) + new_block + '\n' + ''.join(lines[j:])
+    backup = skill_path.with_suffix('.md.bak')
+    shutil.copy2(skill_path, backup)
+    skill_path.write_text(head + new_rest, encoding='utf8')
+    return 0
+
+
+def main() -> int:
+    cwd = Path.cwd()
+    skill = find_skill_md(cwd)
+    if not skill:
+        return 1
+    refs = find_references_dir(skill.parent)
+    if not refs:
+        return 3
+    entries = gather_reference_files(refs)
+    return replace_list_in_skill(skill, entries)
+
+
+if __name__ == '__main__':
+    sys.exit(main())
