@@ -112,8 +112,6 @@ def replace_list_in_skill(skill_path: Path, entries: list[str]) -> int:
     else:
         # no entries — just join the non-blank remainder
         new_rest = ''.join(lines[:start_line]) + tail
-    backup = skill_path.with_suffix('.md.bak')
-    shutil.copy2(skill_path, backup)
     skill_path.write_text(head + new_rest, encoding='utf8')
     return 0
 
