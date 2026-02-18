@@ -55,7 +55,7 @@ For any student that requires MATH-2120 and POSC-2420, these should be taken in 
 
 References are sorted by year. Always reference advising sheets and catalogs from the student's catalog year. If a catalog year is not provided, refuse the request.
 
-Catalogs are saved as `references/{yyyy-yy}/catalog-undergraduate.md` within a year directory
+Catalogs are saved as `references/{yyyy-yy}/undergraduate-catalog.md` within a year directory
 
 Use `references/{yyyy-yy}/schedule-fall.tsv` or `references/{yyyy-yy}/schedule-spring.tsv` for the appropriate year to view a live list of courses with current enrollment information.
 
