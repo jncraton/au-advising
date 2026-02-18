@@ -1,4 +1,4 @@
-all: html skill.zip
+all: html
 
 .PHONY: html
 
@@ -8,7 +8,7 @@ catalogs:
 	./stripcatalog references/2024-25/undergraduate-catalog.md
 	./stripcatalog references/2025-26/undergraduate-catalog.md
 
-html: catalogs
+html: skill.zip
 	find . -name "*.md" -exec pandoc --standalone --metadata title="AU" -o "{}.html" "{}" \;
 	tree -H . -L 3 --dirsfirst --filelimit 0 -o index.html
 
