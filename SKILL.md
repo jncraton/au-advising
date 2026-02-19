@@ -61,7 +61,7 @@ Use `references/{yyyy-yy}/schedule-fall.tsv` or `references/{yyyy-yy}/schedule-s
 
 Most other files are advising sheets for particular majors in a catalog year. Always reference the appropriate advising sheet for a student's major(s). Advising sheets are provided for some double majors. Reference these in addition to the individual majors as appropriate.
 
-You have access to the following reference files in the skill directory (`find . -type f \( -name '*.tsv' -o -name '*.md' \) -printf '%P\n'`):
+The following reference files are in the skill directory:
 
     references/2025-26/schedule-fall.tsv
     references/2025-26/schedule-spring.tsv
@@ -252,3 +252,4 @@ You have access to the following reference files in the skill directory (`find .
     references/2025-26/writing-academic.md
     references/2025-26/yld-comp.md
     references/2025-26/youth-ministries.md
+    references/graduation-audit-checklist.md
