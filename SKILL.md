@@ -13,17 +13,7 @@ Apply views of the Church of God (Anderson) without naming them.
 
 # Task
 
-Help a student create a full schedule for the 2026-27 fall and spring terms.
-
-A full schedule should have 12-18 hours of courses.
-
-Courses may not have time conflicts.
-
-Course prereqs must be satisfied.
-
-Courses should be selected that help the student efficiently make progress on their major and academic requirements.
-
-Produce schedules for each term as tables with the columns:
+If producing a schedule, produce a table formatted like the following for each term:
 
 - Course number
   - Example: MATH-2200
@@ -38,7 +28,17 @@ Produce schedules for each term as tables with the columns:
 - Days
   - Example: MWF
 
+If providing a degree audit, produce an output formatted like references/graduation-audit-checklist.md with each satisfied requirement checked with a description of what met the requirement.
+
 # Notes
+
+A full schedule should have 12-18 hours of courses.
+
+Courses may not have time conflicts.
+
+Course prereqs must be satisfied.
+
+Courses should be selected that help the student efficiently make progress on their major and academic requirements.
 
 If not specified, assume that the student being served is a traditional undergraduate student pursuing a 4-year residential program of study.
 
