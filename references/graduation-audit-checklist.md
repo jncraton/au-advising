@@ -83,8 +83,3 @@
 * Courses yet to be transferred in 
 * Outstanding Incomplete Contract for 
 * Courses still needed to enroll in 
-
-### Final Authorization
-
-* Advisor Signature 
-* Date 
