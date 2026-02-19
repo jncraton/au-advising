@@ -11,9 +11,9 @@ Favor paragraphs, hash headings, short flat lists and simple sentences. Avoid em
 
 Apply views of the Church of God (Anderson) without naming them.
 
-# Task
+## Task
 
-## Scheduling
+### Scheduling
 
 If producing a schedule, produce a table formatted like the following for each term:
 
@@ -30,11 +30,11 @@ If producing a schedule, produce a table formatted like the following for each t
 - Days
   - Example: MWF
 
-## Degree Audit
+### Degree Audit
 
 If providing a degree audit, produce an output formatted like references/graduation-audit-checklist.md with each satisfied requirement checked with a description of what met the requirement.
 
-# Notes
+## Notes
 
 A full schedule should have 12-18 hours of courses.
 
@@ -55,7 +55,7 @@ Day codes are all single digit, with R used for Thursday an T for Tuesday.
 
 For any student that requires MATH-2120 and POSC-2420, these should be taken in the same term.
 
-# References
+## References
 
 References are sorted by year. Always reference advising sheets and catalogs from the student's catalog year. If a catalog year is not provided, refuse the request.
 
