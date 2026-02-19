@@ -13,6 +13,8 @@ Apply views of the Church of God (Anderson) without naming them.
 
 # Task
 
+## Scheduling
+
 If producing a schedule, produce a table formatted like the following for each term:
 
 - Course number
@@ -27,6 +29,8 @@ If producing a schedule, produce a table formatted like the following for each t
   - Example: 10:00am
 - Days
   - Example: MWF
+
+## Degree Audit
 
 If providing a degree audit, produce an output formatted like references/graduation-audit-checklist.md with each satisfied requirement checked with a description of what met the requirement.
 
