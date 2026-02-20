@@ -68,13 +68,25 @@ def gather_reference_files(refs_dir: Path, min_start_year: int = 2023) -> list[s
     return tsv_files + md_files
 
 
-def replace_list_in_skill(skill_path: Path, entries: list[str]) -> int:
+def replace_list_in_skill(skill_path: Path, entries: list[str], verbose: bool = False, dry_run: bool = False) -> int:
     text = skill_path.read_text(encoding='utf8')
-    marker = 'You have access to the following'
-    idx = text.find(marker)
+    markers = [
+        'You have access to the following',
+        'The following reference files are in the skill directory:',
+        'The following reference files are in the skill directory',
+        'The following reference files are:',
+        'The following reference files',
+    ]
+    idx = -1
+    marker = None
+    for m in markers:
+        idx = text.find(m)
+        if idx != -1:
+            marker = m
+            break
     if idx == -1:
         return 2
-    # include the remainder of the line containing the marker so we preserve
+    # include the remainder of the line containing the marker so preserve
     # any parenthetical example or punctuation that follows the phrase
     line_end = text.find('\n', idx)
     if line_end == -1:
@@ -114,13 +126,26 @@ def replace_list_in_skill(skill_path: Path, entries: list[str]) -> int:
     else:
         # no entries — just join the non-blank remainder
         new_rest = ''.join(lines[:start_line]) + tail
-    skill_path.write_text(head + new_rest, encoding='utf8')
+    new_text = head + new_rest
+    if new_text == text:
+        if verbose:
+            print(f'No changes required for {skill_path}')
+        return 0
+    if dry_run:
+        if verbose:
+            print(f'Dry run: would update {skill_path} with {len(entries)} entries')
+        return 0
+    skill_path.write_text(new_text, encoding='utf8')
+    if verbose:
+        print(f'Updated {skill_path} with {len(entries)} entries')
     return 0
 
 
 def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument('--startyear', '-s', type=int, default=2023)
+    parser.add_argument('--verbose', '-v', action='store_true')
+    parser.add_argument('--dryrun', action='store_true')
     args = parser.parse_args()
 
     cwd = Path.cwd()
@@ -131,7 +156,9 @@ def main() -> int:
     if not refs:
         return 3
     entries = gather_reference_files(refs, args.startyear)
-    return replace_list_in_skill(skill, entries)
+    if args.verbose:
+        print(f'Found {len(entries)} reference entries under {refs}')
+    return replace_list_in_skill(skill, entries, verbose=args.verbose, dry_run=args.dryrun)
 
 
 if __name__ == '__main__':
