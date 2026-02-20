@@ -2,6 +2,7 @@
 from pathlib import Path
 import sys
 import shutil
+import argparse
 
 
 def find_skill_md(start: Path) -> Path | None:
@@ -25,7 +26,7 @@ def find_references_dir(start: Path) -> Path | None:
     return None
 
 
-def gather_reference_files(refs_dir: Path) -> list[str]:
+def gather_reference_files(refs_dir: Path, min_start_year: int = 2023) -> list[str]:
     tsv_files: list[str] = []
     md_files: list[str] = []
     for p in sorted(refs_dir.rglob('*')):
@@ -43,13 +44,14 @@ def gather_reference_files(refs_dir: Path) -> list[str]:
 
         if rel_within and len(rel_within.parts) >= 1:
             year_dir = rel_within.parts[0]
-            # Accept directories matching YYYY-YY and skip those with start year < 2023
+            # Accept directories matching YYYY-YY and skip those with start year <
+            # min_start_year
             if len(year_dir) >= 4 and year_dir[:4].isdigit():
                 try:
                     start_year = int(year_dir[:4])
                 except Exception:
                     start_year = None
-                if start_year is not None and start_year < 2023:
+                if start_year is not None and start_year < min_start_year:
                     continue
 
         try:
@@ -117,6 +119,10 @@ def replace_list_in_skill(skill_path: Path, entries: list[str]) -> int:
 
 
 def main() -> int:
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--startyear', '-s', type=int, default=2023)
+    args = parser.parse_args()
+
     cwd = Path.cwd()
     skill = find_skill_md(cwd)
     if not skill:
@@ -124,7 +130,7 @@ def main() -> int:
     refs = find_references_dir(skill.parent)
     if not refs:
         return 3
-    entries = gather_reference_files(refs)
+    entries = gather_reference_files(refs, args.startyear)
     return replace_list_in_skill(skill, entries)
 
 
