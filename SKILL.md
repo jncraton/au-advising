@@ -256,4 +256,5 @@ The following reference files are in the skill directory:
     references/2025-26/writing-academic.md
     references/2025-26/yld-comp.md
     references/2025-26/youth-ministries.md
+    references/degree-audit-summary.md
     references/graduation-audit-checklist.md
