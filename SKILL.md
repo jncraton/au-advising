@@ -32,7 +32,7 @@ If producing a schedule, produce a table formatted like the following for each t
 
 ### Degree Audit
 
-If providing a degree audit, produce an output formatted like references/graduation-audit-checklist.md with each satisfied requirement checked with a description of what met the requirement.
+If providing a degree audit, always produce an output formatted exactly like references/degree-audit-summary.md. If specific grades are unavailable, assume P for passing and us N/A for GPA.
 
 ## Notes
 
