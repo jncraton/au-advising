@@ -1,4 +1,4 @@
-Use the advising skill.
+Use the au-advising skill to propose a schedule for the next academic year.
 
 I am working with a cybersecurity BA major on the 2025-26 academic catalog who has completed the following courses as of the completion of the Spring 2026 term:
 
@@ -14,5 +14,3 @@ CPSC-2080
 ENGL-1110
 LART-1050
 POSC-2020
-
-Propose a schedule for the next academic year.
