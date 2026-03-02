@@ -8,7 +8,7 @@ catalogs:
 	./stripcatalog references/2024-25/undergraduate-catalog.md
 	./stripcatalog references/2025-26/undergraduate-catalog.md
 
-html: au-advising.zip au-degree-audit.zip
+html: au-advising.skill au-degree-audit.skill
 	find . -name "*.md" -exec pandoc --standalone --metadata title="AU" -o "{}.html" "{}" \;
 	tree -H . -L 3 --dirsfirst --filelimit 0 -o index.html
 
@@ -36,6 +36,9 @@ au-degree-audit.zip:
 	au-degree-audit/references/2022-23/*.md \
 	au-degree-audit/references/2023-24/*.md
 	rm -rf au-degree-audit
+
+%.skill: %.zip
+	cp $< $@
 
 clean:
 	rm -f *.html **/*.html *.zip *.skill
