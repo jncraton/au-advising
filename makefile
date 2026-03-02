@@ -24,6 +24,17 @@ skill.zip:
 		au-advising/references/2026-27/*.md au-advising/references/2026-27/*.tsv
 	rm -rf au-advising
 
+audit.zip:
+	mkdir -p au-degree-audit
+	ln -s ../SKILL.md au-degree-audit/
+	ln -s ../references au-degree-audit/
+	zip -9 $@ au-degree-audit/SKILL.md \
+		au-degree-audit/references/*.md \
+	au-degree-audit/references/2021-22/*.md \
+	au-degree-audit/references/2022-23/*.md \
+	au-degree-audit/references/2023-24/*.md
+	rm -rf au-advising
+
 
 clean:
 	rm -f *.html **/*.html skill.zip
