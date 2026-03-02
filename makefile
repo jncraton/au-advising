@@ -8,11 +8,11 @@ catalogs:
 	./stripcatalog references/2024-25/undergraduate-catalog.md
 	./stripcatalog references/2025-26/undergraduate-catalog.md
 
-html: skill.zip
+html: au-advising.zip au-degree-audit.zip
 	find . -name "*.md" -exec pandoc --standalone --metadata title="AU" -o "{}.html" "{}" \;
 	tree -H . -L 3 --dirsfirst --filelimit 0 -o index.html
 
-skill.zip:
+au-advising.zip:
 	mkdir -p au-advising
 	ln -s ../SKILL.md au-advising/
 	ln -s ../references au-advising/
@@ -26,7 +26,7 @@ skill.zip:
 		au-advising/references/2026-27/*.md au-advising/references/2026-27/*.tsv
 	rm -rf au-advising
 
-audit.zip:
+au-degree-audit.zip:
 	mkdir -p au-degree-audit
 	ln -s ../SKILL.md au-degree-audit/
 	ln -s ../references au-degree-audit/
@@ -38,4 +38,4 @@ audit.zip:
 	rm -rf au-degree-audit
 
 clean:
-	rm -f *.html **/*.html skill.zip audit.zip
+	rm -f *.html **/*.html *.zip *.skill
