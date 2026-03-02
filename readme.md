@@ -2,7 +2,7 @@
 
 ## Usage
 
-Download the [au-advising.skill](https://jncraton.github.io/au-advising/au-advising.skill) and add to your agent runner. This should work in most contexts, but it includes many files and may exceed the limits of some tools (e.g. Claude only allows 200 files in a skill connected to a free account).
+Download [au-advising.skill](https://jncraton.github.io/au-advising/au-advising.skill) and add to your agent runner. This should work in most contexts, but it includes many files and may exceed the limits of some tools (e.g. Claude only allows 200 files in a skill connected to a free account).
 
 ## Resources
 
