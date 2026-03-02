@@ -143,7 +143,7 @@ def replace_list_in_skill(skill_path: Path, entries: list[str], verbose: bool = 
 
 def main() -> int:
     parser = argparse.ArgumentParser()
-    parser.add_argument('--startyear', '-s', type=int, default=2023)
+    parser.add_argument('--startyear', '-s', type=int, default=2020)
     parser.add_argument('--verbose', '-v', action='store_true')
     parser.add_argument('--dryrun', action='store_true')
     args = parser.parse_args()
