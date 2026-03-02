@@ -41,4 +41,4 @@ au-degree-audit.zip:
 	cp $< $@
 
 clean:
-	rm -f *.html **/*.html *.zip *.skill
+	rm -f *.html references/*/*.html *.zip *.skill
