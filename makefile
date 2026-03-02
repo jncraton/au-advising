@@ -35,8 +35,7 @@ audit.zip:
 	au-degree-audit/references/2021-22/*.md \
 	au-degree-audit/references/2022-23/*.md \
 	au-degree-audit/references/2023-24/*.md
-	rm -rf au-advising
-
+	rm -rf au-degree-audit
 
 clean:
-	rm -f *.html **/*.html skill.zip
+	rm -f *.html **/*.html skill.zip audit.zip
