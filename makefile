@@ -18,6 +18,8 @@ skill.zip:
 	ln -s ../references au-advising/
 	zip -9 $@ au-advising/SKILL.md \
 		au-advising/references/*.md \
+		au-advising/references/2021-22/*.md au-advising/references/2021-22/*.tsv \
+		au-advising/references/2022-23/*.md au-advising/references/2022-23/*.tsv \
 		au-advising/references/2023-24/*.md au-advising/references/2023-24/*.tsv \
 		au-advising/references/2024-25/*.md au-advising/references/2024-25/*.tsv \
 		au-advising/references/2025-26/*.md au-advising/references/2025-26/*.tsv \
